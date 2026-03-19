@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="EBG VPlan">
+  <meta name="theme-color" content="#1a365d">
+  <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%231a365d' width='100' height='100' rx='20'/><text x='50' y='68' text-anchor='middle' fill='white' font-size='40' font-family='system-ui' font-weight='bold'>VP</text></svg>">
+  <link rel="manifest" href="manifest.json">
+  <title>EBG Vertretungsplan</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --bg: #f0f4f8;
+      --card: #ffffff;
+      --primary: #1a365d;
+      --accent: #e53e3e;
+      --text: #2d3748;
+      --muted: #718096;
+      --border: #e2e8f0;
+      --changed-bg: #fff5f5;
+      --changed-border: #fc8181;
+      --ok-bg: #f0fff4;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      padding-bottom: env(safe-area-inset-bottom, 20px);
+    }
+
+    header {
+      background: var(--primary);
+      color: white;
+      padding: 16px 20px;
+      padding-top: max(16px, env(safe-area-inset-top));
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    }
+
+    header h1 {
+      font-size: 18px;
+      font-weight: 700;
+      letter-spacing: -0.3px;
+    }
+
+    .header-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .update-info {
+      font-size: 11px;
+      opacity: 0.7;
+      margin-top: 2px;
+    }
+
+    .teacher-select {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .teacher-select select {
+      font-size: 16px;
+      font-weight: 600;
+      padding: 6px 12px;
+      border-radius: 8px;
+      border: 2px solid rgba(255,255,255,0.3);
+      background: rgba(255,255,255,0.15);
+      color: white;
+      appearance: none;
+      -webkit-appearance: none;
+      cursor: pointer;
+    }
+    .teacher-select select option { color: #333; background: white; }
+
+    .teacher-select::after {
+      content: "\25BE";
+      color: rgba(255,255,255,0.7);
+      pointer-events: none;
+      margin-left: -28px;
+      font-size: 14px;
+    }
+
+    main { padding: 12px; max-width: 600px; margin: 0 auto; }
+
+    .day-card {
+      background: var(--card);
+      border-radius: 14px;
+      margin-bottom: 12px;
+      overflow: hidden;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+
+    .day-header {
+      padding: 12px 16px;
+      font-weight: 700;
+      font-size: 15px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .day-header .badge {
+      font-size: 11px;
+      font-weight: 600;
+      padding: 2px 8px;
+      border-radius: 10px;
+      background: var(--accent);
+      color: white;
+    }
+
+    .day-header .badge.ok {
+      background: #48bb78;
+    }
+
+    .lesson {
+      display: flex;
+      padding: 10px 16px;
+      border-bottom: 1px solid var(--border);
+      align-items: flex-start;
+      gap: 12px;
+      transition: background 0.2s;
+    }
+    .lesson:last-child { border-bottom: none; }
+
+    .lesson.changed {
+      background: var(--changed-bg);
+      border-left: 3px solid var(--changed-border);
+    }
+
+    .lesson-time {
+      min-width: 44px;
+      text-align: center;
+    }
+    .lesson-time .period {
+      font-weight: 700;
+      font-size: 18px;
+      color: var(--primary);
+      line-height: 1;
+    }
+    .lesson-time .time {
+      font-size: 10px;
+      color: var(--muted);
+      margin-top: 2px;
+    }
+
+    .lesson-content { flex: 1; min-width: 0; }
+    .lesson-subject {
+      font-weight: 600;
+      font-size: 15px;
+    }
+    .lesson-details {
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 1px;
+    }
+    .lesson-info {
+      font-size: 12px;
+      color: var(--accent);
+      font-weight: 600;
+      margin-top: 4px;
+      line-height: 1.3;
+    }
+
+    .lesson-cancelled .lesson-subject {
+      text-decoration: line-through;
+      opacity: 0.5;
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--muted);
+    }
+    .empty-state .icon { font-size: 48px; margin-bottom: 12px; }
+    .empty-state h2 { font-size: 18px; color: var(--text); margin-bottom: 8px; }
+
+    .loading {
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--muted);
+    }
+    .loading .spinner {
+      width: 32px; height: 32px;
+      border: 3px solid var(--border);
+      border-top-color: var(--primary);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 16px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .setup-screen {
+      text-align: center;
+      padding: 40px 24px;
+    }
+    .setup-screen h2 { margin-bottom: 16px; font-size: 20px; }
+    .setup-screen select {
+      font-size: 18px;
+      padding: 12px 20px;
+      border-radius: 12px;
+      border: 2px solid var(--border);
+      width: 100%;
+      max-width: 300px;
+      margin-bottom: 16px;
+    }
+    .setup-screen .btn {
+      display: inline-block;
+      background: var(--primary);
+      color: white;
+      border: none;
+      padding: 14px 32px;
+      border-radius: 12px;
+      font-size: 16px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .setup-screen p { color: var(--muted); font-size: 14px; margin-top: 16px; line-height: 1.5; }
+
+    .no-data {
+      text-align: center;
+      padding: 40px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-row">
+    <div>
+      <h1>EBG Vertretungsplan</h1>
+      <div class="update-info" id="updateInfo">Lade...</div>
+    </div>
+    <div class="teacher-select" id="teacherSelectWrap" style="display:none">
+      <select id="teacherSelect" onchange="switchTeacher(this.value)"></select>
+    </div>
+  </div>
+</header>
+
+<main id="content">
+  <div class="loading">
+    <div class="spinner"></div>
+    Lade Vertretungsplan...
+  </div>
+</main>
+
+<script>
+const TIMES = {
+  "1": "07:40", "2": "08:25", "3": "09:40", "4": "10:25",
+  "5": "11:40", "6": "12:25", "7": "13:40", "8": "14:25"
+};
+
+let planData = null;
+let currentTeacher = null;
+
+// Lehrer aus URL-Parameter oder localStorage lesen
+function getTeacher() {
+  const params = new URLSearchParams(window.location.search);
+  const fromUrl = params.get("l") || params.get("lehrer");
+  if (fromUrl) return fromUrl;
+  try { return localStorage.getItem("ebg_vplan_lehrer"); } catch(e) {}
+  return null;
+}
+
+function saveTeacher(code) {
+  try { localStorage.setItem("ebg_vplan_lehrer", code); } catch(e) {}
+  // URL aktualisieren ohne Reload
+  const url = new URL(window.location);
+  url.searchParams.set("l", code);
+  history.replaceState(null, "", url);
+}
+
+function switchTeacher(code) {
+  currentTeacher = code;
+  saveTeacher(code);
+  renderPlan();
+}
+
+async function loadData() {
+  try {
+    const resp = await fetch("data.json?_=" + Date.now());
+    if (!resp.ok) throw new Error("Keine Daten");
+    planData = await resp.json();
+    return true;
+  } catch(e) {
+    console.error("Fehler beim Laden:", e);
+    return false;
+  }
+}
+
+function renderTeacherSelect() {
+  if (!planData || !planData.lehrer) return;
+  const sel = document.getElementById("teacherSelect");
+  sel.innerHTML = planData.lehrer.map(l =>
+    `<option value="${l}" ${l === currentTeacher ? "selected" : ""}>${l}</option>`
+  ).join("");
+  document.getElementById("teacherSelectWrap").style.display = "flex";
+}
+
+function renderSetup() {
+  if (!planData || !planData.lehrer) {
+    document.getElementById("content").innerHTML =
+      '<div class="no-data">Keine Daten verfügbar. Bitte später erneut versuchen.</div>';
+    return;
+  }
+
+  const options = planData.lehrer.map(l =>
+    `<option value="${l}">${l}</option>`
+  ).join("");
+
+  document.getElementById("content").innerHTML = `
+    <div class="setup-screen">
+      <div style="font-size:64px;margin-bottom:16px">📋</div>
+      <h2>Wähle dein Kürzel</h2>
+      <select id="setupSelect">${options}</select><br>
+      <button class="btn" onclick="setupDone()">Plan anzeigen</button>
+      <p>Tipp: Danach „Zum Home-Bildschirm" wählen,<br>dann hast du deinen Plan mit einem Tipp!</p>
+    </div>
+  `;
+}
+
+function setupDone() {
+  const code = document.getElementById("setupSelect").value;
+  currentTeacher = code;
+  saveTeacher(code);
+  renderTeacherSelect();
+  renderPlan();
+}
+
+function renderPlan() {
+  if (!planData || !currentTeacher) return;
+
+  const days = planData.tage || {};
+  const dayKeys = Object.keys(days).sort();
+
+  if (dayKeys.length === 0) {
+    document.getElementById("content").innerHTML =
+      '<div class="empty-state"><div class="icon">📭</div><h2>Keine Pläne verfügbar</h2><p>Aktuell sind keine Tagespläne vorhanden.</p></div>';
+    return;
+  }
+
+  // Update-Info
+  document.getElementById("updateInfo").textContent =
+    `Stand: ${planData.generiert || "unbekannt"}`;
+
+  let html = "";
+
+  for (const dateKey of dayKeys) {
+    const day = days[dateKey];
+    const teacherData = day.lehrer?.[currentTeacher];
+
+    if (!teacherData || teacherData.entries.length === 0) continue;
+
+    const changeCount = teacherData.entries.filter(e => e.geaendert || e.info).length;
+    const badgeHtml = changeCount > 0
+      ? `<span class="badge">${changeCount} Änderung${changeCount > 1 ? "en" : ""}</span>`
+      : `<span class="badge ok">Keine Änderungen</span>`;
+
+    html += `<div class="day-card">`;
+    html += `<div class="day-header"><span>${day.datum}</span>${badgeHtml}</div>`;
+
+    for (const entry of teacherData.entries) {
+      const time = TIMES[entry.stunde] || "";
+      const isCancelled = entry.fach === "---";
+      const changedClass = (entry.geaendert || entry.info) ? " changed" : "";
+      const cancelledClass = isCancelled ? " lesson-cancelled" : "";
+
+      let subjectText = entry.fach;
+      let detailParts = [];
+      if (entry.klasse) detailParts.push(entry.klasse);
+      if (entry.raum) detailParts.push("R." + entry.raum);
+
+      html += `
+        <div class="lesson${changedClass}${cancelledClass}">
+          <div class="lesson-time">
+            <div class="period">${entry.stunde}</div>
+            <div class="time">${time}</div>
+          </div>
+          <div class="lesson-content">
+            <div class="lesson-subject">${subjectText}</div>
+            ${detailParts.length ? `<div class="lesson-details">${detailParts.join(" · ")}</div>` : ""}
+            ${entry.info ? `<div class="lesson-info">${entry.info}</div>` : ""}
+          </div>
+        </div>
+      `;
+    }
+
+    html += `</div>`;
+  }
+
+  if (!html) {
+    html = '<div class="empty-state"><div class="icon">🎉</div><h2>Kein Unterricht</h2><p>Für die nächsten Tage sind keine Stunden eingetragen.</p></div>';
+  }
+
+  document.getElementById("content").innerHTML = html;
+}
+
+// Auto-Refresh alle 2 Minuten
+async function refresh() {
+  const ok = await loadData();
+  if (ok && currentTeacher) renderPlan();
+}
+
+// Init
+(async function() {
+  const ok = await loadData();
+  if (!ok) {
+    document.getElementById("content").innerHTML =
+      '<div class="no-data">Daten werden geladen...<br>Falls dies dein erster Besuch ist, warte kurz, bis der erste Datensatz generiert wurde.</div>';
+    return;
+  }
+
+  currentTeacher = getTeacher();
+
+  if (currentTeacher && planData.lehrer?.includes(currentTeacher)) {
+    renderTeacherSelect();
+    renderPlan();
+  } else {
+    renderSetup();
+  }
+
+  // Auto-refresh
+  setInterval(refresh, 120000);
+})();
+</script>
+</body>
+</html>

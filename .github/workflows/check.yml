@@ -6,6 +6,10 @@ on:
     - cron: '*/5 5-17 * * 1-5'
   workflow_dispatch: # Manuell auslösen (zum Testen)
 
+permissions:
+  contents: write
+  pages: write
+
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -31,7 +35,8 @@ jobs:
           restore-keys: |
             plan-state-
 
-      - name: Vertretungsplan prüfen
+      # --- Push-Notifications ---
+      - name: Vertretungsplan prüfen & benachrichtigen
         env:
           PLAN_URL: ${{ secrets.PLAN_URL }}
           PLAN_USER: ${{ secrets.PLAN_USER }}
@@ -45,3 +50,18 @@ jobs:
         with:
           path: state.json
           key: plan-state-${{ github.run_id }}
+
+      # --- Web-App aktualisieren ---
+      - name: data.json für Web-App generieren
+        env:
+          PLAN_URL: ${{ secrets.PLAN_URL }}
+          PLAN_USER: ${{ secrets.PLAN_USER }}
+          PLAN_PASS: ${{ secrets.PLAN_PASS }}
+        run: python generate_data.py
+
+      - name: Änderungen committen & pushen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data.json
+          git diff --cached --quiet || git commit -m "Update plan data [skip ci]" && git push

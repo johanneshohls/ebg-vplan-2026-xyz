@@ -1,0 +1,16 @@
+{
+  "name": "EBG Vertretungsplan",
+  "short_name": "EBG VPlan",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f0f4f8",
+  "theme_color": "#1a365d",
+  "description": "Vertretungsplan Ernst-Barlach-Gymnasium",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%231a365d' width='100' height='100' rx='20'/><text x='50' y='68' text-anchor='middle' fill='white' font-size='40' font-family='system-ui' font-weight='bold'>VP</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

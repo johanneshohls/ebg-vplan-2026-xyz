@@ -1,0 +1,9933 @@
+{
+ "schule": "Ernst-Barlach-Gymnasium",
+ "generiert": "19.03.2026, 11:56 Uhr",
+ "lehrer": [
+  "Bar",
+  "Bes",
+  "Bir",
+  "Bis",
+  "Bob",
+  "Bod",
+  "Bri",
+  "Con",
+  "Epp",
+  "Eul",
+  "Ext 4",
+  "Ext 5",
+  "Fech",
+  "Fel",
+  "Fer",
+  "Fla",
+  "Gol",
+  "Gor",
+  "Hei",
+  "Her",
+  "Hin",
+  "Hofm",
+  "Hoh",
+  "Hol",
+  "Hön",
+  "Hun",
+  "Isb",
+  "Jac",
+  "Jur",
+  "Kar",
+  "Kno",
+  "Köh",
+  "Lam",
+  "Lan",
+  "Leu",
+  "Lie",
+  "Mar",
+  "Mue",
+  "Neu",
+  "Now",
+  "OLop",
+  "Ost",
+  "Pri",
+  "Puk",
+  "Rat",
+  "Roh",
+  "Scheu",
+  "Schil",
+  "Schuc",
+  "Schud",
+  "See",
+  "Sei",
+  "Sta",
+  "Stu",
+  "Ten",
+  "Ter",
+  "Tie",
+  "Tuh",
+  "Wag"
+ ],
+ "tage": {
+  "20260319": {
+   "datum": "Donnerstag, 19. März 2026",
+   "zeitstempel": "18.03.2026, 15:58",
+   "lehrer": {
+    "Bar": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "inf3",
+       "klasse": "11A-11D",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "inf3",
+       "klasse": "11A-11D",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Bes": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ph",
+       "klasse": "9D",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ph",
+       "klasse": "9D",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "PH1",
+       "klasse": "12A-12E",
+       "raum": "K09",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "PH1",
+       "klasse": "12A-12E",
+       "raum": "K09",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "ph1",
+       "klasse": "11A-11D",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "ph1",
+       "klasse": "11A-11D",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Bir": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "Mu",
+       "klasse": "7E",
+       "raum": "107",
+       "info": "für Phil Hofm",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "Mu",
+       "klasse": "7E",
+       "raum": "107",
+       "info": "für Phil Hofm",
+       "geaendert": true
+      },
+      {
+       "stunde": "9",
+       "fach": "mue2",
+       "klasse": "11A-11D",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "10",
+       "fach": "mue2",
+       "klasse": "11A-11D",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Bis": {
+     "entries": []
+    },
+    "Bob": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ch",
+       "klasse": "7D",
+       "raum": "K07",
+       "info": "für Ch Bob",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "Ch",
+       "klasse": "7D",
+       "raum": "K07",
+       "info": "für Ch Bob",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ph 10C gehalten am Mo (16.03.) St.5 (Lan), Aufsicht vor Lehrprobe, Fr. Bobert stößt gegen 12:20 dazu",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "Ch",
+       "klasse": "10C",
+       "raum": "205",
+       "info": "Ch 10C statt Mo (16.03.) St.3; Ph 10C gehalten am Mo (16.03.) St.5 (Lan), Aufsicht vor Lehrprobe, Fr. Bobert stößt gegen 12:20 dazu",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ph 10C gehalten am Mo (16.03.) St.6, Lehrprobe 2. Staatsprüfung - Du schaffst das!",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "Ch",
+       "klasse": "10C",
+       "raum": "205",
+       "info": "Ch 10C statt Mo (16.03.) St.4; Ph 10C gehalten am Mo (16.03.) St.6, Lehrprobe 2. Staatsprüfung - Du schaffst das!",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "Ch",
+       "klasse": "10A",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Ch",
+       "klasse": "10A",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Bod": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Sp",
+       "klasse": "8D",
+       "raum": "Tu3",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Sp",
+       "klasse": "8D",
+       "raum": "Tu3",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Sp",
+       "klasse": "9A",
+       "raum": "Tu3",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Sp",
+       "klasse": "9A",
+       "raum": "Tu3",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Sp",
+       "klasse": "7B",
+       "raum": "Tu2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Sp",
+       "klasse": "7B",
+       "raum": "Tu2",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Bri": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "ma1",
+       "klasse": "11A-11D",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "ma1",
+       "klasse": "11A-11D",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "MA1",
+       "klasse": "11A-11D",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "MA1",
+       "klasse": "11A-11D",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Con": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "inf1",
+       "klasse": "12A-12E",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "inf1",
+       "klasse": "12A-12E",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "Co3",
+       "info": "Känguru",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "Co3",
+       "info": "Känguru",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "Ma",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Ma",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Epp": {
+     "entries": []
+    },
+    "Eul": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "De",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "De",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "eRe",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "eRe",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Ext 4": {
+     "entries": []
+    },
+    "Ext 5": {
+     "entries": []
+    },
+    "Fech": {
+     "entries": []
+    },
+    "Fel": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "En 8B gehalten am Mo (16.03.) St.1",
+       "geaendert": true
+      },
+      {
+       "stunde": "1",
+       "fach": "En",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "für En Hofm",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "En 8B gehalten am Mo (16.03.) St.2",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "En",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "für En Hofm",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "Span",
+       "klasse": "8B",
+       "raum": "101 006",
+       "info": "für Span Köh",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "Span",
+       "klasse": "8B",
+       "raum": "101 006",
+       "info": "für Span Köh",
+       "geaendert": true
+      }
+     ]
+    },
+    "Fer": {
+     "entries": []
+    },
+    "Fla": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "ILZ",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "ILZ",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "bio1",
+       "klasse": "12A-12E",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "bio1",
+       "klasse": "12A-12E",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Gol": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "Ge",
+       "klasse": "7C",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Ge",
+       "klasse": "7C",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Ge",
+       "klasse": "7B",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Ge",
+       "klasse": "7B",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "ge1",
+       "klasse": "12A-12E",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "ge1",
+       "klasse": "12A-12E",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Gor": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "AWT",
+       "klasse": "10D",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "AWT",
+       "klasse": "10D",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "GE2",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "GE2",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hei": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Fr",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Fr",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Geo 7A verlegt nach St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "Geo",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "für Span Puk",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Geo 7A verlegt nach St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "Geo",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "für Span Puk",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "Geo",
+       "klasse": "7A",
+       "raum": "105",
+       "info": "Geo 7A verlegt von St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "Geo",
+       "klasse": "7A",
+       "raum": "105",
+       "info": "Geo 7A verlegt von St.4",
+       "geaendert": true
+      }
+     ]
+    },
+    "Her": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "bo2",
+       "klasse": "11A-11D",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "bo2",
+       "klasse": "11A-11D",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Sp",
+       "klasse": "9D",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Sp",
+       "klasse": "9D",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Sp",
+       "klasse": "7D",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Sp",
+       "klasse": "7D",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hin": {
+     "entries": []
+    },
+    "Hofm": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "En 7B Fel",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "En 7B Fel",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 9D Hön (für Phil)",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 9D Hön (für Phil)",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Mu 7E Bir (für Phil)",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Mu 7E Bir (für Phil)",
+       "geaendert": true
+      }
+     ]
+    },
+    "Hoh": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "Ma",
+       "klasse": "7D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Ma",
+       "klasse": "7D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Ph",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Ph",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Ma",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Ma",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hol": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "en2",
+       "klasse": "12A-12E",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "en2",
+       "klasse": "12A-12E",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "EN2",
+       "klasse": "12A-12E",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "EN2",
+       "klasse": "12A-12E",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hön": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 10C verlegt nach Fr (20.03.) St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 10C verlegt nach Fr (20.03.) St.4",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "De",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "für Phil Hofm",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "De",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "für Phil Hofm",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "DE1",
+       "klasse": "11A-11D",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "DE1",
+       "klasse": "11A-11D",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "de2",
+       "klasse": "12A-12E",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "de2",
+       "klasse": "12A-12E",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hun": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ch 10D verlegt nach St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "Ph",
+       "klasse": "7A",
+       "raum": "K12",
+       "info": "Ph 7A statt Fr (20.03.) St.1; Ch 10D verlegt nach St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ch 10D verlegt nach St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "Ph",
+       "klasse": "7A",
+       "raum": "K12",
+       "info": "Ph 7A statt Fr (20.03.) St.2; Ch 10D verlegt nach St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ph 10D gehalten am Di (17.03.) St.5 (Wag), Aufsicht vor Lehrprobe, Hr. Hunger kommt ca. 12:20 dazu",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "Ch",
+       "klasse": "10D",
+       "raum": "201",
+       "info": "Ch 10D verlegt von St.3; Ph 10D gehalten am Di (17.03.) St.5 (Wag), Aufsicht vor Lehrprobe, Hr. Hunger kommt ca. 12:20 dazu",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ph 10D gehalten am Di (17.03.) St.6, Lehrprobe 2. Staatsprüfung - Fast geschafft!",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "Ch",
+       "klasse": "10D",
+       "raum": "201",
+       "info": "Ch 10D verlegt von St.4; Ph 10D gehalten am Di (17.03.) St.6, Lehrprobe 2. Staatsprüfung - Fast geschafft!",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "As",
+       "klasse": "9B",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "As",
+       "klasse": "9B",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Isb": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "En",
+       "klasse": "10C",
+       "raum": "008 002",
+       "info": "für En Isb",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "En",
+       "klasse": "10C",
+       "raum": "008 002",
+       "info": "für En Isb",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "En",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "En",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Jac": {
+     "entries": []
+    },
+    "Jur": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "De",
+       "klasse": "10A",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "De",
+       "klasse": "10A",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "DE2",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "DE2",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 7A gehalten am Mo (16.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 7A gehalten am Mo (16.03.) St.6",
+       "geaendert": true
+      }
+     ]
+    },
+    "Kar": {
+     "entries": []
+    },
+    "Kno": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "ch1",
+       "klasse": "12A-12E",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "ch1",
+       "klasse": "12A-12E",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Ch",
+       "klasse": "8C",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Ch",
+       "klasse": "8C",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "ILZ",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "ILZ",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Köh": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Span",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Span",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Span",
+       "klasse": "8B",
+       "raum": "101 006",
+       "info": "für Span Köh",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "Span",
+       "klasse": "8B",
+       "raum": "101 006",
+       "info": "für Span Köh",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "Span",
+       "klasse": "7D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Span",
+       "klasse": "7D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Lam": {
+     "entries": []
+    },
+    "Lan": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "sk1",
+       "klasse": "11A-11D",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "sk1",
+       "klasse": "11A-11D",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "AWT",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "AWT",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "AWT",
+       "klasse": "10A",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "AWT",
+       "klasse": "10A",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Leu": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "ma3",
+       "klasse": "11A-11D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "ma3",
+       "klasse": "11A-11D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Ma",
+       "klasse": "10A",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Ma",
+       "klasse": "10A",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Lie": {
+     "entries": []
+    },
+    "Mar": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ma",
+       "klasse": "8B",
+       "raum": "006",
+       "info": "Ma 8B verlegt von St.7",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "Ma",
+       "klasse": "8B",
+       "raum": "006",
+       "info": "Ma 8B verlegt von St.8",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "En",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "En",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "En",
+       "klasse": "10C",
+       "raum": "008 002",
+       "info": "für En Isb",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "En",
+       "klasse": "10C",
+       "raum": "008 002",
+       "info": "für En Isb",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ma 8B verlegt nach St.1",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ma 8B verlegt nach St.2",
+       "geaendert": true
+      }
+     ]
+    },
+    "Mue": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Sp",
+       "klasse": "8C",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Sp",
+       "klasse": "8C",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Geo",
+       "klasse": "9A",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Geo",
+       "klasse": "9A",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Sp",
+       "klasse": "7B",
+       "raum": "Tu2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Sp",
+       "klasse": "7B",
+       "raum": "Tu2",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Neu": {
+     "entries": []
+    },
+    "Now": {
+     "entries": []
+    },
+    "OLop": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "Span",
+       "klasse": "8C",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Span",
+       "klasse": "8C",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "De",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "für De Ost",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "De",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "für De Ost",
+       "geaendert": true
+      }
+     ]
+    },
+    "Ost": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 9B Tie",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 9B Tie",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 8A OLop",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 8A OLop",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Bio 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Bio 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+       "geaendert": true
+      }
+     ]
+    },
+    "Pri": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "Ge",
+       "klasse": "10B",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Ge",
+       "klasse": "10B",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "EN1",
+       "klasse": "12A-12E",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "EN1",
+       "klasse": "12A-12E",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Puk": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Geo 10B gehalten am Mi (18.03.) St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Geo 10B gehalten am Mi (18.03.) St.4",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Geo 8D Hei (für Span)",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Geo 8D Hei (für Span)",
+       "geaendert": true
+      }
+     ]
+    },
+    "Rat": {
+     "entries": []
+    },
+    "Roh": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ma",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ma",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "MA1",
+       "klasse": "12A-12E",
+       "raum": "K09",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "MA1",
+       "klasse": "12A-12E",
+       "raum": "K09",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Ma",
+       "klasse": "10C",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Ma",
+       "klasse": "10C",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Scheu": {
+     "entries": []
+    },
+    "Schil": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "ILZ",
+       "klasse": "10D",
+       "raum": "K04",
+       "info": "ILZ 10D statt Di (17.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "ILZ",
+       "klasse": "10D",
+       "raum": "K04",
+       "info": "ILZ 10D statt Di (17.03.) St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "DE1",
+       "klasse": "12A-12E",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "DE1",
+       "klasse": "12A-12E",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Schuc": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "GE1",
+       "klasse": "12A-12E",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "GE1",
+       "klasse": "12A-12E",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "GE1",
+       "klasse": "11A-11D",
+       "raum": "Co3",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "GE1",
+       "klasse": "11A-11D",
+       "raum": "Co3",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Schud": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "ku1",
+       "klasse": "11A-11D",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "ku1",
+       "klasse": "11A-11D",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Ku",
+       "klasse": "8B",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Ku",
+       "klasse": "8B",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "See": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Bio",
+       "klasse": "10B",
+       "raum": "204",
+       "info": "Bio 10B verlegt von St.7",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "Bio",
+       "klasse": "10B",
+       "raum": "204",
+       "info": "Bio 10B verlegt von St.8",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "BIO1",
+       "klasse": "12A-12E",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "BIO1",
+       "klasse": "12A-12E",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Bio 10B verlegt nach St.1",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Bio 10B verlegt nach St.2",
+       "geaendert": true
+      }
+     ]
+    },
+    "Sei": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ma",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ma",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Sta": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Inf",
+       "klasse": "10C",
+       "raum": "K09",
+       "info": "Inf 10C statt Fr (20.03.) St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "Inf",
+       "klasse": "10C",
+       "raum": "K09",
+       "info": "Inf 10C statt Fr (20.03.) St.4",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "Inf",
+       "klasse": "10B",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Inf",
+       "klasse": "10B",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Inf",
+       "klasse": "10D",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Inf",
+       "klasse": "10D",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Stu": {
+     "entries": []
+    },
+    "Ten": {
+     "entries": []
+    },
+    "Ter": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "De",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "De",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Bio",
+       "klasse": "9C",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Bio",
+       "klasse": "9C",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "BIO2",
+       "klasse": "12A-12E",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "BIO2",
+       "klasse": "12A-12E",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Tie": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "De",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "für De Ost",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "De",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "für De Ost",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "Ge",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Ge",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "ge2",
+       "klasse": "11A-11D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "ge2",
+       "klasse": "11A-11D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Tuh": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "De",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "De",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "de1",
+       "klasse": "11A-11D",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "de1",
+       "klasse": "11A-11D",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Wag": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Fr",
+       "klasse": "9A",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Fr",
+       "klasse": "9A",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "EN1",
+       "klasse": "11A-11D",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "EN1",
+       "klasse": "11A-11D",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "En",
+       "klasse": "9A",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "En",
+       "klasse": "9A",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    }
+   }
+  },
+  "20260320": {
+   "datum": "Freitag, 20. März 2026",
+   "zeitstempel": "19.03.2026, 10:15",
+   "lehrer": {
+    "Bar": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "inf1",
+       "klasse": "11A-11D",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "inf1",
+       "klasse": "11A-11D",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Bes": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ma",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ma",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "ma2",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "für Ma Bes, Klausur, Aula",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "ma2",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "für Ma Bes, Klausur, Aula",
+       "geaendert": true
+      }
+     ]
+    },
+    "Bir": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Mu 7E gehalten am Mo (16.03.) St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Mu 7E gehalten am Mo (16.03.) St.4",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "Mu",
+       "klasse": "8D",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Mu",
+       "klasse": "8D",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "mue1",
+       "klasse": "11A-11D",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "mue1",
+       "klasse": "11A-11D",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Bis": {
+     "entries": []
+    },
+    "Bob": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ch 8B gehalten am Di (17.03.) St.1",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ch 8B gehalten am Di (17.03.) St.2",
+       "geaendert": true
+      }
+     ]
+    },
+    "Bod": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Sk",
+       "klasse": "10A",
+       "raum": "205",
+       "info": "Sk 10A statt Di (17.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "Sk",
+       "klasse": "10A",
+       "raum": "205",
+       "info": "Sk 10A statt Di (17.03.) St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "Sk",
+       "klasse": "10B",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Sk",
+       "klasse": "10B",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Sp",
+       "klasse": "8B",
+       "raum": "Tu3",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Sp",
+       "klasse": "8B",
+       "raum": "Tu3",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Bri": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ma",
+       "klasse": "10D",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ma",
+       "klasse": "10D",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "ma1",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "für Ma Bri, Klausur, Aula",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "ma1",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "für Ma Bri, Klausur, Aula",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "MA1",
+       "klasse": "11A-11D",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "MA1",
+       "klasse": "11A-11D",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Con": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "Ma",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "für Ma Sta",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "Ma",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "für Ma Sta",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "inf1",
+       "klasse": "12A-12E",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "inf1",
+       "klasse": "12A-12E",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Epp": {
+     "entries": []
+    },
+    "Eul": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "DE2",
+       "klasse": "11A-11D",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "DE2",
+       "klasse": "11A-11D",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "ere2",
+       "klasse": "11A-11D",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "ere2",
+       "klasse": "11A-11D",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Ext 4": {
+     "entries": []
+    },
+    "Ext 5": {
+     "entries": []
+    },
+    "Fech": {
+     "entries": []
+    },
+    "Fel": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Span",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Span",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "span1",
+       "klasse": "11A-11D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "span1",
+       "klasse": "11A-11D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "En",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "En",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Fer": {
+     "entries": []
+    },
+    "Fla": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "De",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "De 7C verlegt von St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "De",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "De 7C verlegt von St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 7C verlegt nach St.1",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 7C verlegt nach St.2",
+       "geaendert": true
+      }
+     ]
+    },
+    "Gol": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "ge2",
+       "klasse": "12A-12E",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "ge2",
+       "klasse": "12A-12E",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "ge1",
+       "klasse": "11A-11D",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "ge1",
+       "klasse": "11A-11D",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Ge",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "für ILZ Hofm",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "Ge",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "für ILZ Hofm",
+       "geaendert": true
+      }
+     ]
+    },
+    "Gor": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "GE2",
+       "klasse": "11A-11D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "GE2",
+       "klasse": "11A-11D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Sk",
+       "klasse": "8C",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Sk",
+       "klasse": "8C",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "sk2",
+       "klasse": "12A-12E",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "sk2",
+       "klasse": "12A-12E",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hei": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "B VK fällt aus",
+       "geaendert": true
+      },
+      {
+       "stunde": "1",
+       "fach": "Fr",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "Fr 7A statt Di (17.03.) St.5; B VK fällt aus",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "B VK fällt aus",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "Fr",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "Fr 7A statt Di (17.03.) St.6; B VK fällt aus",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "Fr",
+       "klasse": "10A",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Fr",
+       "klasse": "10A",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Ph",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "für Ph Hoh, Aufsicht",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "Ph",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "für Ph Hoh, Aufsicht",
+       "geaendert": true
+      }
+     ]
+    },
+    "Her": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "ILZ",
+       "klasse": "7A",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "ILZ",
+       "klasse": "7A",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "AWT",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "AWT",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hin": {
+     "entries": []
+    },
+    "Hofm": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "En 8C fällt aus",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "En 8C fällt aus",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Mu 7B Kar (für En)",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Mu 7B Kar (für En)",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ge 7B Gol (für ILZ)",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ge 7B Gol (für ILZ)",
+       "geaendert": true
+      }
+     ]
+    },
+    "Hoh": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ma 8A Stu, Aufsicht",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ma 8A Stu, Aufsicht",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ph 7D Ter, Aufsicht: Hr. Hohls erteilt Aufgaben",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ph 7D Ter, Aufsicht: Hr. Hohls erteilt Aufgaben",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ph 7E Hei, Aufsicht",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ph 7E Hei, Aufsicht",
+       "geaendert": true
+      }
+     ]
+    },
+    "Hol": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "EN2",
+       "klasse": "11A-11D",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "EN2",
+       "klasse": "11A-11D",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "En",
+       "klasse": "10A",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "En",
+       "klasse": "10A",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "en2",
+       "klasse": "12A-12E",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "en2",
+       "klasse": "12A-12E",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hön": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "De",
+       "klasse": "10C",
+       "raum": "Co3",
+       "info": "De 10C statt Do (19.03.) St.1",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "De",
+       "klasse": "10C",
+       "raum": "Co3",
+       "info": "De 10C statt Do (19.03.) St.2",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "dsp1",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "dsp1",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "DE1",
+       "klasse": "11A-11D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "DE1",
+       "klasse": "11A-11D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hun": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ph 7A gehalten am Do (19.03.) St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ph 7A gehalten am Do (19.03.) St.4",
+       "geaendert": true
+      }
+     ]
+    },
+    "Isb": {
+     "entries": []
+    },
+    "Jac": {
+     "entries": []
+    },
+    "Jur": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "de1",
+       "klasse": "12A-12E",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "de1",
+       "klasse": "12A-12E",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "ILZ",
+       "klasse": "8C",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "ILZ",
+       "klasse": "8C",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "---",
+       "klasse": "",
+       "raum": "Aula",
+       "info": "Nachschriften",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "---",
+       "klasse": "",
+       "raum": "Aula",
+       "info": "Nachschriften",
+       "geaendert": true
+      }
+     ]
+    },
+    "Kar": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "Mu",
+       "klasse": "7B",
+       "raum": "104",
+       "info": "für En Hofm",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "Mu",
+       "klasse": "7B",
+       "raum": "104",
+       "info": "für En Hofm",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "mu1",
+       "klasse": "12A-12E",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "mu1",
+       "klasse": "12A-12E",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "---",
+       "klasse": "",
+       "raum": "Aula",
+       "info": "Nachschriften",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "---",
+       "klasse": "",
+       "raum": "Aula",
+       "info": "Nachschriften",
+       "geaendert": true
+      }
+     ]
+    },
+    "Kno": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "AWT",
+       "klasse": "7E",
+       "raum": "107",
+       "info": "AWT 7E statt Mo (16.03.) St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "AWT",
+       "klasse": "7E",
+       "raum": "107",
+       "info": "AWT 7E statt Mo (16.03.) St.4",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "ch1",
+       "klasse": "11A-11D",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "ch1",
+       "klasse": "11A-11D",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Ch",
+       "klasse": "9A",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Ch",
+       "klasse": "9A",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "ch1",
+       "klasse": "12A-12E",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "ch1",
+       "klasse": "12A-12E",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Köh": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Span",
+       "klasse": "9B",
+       "raum": "007 006",
+       "info": "für Span OLop",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "Span",
+       "klasse": "9B",
+       "raum": "007 006",
+       "info": "für Span OLop",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "Span",
+       "klasse": "8B",
+       "raum": "006",
+       "info": "für De Ost",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "Span",
+       "klasse": "8B",
+       "raum": "006",
+       "info": "für De Ost",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "Span",
+       "klasse": "7D",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Span",
+       "klasse": "7D",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Lam": {
+     "entries": []
+    },
+    "Lan": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Sk",
+       "klasse": "10C",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Sk",
+       "klasse": "10C",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "AWT",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "AWT",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "w3",
+       "klasse": "11A-11D",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "w3",
+       "klasse": "11A-11D",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Leu": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ma",
+       "klasse": "9A",
+       "raum": "204",
+       "info": "für Ma Leu",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "Ma",
+       "klasse": "9A",
+       "raum": "204",
+       "info": "für Ma Leu",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "ma3",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "für Ma Leu, Klausur, Aula",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "ma3",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "für Ma Leu, Klausur, Aula",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "Ma",
+       "klasse": "10B",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Ma",
+       "klasse": "10B",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "9",
+       "fach": "GS10",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "10",
+       "fach": "GS10",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Lie": {
+     "entries": []
+    },
+    "Mar": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "En 7C verlegt nach St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "1",
+       "fach": "Ma",
+       "klasse": "8B",
+       "raum": "008",
+       "info": "Ma 8B statt Di (17.03.) St.1; En 7C verlegt nach St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "En 7C verlegt nach St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "Ma",
+       "klasse": "8B",
+       "raum": "008",
+       "info": "Ma 8B statt Di (17.03.) St.2; En 7C verlegt nach St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "En",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "En",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "En",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "En 7C verlegt von St.1",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "En",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "En 7C verlegt von St.2",
+       "geaendert": true
+      }
+     ]
+    },
+    "Mue": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Geo",
+       "klasse": "8D",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Geo",
+       "klasse": "8D",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Sp",
+       "klasse": "7C",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Sp",
+       "klasse": "7C",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Sp",
+       "klasse": "8A",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Sp",
+       "klasse": "8A",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Neu": {
+     "entries": []
+    },
+    "Now": {
+     "entries": []
+    },
+    "OLop": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Span",
+       "klasse": "9B",
+       "raum": "007 006",
+       "info": "für Span OLop",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "Span",
+       "klasse": "9B",
+       "raum": "007 006",
+       "info": "für Span OLop",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "Span",
+       "klasse": "10D",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Span",
+       "klasse": "10D",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Span",
+       "klasse": "10C",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Span",
+       "klasse": "10C",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Ost": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 12A-12E selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 12A-12E selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Span 8B Köh (für De)",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Span 8B Köh (für De)",
+       "geaendert": true
+      }
+     ]
+    },
+    "Pri": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "En",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "En",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "GS15",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "GS15",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "9",
+       "fach": "GS15",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "10",
+       "fach": "GS15",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Puk": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Span",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Span",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Rat": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ku",
+       "klasse": "8C",
+       "raum": "104",
+       "info": "Ku 8C statt Di (17.03.) St.7",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "Ku",
+       "klasse": "8C",
+       "raum": "104",
+       "info": "Ku 8C statt Di (17.03.) St.8",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "ere2",
+       "klasse": "11A-11D",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "ere2",
+       "klasse": "11A-11D",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Roh": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "Ma",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Ma",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "ph1",
+       "klasse": "12A-12E",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "ph1",
+       "klasse": "12A-12E",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Scheu": {
+     "entries": []
+    },
+    "Schil": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "DE2",
+       "klasse": "11A-11D",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "DE2",
+       "klasse": "11A-11D",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Schuc": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Phil 9C Stu, Aufsicht: Schüler sollen bis 10:25 für den Test üben.",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Phil 9C Stu, Aufsicht: Test für 45 Minuten schreiben lassen, einsammeln, bei Fr. Seemann im Büro hinterlegen.",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "phil2",
+       "klasse": "11A-11D",
+       "raum": "006",
+       "info": "für Phil Schuc, Hr. Schuchardt kommt ggf. später. Anwesenheitspflicht!",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "phil2",
+       "klasse": "11A-11D",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "GE1",
+       "klasse": "11A-11D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "GE1",
+       "klasse": "11A-11D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Schud": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ku",
+       "klasse": "7D",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ku",
+       "klasse": "7D",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Ge",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Ge",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Ku",
+       "klasse": "9C",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Ku",
+       "klasse": "9C",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "See": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "Bio",
+       "klasse": "10D",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Bio",
+       "klasse": "10D",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Sei": {
+     "entries": []
+    },
+    "Sta": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ph 10A gehalten am Di (17.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ph 10A gehalten am Di (17.03.) St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Inf 10C gehalten am Do (19.03.) St.1",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Inf 10C gehalten am Do (19.03.) St.2",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ma 9D Con",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ma 9D Con",
+       "geaendert": true
+      }
+     ]
+    },
+    "Stu": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "B VK2 fällt aus",
+       "geaendert": true
+      },
+      {
+       "stunde": "1",
+       "fach": "Ma",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "für Ma Hoh, Aufsicht",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "B VK2 fällt aus",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "Ma",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "für Ma Hoh, Aufsicht",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "Phil",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "für Phil Schuc, Aufsicht: Schüler sollen bis 10:25 für den Test üben.",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "Phil",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "für Phil Schuc, Aufsicht: Test für 45 Minuten schreiben lassen, einsammeln, bei Fr. Seemann im Büro hinterlegen.",
+       "geaendert": true
+      }
+     ]
+    },
+    "Ten": {
+     "entries": []
+    },
+    "Ter": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "BIO1",
+       "klasse": "11A-11D",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "BIO1",
+       "klasse": "11A-11D",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Ph",
+       "klasse": "7D",
+       "raum": "205",
+       "info": "für Ph Hoh, Aufsicht: Hr. Hohls erteilt Aufgaben",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "Ph",
+       "klasse": "7D",
+       "raum": "205",
+       "info": "für Ph Hoh, Aufsicht: Hr. Hohls erteilt Aufgaben",
+       "geaendert": true
+      }
+     ]
+    },
+    "Tie": {
+     "entries": []
+    },
+    "Tuh": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "De",
+       "klasse": "10B",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "De",
+       "klasse": "10B",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Wag": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "en1",
+       "klasse": "12A-12E",
+       "raum": "Co3",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "en1",
+       "klasse": "12A-12E",
+       "raum": "Co3",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "ILZ",
+       "klasse": "9A",
+       "raum": "Co2",
+       "info": "für ILZ Wag",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "ILZ",
+       "klasse": "9A",
+       "raum": "Co2",
+       "info": "für ILZ Wag",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "EN1",
+       "klasse": "11A-11D",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "EN1",
+       "klasse": "11A-11D",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    }
+   }
+  },
+  "20260323": {
+   "datum": "Montag, 23. März 2026",
+   "zeitstempel": "18.03.2026, 16:19",
+   "lehrer": {
+    "Bar": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "Ma",
+       "klasse": "",
+       "raum": "",
+       "info": "Hospitation Con 11ma2 in Co1",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "Ma",
+       "klasse": "",
+       "raum": "",
+       "info": "Hospitation Con 11ma2 in Co1",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "Ph",
+       "klasse": "",
+       "raum": "",
+       "info": "Hospitation Leu 10b Ph 205",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "Ph",
+       "klasse": "",
+       "raum": "",
+       "info": "Hospitation Leu 10b Ph 205",
+       "geaendert": true
+      }
+     ]
+    },
+    "Bes": {
+     "entries": []
+    },
+    "Bir": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Mu 10A verlegt nach St.7",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Mu 10A verlegt nach St.8",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Bio 8A verlegt nach Fr (27.03.) St.1 (See)",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "Mu",
+       "klasse": "10B",
+       "raum": "Aula",
+       "info": "Mu 10B statt Do (26.03.) St.7; Bio 8A verlegt nach Fr (27.03.) St.1 (See)",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Bio 8A verlegt nach Fr (27.03.) St.2 (See)",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "Mu",
+       "klasse": "10B",
+       "raum": "Aula",
+       "info": "Mu 10B statt Do (26.03.) St.8; Bio 8A verlegt nach Fr (27.03.) St.2 (See)",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "Mu",
+       "klasse": "7D",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Mu",
+       "klasse": "7D",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Mu",
+       "klasse": "10A",
+       "raum": "107",
+       "info": "Mu 10A verlegt von St.1",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "Mu",
+       "klasse": "10A",
+       "raum": "107",
+       "info": "Mu 10A verlegt von St.2",
+       "geaendert": true
+      }
+     ]
+    },
+    "Bis": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "En 7A verlegt nach Di (24.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "En",
+       "klasse": "10B",
+       "raum": "006",
+       "info": "En 10B statt Mi (25.03.) St.7; En 7A verlegt nach Di (24.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "En 7A verlegt nach Di (24.03.) St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "En",
+       "klasse": "10B",
+       "raum": "006",
+       "info": "En 10B statt Mi (25.03.) St.8; En 7A verlegt nach Di (24.03.) St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "En",
+       "klasse": "7D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "En",
+       "klasse": "7D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Bob": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ch",
+       "klasse": "7E",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ch",
+       "klasse": "7E",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Ch",
+       "klasse": "7D",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Ch",
+       "klasse": "7D",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Ch",
+       "klasse": "8D",
+       "raum": "K12",
+       "info": "Ch 8D statt Do (26.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "Ch",
+       "klasse": "8D",
+       "raum": "K12",
+       "info": "Ch 8D statt Do (26.03.) St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "Ch",
+       "klasse": "8B",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Ch",
+       "klasse": "8B",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Bod": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Sp",
+       "klasse": "9B",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Sp",
+       "klasse": "9B",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "sk3",
+       "klasse": "11A-11D",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "sk3",
+       "klasse": "11A-11D",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "sp1",
+       "klasse": "12A-12E",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "sp1",
+       "klasse": "12A-12E",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Sp",
+       "klasse": "7E",
+       "raum": "Tu2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Sp",
+       "klasse": "7E",
+       "raum": "Tu2",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Bri": {
+     "entries": []
+    },
+    "Con": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "inf1",
+       "klasse": "12A-12E",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "inf1",
+       "klasse": "12A-12E",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "ma2",
+       "klasse": "11A-11D",
+       "raum": "Co1",
+       "info": "für Ma Con",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "ma2",
+       "klasse": "11A-11D",
+       "raum": "Co1",
+       "info": "für Ma Con",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "inf2",
+       "klasse": "11A-11D",
+       "raum": "K09",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "inf2",
+       "klasse": "11A-11D",
+       "raum": "K09",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Epp": {
+     "entries": []
+    },
+    "Eul": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "DE2",
+       "klasse": "11A-11D",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "DE2",
+       "klasse": "11A-11D",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "De",
+       "klasse": "10D",
+       "raum": "107",
+       "info": "für De Schil",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "De",
+       "klasse": "10D",
+       "raum": "107",
+       "info": "für De Schil",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "De",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "De",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Ext 4": {
+     "entries": []
+    },
+    "Ext 5": {
+     "entries": []
+    },
+    "Fech": {
+     "entries": []
+    },
+    "Fel": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "En",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "En",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Fer": {
+     "entries": []
+    },
+    "Fla": {
+     "entries": []
+    },
+    "Gol": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ge",
+       "klasse": "10D",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ge",
+       "klasse": "10D",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Ge",
+       "klasse": "10C",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Ge",
+       "klasse": "10C",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "ge2",
+       "klasse": "12A-12E",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "ge2",
+       "klasse": "12A-12E",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Gor": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "GE2",
+       "klasse": "11A-11D",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "GE2",
+       "klasse": "11A-11D",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Sk",
+       "klasse": "8C",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Sk",
+       "klasse": "8C",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hei": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "geo1",
+       "klasse": "11A-11D",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "geo1",
+       "klasse": "11A-11D",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Fr",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Fr",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "geo2",
+       "klasse": "12A-12E",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "geo2",
+       "klasse": "12A-12E",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Her": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "ILZ",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "KL",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "sp2",
+       "klasse": "11A-11D",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "sp2",
+       "klasse": "11A-11D",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Sp",
+       "klasse": "7A",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Sp",
+       "klasse": "7A",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hin": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "B",
+       "klasse": "VK2",
+       "raum": "",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "B",
+       "klasse": "VK2",
+       "raum": "",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "B",
+       "klasse": "VK2",
+       "raum": "",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "B",
+       "klasse": "VK2",
+       "raum": "",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hofm": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "En",
+       "klasse": "8C",
+       "raum": "008",
+       "info": "En 8C statt Fr (27.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "En",
+       "klasse": "8C",
+       "raum": "008",
+       "info": "En 8C statt Fr (27.03.) St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "en2",
+       "klasse": "11A-11D",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "en2",
+       "klasse": "11A-11D",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hoh": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ma",
+       "klasse": "7D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ma",
+       "klasse": "7D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ma 8D verlegt nach St.7",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ma 8D verlegt nach St.8",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "Ph",
+       "klasse": "7C",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Ph",
+       "klasse": "7C",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Ma",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "Ma 8D verlegt von St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "Ma",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "Ma 8D verlegt von St.4",
+       "geaendert": true
+      }
+     ]
+    },
+    "Hol": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "EN2",
+       "klasse": "11A-11D",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "EN2",
+       "klasse": "11A-11D",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "en2",
+       "klasse": "12A-12E",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "en2",
+       "klasse": "12A-12E",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "En",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "En",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hön": {
+     "entries": []
+    },
+    "Hun": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "Ph",
+       "klasse": "7B",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Ph",
+       "klasse": "7B",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Ch",
+       "klasse": "10D",
+       "raum": "103",
+       "info": "für Ch Hun",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "Ch",
+       "klasse": "10D",
+       "raum": "103",
+       "info": "für Ch Hun",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "As",
+       "klasse": "9C",
+       "raum": "207",
+       "info": "für As Hun",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "As",
+       "klasse": "9C",
+       "raum": "207",
+       "info": "für As Hun",
+       "geaendert": true
+      }
+     ]
+    },
+    "Isb": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "Ge",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "Ge 8A verlegt von St.7",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "Ge",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "Ge 8A verlegt von St.8",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ge 8A verlegt nach St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ge 8A verlegt nach St.4",
+       "geaendert": true
+      }
+     ]
+    },
+    "Jac": {
+     "entries": []
+    },
+    "Jur": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "ILZ",
+       "klasse": "8C",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "KL",
+       "klasse": "8C",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 7A verlegt nach St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "Phil",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "Phil 8D statt Di (24.03.) St.3; De 7A verlegt nach St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 7A verlegt nach St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "Phil",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "Phil 8D statt Di (24.03.) St.4; De 7A verlegt nach St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 8C verlegt nach Di (24.03.) St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "De",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "De 7A verlegt von St.3; De 8C verlegt nach Di (24.03.) St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 8C verlegt nach Di (24.03.) St.4",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "De",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "De 7A verlegt von St.4; De 8C verlegt nach Di (24.03.) St.4",
+       "geaendert": true
+      }
+     ]
+    },
+    "Kar": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "mu2",
+       "klasse": "12A-12E",
+       "raum": "107",
+       "info": "für Mu Kar",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "mu2",
+       "klasse": "12A-12E",
+       "raum": "107",
+       "info": "für Mu Kar",
+       "geaendert": true
+      }
+     ]
+    },
+    "Kno": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "AWT",
+       "klasse": "9A",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "AWT",
+       "klasse": "9A",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "ch1",
+       "klasse": "12A-12E",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "ch1",
+       "klasse": "12A-12E",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "ch2",
+       "klasse": "12A-12E",
+       "raum": "Co3",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "ch2",
+       "klasse": "12A-12E",
+       "raum": "Co3",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Ch",
+       "klasse": "9A",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Ch",
+       "klasse": "9A",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Köh": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Span",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Span",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Span",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Span",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Span",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Span",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Lam": {
+     "entries": []
+    },
+    "Lan": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Sk",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Sk",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "AWT 10B verlegt nach Di (24.03.) St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "AWT 10B verlegt nach Di (24.03.) St.4",
+       "geaendert": true
+      }
+     ]
+    },
+    "Leu": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ph",
+       "klasse": "10B",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ph",
+       "klasse": "10B",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ma 10B verlegt nach St.7",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "Ma",
+       "klasse": "10A",
+       "raum": "Co2",
+       "info": "Ma 10A verlegt von St.7; Ma 10B verlegt nach St.7",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ma 10B verlegt nach St.8",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "Ma",
+       "klasse": "10A",
+       "raum": "Co2",
+       "info": "Ma 10A verlegt von St.8; Ma 10B verlegt nach St.8",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ma 10A verlegt nach St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "Ma",
+       "klasse": "10B",
+       "raum": "Co1",
+       "info": "Ma 10B verlegt von St.5; Ma 10A verlegt nach St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ma 10A verlegt nach St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "Ma",
+       "klasse": "10B",
+       "raum": "Co1",
+       "info": "Ma 10B verlegt von St.6; Ma 10A verlegt nach St.6",
+       "geaendert": true
+      }
+     ]
+    },
+    "Lie": {
+     "entries": []
+    },
+    "Mar": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ge",
+       "klasse": "8B",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ge",
+       "klasse": "8B",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Ma",
+       "klasse": "8B",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Ma",
+       "klasse": "8B",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "en1",
+       "klasse": "11A-11D",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "en1",
+       "klasse": "11A-11D",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Mue": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Sp",
+       "klasse": "9C",
+       "raum": "Tu3",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Sp",
+       "klasse": "9C",
+       "raum": "Tu3",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Geo",
+       "klasse": "7C",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Geo",
+       "klasse": "7C",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Geo",
+       "klasse": "8B",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Geo",
+       "klasse": "8B",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Neu": {
+     "entries": []
+    },
+    "Now": {
+     "entries": []
+    },
+    "OLop": {
+     "entries": []
+    },
+    "Ost": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Bio",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Bio",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Bio",
+       "klasse": "9A",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Bio",
+       "klasse": "9A",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "de3",
+       "klasse": "12A-12E",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "de3",
+       "klasse": "12A-12E",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Pri": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "Ge",
+       "klasse": "10A",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Ge",
+       "klasse": "10A",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "En",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "En",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ge 10B verlegt nach Mi (25.03.) St.7",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ge 10B verlegt nach Mi (25.03.) St.8",
+       "geaendert": true
+      }
+     ]
+    },
+    "Puk": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Geo",
+       "klasse": "9D",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Geo",
+       "klasse": "9D",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "ILZ",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "KL",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Rat": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "Ku",
+       "klasse": "7A",
+       "raum": "104",
+       "info": "Ku 7A statt Mi (25.03.) St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "Ku",
+       "klasse": "7A",
+       "raum": "104",
+       "info": "Ku 7A statt Mi (25.03.) St.4",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "ere1",
+       "klasse": "11A-11D",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "ere1",
+       "klasse": "11A-11D",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Roh": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ma",
+       "klasse": "10C",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ma",
+       "klasse": "10C",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Ma",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Ma",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Ma",
+       "klasse": "8C",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Ma",
+       "klasse": "8C",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Scheu": {
+     "entries": []
+    },
+    "Schil": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "DE2",
+       "klasse": "11A-11D",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "DE2",
+       "klasse": "11A-11D",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "De",
+       "klasse": "10D",
+       "raum": "107",
+       "info": "für De Schil",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "De",
+       "klasse": "10D",
+       "raum": "107",
+       "info": "für De Schil",
+       "geaendert": true
+      }
+     ]
+    },
+    "Schuc": {
+     "entries": []
+    },
+    "Schud": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "ku2",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "für Ku Schud, Klausur, Aula",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "ku2",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "für Ku Schud, Klausur, Aula",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "ILZ",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "KL",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Ge",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Ge",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "See": {
+     "entries": [
+      {
+       "stunde": "7",
+       "fach": "Bio",
+       "klasse": "10C",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Bio",
+       "klasse": "10C",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Sei": {
+     "entries": []
+    },
+    "Sta": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Inf",
+       "klasse": "10A",
+       "raum": "K09",
+       "info": "Inf 10A verlegt von St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "Inf",
+       "klasse": "10A",
+       "raum": "K09",
+       "info": "Inf 10A verlegt von St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "Inf",
+       "klasse": "10C",
+       "raum": "K09",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Inf",
+       "klasse": "10C",
+       "raum": "K09",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Inf 10A verlegt nach St.1",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Inf 10A verlegt nach St.2",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "Inf",
+       "klasse": "10D",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Inf",
+       "klasse": "10D",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Stu": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "B",
+       "klasse": "VK",
+       "raum": "",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "B",
+       "klasse": "VK",
+       "raum": "",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "B",
+       "klasse": "VK",
+       "raum": "",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "B",
+       "klasse": "VK",
+       "raum": "",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Ten": {
+     "entries": []
+    },
+    "Ter": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "BIO1",
+       "klasse": "11A-11D",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "BIO1",
+       "klasse": "11A-11D",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Bio",
+       "klasse": "9D",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Bio",
+       "klasse": "9D",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "bio1",
+       "klasse": "11A-11D",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "bio1",
+       "klasse": "11A-11D",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Tie": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "De",
+       "klasse": "9A",
+       "raum": "002",
+       "info": "für De Tie",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "De",
+       "klasse": "9A",
+       "raum": "002",
+       "info": "für De Tie",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 8D verlegt nach Di (24.03.) St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 8D verlegt nach Di (24.03.) St.4",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "ILZ 8D verlegt nach Do (26.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "KL 8D verlegt nach Do (26.03.) St.6",
+       "geaendert": true
+      }
+     ]
+    },
+    "Tuh": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "De",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "De",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "de2",
+       "klasse": "11A-11D",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "de2",
+       "klasse": "11A-11D",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Wag": {
+     "entries": [
+      {
+       "stunde": "7",
+       "fach": "en1",
+       "klasse": "12A-12E",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "en1",
+       "klasse": "12A-12E",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    }
+   }
+  },
+  "20260324": {
+   "datum": "Dienstag, 24. März 2026",
+   "zeitstempel": "18.03.2026, 16:19",
+   "lehrer": {
+    "Bar": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "inf1",
+       "klasse": "11A-11D",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "inf1",
+       "klasse": "11A-11D",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Bes": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "PH1",
+       "klasse": "12A-12E",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "PH1",
+       "klasse": "12A-12E",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "ph1",
+       "klasse": "11A-11D",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "ph1",
+       "klasse": "11A-11D",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Bir": {
+     "entries": [
+      {
+       "stunde": "7",
+       "fach": "Mu",
+       "klasse": "10D",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Mu",
+       "klasse": "10D",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Bis": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "En",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "En 7A statt Mo (23.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "En",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "En 7A statt Mo (23.03.) St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "En",
+       "klasse": "10B",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "En",
+       "klasse": "10B",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Bob": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ph",
+       "klasse": "9A",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ph",
+       "klasse": "9A",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Ch",
+       "klasse": "10A",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Ch",
+       "klasse": "10A",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Ch",
+       "klasse": "7C",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Ch",
+       "klasse": "7C",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Ch",
+       "klasse": "9C",
+       "raum": "K07",
+       "info": "Ch 9C statt Fr (27.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "Ch",
+       "klasse": "9C",
+       "raum": "K07",
+       "info": "Ch 9C statt Fr (27.03.) St.6",
+       "geaendert": true
+      }
+     ]
+    },
+    "Bod": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Sk",
+       "klasse": "10A",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Sk",
+       "klasse": "10A",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Bri": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "MA1",
+       "klasse": "11A-11D",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "MA1",
+       "klasse": "11A-11D",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Ma",
+       "klasse": "10D",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Ma",
+       "klasse": "10D",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "ma1",
+       "klasse": "11A-11D",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "ma1",
+       "klasse": "11A-11D",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Con": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "inf2",
+       "klasse": "12A-12E",
+       "raum": "K09",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "inf2",
+       "klasse": "12A-12E",
+       "raum": "K09",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Ma",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Ma",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "pro11",
+       "klasse": "11A-11D",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "pro11",
+       "klasse": "11A-11D",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "ma2",
+       "klasse": "11A-11D",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "ma2",
+       "klasse": "11A-11D",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Epp": {
+     "entries": []
+    },
+    "Eul": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "eRe",
+       "klasse": "8A",
+       "raum": "107",
+       "info": "eRe 8A statt Fr (27.03.) St.1",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "eRe",
+       "klasse": "8A",
+       "raum": "107",
+       "info": "eRe 8A statt Fr (27.03.) St.2",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "De",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "De",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Ext 4": {
+     "entries": []
+    },
+    "Ext 5": {
+     "entries": []
+    },
+    "Fech": {
+     "entries": []
+    },
+    "Fel": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "En",
+       "klasse": "8B",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "En",
+       "klasse": "8B",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "span1",
+       "klasse": "11A-11D",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "span1",
+       "klasse": "11A-11D",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Span",
+       "klasse": "8B",
+       "raum": "006 004",
+       "info": "für Span Köh",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "Span",
+       "klasse": "8B",
+       "raum": "006 004",
+       "info": "für Span Köh",
+       "geaendert": true
+      }
+     ]
+    },
+    "Fer": {
+     "entries": []
+    },
+    "Fla": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Bio 7A verlegt nach Do (26.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Bio 7A verlegt nach Do (26.03.) St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "De",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "De",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Gol": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ge",
+       "klasse": "9D",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ge",
+       "klasse": "9D",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "ge1",
+       "klasse": "11A-11D",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "ge1",
+       "klasse": "11A-11D",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Phil",
+       "klasse": "9A",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Phil",
+       "klasse": "9A",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Gor": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "AWT",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "AWT",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "GE2",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "GE2",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hei": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "Fr",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "Fr 7A verlegt von St.7",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "Fr",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "Fr 7A verlegt von St.8",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "Fr",
+       "klasse": "10A",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Fr",
+       "klasse": "10A",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Fr 7A verlegt nach St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Fr 7A verlegt nach St.4",
+       "geaendert": true
+      }
+     ]
+    },
+    "Her": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Sp",
+       "klasse": "10C",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Sp",
+       "klasse": "10C",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "AWT 7A verlegt nach Do (26.03.) St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "AWT 7A verlegt nach Do (26.03.) St.4",
+       "geaendert": true
+      }
+     ]
+    },
+    "Hin": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "B VK2 fällt aus",
+       "geaendert": true
+      },
+      {
+       "stunde": "1",
+       "fach": "Ma",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "für Ma Sei",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "B VK2 fällt aus",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "Ma",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "für Ma Sei",
+       "geaendert": true
+      }
+     ]
+    },
+    "Hofm": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Phil",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "Phil 8A statt Fr (27.03.) St.1",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "Phil",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "Phil 8A statt Fr (27.03.) St.2",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "En",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "En",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Phil",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Phil",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hoh": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ma",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ma",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Ma",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Ma",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hol": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "EN2",
+       "klasse": "12A-12E",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "EN2",
+       "klasse": "12A-12E",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "En",
+       "klasse": "10A",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "En",
+       "klasse": "10A",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hön": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "DE1",
+       "klasse": "11A-11D",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "DE1",
+       "klasse": "11A-11D",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "De",
+       "klasse": "10C",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "De",
+       "klasse": "10C",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "De",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "De",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hun": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "As",
+       "klasse": "9D",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "As",
+       "klasse": "9D",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Ph",
+       "klasse": "10D",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Ph",
+       "klasse": "10D",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Ph",
+       "klasse": "7A",
+       "raum": "204",
+       "info": "Ph 7A statt Do (26.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "Ph",
+       "klasse": "7A",
+       "raum": "204",
+       "info": "Ph 7A statt Do (26.03.) St.6",
+       "geaendert": true
+      }
+     ]
+    },
+    "Isb": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "En",
+       "klasse": "10C",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "En",
+       "klasse": "10C",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "En",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "En",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Jac": {
+     "entries": []
+    },
+    "Jur": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Phil 8D gehalten am Mo (23.03.) St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "De",
+       "klasse": "8C",
+       "raum": "008",
+       "info": "De 8C statt Mo (23.03.) St.5; Phil 8D gehalten am Mo (23.03.) St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Phil 8D gehalten am Mo (23.03.) St.4",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "De",
+       "klasse": "8C",
+       "raum": "008",
+       "info": "De 8C statt Mo (23.03.) St.6; Phil 8D gehalten am Mo (23.03.) St.4",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "DE2",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "DE2",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Phil",
+       "klasse": "10C",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Phil",
+       "klasse": "10C",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Kar": {
+     "entries": []
+    },
+    "Kno": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "ch1",
+       "klasse": "11A-11D",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "ch1",
+       "klasse": "11A-11D",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "ch2",
+       "klasse": "12A-12E",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "ch2",
+       "klasse": "12A-12E",
+       "raum": "K12",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Köh": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Span",
+       "klasse": "7D",
+       "raum": "106",
+       "info": "Span 7D verlegt von St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "Span",
+       "klasse": "7D",
+       "raum": "106",
+       "info": "Span 7D verlegt von St.4",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Span 7D verlegt nach St.1",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Span 7D verlegt nach St.2",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "Span",
+       "klasse": "8B",
+       "raum": "006 004",
+       "info": "für Span Köh",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "Span",
+       "klasse": "8B",
+       "raum": "006 004",
+       "info": "für Span Köh",
+       "geaendert": true
+      }
+     ]
+    },
+    "Lam": {
+     "entries": []
+    },
+    "Lan": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Sk",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Sk",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "AWT",
+       "klasse": "10B",
+       "raum": "005",
+       "info": "AWT 10B statt Mo (23.03.) St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "AWT",
+       "klasse": "10B",
+       "raum": "005",
+       "info": "AWT 10B statt Mo (23.03.) St.4",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "AWT",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "AWT",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Leu": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "ILZ",
+       "klasse": "10B",
+       "raum": "K09",
+       "info": "für ILZ Leu",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "KL",
+       "klasse": "10B",
+       "raum": "K09",
+       "info": "für KL Leu",
+       "geaendert": true
+      }
+     ]
+    },
+    "Lie": {
+     "entries": []
+    },
+    "Mar": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "En 8A verlegt nach St.7",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "En 8A verlegt nach St.8",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "En",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "En",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "En",
+       "klasse": "10C",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "En",
+       "klasse": "10C",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "En",
+       "klasse": "8A",
+       "raum": "007",
+       "info": "En 8A verlegt von St.1",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "En",
+       "klasse": "8A",
+       "raum": "007",
+       "info": "En 8A verlegt von St.2",
+       "geaendert": true
+      }
+     ]
+    },
+    "Mue": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Sp",
+       "klasse": "10D",
+       "raum": "Tu2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Sp",
+       "klasse": "10D",
+       "raum": "Tu2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Geo",
+       "klasse": "9B",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Geo",
+       "klasse": "9B",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Geo",
+       "klasse": "7D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Geo",
+       "klasse": "7D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Neu": {
+     "entries": []
+    },
+    "Now": {
+     "entries": []
+    },
+    "OLop": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "span1",
+       "klasse": "12A-12E",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "span1",
+       "klasse": "12A-12E",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Span",
+       "klasse": "8C",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Span",
+       "klasse": "8C",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Ost": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "De",
+       "klasse": "8B",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "De",
+       "klasse": "8B",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 9B verlegt nach Fr (27.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 9B verlegt nach Fr (27.03.) St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "bio2",
+       "klasse": "11A-11D",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "bio2",
+       "klasse": "11A-11D",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Pri": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "En 12A-12E selbst. (v), Selbststudium",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "En 12A-12E selbst. (v), Selbststudium",
+       "geaendert": true
+      }
+     ]
+    },
+    "Puk": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Geo",
+       "klasse": "10B",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Geo",
+       "klasse": "10B",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Span",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Span",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Rat": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ku",
+       "klasse": "7B",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ku",
+       "klasse": "7B",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "eRe",
+       "klasse": "9A",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "eRe",
+       "klasse": "9A",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Ku",
+       "klasse": "8C",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Ku",
+       "klasse": "8C",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Roh": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ma",
+       "klasse": "8C",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ma",
+       "klasse": "8C",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "MA1",
+       "klasse": "12A-12E",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "MA1",
+       "klasse": "12A-12E",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Ma",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "Ma 9B statt Fr (27.03.) St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "Ma",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "Ma 9B statt Fr (27.03.) St.4",
+       "geaendert": true
+      }
+     ]
+    },
+    "Scheu": {
+     "entries": []
+    },
+    "Schil": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "DE1",
+       "klasse": "12A-12E",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "DE1",
+       "klasse": "12A-12E",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Schuc": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "GE1",
+       "klasse": "11A-11D",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "GE1",
+       "klasse": "11A-11D",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "GE1",
+       "klasse": "12A-12E",
+       "raum": "Co3",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "GE1",
+       "klasse": "12A-12E",
+       "raum": "Co3",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Schud": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ge 8C verlegt nach Fr (27.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "Ku",
+       "klasse": "7D",
+       "raum": "207",
+       "info": "Ku 7D statt Do (26.03.) St.1; Ge 8C verlegt nach Fr (27.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ge 8C verlegt nach Fr (27.03.) St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "Ku",
+       "klasse": "7D",
+       "raum": "207",
+       "info": "Ku 7D statt Do (26.03.) St.2; Ge 8C verlegt nach Fr (27.03.) St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "ku2",
+       "klasse": "11A-11D",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "ku2",
+       "klasse": "11A-11D",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "See": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "BIO1",
+       "klasse": "12A-12E",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "BIO1",
+       "klasse": "12A-12E",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Sei": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ma 7A Hin",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ma 7A Hin",
+       "geaendert": true
+      }
+     ]
+    },
+    "Sta": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ma",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ma",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Inf",
+       "klasse": "7E",
+       "raum": "K09",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Inf",
+       "klasse": "7E",
+       "raum": "K09",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Stu": {
+     "entries": []
+    },
+    "Ten": {
+     "entries": []
+    },
+    "Ter": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "De",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "De",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "BIO2",
+       "klasse": "12A-12E",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "BIO2",
+       "klasse": "12A-12E",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Tie": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "De",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "De 8D statt Mo (23.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "De",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "De 8D statt Mo (23.03.) St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "ge2",
+       "klasse": "11A-11D",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "ge2",
+       "klasse": "11A-11D",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Tuh": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 7D verlegt nach Do (26.03.) St.1",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 7D verlegt nach Do (26.03.) St.2",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 10B verlegt nach Do (26.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "De 10B verlegt nach Do (26.03.) St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "De",
+       "klasse": "9C",
+       "raum": "204",
+       "info": "für De Tuh",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "De",
+       "klasse": "9C",
+       "raum": "204",
+       "info": "für De Tuh",
+       "geaendert": true
+      }
+     ]
+    },
+    "Wag": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "EN1",
+       "klasse": "11A-11D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "EN1",
+       "klasse": "11A-11D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "En",
+       "klasse": "9A",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "En",
+       "klasse": "9A",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Fr",
+       "klasse": "9A",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Fr",
+       "klasse": "9A",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    }
+   }
+  },
+  "20260325": {
+   "datum": "Mittwoch, 25. März 2026",
+   "zeitstempel": "18.03.2026, 16:19",
+   "lehrer": {
+    "Bar": {
+     "entries": []
+    },
+    "Bes": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ph",
+       "klasse": "9D",
+       "raum": "204",
+       "info": "Ph 9D statt Do (26.03.) St.1",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "Ph",
+       "klasse": "9D",
+       "raum": "204",
+       "info": "Ph 9D statt Do (26.03.) St.2",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "Ma",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Ma",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "ma2",
+       "klasse": "12A-12E",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "ma2",
+       "klasse": "12A-12E",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Bir": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "Mu",
+       "klasse": "7C",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Mu",
+       "klasse": "7C",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "GS06",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "GS06",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "9",
+       "fach": "mue1",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "10",
+       "fach": "mue1",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Bis": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "En",
+       "klasse": "7D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "En",
+       "klasse": "7D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "En",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "En",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "En 10B gehalten am Mo (23.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "En 10B gehalten am Mo (23.03.) St.6",
+       "geaendert": true
+      }
+     ]
+    },
+    "Bob": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ch 10B verlegt nach Do (26.03.) St.7 (), Selbststudium, Fr. Bobert erteilt Aufgaben, kann zu Hause erledigt werden",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ch 10B verlegt nach Do (26.03.) St.8 (), Selbststudium, Fr. Bobert erteilt Aufgaben, kann zu Hause erledigt werden",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ph 10C selbst. (v), Selbststudium, Fr. Bobert erteilt Aufgaben, kann zu Hause erledigt werden",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ph 10C selbst. (v), Selbststudium, Fr. Bobert erteilt Aufgaben, kann zu Hause erledigt werden",
+       "geaendert": true
+      }
+     ]
+    },
+    "Bod": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Sp",
+       "klasse": "10A",
+       "raum": "Tu2",
+       "info": "für Sp Mue",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "Sp",
+       "klasse": "10A",
+       "raum": "Tu2",
+       "info": "für Sp Mue",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "sp2",
+       "klasse": "12A-12E",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "sp2",
+       "klasse": "12A-12E",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "sp1",
+       "klasse": "11A-11D",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "sp1",
+       "klasse": "11A-11D",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Bri": {
+     "entries": [
+      {
+       "stunde": "7",
+       "fach": "ma1",
+       "klasse": "12A-12E",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "ma1",
+       "klasse": "12A-12E",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Con": {
+     "entries": [
+      {
+       "stunde": "7",
+       "fach": "Ma",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Ma",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Epp": {
+     "entries": []
+    },
+    "Eul": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "DE2",
+       "klasse": "11A-11D",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "DE2",
+       "klasse": "11A-11D",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Ext 4": {
+     "entries": [
+      {
+       "stunde": "7",
+       "fach": "GS08",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "GS08",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Ext 5": {
+     "entries": []
+    },
+    "Fech": {
+     "entries": [
+      {
+       "stunde": "7",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "GS01 7A-7E,8A-8D fällt aus",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "GS01 7A-7E,8A-8D fällt aus",
+       "geaendert": true
+      }
+     ]
+    },
+    "Fel": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "ILZ",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "KL",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "En",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "En",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Span",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Span",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Fer": {
+     "entries": []
+    },
+    "Fla": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "De",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "De",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "GS04",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "GS04",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Gol": {
+     "entries": []
+    },
+    "Gor": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "GE2",
+       "klasse": "11A-11D",
+       "raum": "Co1",
+       "info": "für Ge Gor",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "GE2",
+       "klasse": "11A-11D",
+       "raum": "Co1",
+       "info": "für Ge Gor",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "AWT",
+       "klasse": "10C",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "AWT",
+       "klasse": "10C",
+       "raum": "K07",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "sk2",
+       "klasse": "11A-11D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "sk2",
+       "klasse": "11A-11D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hei": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "ILZ",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "KL",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Fr",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Fr",
+       "klasse": "8A",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "geo1",
+       "klasse": "12A-12E",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "geo1",
+       "klasse": "12A-12E",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Her": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Sp",
+       "klasse": "10B",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Sp",
+       "klasse": "10B",
+       "raum": "Tu1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "sp3",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "für Sp Her, Klausur, Aula",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "sp3",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "für Sp Her, Klausur, Aula",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "sp3",
+       "klasse": "11A-11D",
+       "raum": "Tu2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "sp3",
+       "klasse": "11A-11D",
+       "raum": "Tu2",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hin": {
+     "entries": []
+    },
+    "Hofm": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "En",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "En",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Phil",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Phil",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "En",
+       "klasse": "8C",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "En",
+       "klasse": "8C",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "GS11",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "GS11",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hoh": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ph",
+       "klasse": "7E",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ph",
+       "klasse": "7E",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Ph",
+       "klasse": "7D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Ph",
+       "klasse": "7D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hol": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "EN2",
+       "klasse": "11A-11D",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "EN2",
+       "klasse": "11A-11D",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "ILZ",
+       "klasse": "10A",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "KL",
+       "klasse": "10A",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Hön": {
+     "entries": []
+    },
+    "Hun": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ch 9D verlegt nach Do (26.03.) St.7 (), Selbststudium, Hr. Hunger erteilt Aufgaben, kann zu Hause erledigt werden",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ch 9D verlegt nach Do (26.03.) St.8 (), Selbststudium, Hr. Hunger erteilt Aufgaben, kann zu Hause erledigt werden",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ch 11A-11D selbst. (v), Selbststudium, Hr. Hunger erteilt Aufgaben",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ch 11A-11D selbst. (v), Selbststudium, Hr. Hunger erteilt Aufgaben",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "GS12 7A-7E,8A-8D fällt aus",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "GS12 7A-7E,8A-8D fällt aus",
+       "geaendert": true
+      }
+     ]
+    },
+    "Isb": {
+     "entries": []
+    },
+    "Jac": {
+     "entries": []
+    },
+    "Jur": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "De",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "De",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "De",
+       "klasse": "10A",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "De",
+       "klasse": "10A",
+       "raum": "Co2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "de1",
+       "klasse": "12A-12E",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "de1",
+       "klasse": "12A-12E",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Kar": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "pro31",
+       "klasse": "11A-11D",
+       "raum": "HÜA",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "pro31",
+       "klasse": "11A-11D",
+       "raum": "HÜA",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "mu1",
+       "klasse": "11A-11D",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "mu1",
+       "klasse": "11A-11D",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Kno": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "w1",
+       "klasse": "11A-11D",
+       "raum": "K09",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "w1",
+       "klasse": "11A-11D",
+       "raum": "K09",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "w2",
+       "klasse": "11A-11D",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "w2",
+       "klasse": "11A-11D",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Köh": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Span",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Span",
+       "klasse": "7C",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Span",
+       "klasse": "9B",
+       "raum": "101 007",
+       "info": "für Span OLop",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "Span",
+       "klasse": "9B",
+       "raum": "101 007",
+       "info": "für Span OLop",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "GS03",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "GS03",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "002",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Lam": {
+     "entries": [
+      {
+       "stunde": "7",
+       "fach": "GS05",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "GS05",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Lan": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "phil1",
+       "klasse": "12A-12E",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "phil1",
+       "klasse": "12A-12E",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "w2",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "für W Lan, Klausur, Aula",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "w2",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "für W Lan, Klausur, Aula",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "Sk",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Sk",
+       "klasse": "7B",
+       "raum": "003",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Leu": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "Ma",
+       "klasse": "9A",
+       "raum": "104",
+       "info": "für Ma Leu",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "Ma",
+       "klasse": "9A",
+       "raum": "104",
+       "info": "für Ma Leu",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "ma3",
+       "klasse": "11A-11D",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "ma3",
+       "klasse": "11A-11D",
+       "raum": "201",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "ma3",
+       "klasse": "12A-12E",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "ma3",
+       "klasse": "12A-12E",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Lie": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Sk",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Sk",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Sk",
+       "klasse": "8B",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Sk",
+       "klasse": "8B",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Sk",
+       "klasse": "10D",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Sk",
+       "klasse": "10D",
+       "raum": "001",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Mar": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ma",
+       "klasse": "8B",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ma",
+       "klasse": "8B",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "En",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "En",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Mue": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Sp 10A Bod",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Sp 10A Bod",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Geo 9A verlegt nach Fr (27.03.) St.1",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Geo 9A verlegt nach Fr (27.03.) St.2",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "GS14 7A-7E,8A-8D fällt aus",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "GS14 7A-7E,8A-8D fällt aus",
+       "geaendert": true
+      }
+     ]
+    },
+    "Neu": {
+     "entries": [
+      {
+       "stunde": "7",
+       "fach": "GS09",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "Tu3",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "GS09",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "Tu3",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Now": {
+     "entries": []
+    },
+    "OLop": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "Span",
+       "klasse": "10C",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Span",
+       "klasse": "10C",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Span",
+       "klasse": "9B",
+       "raum": "101 007",
+       "info": "für Span OLop",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "Span",
+       "klasse": "9B",
+       "raum": "101 007",
+       "info": "für Span OLop",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "Span",
+       "klasse": "10D",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Span",
+       "klasse": "10D",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Ost": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "De",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "De",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Bio",
+       "klasse": "9B",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Bio",
+       "klasse": "9B",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "ILZ",
+       "klasse": "8B",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "KL",
+       "klasse": "8B",
+       "raum": "006",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Pri": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "Ge",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "Ge 7A statt Do (26.03.) St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "Ge",
+       "klasse": "7A",
+       "raum": "002",
+       "info": "Ge 7A statt Do (26.03.) St.4",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "Ge",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Ge",
+       "klasse": "7E",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Ge",
+       "klasse": "10B",
+       "raum": "005",
+       "info": "Ge 10B statt Mo (23.03.) St.7",
+       "geaendert": true
+      },
+      {
+       "stunde": "8",
+       "fach": "Ge",
+       "klasse": "10B",
+       "raum": "005",
+       "info": "Ge 10B statt Mo (23.03.) St.8",
+       "geaendert": true
+      }
+     ]
+    },
+    "Puk": {
+     "entries": [
+      {
+       "stunde": "5",
+       "fach": "Span",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Span",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Rat": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "ere1",
+       "klasse": "12A-12E",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "ere1",
+       "klasse": "12A-12E",
+       "raum": "104",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ku 7A gehalten am Mo (23.03.) St.3",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "Ku 7A gehalten am Mo (23.03.) St.4",
+       "geaendert": true
+      }
+     ]
+    },
+    "Roh": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Ma",
+       "klasse": "10C",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Ma",
+       "klasse": "10C",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Ph",
+       "klasse": "8C",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Ph",
+       "klasse": "8C",
+       "raum": "205",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Ma",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Ma",
+       "klasse": "9B",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Scheu": {
+     "entries": []
+    },
+    "Schil": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "DE2",
+       "klasse": "11A-11D",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "DE2",
+       "klasse": "11A-11D",
+       "raum": "107",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Geo",
+       "klasse": "10D",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Geo",
+       "klasse": "10D",
+       "raum": "105",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "dsp2",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "dsp2",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Schuc": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "phil2",
+       "klasse": "12A-12E",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "phil2",
+       "klasse": "12A-12E",
+       "raum": "207",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "phil1",
+       "klasse": "11A-11D",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "phil1",
+       "klasse": "11A-11D",
+       "raum": "102",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Schud": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "ku1",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "für Ku Schud, Klausur, Aula",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "ku1",
+       "klasse": "12A-12E",
+       "raum": "Aula",
+       "info": "für Ku Schud, Klausur, Aula",
+       "geaendert": true
+      }
+     ]
+    },
+    "See": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "B VK fällt aus",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "---",
+       "klasse": "",
+       "raum": "",
+       "info": "B VK fällt aus",
+       "geaendert": true
+      },
+      {
+       "stunde": "5",
+       "fach": "Bio",
+       "klasse": "10B",
+       "raum": "204",
+       "info": "Bio 10B statt Do (26.03.) St.5",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "Bio",
+       "klasse": "10B",
+       "raum": "204",
+       "info": "Bio 10B statt Do (26.03.) St.6",
+       "geaendert": true
+      },
+      {
+       "stunde": "7",
+       "fach": "Bio",
+       "klasse": "10A",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Bio",
+       "klasse": "10A",
+       "raum": "204",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Sei": {
+     "entries": []
+    },
+    "Sta": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "Inf",
+       "klasse": "8C",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "Inf",
+       "klasse": "8C",
+       "raum": "K10",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Inf",
+       "klasse": "8A",
+       "raum": "K09",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Inf",
+       "klasse": "8A",
+       "raum": "K09",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "Ma",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "Ma",
+       "klasse": "9D",
+       "raum": "Co1",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Stu": {
+     "entries": []
+    },
+    "Ten": {
+     "entries": [
+      {
+       "stunde": "7",
+       "fach": "GS07",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "GS07",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "101",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Ter": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "BIO1",
+       "klasse": "11A-11D",
+       "raum": "Aula",
+       "info": "für Bio Ter, Klausur, Aula",
+       "geaendert": true
+      },
+      {
+       "stunde": "2",
+       "fach": "BIO1",
+       "klasse": "11A-11D",
+       "raum": "Aula",
+       "info": "für Bio Ter, Klausur, Aula",
+       "geaendert": true
+      },
+      {
+       "stunde": "3",
+       "fach": "dsp1",
+       "klasse": "11A-11D",
+       "raum": "207",
+       "info": "für DSp Ter",
+       "geaendert": true
+      },
+      {
+       "stunde": "4",
+       "fach": "dsp1",
+       "klasse": "11A-11D",
+       "raum": "207",
+       "info": "für DSp Ter",
+       "geaendert": true
+      }
+     ]
+    },
+    "Tie": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "De",
+       "klasse": "9A",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "De",
+       "klasse": "9A",
+       "raum": "007",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "3",
+       "fach": "Ge",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "Ge",
+       "klasse": "9C",
+       "raum": "004",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "Ge",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "Ge",
+       "klasse": "8D",
+       "raum": "103",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Tuh": {
+     "entries": [
+      {
+       "stunde": "3",
+       "fach": "De",
+       "klasse": "10B",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "4",
+       "fach": "De",
+       "klasse": "10B",
+       "raum": "008",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "De",
+       "klasse": "7D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "6",
+       "fach": "De",
+       "klasse": "7D",
+       "raum": "106",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "7",
+       "fach": "GS02",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "Tu2",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "8",
+       "fach": "GS02",
+       "klasse": "7A-7E,8A-8D",
+       "raum": "Tu2",
+       "info": "",
+       "geaendert": false
+      }
+     ]
+    },
+    "Wag": {
+     "entries": [
+      {
+       "stunde": "1",
+       "fach": "En",
+       "klasse": "10D",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "2",
+       "fach": "En",
+       "klasse": "10D",
+       "raum": "005",
+       "info": "",
+       "geaendert": false
+      },
+      {
+       "stunde": "5",
+       "fach": "En",
+       "klasse": "9A",
+       "raum": "104",
+       "info": "En 9A statt Fr (27.03.) St.1",
+       "geaendert": true
+      },
+      {
+       "stunde": "6",
+       "fach": "En",
+       "klasse": "9A",
+       "raum": "104",
+       "info": "En 9A statt Fr (27.03.) St.2",
+       "geaendert": true
+      }
+     ]
+    }
+   }
+  }
+ }
+}
