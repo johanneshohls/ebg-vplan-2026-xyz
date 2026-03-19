@@ -2,9 +2,11 @@ name: Vertretungsplan prüfen
 
 on:
   schedule:
-    # Alle 5 Minuten prüfen (Mo-Fr, 5-17 Uhr UTC = 6-18 Uhr MEZ)
-    - cron: '*/5 5-17 * * 1-5'
-  workflow_dispatch: # Manuell auslösen (zum Testen)
+    - cron: '3,8,13,18,23,28,33,38,43,48,53,58 5-17 * * 1-5'
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 permissions:
   contents: write
