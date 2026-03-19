@@ -1,0 +1,47 @@
+name: Vertretungsplan prüfen
+
+on:
+  schedule:
+    # Alle 5 Minuten prüfen (Mo-Fr, 5-17 Uhr UTC = 6-18 Uhr MEZ)
+    - cron: '*/5 5-17 * * 1-5'
+  workflow_dispatch: # Manuell auslösen (zum Testen)
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Abhängigkeiten installieren
+        run: pip install requests
+
+      - name: State wiederherstellen
+        uses: actions/cache/restore@v4
+        with:
+          path: state.json
+          key: plan-state-dummy
+          restore-keys: |
+            plan-state-
+
+      - name: Vertretungsplan prüfen
+        env:
+          PLAN_URL: ${{ secrets.PLAN_URL }}
+          PLAN_USER: ${{ secrets.PLAN_USER }}
+          PLAN_PASS: ${{ secrets.PLAN_PASS }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python check_plan.py
+
+      - name: State speichern
+        uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: state.json
+          key: plan-state-${{ github.run_id }}
