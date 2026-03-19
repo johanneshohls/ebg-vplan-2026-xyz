@@ -643,6 +643,7 @@ function getISOWeek(d) {
   currentTeacher = getTeacher();
   currentKW = planData.aktuelle_kw;
   if (currentTeacher && planData.lehrer?.includes(currentTeacher)) {
+    saveTeacher(currentTeacher); // In localStorage speichern, damit PWA-Starts ohne URL-Param funktionieren
     renderTeacherSelect();
     renderPlan();
   } else {
