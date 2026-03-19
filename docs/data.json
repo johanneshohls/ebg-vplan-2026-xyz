@@ -1,6 +1,6 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "19.03.2026, 12:45 Uhr",
+ "generiert": "19.03.2026, 17:44 Uhr",
  "lehrer": [
   "Bar",
   "Bes",
@@ -22024,7 +22024,7 @@
    "tage": {
     "20260323": {
      "datum": "Montag, 23. März 2026",
-     "zeitstempel": "19.03.2026, 13:33",
+     "zeitstempel": "19.03.2026, 14:04",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -22827,17 +22827,17 @@
          "stunde": "5",
          "fach": "Ph",
          "klasse": "7C",
-         "raum": "Aula",
-         "info": "für Ph Hoh",
-         "geaendert": true
+         "raum": "205",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "6",
          "fach": "Ph",
          "klasse": "7C",
-         "raum": "Aula",
-         "info": "für Ph Hoh",
-         "geaendert": true
+         "raum": "205",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "7",
@@ -24196,7 +24196,7 @@
     },
     "20260324": {
      "datum": "Dienstag, 24. März 2026",
-     "zeitstempel": "19.03.2026, 13:33",
+     "zeitstempel": "19.03.2026, 14:04",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -26277,7 +26277,7 @@
     },
     "20260325": {
      "datum": "Mittwoch, 25. März 2026",
-     "zeitstempel": "19.03.2026, 13:33",
+     "zeitstempel": "19.03.2026, 14:04",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -27049,22 +27049,6 @@
          "raum": "106",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "TEST",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "TEST",
-         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -28399,7 +28383,7 @@
     },
     "20260326": {
      "datum": "Donnerstag, 26. März 2026",
-     "zeitstempel": "19.03.2026, 13:33",
+     "zeitstempel": "19.03.2026, 14:04",
      "lehrer": {
       "Bar": {
        "entries": [
