@@ -387,19 +387,14 @@
 </div>
 
 <script>
-const TIMES = {
-  "1":"07:40","2":"08:25","3":"09:40","4":"10:25",
-  "5":"11:40","6":"12:25","7":"13:40","8":"14:25"
-};
-const TIMES_END = {
-  "1":"08:25","2":"09:10","3":"10:25","4":"11:10",
-  "5":"12:25","6":"13:10","7":"14:25","8":"15:10"
-};
+const TIMES = {"1":"07:40","2":"08:25","3":"09:40","4":"10:25","5":"11:40","6":"12:25","7":"13:40","8":"14:25"};
+const TIMES_END = {"1":"08:25","2":"09:10","3":"10:25","4":"11:10","5":"12:25","6":"13:10","7":"14:25","8":"15:10"};
+const PAUSEN = {"3":"09:10","5":"11:10","7":"13:10"}; // Pausen VOR diesen Stunden
 const PERIODS = ["1","2","3","4","5","6","7","8"];
 const MONTH = ["Jan","Feb","Mär","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez"];
 const DOW = {1:"MO",2:"DI",3:"MI",4:"DO",5:"FR"};
 
-let planData = null, currentTeacher = null;
+let planData = null, currentTeacher = null, currentKW = null;
 
 function getTeacher() {
   const p = new URLSearchParams(location.search);
@@ -436,6 +431,22 @@ async function doRefresh() {
   b.classList.remove("spinning");
 }
 
+function getKWList() {
+  if (!planData?.wochen) return [];
+  return Object.keys(planData.wochen).sort((a,b) => parseInt(a)-parseInt(b));
+}
+
+function changeWeek(dir) {
+  const kws = getKWList();
+  if (!kws.length) return;
+  const idx = kws.indexOf(currentKW);
+  const newIdx = idx + dir;
+  if (newIdx >= 0 && newIdx < kws.length) {
+    currentKW = kws[newIdx];
+    renderPlan();
+  }
+}
+
 function renderTeacherSelect() {
   if (!planData?.lehrer) return;
   const s = document.getElementById("teacherSelect");
@@ -467,74 +478,118 @@ function setupDone() {
   currentTeacher = document.getElementById("setupSelect").value;
   saveTeacher(currentTeacher);
   renderTeacherSelect();
+  currentKW = planData.aktuelle_kw;
   renderPlan();
 }
 
 function renderPlan() {
-  if (!planData || !currentTeacher) return;
+  if (!planData || !currentTeacher || !currentKW) return;
 
-  const days = planData.tage || {};
-  const dayKeys = Object.keys(days).sort();
-  if (!dayKeys.length) {
-    document.getElementById("content").innerHTML = '<div class="loading">Keine Pläne verfügbar.</div>';
+  const wochen = planData.wochen || {};
+  const week = wochen[currentKW];
+  if (!week) {
+    document.getElementById("content").innerHTML = '<div class="loading">Keine Daten für diese Woche.</div>';
     return;
   }
 
-  // Nav
-  const d1 = parseDate(dayKeys[0]), d2 = parseDate(dayKeys[dayKeys.length-1]);
+  const days = week.tage || {};
+  // Immer Mo-Fr anzeigen, auch wenn manche Tage keine Daten haben
+  const monday = parseDate(week.montag);
+  const dayKeys = [];
+  for (let i = 0; i < 5; i++) {
+    const d = new Date(monday); d.setDate(d.getDate() + i);
+    dayKeys.push(d.getFullYear() + String(d.getMonth()+1).padStart(2,"0") + String(d.getDate()).padStart(2,"0"));
+  }
+
+  // Nav bar
   document.getElementById("navTitle").textContent = currentTeacher;
-  document.getElementById("navSubtitle").textContent = `${d1.getDate()}. ${MONTH[d1.getMonth()]} – ${d2.getDate()}. ${MONTH[d2.getMonth()]} ${d2.getFullYear()} · Stand ${planData.generiert?.split(",")[1]?.trim() || ""}`;
+  document.getElementById("navSubtitle").textContent = `Stand: ${planData.generiert || ""}`;
 
-  // Find max period
-  let maxP = 0;
-  for (const dk of dayKeys) {
-    const td = days[dk].lehrer?.[currentTeacher];
-    if (td) for (const e of td.entries) { const p = parseInt(e.stunde); if (p > maxP) maxP = p; }
-  }
-  if (maxP === 0) maxP = 6;
-
-  // Build grid
-  const grid = {};
-  for (const dk of dayKeys) {
-    grid[dk] = {};
-    const td = days[dk].lehrer?.[currentTeacher];
-    if (td) for (const e of td.entries) grid[dk][e.stunde] = e;
-  }
+  // KW nav arrows
+  const kws = getKWList();
+  const kwIdx = kws.indexOf(currentKW);
+  const canPrev = kwIdx > 0;
+  const canNext = kwIdx < kws.length - 1;
 
   // Today
   const now = new Date();
   const todayStr = now.getFullYear() + String(now.getMonth()+1).padStart(2,"0") + String(now.getDate()).padStart(2,"0");
-  const nowMins = now.getHours()*60 + now.getMinutes();
 
-  // Week label
-  const weekNum = getISOWeek(d1);
+  // Find max period
+  let maxP = 0;
+  for (const dk of dayKeys) {
+    const td = days[dk]?.lehrer?.[currentTeacher];
+    if (td) {
+      for (const e of td.entries) { const p = parseInt(e.stunde); if (p > maxP) maxP = p; }
+      if (td.aufsichten) for (const a of td.aufsichten) { const p = parseInt(a.vor_stunde); if (p > maxP) maxP = p; }
+    }
+  }
+  if (maxP === 0) maxP = 6;
 
-  let html = `<div class="week-header">Kalenderwoche ${weekNum}</div>`;
+  // Build grid: dayKey -> period -> entry
+  const grid = {};
+  // Build aufsicht grid: dayKey -> "vor_stunde" -> aufsicht
+  const aufGrid = {};
+  for (const dk of dayKeys) {
+    grid[dk] = {};
+    aufGrid[dk] = {};
+    const td = days[dk]?.lehrer?.[currentTeacher];
+    if (td) {
+      for (const e of td.entries) grid[dk][e.stunde] = e;
+      if (td.aufsichten) for (const a of td.aufsichten) aufGrid[dk][a.vor_stunde] = a;
+    }
+  }
+
+  // KW Header with arrows
+  const mFri = parseDate(dayKeys[4]);
+  const mMon = parseDate(dayKeys[0]);
+  let html = `<div class="week-header" style="display:flex;align-items:center;justify-content:center;gap:16px">
+    <span onclick="changeWeek(-1)" style="cursor:pointer;font-size:18px;opacity:${canPrev ? '1' : '0.2'};padding:4px 8px">&lsaquo;</span>
+    <span>KW ${week.kw} · ${mMon.getDate()}. ${MONTH[mMon.getMonth()]} – ${mFri.getDate()}. ${MONTH[mFri.getMonth()]} ${mFri.getFullYear()}</span>
+    <span onclick="changeWeek(1)" style="cursor:pointer;font-size:18px;opacity:${canNext ? '1' : '0.2'};padding:4px 8px">&rsaquo;</span>
+  </div>`;
+
   html += '<div class="card"><table class="plan-table">';
 
-  // Header
-  html += '<thead><tr><th class="col-std" style="text-align:left;padding-left:20px">Std</th>';
+  // Day headers
+  html += '<thead><tr><th class="col-std" style="text-align:left;padding-left:20px"></th>';
   for (const dk of dayKeys) {
     const d = parseDate(dk);
     const dow = DOW[d.getDay()] || "";
     const isToday = dk === todayStr;
+    const ts = days[dk]?.zeitstempel || "";
     html += `<th><div class="day-th-wrap${isToday ? " day-today" : ""}">
       <div class="day-name">${dow}</div>
-      <div class="day-date">${isToday ? '<span style="background:#1d1d1f;color:white;width:26px;height:26px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:13px">'+d.getDate()+'</span>' : d.getDate()+'.'}</div>
+      <div class="day-date">${isToday
+        ? '<span style="background:#1d1d1f;color:white;width:26px;height:26px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:13px">'+d.getDate()+'</span>'
+        : d.getDate()+'.'}</div>
+      ${ts ? '<div class="day-ts">' + ts + '</div>' : ''}
     </div></th>`;
   }
   html += '</tr></thead><tbody>';
 
+  // Period rows with Aufsicht/Pausen dazwischen
   for (let pi = 0; pi < maxP; pi++) {
     const period = PERIODS[pi];
     const timeStart = TIMES[period] || "";
-    const timeEnd = TIMES_END[period] || "";
 
-    // Now line
-    if (dayKeys.includes(todayStr) && timeStart) {
-      const [h,m] = timeStart.split(":").map(Number);
-      if (nowMins >= h*60+m-5 && nowMins < h*60+m+5) {
-        html += `<tr class="now-line"><td colspan="${dayKeys.length+1}"></td></tr>`;
+    // Aufsicht-Zeile VOR dieser Stunde (wenn es eine Pause gibt)
+    if (PAUSEN[period]) {
+      const hasAnyAufsicht = dayKeys.some(dk => aufGrid[dk]?.[period]);
+      if (hasAnyAufsicht) {
+        html += '<tr class="aufsicht-row">';
+        html += `<td class="aufsicht-cell" style="text-align:left;padding-left:12px;color:var(--secondary);font-size:9px">${PAUSEN[period]}</td>`;
+        for (const dk of dayKeys) {
+          const a = aufGrid[dk]?.[period];
+          if (a) {
+            const txt = a.ort + (a.info ? ' (' + a.info + ')' : '');
+            const shortTxt = txt.length > 24 ? txt.substring(0, 22) + '...' : txt;
+            html += `<td class="aufsicht-cell" onclick="showInfo('${txt.replace(/'/g, "\\'")}')">${shortTxt}</td>`;
+          } else {
+            html += '<td class="aufsicht-cell"></td>';
+          }
+        }
+        html += '</tr>';
       }
     }
 
@@ -545,7 +600,7 @@ function renderPlan() {
       const e = grid[dk]?.[period];
 
       if (!e) {
-        html += '<td class="day-cell empty">·</td>';
+        html += '<td class="day-cell empty"></td>';
         continue;
       }
 
@@ -586,6 +641,7 @@ function getISOWeek(d) {
     return;
   }
   currentTeacher = getTeacher();
+  currentKW = planData.aktuelle_kw;
   if (currentTeacher && planData.lehrer?.includes(currentTeacher)) {
     renderTeacherSelect();
     renderPlan();

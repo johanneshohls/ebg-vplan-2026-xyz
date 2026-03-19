@@ -1,6 +1,9 @@
 """
 Generiert docs/data.json aus den Stundenplan24-XML-Daten.
 Wird von GitHub Actions aufgerufen. Die HTML-Seite lädt data.json.
+
+Liefert immer volle Wochen (Mo-Fr), gruppiert nach KW:
+  wochen: { "12": { kw, montag, freitag, tage: { "20260316": {...}, ... } }, ... }
 """
 
 import requests
@@ -90,9 +93,35 @@ def parse_daily_plan(date_str: str) -> dict | None:
                 "geaendert": bool(fa_ae or ra_ae),
             })
 
-        day_data["lehrer"][kurz] = {"entries": entries}
+        # Aufsichten extrahieren
+        aufsichten = []
+        auf_el = kl.find("Aufsichten")
+        if auf_el is not None:
+            for a in auf_el.findall("Aufsicht"):
+                au_tag = a.find("AuTag").text if a.find("AuTag") is not None else ""
+                au_vor = a.find("AuVorStunde").text if a.find("AuVorStunde") is not None else ""
+                au_zeit = a.find("AuUhrzeit").text if a.find("AuUhrzeit") is not None else ""
+                au_ort = a.find("AuOrt").text if a.find("AuOrt") is not None else ""
+                au_info = a.find("AuInfo").text if a.find("AuInfo") is not None else ""
+                aufsichten.append({
+                    "vor_stunde": au_vor,
+                    "uhrzeit": au_zeit,
+                    "ort": au_ort,
+                    "info": au_info,
+                })
+
+        day_data["lehrer"][kurz] = {"entries": entries, "aufsichten": aufsichten}
 
     return day_data
+
+
+def monday_of_week(d: datetime) -> datetime:
+    """Gibt den Montag der Woche zurück, in der d liegt."""
+    return d - timedelta(days=d.weekday())
+
+
+def iso_week(d: datetime) -> int:
+    return d.isocalendar()[1]
 
 
 def main():
@@ -103,38 +132,60 @@ def main():
     now = datetime.now()
     print(f"=== Generiere data.json ({now.strftime('%d.%m.%Y %H:%M')}) ===")
 
-    # Lehrerliste holen
     lehrer_list = get_teacher_list()
     print(f"Lehrer: {len(lehrer_list)}")
 
-    # Nächste 5 Werktage parsen
-    tage = {}
-    d = now
-    for _ in range(10):
-        if d.weekday() < 5:
+    # Berechne: aktuelle Woche + nächste Woche (jeweils Mo-Fr)
+    this_monday = monday_of_week(now)
+    weeks_to_fetch = [this_monday, this_monday + timedelta(weeks=1)]
+
+    # Auch vorherige Woche laden (für Rückblick)
+    weeks_to_fetch.insert(0, this_monday - timedelta(weeks=1))
+
+    wochen = {}
+
+    for monday in weeks_to_fetch:
+        kw = iso_week(monday)
+        kw_str = str(kw)
+        friday = monday + timedelta(days=4)
+
+        print(f"\n--- KW {kw} ({monday.strftime('%d.%m.')} - {friday.strftime('%d.%m.%Y')}) ---")
+
+        week_data = {
+            "kw": kw,
+            "montag": monday.strftime("%Y%m%d"),
+            "freitag": friday.strftime("%Y%m%d"),
+            "tage": {},
+        }
+
+        for i in range(5):  # Mo-Fr
+            d = monday + timedelta(days=i)
             ds = d.strftime("%Y%m%d")
-            print(f"  Lade {ds}...")
+            print(f"  Lade {ds} ({['Mo','Di','Mi','Do','Fr'][i]})...")
             day = parse_daily_plan(ds)
             if day:
-                tage[ds] = day
-        d += timedelta(days=1)
-        if len(tage) >= 5:
-            break
+                week_data["tage"][ds] = day
+
+        wochen[kw_str] = week_data
+
+    # Aktuelle KW bestimmen
+    aktuelle_kw = str(iso_week(now))
 
     data = {
         "schule": "Ernst-Barlach-Gymnasium",
         "generiert": now.strftime("%d.%m.%Y, %H:%M Uhr"),
         "lehrer": lehrer_list,
-        "tage": tage,
+        "aktuelle_kw": aktuelle_kw,
+        "wochen": wochen,
     }
 
-    # Schreiben
     os.makedirs(os.path.dirname(OUTPUT) or ".", exist_ok=True)
     with open(OUTPUT, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
 
     size = os.path.getsize(OUTPUT)
-    print(f"\n✓ {OUTPUT} geschrieben ({size:,} Bytes, {len(tage)} Tage)")
+    total_days = sum(len(w["tage"]) for w in wochen.values())
+    print(f"\n✓ {OUTPUT} geschrieben ({size:,} Bytes, {len(wochen)} Wochen, {total_days} Tage)")
 
 
 if __name__ == "__main__":
