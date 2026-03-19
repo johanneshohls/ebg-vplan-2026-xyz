@@ -4,251 +4,373 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
   <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="apple-mobile-web-app-title" content="EBG VPlan">
-  <meta name="theme-color" content="#1a365d">
-  <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%231a365d' width='100' height='100' rx='20'/><text x='50' y='68' text-anchor='middle' fill='white' font-size='40' font-family='system-ui' font-weight='bold'>VP</text></svg>">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Vertretungsplan">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%23111' width='100' height='100' rx='22'/><text x='50' y='66' text-anchor='middle' fill='white' font-size='36' font-family='system-ui' font-weight='700'>VP</text></svg>">
   <link rel="manifest" href="manifest.json">
-  <title>EBG Vertretungsplan</title>
+  <title>Vertretungsplan</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
     :root {
-      --bg: #f0f4f8;
+      --bg: #f5f5f7;
       --card: #ffffff;
-      --primary: #1a365d;
-      --accent: #e53e3e;
-      --text: #2d3748;
-      --muted: #718096;
-      --border: #e2e8f0;
-      --changed-bg: #fff5f5;
-      --changed-border: #fc8181;
-      --ok-bg: #f0fff4;
+      --text: #1d1d1f;
+      --secondary: #86868b;
+      --accent: #e8453c;
+      --green: #34c759;
+      --orange: #ff9f0a;
+      --border: #e5e5ea;
+      --radius: 16px;
     }
 
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", system-ui, sans-serif;
       background: var(--bg);
       color: var(--text);
       min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
       padding-bottom: env(safe-area-inset-bottom, 20px);
     }
 
-    header {
-      background: var(--primary);
-      color: white;
-      padding: 16px 20px;
-      padding-top: max(16px, env(safe-area-inset-top));
+    /* --- Navigation Bar --- */
+    .navbar {
+      background: rgba(255,255,255,0.85);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      border-bottom: 0.5px solid var(--border);
+      padding: 12px 20px;
+      padding-top: max(12px, env(safe-area-inset-top));
       position: sticky;
       top: 0;
       z-index: 100;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-    }
-
-    header h1 {
-      font-size: 18px;
-      font-weight: 700;
-      letter-spacing: -0.3px;
-    }
-
-    .header-row {
       display: flex;
       justify-content: space-between;
       align-items: center;
     }
 
-    .update-info {
-      font-size: 11px;
-      opacity: 0.7;
-      margin-top: 2px;
-    }
-
-    .teacher-select {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-
-    .teacher-select select {
-      font-size: 16px;
+    .navbar .title {
+      font-size: 17px;
       font-weight: 600;
-      padding: 6px 12px;
-      border-radius: 8px;
-      border: 2px solid rgba(255,255,255,0.3);
-      background: rgba(255,255,255,0.15);
-      color: white;
-      appearance: none;
-      -webkit-appearance: none;
-      cursor: pointer;
-    }
-    .teacher-select select option { color: #333; background: white; }
-
-    .teacher-select::after {
-      content: "\25BE";
-      color: rgba(255,255,255,0.7);
-      pointer-events: none;
-      margin-left: -28px;
-      font-size: 14px;
+      letter-spacing: -0.4px;
     }
 
-    main { padding: 12px; max-width: 600px; margin: 0 auto; }
-
-    .day-card {
-      background: var(--card);
-      border-radius: 14px;
-      margin-bottom: 12px;
-      overflow: hidden;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-    }
-
-    .day-header {
-      padding: 12px 16px;
-      font-weight: 700;
-      font-size: 15px;
-      border-bottom: 1px solid var(--border);
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-
-    .day-header .badge {
-      font-size: 11px;
-      font-weight: 600;
-      padding: 2px 8px;
-      border-radius: 10px;
-      background: var(--accent);
-      color: white;
-    }
-
-    .day-header .badge.ok {
-      background: #48bb78;
-    }
-
-    .lesson {
-      display: flex;
-      padding: 10px 16px;
-      border-bottom: 1px solid var(--border);
-      align-items: flex-start;
-      gap: 12px;
-      transition: background 0.2s;
-    }
-    .lesson:last-child { border-bottom: none; }
-
-    .lesson.changed {
-      background: var(--changed-bg);
-      border-left: 3px solid var(--changed-border);
-    }
-
-    .lesson-time {
-      min-width: 44px;
-      text-align: center;
-    }
-    .lesson-time .period {
-      font-weight: 700;
-      font-size: 18px;
-      color: var(--primary);
-      line-height: 1;
-    }
-    .lesson-time .time {
-      font-size: 10px;
-      color: var(--muted);
-      margin-top: 2px;
-    }
-
-    .lesson-content { flex: 1; min-width: 0; }
-    .lesson-subject {
-      font-weight: 600;
-      font-size: 15px;
-    }
-    .lesson-details {
-      font-size: 13px;
-      color: var(--muted);
+    .navbar .subtitle {
+      font-size: 12px;
+      color: var(--secondary);
       margin-top: 1px;
     }
-    .lesson-info {
-      font-size: 12px;
-      color: var(--accent);
+
+    .nav-select {
+      font-size: 15px;
       font-weight: 600;
-      margin-top: 4px;
-      line-height: 1.3;
+      color: #007aff;
+      background: none;
+      border: none;
+      padding: 6px 0;
+      cursor: pointer;
+      -webkit-appearance: none;
+      appearance: none;
     }
+    .nav-select option { color: var(--text); }
 
-    .lesson-cancelled .lesson-subject {
-      text-decoration: line-through;
-      opacity: 0.5;
+    .refresh-btn {
+      background: none;
+      border: none;
+      font-size: 18px;
+      color: #007aff;
+      cursor: pointer;
+      padding: 4px;
+      transition: transform 0.3s;
     }
-
-    .empty-state {
-      text-align: center;
-      padding: 60px 20px;
-      color: var(--muted);
-    }
-    .empty-state .icon { font-size: 48px; margin-bottom: 12px; }
-    .empty-state h2 { font-size: 18px; color: var(--text); margin-bottom: 8px; }
-
-    .loading {
-      text-align: center;
-      padding: 80px 20px;
-      color: var(--muted);
-    }
-    .loading .spinner {
-      width: 32px; height: 32px;
-      border: 3px solid var(--border);
-      border-top-color: var(--primary);
-      border-radius: 50%;
-      animation: spin 0.8s linear infinite;
-      margin: 0 auto 16px;
-    }
+    .refresh-btn.spinning { animation: spin 0.8s linear infinite; }
     @keyframes spin { to { transform: rotate(360deg); } }
 
+    /* --- Card Container --- */
+    main {
+      padding: 16px;
+      max-width: 640px;
+      margin: 0 auto;
+    }
+
+    .card {
+      background: var(--card);
+      border-radius: var(--radius);
+      box-shadow: 0 0.5px 0 rgba(0,0,0,0.04), 0 2px 8px rgba(0,0,0,0.04);
+      margin-bottom: 16px;
+      overflow: hidden;
+    }
+
+    /* --- Week Header --- */
+    .week-header {
+      text-align: center;
+      padding: 20px 16px 8px;
+      text-transform: uppercase;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 1.5px;
+      color: var(--secondary);
+    }
+
+    /* --- Plan Table --- */
+    .plan-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    .plan-table th {
+      padding: 14px 4px 10px;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      border-bottom: 0.5px solid var(--border);
+    }
+    .plan-table th:first-child { padding-left: 20px; text-align: left; }
+
+    .col-std { width: 52px; }
+
+    /* Period rows */
+    .plan-table tbody tr {
+      transition: background 0.15s;
+    }
+    .plan-table tbody tr:not(:last-child) td {
+      border-bottom: 0.5px solid var(--border);
+    }
+
+    .plan-table td {
+      padding: 10px 4px;
+      text-align: center;
+      vertical-align: middle;
+      font-size: 13px;
+    }
+
+    /* Stunde column */
+    .std-cell {
+      text-align: left !important;
+      padding-left: 20px !important;
+    }
+    .std-num {
+      font-size: 17px;
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1;
+    }
+    .std-time {
+      font-size: 10px;
+      color: var(--secondary);
+      margin-top: 2px;
+    }
+
+    /* Day cells */
+    .day-cell {
+      position: relative;
+      min-width: 52px;
+    }
+    .day-cell .subject {
+      font-size: 14px;
+      font-weight: 600;
+    }
+    .day-cell .klasse {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+    }
+    .day-cell .room {
+      font-size: 11px;
+      color: var(--secondary);
+    }
+    .day-cell.empty {
+      color: #d1d1d6;
+    }
+
+    /* Changed indicator */
+    .day-cell.changed .subject,
+    .day-cell.changed .klasse,
+    .day-cell.changed .room {
+      color: var(--accent);
+    }
+
+    .day-cell.cancelled .subject {
+      font-size: 16px;
+      color: var(--accent);
+      font-weight: 700;
+    }
+
+    /* Info badge */
+    .info-dot {
+      position: absolute;
+      top: 6px;
+      right: 4px;
+      width: 7px; height: 7px;
+      background: #007aff;
+      border-radius: 50%;
+    }
+
+    /* Aufsicht cells */
+    .aufsicht-row td {
+      padding: 4px;
+      border-bottom: 0.5px solid var(--border) !important;
+    }
+    .aufsicht-cell {
+      font-size: 9px;
+      color: var(--accent);
+      font-weight: 500;
+      line-height: 1.2;
+      text-align: center;
+    }
+
+    /* Day header with update time */
+    .day-th-wrap .day-name {
+      font-size: 12px;
+      letter-spacing: 0.5px;
+    }
+    .day-th-wrap .day-date {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--text);
+      text-transform: none;
+      letter-spacing: -0.3px;
+      margin-top: 1px;
+    }
+    .day-th-wrap .day-ts {
+      font-size: 8px;
+      font-weight: 400;
+      color: #c7c7cc;
+      text-transform: none;
+      letter-spacing: 0;
+      margin-top: 2px;
+    }
+
+    /* Today highlight */
+    .day-today .day-date {
+      color: white;
+      background: var(--text);
+      width: 26px; height: 26px;
+      border-radius: 50%;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 13px;
+    }
+
+    /* Now line */
+    .now-line td {
+      padding: 0 !important;
+      border-bottom: 2px solid var(--accent) !important;
+      position: relative;
+    }
+
+    /* --- Info Popover --- */
+    .info-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.3);
+      z-index: 300;
+      align-items: flex-end;
+      justify-content: center;
+    }
+    .info-overlay.visible { display: flex; }
+    .info-sheet {
+      background: white;
+      border-radius: 16px 16px 0 0;
+      padding: 24px 24px;
+      padding-bottom: max(24px, env(safe-area-inset-bottom));
+      width: 100%;
+      max-width: 500px;
+      animation: sheetUp 0.25s ease-out;
+    }
+    .info-sheet p {
+      font-size: 16px;
+      line-height: 1.5;
+      color: var(--text);
+    }
+    .info-sheet .dismiss {
+      margin-top: 16px;
+      width: 100%;
+      padding: 14px;
+      font-size: 16px;
+      font-weight: 600;
+      color: #007aff;
+      background: #f2f2f7;
+      border: none;
+      border-radius: 12px;
+      cursor: pointer;
+    }
+    @keyframes sheetUp { from { transform: translateY(100%); } to { transform: translateY(0); } }
+
+    /* --- Setup Screen --- */
     .setup-screen {
       text-align: center;
-      padding: 40px 24px;
+      padding: 48px 24px;
     }
-    .setup-screen h2 { margin-bottom: 16px; font-size: 20px; }
+    .setup-screen .icon { font-size: 56px; margin-bottom: 16px; }
+    .setup-screen h2 {
+      font-size: 24px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      margin-bottom: 8px;
+    }
+    .setup-screen .desc {
+      color: var(--secondary);
+      font-size: 15px;
+      margin-bottom: 24px;
+    }
     .setup-screen select {
-      font-size: 18px;
-      padding: 12px 20px;
+      font-size: 17px;
+      padding: 14px 20px;
       border-radius: 12px;
-      border: 2px solid var(--border);
+      border: 1px solid var(--border);
       width: 100%;
-      max-width: 300px;
-      margin-bottom: 16px;
+      max-width: 280px;
+      margin-bottom: 20px;
+      background: white;
     }
     .setup-screen .btn {
       display: inline-block;
-      background: var(--primary);
+      background: var(--text);
       color: white;
       border: none;
-      padding: 14px 32px;
-      border-radius: 12px;
+      padding: 16px 40px;
+      border-radius: 14px;
       font-size: 16px;
       font-weight: 600;
       cursor: pointer;
+      letter-spacing: -0.3px;
     }
-    .setup-screen p { color: var(--muted); font-size: 14px; margin-top: 16px; line-height: 1.5; }
+    .setup-screen .hint {
+      color: #c7c7cc;
+      font-size: 12px;
+      margin-top: 24px;
+      line-height: 1.5;
+    }
 
-    .no-data {
-      text-align: center;
-      padding: 40px;
-      color: var(--muted);
-      font-size: 14px;
+    .loading {
+      text-align: center; padding: 80px 20px; color: var(--secondary);
+    }
+    .loading .spinner {
+      width: 28px; height: 28px;
+      border: 2.5px solid var(--border); border-top-color: var(--text);
+      border-radius: 50%; animation: spin 0.7s linear infinite;
+      margin: 0 auto 16px;
     }
   </style>
 </head>
 <body>
 
-<header>
-  <div class="header-row">
-    <div>
-      <h1>EBG Vertretungsplan</h1>
-      <div class="update-info" id="updateInfo">Lade...</div>
-    </div>
-    <div class="teacher-select" id="teacherSelectWrap" style="display:none">
-      <select id="teacherSelect" onchange="switchTeacher(this.value)"></select>
-    </div>
+<div class="navbar">
+  <div>
+    <div class="title" id="navTitle">Vertretungsplan</div>
+    <div class="subtitle" id="navSubtitle">Lade...</div>
   </div>
-</header>
+  <div style="display:flex;align-items:center;gap:12px">
+    <select class="nav-select" id="teacherSelect" onchange="switchTeacher(this.value)" style="display:none"></select>
+    <button class="refresh-btn" id="refreshBtn" onclick="doRefresh()" style="display:none">&#x21bb;</button>
+  </div>
+</div>
 
 <main id="content">
   <div class="loading">
@@ -257,85 +379,93 @@
   </div>
 </main>
 
+<div class="info-overlay" id="infoOverlay" onclick="hideInfo()">
+  <div class="info-sheet" onclick="event.stopPropagation()">
+    <p id="infoText"></p>
+    <button class="dismiss" onclick="hideInfo()">OK</button>
+  </div>
+</div>
+
 <script>
 const TIMES = {
-  "1": "07:40", "2": "08:25", "3": "09:40", "4": "10:25",
-  "5": "11:40", "6": "12:25", "7": "13:40", "8": "14:25"
+  "1":"07:40","2":"08:25","3":"09:40","4":"10:25",
+  "5":"11:40","6":"12:25","7":"13:40","8":"14:25"
 };
+const TIMES_END = {
+  "1":"08:25","2":"09:10","3":"10:25","4":"11:10",
+  "5":"12:25","6":"13:10","7":"14:25","8":"15:10"
+};
+const PERIODS = ["1","2","3","4","5","6","7","8"];
+const MONTH = ["Jan","Feb","Mär","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez"];
+const DOW = {1:"MO",2:"DI",3:"MI",4:"DO",5:"FR"};
 
-let planData = null;
-let currentTeacher = null;
+let planData = null, currentTeacher = null;
 
-// Lehrer aus URL-Parameter oder localStorage lesen
 function getTeacher() {
-  const params = new URLSearchParams(window.location.search);
-  const fromUrl = params.get("l") || params.get("lehrer");
-  if (fromUrl) return fromUrl;
-  try { return localStorage.getItem("ebg_vplan_lehrer"); } catch(e) {}
-  return null;
+  const p = new URLSearchParams(location.search);
+  return p.get("l") || p.get("lehrer") || (() => { try { return localStorage.getItem("ebg_vplan_lehrer"); } catch(e) { return null; } })();
 }
-
-function saveTeacher(code) {
-  try { localStorage.setItem("ebg_vplan_lehrer", code); } catch(e) {}
-  // URL aktualisieren ohne Reload
-  const url = new URL(window.location);
-  url.searchParams.set("l", code);
-  history.replaceState(null, "", url);
+function saveTeacher(c) {
+  try { localStorage.setItem("ebg_vplan_lehrer", c); } catch(e) {}
+  const u = new URL(location); u.searchParams.set("l", c); history.replaceState(null, "", u);
 }
-
-function switchTeacher(code) {
-  currentTeacher = code;
-  saveTeacher(code);
-  renderPlan();
-}
+function switchTeacher(c) { currentTeacher = c; saveTeacher(c); renderPlan(); }
 
 async function loadData() {
   try {
-    const resp = await fetch("data.json?_=" + Date.now());
-    if (!resp.ok) throw new Error("Keine Daten");
-    planData = await resp.json();
+    const r = await fetch("data.json?_=" + Date.now());
+    if (!r.ok) throw 0;
+    planData = await r.json();
     return true;
-  } catch(e) {
-    console.error("Fehler beim Laden:", e);
-    return false;
-  }
+  } catch(e) { return false; }
+}
+
+function parseDate(ds) { return new Date(ds.slice(0,4)+"-"+ds.slice(4,6)+"-"+ds.slice(6,8)+"T00:00:00"); }
+
+function showInfo(text) {
+  document.getElementById("infoText").textContent = text;
+  document.getElementById("infoOverlay").classList.add("visible");
+}
+function hideInfo() { document.getElementById("infoOverlay").classList.remove("visible"); }
+
+async function doRefresh() {
+  const b = document.getElementById("refreshBtn");
+  b.classList.add("spinning");
+  await loadData();
+  if (currentTeacher) renderPlan();
+  b.classList.remove("spinning");
 }
 
 function renderTeacherSelect() {
-  if (!planData || !planData.lehrer) return;
-  const sel = document.getElementById("teacherSelect");
-  sel.innerHTML = planData.lehrer.map(l =>
-    `<option value="${l}" ${l === currentTeacher ? "selected" : ""}>${l}</option>`
-  ).join("");
-  document.getElementById("teacherSelectWrap").style.display = "flex";
+  if (!planData?.lehrer) return;
+  const s = document.getElementById("teacherSelect");
+  s.innerHTML = planData.lehrer.map(l => `<option value="${l}" ${l===currentTeacher?"selected":""}>${l}</option>`).join("");
+  s.style.display = "";
+  document.getElementById("refreshBtn").style.display = "";
 }
 
 function renderSetup() {
-  if (!planData || !planData.lehrer) {
-    document.getElementById("content").innerHTML =
-      '<div class="no-data">Keine Daten verfügbar. Bitte später erneut versuchen.</div>';
+  document.getElementById("navTitle").textContent = "Vertretungsplan";
+  document.getElementById("navSubtitle").textContent = "Ernst-Barlach-Gymnasium";
+  if (!planData?.lehrer) {
+    document.getElementById("content").innerHTML = '<div class="loading">Keine Daten verfügbar.</div>';
     return;
   }
-
-  const options = planData.lehrer.map(l =>
-    `<option value="${l}">${l}</option>`
-  ).join("");
-
+  const opts = planData.lehrer.map(l => `<option value="${l}">${l}</option>`).join("");
   document.getElementById("content").innerHTML = `
-    <div class="setup-screen">
-      <div style="font-size:64px;margin-bottom:16px">📋</div>
-      <h2>Wähle dein Kürzel</h2>
-      <select id="setupSelect">${options}</select><br>
+    <div class="setup-screen card">
+      <div class="icon">📋</div>
+      <h2>Dein Vertretungsplan</h2>
+      <p class="desc">Wähle dein Kürzel, um deinen<br>persönlichen Plan zu sehen.</p>
+      <select id="setupSelect">${opts}</select><br>
       <button class="btn" onclick="setupDone()">Plan anzeigen</button>
-      <p>Tipp: Danach „Zum Home-Bildschirm" wählen,<br>dann hast du deinen Plan mit einem Tipp!</p>
-    </div>
-  `;
+      <p class="hint">Tipp: Danach „Zum Home-Bildschirm" hinzufügen —<br>dann hast du deinen Plan mit einem Tipp.</p>
+    </div>`;
 }
 
 function setupDone() {
-  const code = document.getElementById("setupSelect").value;
-  currentTeacher = code;
-  saveTeacher(code);
+  currentTeacher = document.getElementById("setupSelect").value;
+  saveTeacher(currentTeacher);
   renderTeacherSelect();
   renderPlan();
 }
@@ -345,95 +475,124 @@ function renderPlan() {
 
   const days = planData.tage || {};
   const dayKeys = Object.keys(days).sort();
-
-  if (dayKeys.length === 0) {
-    document.getElementById("content").innerHTML =
-      '<div class="empty-state"><div class="icon">📭</div><h2>Keine Pläne verfügbar</h2><p>Aktuell sind keine Tagespläne vorhanden.</p></div>';
+  if (!dayKeys.length) {
+    document.getElementById("content").innerHTML = '<div class="loading">Keine Pläne verfügbar.</div>';
     return;
   }
 
-  // Update-Info
-  document.getElementById("updateInfo").textContent =
-    `Stand: ${planData.generiert || "unbekannt"}`;
+  // Nav
+  const d1 = parseDate(dayKeys[0]), d2 = parseDate(dayKeys[dayKeys.length-1]);
+  document.getElementById("navTitle").textContent = currentTeacher;
+  document.getElementById("navSubtitle").textContent = `${d1.getDate()}. ${MONTH[d1.getMonth()]} – ${d2.getDate()}. ${MONTH[d2.getMonth()]} ${d2.getFullYear()} · Stand ${planData.generiert?.split(",")[1]?.trim() || ""}`;
 
-  let html = "";
+  // Find max period
+  let maxP = 0;
+  for (const dk of dayKeys) {
+    const td = days[dk].lehrer?.[currentTeacher];
+    if (td) for (const e of td.entries) { const p = parseInt(e.stunde); if (p > maxP) maxP = p; }
+  }
+  if (maxP === 0) maxP = 6;
 
-  for (const dateKey of dayKeys) {
-    const day = days[dateKey];
-    const teacherData = day.lehrer?.[currentTeacher];
+  // Build grid
+  const grid = {};
+  for (const dk of dayKeys) {
+    grid[dk] = {};
+    const td = days[dk].lehrer?.[currentTeacher];
+    if (td) for (const e of td.entries) grid[dk][e.stunde] = e;
+  }
 
-    if (!teacherData || teacherData.entries.length === 0) continue;
+  // Today
+  const now = new Date();
+  const todayStr = now.getFullYear() + String(now.getMonth()+1).padStart(2,"0") + String(now.getDate()).padStart(2,"0");
+  const nowMins = now.getHours()*60 + now.getMinutes();
 
-    const changeCount = teacherData.entries.filter(e => e.geaendert || e.info).length;
-    const badgeHtml = changeCount > 0
-      ? `<span class="badge">${changeCount} Änderung${changeCount > 1 ? "en" : ""}</span>`
-      : `<span class="badge ok">Keine Änderungen</span>`;
+  // Week label
+  const weekNum = getISOWeek(d1);
 
-    html += `<div class="day-card">`;
-    html += `<div class="day-header"><span>${day.datum}</span>${badgeHtml}</div>`;
+  let html = `<div class="week-header">Kalenderwoche ${weekNum}</div>`;
+  html += '<div class="card"><table class="plan-table">';
 
-    for (const entry of teacherData.entries) {
-      const time = TIMES[entry.stunde] || "";
-      const isCancelled = entry.fach === "---";
-      const changedClass = (entry.geaendert || entry.info) ? " changed" : "";
-      const cancelledClass = isCancelled ? " lesson-cancelled" : "";
+  // Header
+  html += '<thead><tr><th class="col-std" style="text-align:left;padding-left:20px">Std</th>';
+  for (const dk of dayKeys) {
+    const d = parseDate(dk);
+    const dow = DOW[d.getDay()] || "";
+    const isToday = dk === todayStr;
+    html += `<th><div class="day-th-wrap${isToday ? " day-today" : ""}">
+      <div class="day-name">${dow}</div>
+      <div class="day-date">${isToday ? '<span style="background:#1d1d1f;color:white;width:26px;height:26px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:13px">'+d.getDate()+'</span>' : d.getDate()+'.'}</div>
+    </div></th>`;
+  }
+  html += '</tr></thead><tbody>';
 
-      let subjectText = entry.fach;
-      let detailParts = [];
-      if (entry.klasse) detailParts.push(entry.klasse);
-      if (entry.raum) detailParts.push("R." + entry.raum);
+  for (let pi = 0; pi < maxP; pi++) {
+    const period = PERIODS[pi];
+    const timeStart = TIMES[period] || "";
+    const timeEnd = TIMES_END[period] || "";
 
-      html += `
-        <div class="lesson${changedClass}${cancelledClass}">
-          <div class="lesson-time">
-            <div class="period">${entry.stunde}</div>
-            <div class="time">${time}</div>
-          </div>
-          <div class="lesson-content">
-            <div class="lesson-subject">${subjectText}</div>
-            ${detailParts.length ? `<div class="lesson-details">${detailParts.join(" · ")}</div>` : ""}
-            ${entry.info ? `<div class="lesson-info">${entry.info}</div>` : ""}
-          </div>
-        </div>
-      `;
+    // Now line
+    if (dayKeys.includes(todayStr) && timeStart) {
+      const [h,m] = timeStart.split(":").map(Number);
+      if (nowMins >= h*60+m-5 && nowMins < h*60+m+5) {
+        html += `<tr class="now-line"><td colspan="${dayKeys.length+1}"></td></tr>`;
+      }
     }
 
-    html += `</div>`;
+    html += '<tr>';
+    html += `<td class="std-cell"><div class="std-num">${period}</div><div class="std-time">${timeStart}</div></td>`;
+
+    for (const dk of dayKeys) {
+      const e = grid[dk]?.[period];
+
+      if (!e) {
+        html += '<td class="day-cell empty">·</td>';
+        continue;
+      }
+
+      const isChanged = e.geaendert || e.info;
+      const isCancelled = e.fach === "---";
+      const hasInfo = !!e.info;
+      const cls = isCancelled ? "day-cell changed cancelled" : isChanged ? "day-cell changed" : "day-cell";
+      const infoClick = hasInfo ? ` onclick="showInfo('${e.info.replace(/'/g, "\\'")}')"` : "";
+      const dot = hasInfo ? '<div class="info-dot"></div>' : "";
+
+      html += `<td class="${cls}"${infoClick}>
+        ${dot}
+        <div class="subject">${e.fach}</div>
+        <div class="klasse">${e.klasse}</div>
+        <div class="room">${e.raum}</div>
+      </td>`;
+    }
+    html += '</tr>';
   }
 
-  if (!html) {
-    html = '<div class="empty-state"><div class="icon">🎉</div><h2>Kein Unterricht</h2><p>Für die nächsten Tage sind keine Stunden eingetragen.</p></div>';
-  }
-
+  html += '</tbody></table></div>';
   document.getElementById("content").innerHTML = html;
 }
 
-// Auto-Refresh alle 2 Minuten
-async function refresh() {
-  const ok = await loadData();
-  if (ok && currentTeacher) renderPlan();
+function getISOWeek(d) {
+  const date = new Date(d.getTime());
+  date.setHours(0,0,0,0);
+  date.setDate(date.getDate() + 3 - (date.getDay() + 6) % 7);
+  const week1 = new Date(date.getFullYear(), 0, 4);
+  return 1 + Math.round(((date - week1) / 86400000 - 3 + (week1.getDay() + 6) % 7) / 7);
 }
 
-// Init
 (async function() {
   const ok = await loadData();
   if (!ok) {
-    document.getElementById("content").innerHTML =
-      '<div class="no-data">Daten werden geladen...<br>Falls dies dein erster Besuch ist, warte kurz, bis der erste Datensatz generiert wurde.</div>';
+    document.getElementById("content").innerHTML = '<div class="loading">Daten werden geladen...</div>';
+    document.getElementById("navSubtitle").textContent = "Keine Verbindung";
     return;
   }
-
   currentTeacher = getTeacher();
-
   if (currentTeacher && planData.lehrer?.includes(currentTeacher)) {
     renderTeacherSelect();
     renderPlan();
   } else {
     renderSetup();
   }
-
-  // Auto-refresh
-  setInterval(refresh, 120000);
+  setInterval(doRefresh, 120000);
 })();
 </script>
 </body>
