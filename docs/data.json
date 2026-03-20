@@ -1,6 +1,6 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "20.03.2026, 07:36 Uhr",
+ "generiert": "20.03.2026, 09:59 Uhr",
  "lehrer": [
   "Bar",
   "Bes",
@@ -22024,7 +22024,7 @@
    "tage": {
     "20260323": {
      "datum": "Montag, 23. März 2026",
-     "zeitstempel": "19.03.2026, 14:04",
+     "zeitstempel": "20.03.2026, 10:16",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -24196,25 +24196,25 @@
     },
     "20260324": {
      "datum": "Dienstag, 24. März 2026",
-     "zeitstempel": "19.03.2026, 14:04",
+     "zeitstempel": "20.03.2026, 10:16",
      "lehrer": {
       "Bar": {
        "entries": [
         {
          "stunde": "3",
-         "fach": "inf1",
-         "klasse": "11A-11D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 11A-11D Bir, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "inf1",
-         "klasse": "11A-11D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 11A-11D Bir, Aufsicht",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -24258,6 +24258,22 @@
       },
       "Bir": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "inf1",
+         "klasse": "11A-11D",
+         "raum": "K10",
+         "info": "für Inf Bar, Aufsicht",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "inf1",
+         "klasse": "11A-11D",
+         "raum": "K10",
+         "info": "für Inf Bar, Aufsicht",
+         "geaendert": true
+        },
         {
          "stunde": "7",
          "fach": "Mu",
@@ -26277,7 +26293,7 @@
     },
     "20260325": {
      "datum": "Mittwoch, 25. März 2026",
-     "zeitstempel": "19.03.2026, 14:04",
+     "zeitstempel": "20.03.2026, 10:16",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -28383,7 +28399,7 @@
     },
     "20260326": {
      "datum": "Donnerstag, 26. März 2026",
-     "zeitstempel": "19.03.2026, 14:04",
+     "zeitstempel": "20.03.2026, 10:16",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -30802,7 +30818,7 @@
     },
     "20260327": {
      "datum": "Freitag, 27. März 2026",
-     "zeitstempel": "19.03.2026, 13:33",
+     "zeitstempel": "20.03.2026, 10:16",
      "lehrer": {
       "Bar": {
        "entries": [
