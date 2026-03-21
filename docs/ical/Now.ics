@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ernst-Barlach-Gymnasium//Vertretungsplan//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ernst-Barlach-Gymnasium – Now
+X-WR-CALDESC:Persönlicher Vertretungsplan
+X-WR-LASTUPDATED:20260321T220040Z
+END:VCALENDAR
