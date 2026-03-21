@@ -7,9 +7,11 @@ Liefert immer volle Wochen (Mo-Fr), gruppiert nach KW:
 """
 
 import requests
+import requests.exceptions
 import json
 import os
 import sys
+import time
 from datetime import datetime, timedelta
 from xml.etree import ElementTree as ET
 
@@ -21,17 +23,39 @@ HEADERS = {"User-Agent": "Vertretungsplan-Notify/2.0"}
 OUTPUT = os.environ.get("OUTPUT_FILE", "docs/data.json")
 
 
-def fetch_xml(path: str) -> ET.Element | None:
+def fetch_xml(path: str, retries: int = 3) -> ET.Element | None:
+    """Ruft eine XML-Datei vom Stundenplan-Server ab (mit Retry + Backoff)."""
     url = f"{BASE_URL}/{path}"
-    try:
-        r = requests.get(url, auth=AUTH, headers=HEADERS, timeout=30)
-        if r.status_code == 404:
+    for attempt in range(1, retries + 1):
+        try:
+            r = requests.get(url, auth=AUTH, headers=HEADERS, timeout=30)
+            if r.status_code == 404:
+                return None
+            if r.status_code == 401:
+                print(f"  ✗ Authentifizierung fehlgeschlagen für {path} (401)")
+                return None
+            r.raise_for_status()
+            return ET.fromstring(r.text)
+        except requests.exceptions.Timeout:
+            print(f"  ✗ Timeout bei {path} (Versuch {attempt}/{retries})")
+        except requests.exceptions.ConnectionError:
+            print(f"  ✗ Verbindungsfehler bei {path} (Versuch {attempt}/{retries})")
+        except requests.exceptions.HTTPError as e:
+            print(f"  ✗ HTTP-Fehler {e.response.status_code} bei {path} (Versuch {attempt}/{retries})")
+        except ET.ParseError:
+            print(f"  ✗ Ungültiges XML von {path}")
             return None
-        r.raise_for_status()
-        return ET.fromstring(r.text)
-    except Exception as e:
-        print(f"  Fehler: {path}: {e}")
-        return None
+        except Exception as e:
+            print(f"  ✗ Unerwarteter Fehler bei {path}: {e}")
+            return None
+
+        if attempt < retries:
+            wait = 2 ** attempt  # 2s, 4s
+            print(f"    Warte {wait}s vor erneutem Versuch...")
+            time.sleep(wait)
+
+    print(f"  ✗ {path} nach {retries} Versuchen nicht erreichbar")
+    return None
 
 
 def get_teacher_list() -> list[str]:
@@ -133,7 +157,10 @@ def main():
     print(f"=== Generiere data.json ({now.strftime('%d.%m.%Y %H:%M')}) ===")
 
     lehrer_list = get_teacher_list()
-    print(f"Lehrer: {len(lehrer_list)}")
+    if not lehrer_list:
+        print("\n✗ Stundenplan-Server nicht erreichbar oder keine Lehrer gefunden – Abbruch.")
+        sys.exit(1)
+    print(f"  Server erreichbar ✓ ({len(lehrer_list)} Lehrer)")
 
     # Berechne: aktuelle Woche + nächste Woche (jeweils Mo-Fr)
     this_monday = monday_of_week(now)

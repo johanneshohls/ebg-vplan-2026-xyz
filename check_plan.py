@@ -13,10 +13,12 @@ Datenquelle: Indiware Stundenplan24 XML-API
 """
 
 import requests
+import requests.exceptions
 import hashlib
 import json
 import os
 import sys
+import time
 from pathlib import Path
 from datetime import datetime, timedelta
 from xml.etree import ElementTree as ET
@@ -36,18 +38,39 @@ STUNDEN_ZEITEN = {
 }
 
 
-def fetch_xml(path: str) -> ET.Element | None:
-    """Ruft eine XML-Datei vom Stundenplan-Server ab."""
+def fetch_xml(path: str, retries: int = 3) -> ET.Element | None:
+    """Ruft eine XML-Datei vom Stundenplan-Server ab (mit Retry + Backoff)."""
     url = f"{BASE_URL}/{path}"
-    try:
-        r = requests.get(url, auth=AUTH, headers=HEADERS, timeout=30)
-        if r.status_code == 404:
+    for attempt in range(1, retries + 1):
+        try:
+            r = requests.get(url, auth=AUTH, headers=HEADERS, timeout=30)
+            if r.status_code == 404:
+                return None
+            if r.status_code == 401:
+                print(f"  ✗ Authentifizierung fehlgeschlagen für {path} (401)")
+                return None
+            r.raise_for_status()
+            return ET.fromstring(r.text)
+        except requests.exceptions.Timeout:
+            print(f"  ✗ Timeout bei {path} (Versuch {attempt}/{retries})")
+        except requests.exceptions.ConnectionError:
+            print(f"  ✗ Verbindungsfehler bei {path} (Versuch {attempt}/{retries})")
+        except requests.exceptions.HTTPError as e:
+            print(f"  ✗ HTTP-Fehler {e.response.status_code} bei {path} (Versuch {attempt}/{retries})")
+        except ET.ParseError:
+            print(f"  ✗ Ungültiges XML von {path}")
             return None
-        r.raise_for_status()
-        return ET.fromstring(r.text)
-    except Exception as e:
-        print(f"  Fehler beim Abrufen von {path}: {e}")
-        return None
+        except Exception as e:
+            print(f"  ✗ Unerwarteter Fehler bei {path}: {e}")
+            return None
+
+        if attempt < retries:
+            wait = 2 ** attempt  # 2s, 4s
+            print(f"    Warte {wait}s vor erneutem Versuch...")
+            time.sleep(wait)
+
+    print(f"  ✗ {path} nach {retries} Versuchen nicht erreichbar")
+    return None
 
 
 def parse_daily_plan(date_str: str) -> tuple[dict, str, str]:
@@ -203,6 +226,13 @@ def main():
 
     state = load_state()
     changed_total = 0
+
+    # Erreichbarkeitstest: Basis-XML abrufen
+    test = fetch_xml("wdatenl/SPlanLe_Basis.xml")
+    if test is None:
+        print("\n✗ Stundenplan-Server nicht erreichbar – Abbruch.")
+        sys.exit(1)
+    print(f"  Server erreichbar ✓")
 
     # Prüfe heute + nächste 4 Werktage
     dates = []
