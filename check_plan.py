@@ -44,6 +44,8 @@ STUNDEN_ZEITEN = {
     "1": "07:40", "2": "08:25", "3": "09:40", "4": "10:25",
     "5": "11:40", "6": "12:25", "7": "13:40", "8": "14:25",
 }
+# Nach wie vielen aufeinanderfolgenden Fehlschlägen eine Monitoring-Warnung gesendet wird
+FETCH_FAIL_ALERT_THRESHOLD = 6  # ~30 min bei 5-min-Intervall
 
 
 def fetch_xml(path: str, retries: int = 3) -> ET.Element | None:
@@ -263,12 +265,32 @@ def main():
 
     state = load_state()
     changed_total = 0
+    consecutive_failures = state.get("_consecutive_fetch_failures", 0)
 
     # Erreichbarkeitstest: Basis-XML abrufen
     test = fetch_xml("wdatenl/SPlanLe_Basis.xml")
     if test is None:
-        log.error("Stundenplan-Server nicht erreichbar – Abbruch.")
+        consecutive_failures += 1
+        state["_consecutive_fetch_failures"] = consecutive_failures
+        log.error("Stundenplan-Server nicht erreichbar (Fehler #%d in Folge)", consecutive_failures)
+
+        if consecutive_failures == FETCH_FAIL_ALERT_THRESHOLD:
+            log.warning("Schwellwert erreicht (%d Fehlschläge) – sende Monitoring-Alert", FETCH_FAIL_ALERT_THRESHOLD)
+            send_notification(
+                NTFY_TOPIC_PREFIX,
+                "⚠️ Vplan-Server nicht erreichbar",
+                f"Der Stundenplan-Server ist seit {consecutive_failures} aufeinanderfolgenden Prüfungen "
+                f"(ca. {consecutive_failures * 5} min) nicht erreichbar.",
+                priority="urgent",
+            )
+
+        save_state(state)
         sys.exit(1)
+
+    # Server erreichbar → Fehlerzähler zurücksetzen
+    if consecutive_failures > 0:
+        log.info("Server wieder erreichbar nach %d Fehlschlägen", consecutive_failures)
+    state["_consecutive_fetch_failures"] = 0
     log.info("Server erreichbar")
 
     # Prüfe heute + nächste 4 Werktage
@@ -326,9 +348,9 @@ def main():
             else:
                 state[key] = data["hash"]
 
-    # Alte Einträge aufräumen (> 14 Tage)
+    # Alte Einträge aufräumen (> 14 Tage), Metadaten-Keys (mit _ Prefix) behalten
     cutoff = (now - timedelta(days=14)).strftime("%Y%m%d")
-    state = {k: v for k, v in state.items() if k.split("_")[-1] >= cutoff}
+    state = {k: v for k, v in state.items() if k.startswith("_") or k.split("_")[-1] >= cutoff}
 
     save_state(state)
     log.info("=== Fertig: %d Änderungen ===", changed_total)
