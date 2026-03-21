@@ -263,7 +263,15 @@ def main():
                 continue
 
             if data["hash"] != old_hash:
-                print(f"  ÄNDERUNG: {kurz}")
+                state[key] = data["hash"]
+
+                if not data["changes"]:
+                    # Plan hat sich geändert, aber keine echten Vertretungen → kein Push
+                    print(f"  Plan aktualisiert (keine Vertretungen): {kurz}")
+                    continue
+
+                # Echte Vertretung erkannt → benachrichtigen
+                print(f"  VERTRETUNG: {kurz}")
                 title, message = format_notification(kurz, datum, data)
 
                 # Persönliche Notification
@@ -273,11 +281,10 @@ def main():
                 # Globale Notification (optional)
                 send_notification(
                     NTFY_TOPIC_PREFIX, title,
-                    f"Planänderung für {kurz} am {datum}",
+                    f"Vertretung für {kurz} am {datum}",
                     priority="default"
                 )
 
-                state[key] = data["hash"]
                 changed_total += 1
             else:
                 state[key] = data["hash"]
