@@ -22,10 +22,10 @@ Grundfunktionalität: automatisches Prüfen, Benachrichtigen und Web-App-Ausgabe
 Stabilität und Fehlerbehandlung: der Checker soll robuster gegen Netzwerk- und Format-Probleme werden.
 
 - [x] Fehlerbehandlung bei nicht erreichbarem Vplan (Timeout, HTTP-Fehler) (3)
-- [ ] Retry-Logik bei fehlgeschlagener ntfy-Benachrichtigung (2)
-- [ ] Logging: Fehler und Planänderungen strukturiert in Workflow-Logs ausgeben (2)
-- [ ] Parsing-Logik gegen unerwartete Vplan-Formate absichern (3)
-- [ ] Benachrichtigung bei dauerhaft fehlgeschlagenem Abruf (Monitoring) (3)
+- [x] Retry-Logik bei fehlgeschlagener ntfy-Benachrichtigung (2)
+- [x] Logging: Fehler und Planänderungen strukturiert in Workflow-Logs ausgeben (2)
+- [x] Parsing-Logik gegen unerwartete Vplan-Formate absichern (3)
+- [x] Benachrichtigung bei dauerhaft fehlgeschlagenem Abruf (Monitoring) (3)
 
 ## Milestone: v1.2
 
