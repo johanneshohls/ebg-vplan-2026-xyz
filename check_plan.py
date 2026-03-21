@@ -182,24 +182,34 @@ def format_notification(kurz: str, datum: str, data: dict) -> tuple[str, str]:
     return title, "\n".join(lines)
 
 
-def send_notification(topic: str, title: str, message: str, priority: str = "high"):
-    """Sendet eine Push-Notification über ntfy.sh."""
-    try:
-        resp = requests.post(
-            f"https://ntfy.sh/{topic}",
-            data=message.encode("utf-8"),
-            headers={
-                "Title": title,
-                "Priority": priority,
-                "Tags": "bell,school",
-                "Click": f"{BASE_URL}/plan.html",
-            },
-            timeout=10,
-        )
-        resp.raise_for_status()
-        print(f"  ✓ Notification → {topic}")
-    except Exception as e:
-        print(f"  ✗ Fehler bei {topic}: {e}")
+def send_notification(topic: str, title: str, message: str, priority: str = "high", retries: int = 3) -> bool:
+    """Sendet eine Push-Notification über ntfy.sh (mit Retry + Backoff).
+    Gibt True zurück wenn erfolgreich, False wenn alle Versuche fehlschlagen."""
+    for attempt in range(1, retries + 1):
+        try:
+            resp = requests.post(
+                f"https://ntfy.sh/{topic}",
+                data=message.encode("utf-8"),
+                headers={
+                    "Title": title,
+                    "Priority": priority,
+                    "Tags": "bell,school",
+                    "Click": f"{BASE_URL}/plan.html",
+                },
+                timeout=10,
+            )
+            resp.raise_for_status()
+            print(f"  ✓ Notification → {topic}")
+            return True
+        except Exception as e:
+            print(f"  ✗ ntfy-Fehler bei {topic} (Versuch {attempt}/{retries}): {e}")
+            if attempt < retries:
+                wait = 2 ** attempt
+                print(f"    Warte {wait}s vor erneutem Versuch...")
+                time.sleep(wait)
+
+    print(f"  ✗ Notification an {topic} nach {retries} Versuchen fehlgeschlagen")
+    return False
 
 
 def load_state() -> dict:
