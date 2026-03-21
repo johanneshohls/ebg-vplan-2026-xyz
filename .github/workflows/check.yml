@@ -61,9 +61,16 @@ jobs:
           PLAN_PASS: ${{ secrets.PLAN_PASS }}
         run: python generate_data.py
 
+      - name: iCal-Dateien generieren
+        env:
+          PLAN_URL: ${{ secrets.PLAN_URL }}
+          PLAN_USER: ${{ secrets.PLAN_USER }}
+          PLAN_PASS: ${{ secrets.PLAN_PASS }}
+        run: python generate_ical.py
+
       - name: Änderungen committen & pushen
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data.json
+          git add docs/data.json docs/ical/
           git diff --cached --quiet || (git commit -m "Update plan data [skip ci]" && git push)
