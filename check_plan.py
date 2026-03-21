@@ -16,6 +16,7 @@ import requests
 import requests.exceptions
 import hashlib
 import json
+import logging
 import os
 import sys
 import time
@@ -23,6 +24,13 @@ from pathlib import Path
 from datetime import datetime, timedelta
 from xml.etree import ElementTree as ET
 
+# --- Logging ---
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S",
+)
+log = logging.getLogger("vplan")
 
 # --- Konfiguration (über GitHub Secrets / Umgebungsvariablen) ---
 BASE_URL = os.environ.get("PLAN_URL", "https://www.stundenplan24.de/40062811/wplan")
@@ -47,29 +55,29 @@ def fetch_xml(path: str, retries: int = 3) -> ET.Element | None:
             if r.status_code == 404:
                 return None
             if r.status_code == 401:
-                print(f"  ✗ Authentifizierung fehlgeschlagen für {path} (401)")
+                log.error("Authentifizierung fehlgeschlagen für %s (401)", path)
                 return None
             r.raise_for_status()
             return ET.fromstring(r.text)
         except requests.exceptions.Timeout:
-            print(f"  ✗ Timeout bei {path} (Versuch {attempt}/{retries})")
+            log.warning("Timeout bei %s (Versuch %d/%d)", path, attempt, retries)
         except requests.exceptions.ConnectionError:
-            print(f"  ✗ Verbindungsfehler bei {path} (Versuch {attempt}/{retries})")
+            log.warning("Verbindungsfehler bei %s (Versuch %d/%d)", path, attempt, retries)
         except requests.exceptions.HTTPError as e:
-            print(f"  ✗ HTTP-Fehler {e.response.status_code} bei {path} (Versuch {attempt}/{retries})")
+            log.warning("HTTP-Fehler %d bei %s (Versuch %d/%d)", e.response.status_code, path, attempt, retries)
         except ET.ParseError:
-            print(f"  ✗ Ungültiges XML von {path}")
+            log.error("Ungültiges XML von %s", path)
             return None
         except Exception as e:
-            print(f"  ✗ Unerwarteter Fehler bei {path}: {e}")
+            log.error("Unerwarteter Fehler bei %s: %s", path, e)
             return None
 
         if attempt < retries:
             wait = 2 ** attempt  # 2s, 4s
-            print(f"    Warte {wait}s vor erneutem Versuch...")
+            log.info("Warte %ds vor erneutem Versuch...", wait)
             time.sleep(wait)
 
-    print(f"  ✗ {path} nach {retries} Versuchen nicht erreichbar")
+    log.error("%s nach %d Versuchen nicht erreichbar", path, retries)
     return None
 
 
@@ -199,16 +207,16 @@ def send_notification(topic: str, title: str, message: str, priority: str = "hig
                 timeout=10,
             )
             resp.raise_for_status()
-            print(f"  ✓ Notification → {topic}")
+            log.info("Notification gesendet → %s", topic)
             return True
         except Exception as e:
-            print(f"  ✗ ntfy-Fehler bei {topic} (Versuch {attempt}/{retries}): {e}")
+            log.warning("ntfy-Fehler bei %s (Versuch %d/%d): %s", topic, attempt, retries, e)
             if attempt < retries:
                 wait = 2 ** attempt
-                print(f"    Warte {wait}s vor erneutem Versuch...")
+                log.info("Warte %ds vor erneutem Versuch...", wait)
                 time.sleep(wait)
 
-    print(f"  ✗ Notification an {topic} nach {retries} Versuchen fehlgeschlagen")
+    log.error("Notification an %s nach %d Versuchen fehlgeschlagen", topic, retries)
     return False
 
 
@@ -228,11 +236,11 @@ def save_state(state: dict):
 
 def main():
     if not PLAN_PASS:
-        print("ERROR: PLAN_PASS nicht gesetzt.")
+        log.critical("PLAN_PASS nicht gesetzt.")
         sys.exit(1)
 
     now = datetime.now()
-    print(f"=== Vertretungsplan-Check {now.strftime('%d.%m.%Y %H:%M')} ===")
+    log.info("=== Vertretungsplan-Check %s ===", now.strftime("%d.%m.%Y %H:%M"))
 
     state = load_state()
     changed_total = 0
@@ -240,9 +248,9 @@ def main():
     # Erreichbarkeitstest: Basis-XML abrufen
     test = fetch_xml("wdatenl/SPlanLe_Basis.xml")
     if test is None:
-        print("\n✗ Stundenplan-Server nicht erreichbar – Abbruch.")
+        log.error("Stundenplan-Server nicht erreichbar – Abbruch.")
         sys.exit(1)
-    print(f"  Server erreichbar ✓")
+    log.info("Server erreichbar")
 
     # Prüfe heute + nächste 4 Werktage
     dates = []
@@ -255,13 +263,13 @@ def main():
             break
 
     for date_str in dates:
-        print(f"\n--- {date_str} ---")
+        log.info("--- Prüfe %s ---", date_str)
         daily, datum, zeitstempel = parse_daily_plan(date_str)
         if not daily:
-            print("  Kein Plan verfügbar")
+            log.info("Kein Plan verfügbar für %s", date_str)
             continue
 
-        print(f"  {len(daily)} Lehrer, Stand: {zeitstempel}")
+        log.info("%d Lehrer geladen, Stand: %s", len(daily), zeitstempel)
 
         for kurz, data in daily.items():
             key = f"{kurz}_{date_str}"
@@ -277,11 +285,11 @@ def main():
 
                 if not data["changes"]:
                     # Plan hat sich geändert, aber keine echten Vertretungen → kein Push
-                    print(f"  Plan aktualisiert (keine Vertretungen): {kurz}")
+                    log.info("Plan aktualisiert (keine Vertretungen): %s am %s", kurz, date_str)
                     continue
 
                 # Echte Vertretung erkannt → benachrichtigen
-                print(f"  VERTRETUNG: {kurz}")
+                log.info("VERTRETUNG erkannt: %s am %s (%d Änderungen)", kurz, date_str, len(data["changes"]))
                 title, message = format_notification(kurz, datum, data)
 
                 # Persönliche Notification
@@ -304,7 +312,7 @@ def main():
     state = {k: v for k, v in state.items() if k.split("_")[-1] >= cutoff}
 
     save_state(state)
-    print(f"\n=== Fertig: {changed_total} Änderungen ===")
+    log.info("=== Fertig: %d Änderungen ===", changed_total)
 
 
 if __name__ == "__main__":
