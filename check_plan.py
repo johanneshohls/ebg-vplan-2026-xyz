@@ -81,6 +81,13 @@ def fetch_xml(path: str, retries: int = 3) -> ET.Element | None:
     return None
 
 
+def _safe_text(el, default: str = "") -> str:
+    """Extrahiert Text aus einem XML-Element, gibt default zurück wenn None/leer."""
+    if el is None:
+        return default
+    return el.text.strip() if el.text else default
+
+
 def parse_daily_plan(date_str: str) -> tuple[dict, str, str]:
     """
     Parst den Tagesplan für ein Datum (Format: YYYYMMDD).
@@ -92,64 +99,76 @@ def parse_daily_plan(date_str: str) -> tuple[dict, str, str]:
         return {}, "", ""
 
     ts_el = root.find(".//zeitstempel")
-    zeitstempel = ts_el.text if ts_el is not None else ""
+    zeitstempel = _safe_text(ts_el)
     datum_el = root.find(".//DatumPlan")
-    datum = datum_el.text if datum_el is not None else date_str
+    datum = _safe_text(datum_el, date_str)
+
+    kl_elements = root.findall(".//Kl")
+    if not kl_elements:
+        log.warning("Unerwartetes XML-Format für %s: keine <Kl>-Elemente gefunden", date_str)
+        return {}, datum, zeitstempel
 
     result = {}
 
-    for kl in root.findall(".//Kl"):
-        kurz_el = kl.find("Kurz")
-        if kurz_el is None or not kurz_el.text:
-            continue
-        kurz = kurz_el.text.strip()
+    for kl in kl_elements:
+        try:
+            kurz_el = kl.find("Kurz")
+            kurz = _safe_text(kurz_el)
+            if not kurz:
+                continue
 
-        entries = []
-        changes = []
-        pl = kl.find("Pl")
-        if pl is None:
-            continue
+            entries = []
+            changes = []
+            pl = kl.find("Pl")
+            if pl is None:
+                continue
 
-        for std in pl.findall("Std"):
-            st = std.find("St").text if std.find("St") is not None else ""
+            for std in pl.findall("Std"):
+                try:
+                    st = _safe_text(std.find("St"))
 
-            fa_el = std.find("Fa")
-            fa = fa_el.text if fa_el is not None else ""
-            fa_ae = fa_el.get("FaAe") if fa_el is not None else None
+                    fa_el = std.find("Fa")
+                    fa = _safe_text(fa_el)
+                    fa_ae = fa_el.get("FaAe") if fa_el is not None else None
 
-            le_el = std.find("Le")
-            le = le_el.text if le_el is not None else ""
-            le_ae = le_el.get("LeAe") if le_el is not None else None
+                    le_el = std.find("Le")
+                    le = _safe_text(le_el)
+                    le_ae = le_el.get("LeAe") if le_el is not None else None
 
-            ra_el = std.find("Ra")
-            ra = ra_el.text if ra_el is not None else ""
-            ra_ae = ra_el.get("RaAe") if ra_el is not None else None
+                    ra_el = std.find("Ra")
+                    ra = _safe_text(ra_el)
+                    ra_ae = ra_el.get("RaAe") if ra_el is not None else None
 
-            info_el = std.find("If")
-            info = info_el.text if info_el is not None and info_el.text else ""
+                    info = _safe_text(std.find("If"))
 
-            entry = {
-                "stunde": st,
-                "fach": fa.replace("&nbsp;", "---"),
-                "klasse": le.replace("&nbsp;", ""),
-                "raum": ra.replace("&nbsp;", ""),
-                "info": info,
-                "geaendert": bool(fa_ae or le_ae or ra_ae),
+                    entry = {
+                        "stunde": st,
+                        "fach": fa.replace("&nbsp;", "---") if fa else "---",
+                        "klasse": le.replace("&nbsp;", ""),
+                        "raum": ra.replace("&nbsp;", ""),
+                        "info": info,
+                        "geaendert": bool(fa_ae or le_ae or ra_ae),
+                    }
+                    entries.append(entry)
+
+                    if entry["geaendert"] or info:
+                        changes.append(entry)
+                except Exception as e:
+                    log.warning("Fehler beim Parsen einer Stunde für %s am %s: %s", kurz, date_str, e)
+                    continue
+
+            # Hash für Change-Detection
+            content_str = json.dumps(entries, sort_keys=True, ensure_ascii=False)
+            content_hash = hashlib.sha256(content_str.encode()).hexdigest()[:16]
+
+            result[kurz] = {
+                "hash": content_hash,
+                "entries": entries,
+                "changes": changes,
             }
-            entries.append(entry)
-
-            if entry["geaendert"] or info:
-                changes.append(entry)
-
-        # Hash für Change-Detection
-        content_str = json.dumps(entries, sort_keys=True, ensure_ascii=False)
-        content_hash = hashlib.sha256(content_str.encode()).hexdigest()[:16]
-
-        result[kurz] = {
-            "hash": content_hash,
-            "entries": entries,
-            "changes": changes,
-        }
+        except Exception as e:
+            log.warning("Fehler beim Parsen von Lehrer-Eintrag am %s: %s", date_str, e)
+            continue
 
     return result, datum, zeitstempel
 
