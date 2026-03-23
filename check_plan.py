@@ -53,7 +53,7 @@ def fetch_xml(path: str, retries: int = 3) -> ET.Element | None:
     url = f"{BASE_URL}/{path}"
     for attempt in range(1, retries + 1):
         try:
-            r = requests.get(url, auth=AUTH, headers=HEADERS, timeout=30)
+            r = requests.get(url, auth=AUTH, headers=HEADERS, timeout=10)
             if r.status_code == 404:
                 return None
             if r.status_code == 401:
