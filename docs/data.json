@@ -1,6 +1,6 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "23.03.2026, 11:12 Uhr",
+ "generiert": "23.03.2026, 12:53 Uhr",
  "lehrer": [
   "Bar",
   "Bes",
@@ -13473,7 +13473,7 @@
     },
     "20260324": {
      "datum": "Dienstag, 24. März 2026",
-     "zeitstempel": "23.03.2026, 12:08",
+     "zeitstempel": "23.03.2026, 13:28",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -14143,11 +14143,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "9A",
+         "raum": "104",
+         "info": "für En Wag, Aufsicht: Arbeit am Portfolio",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "AWT 7A verlegt nach Do (26.03.) St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "9A",
+         "raum": "104",
+         "info": "für En Wag, Aufsicht: Arbeit am Portfolio",
          "geaendert": true
         }
        ],
@@ -15034,7 +15050,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Abwesenheiten der Oberstufe einpflegen",
-         "info": "entfällt, V: Wag"
+         "info": "entfällt, V: See"
         }
        ]
       },
@@ -15336,7 +15352,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Abwesenheiten der Oberstufe einpflegen",
+         "info": "für Pri"
+        }
+       ]
       },
       "Sei": {
        "entries": [
@@ -15549,61 +15572,54 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "EN1",
-         "klasse": "11A-11D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "EN1",
-         "klasse": "11A-11D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "En",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9A Her, Aufsicht: Arbeit am Portfolio",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "En",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9A Her, Aufsicht: Arbeit am Portfolio",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Fr",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 9A selbst. (v), Selbststudium, kann zu Hause erledigt werden, Fr. Wagner schreibt eine Mail",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Fr",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 9A selbst. (v), Selbststudium, kann zu Hause erledigt werden, Fr. Wagner schreibt eine Mail",
+         "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Abwesenheiten der Oberstufe einpflegen",
-         "info": "für Pri"
-        }
-       ]
+       "aufsichten": []
       }
      }
     },
