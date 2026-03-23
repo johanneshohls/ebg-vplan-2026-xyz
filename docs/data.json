@@ -1,6 +1,6 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "23.03.2026, 08:09 Uhr",
+ "generiert": "23.03.2026, 11:12 Uhr",
  "lehrer": [
   "Bar",
   "Bes",
@@ -11285,7 +11285,7 @@
    "tage": {
     "20260323": {
      "datum": "Montag, 23. März 2026",
-     "zeitstempel": "22.03.2026, 16:02",
+     "zeitstempel": "23.03.2026, 12:08",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -13473,7 +13473,7 @@
     },
     "20260324": {
      "datum": "Dienstag, 24. März 2026",
-     "zeitstempel": "22.03.2026, 16:02",
+     "zeitstempel": "23.03.2026, 12:08",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -15609,7 +15609,7 @@
     },
     "20260325": {
      "datum": "Mittwoch, 25. März 2026",
-     "zeitstempel": "22.03.2026, 16:02",
+     "zeitstempel": "23.03.2026, 12:08",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -17716,7 +17716,7 @@
     },
     "20260326": {
      "datum": "Donnerstag, 26. März 2026",
-     "zeitstempel": "22.03.2026, 16:02",
+     "zeitstempel": "23.03.2026, 12:08",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -18106,18 +18106,34 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "eRe",
-         "klasse": "9B",
-         "raum": "107",
-         "info": "für eRe Eul",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 9B verlegt nach St.7",
          "geaendert": true
         },
         {
          "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 9B verlegt nach St.8",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
          "fach": "eRe",
          "klasse": "9B",
-         "raum": "107",
-         "info": "für eRe Eul",
+         "raum": "104",
+         "info": "eRe 9B verlegt von St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "eRe",
+         "klasse": "9B",
+         "raum": "104",
+         "info": "eRe 9B verlegt von St.2",
          "geaendert": true
         }
        ],
@@ -18949,11 +18965,27 @@
       "Kno": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "Ch",
+         "klasse": "9B",
+         "raum": "205",
+         "info": "Ch 9B verlegt von St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ch",
+         "klasse": "9B",
+         "raum": "205",
+         "info": "Ch 9B verlegt von St.4",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ch 9B verlegt nach St.7",
+         "info": "Ch 9B verlegt nach St.1",
          "geaendert": true
         },
         {
@@ -18961,7 +18993,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ch 9B verlegt nach St.8",
+         "info": "Ch 9B verlegt nach St.2",
          "geaendert": true
         },
         {
@@ -18979,22 +19011,6 @@
          "raum": "005",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "Ch",
-         "klasse": "9B",
-         "raum": "205",
-         "info": "Ch 9B verlegt von St.3",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Ch",
-         "klasse": "9B",
-         "raum": "205",
-         "info": "Ch 9B verlegt von St.4",
-         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -20135,7 +20151,7 @@
     },
     "20260327": {
      "datum": "Freitag, 27. März 2026",
-     "zeitstempel": "22.03.2026, 16:02",
+     "zeitstempel": "23.03.2026, 12:08",
      "lehrer": {
       "Bar": {
        "entries": [
