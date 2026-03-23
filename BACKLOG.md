@@ -33,6 +33,7 @@ Feature-Erweiterungen: bessere Nutzererfahrung und mehr Kontrolle.
 
 - [x] Externer Cron-Trigger via IONOS VPS (GitHub Actions Schedule unzuverlässig) (3)
 - [x] generate_ical.py: data.json statt HTTP-Calls (Wochenende/Ferien-sicher) (2)
+- [ ] ntfy Push-Notifications debuggen (keine Benachrichtigungen trotz Planänderungen) (3)
 - [ ] Web-App: Letzte Planänderung mit Zeitstempel anzeigen (3)
 - [ ] Web-App: Historische Planänderungen der letzten 7 Tage einsehbar (5)
 - [ ] Filterung nach eigenem Kurs / Fach in der Benachrichtigung (5)

@@ -23,12 +23,12 @@ HEADERS = {"User-Agent": "Vertretungsplan-Notify/2.0"}
 OUTPUT = os.environ.get("OUTPUT_FILE", "docs/data.json")
 
 
-def fetch_xml(path: str, retries: int = 3) -> ET.Element | None:
+def fetch_xml(path: str, retries: int = 2) -> ET.Element | None:
     """Ruft eine XML-Datei vom Stundenplan-Server ab (mit Retry + Backoff)."""
     url = f"{BASE_URL}/{path}"
     for attempt in range(1, retries + 1):
         try:
-            r = requests.get(url, auth=AUTH, headers=HEADERS, timeout=10)
+            r = requests.get(url, auth=AUTH, headers=HEADERS, timeout=5)
             if r.status_code == 404:
                 return None
             if r.status_code == 401:
@@ -158,8 +158,8 @@ def main():
 
     lehrer_list = get_teacher_list()
     if not lehrer_list:
-        print("\n✗ Stundenplan-Server nicht erreichbar oder keine Lehrer gefunden – Abbruch.")
-        sys.exit(1)
+        print("\n⚠ Stundenplan-Server nicht erreichbar – überspringe data.json-Update.")
+        sys.exit(0)
     print(f"  Server erreichbar ✓ ({len(lehrer_list)} Lehrer)")
 
     # Berechne: aktuelle Woche + nächste Woche (jeweils Mo-Fr)

@@ -48,12 +48,12 @@ STUNDEN_ZEITEN = {
 FETCH_FAIL_ALERT_THRESHOLD = 6  # ~30 min bei 5-min-Intervall
 
 
-def fetch_xml(path: str, retries: int = 3) -> ET.Element | None:
+def fetch_xml(path: str, retries: int = 2) -> ET.Element | None:
     """Ruft eine XML-Datei vom Stundenplan-Server ab (mit Retry + Backoff)."""
     url = f"{BASE_URL}/{path}"
     for attempt in range(1, retries + 1):
         try:
-            r = requests.get(url, auth=AUTH, headers=HEADERS, timeout=10)
+            r = requests.get(url, auth=AUTH, headers=HEADERS, timeout=5)
             if r.status_code == 404:
                 return None
             if r.status_code == 401:
@@ -285,7 +285,8 @@ def main():
             )
 
         save_state(state)
-        sys.exit(1)
+        log.info("Beende ohne Fehler (Server nicht erreichbar ist kein Workflow-Fehler)")
+        sys.exit(0)
 
     # Server erreichbar → Fehlerzähler zurücksetzen
     if consecutive_failures > 0:
