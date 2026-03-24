@@ -1,6 +1,6 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "24.03.2026, 13:07 Uhr",
+ "generiert": "24.03.2026, 14:07 Uhr",
  "lehrer": [
   "Bar",
   "Bes",
@@ -15664,7 +15664,7 @@
     },
     "20260325": {
      "datum": "Mittwoch, 25. März 2026",
-     "zeitstempel": "23.03.2026, 17:53",
+     "zeitstempel": "24.03.2026, 14:20",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -17842,7 +17842,7 @@
     },
     "20260326": {
      "datum": "Donnerstag, 26. März 2026",
-     "zeitstempel": "23.03.2026, 17:53",
+     "zeitstempel": "24.03.2026, 14:20",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -20309,7 +20309,7 @@
     },
     "20260327": {
      "datum": "Freitag, 27. März 2026",
-     "zeitstempel": "23.03.2026, 17:53",
+     "zeitstempel": "24.03.2026, 14:20",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -20626,22 +20626,6 @@
       },
       "Fla": {
        "entries": [
-        {
-         "stunde": "5",
-         "fach": "De",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "statt Di (24.03.) St.5 (De Ost)",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "De",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "statt Di (24.03.) St.6 (De Ost)",
-         "geaendert": true
-        },
         {
          "stunde": "7",
          "fach": "bio1",
@@ -22299,6 +22283,22 @@
          "raum": "008",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "statt Di (24.03.) St.5 (De Ost)",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "statt Di (24.03.) St.6 (De Ost)",
+         "geaendert": true
         },
         {
          "stunde": "9",
