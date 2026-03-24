@@ -143,18 +143,23 @@ def parse_daily_plan(date_str: str) -> tuple[dict, str, str]:
 
                     info = _safe_text(std.find("If"))
 
+                    geaendert = bool(fa_ae or le_ae or ra_ae)
                     entry = {
                         "stunde": st,
                         "fach": fa.replace("&nbsp;", "---") if fa else "---",
                         "klasse": le.replace("&nbsp;", ""),
                         "raum": ra.replace("&nbsp;", ""),
                         "info": info,
-                        "geaendert": bool(fa_ae or le_ae or ra_ae),
+                        "geaendert": geaendert,
                     }
                     entries.append(entry)
 
-                    if entry["geaendert"] or info:
+                    if geaendert or info:
                         changes.append(entry)
+                    elif fa_el is not None and fa_el.attrib:
+                        # Unbekannte Attribute loggen — hilft beim Debuggen
+                        log.debug("Unbekannte Attribute an <Fa> für %s Std %s: %s",
+                                  kurz, st, dict(fa_el.attrib))
                 except Exception as e:
                     log.warning("Fehler beim Parsen einer Stunde für %s am %s: %s", kurz, date_str, e)
                     continue
@@ -320,34 +325,49 @@ def main():
             if old_hash is None:
                 # Erster Durchlauf → speichern, nicht benachrichtigen
                 state[key] = data["hash"]
+                log.debug("Erster Durchlauf für %s am %s → Hash gespeichert", kurz, date_str)
                 continue
 
-            if data["hash"] != old_hash:
-                state[key] = data["hash"]
+            if data["hash"] == old_hash:
+                continue
 
-                if not data["changes"]:
-                    # Plan hat sich geändert, aber keine echten Vertretungen → kein Push
-                    log.info("Plan aktualisiert (keine Vertretungen): %s am %s", kurz, date_str)
-                    continue
+            # Hash hat sich geändert
+            state[key] = data["hash"]
+            log.info("Hash geändert für %s am %s (alt=%s, neu=%s)", kurz, date_str, old_hash, data["hash"])
+            log.info("  changes=%d, entries=%d", len(data["changes"]), len(data["entries"]))
 
-                # Echte Vertretung erkannt → benachrichtigen
-                log.info("VERTRETUNG erkannt: %s am %s (%d Änderungen)", kurz, date_str, len(data["changes"]))
-                title, message = format_notification(kurz, datum, data)
-
-                # Persönliche Notification
-                personal_topic = f"{NTFY_TOPIC_PREFIX}-{kurz.lower()}"
-                send_notification(personal_topic, title, message)
-
-                # Globale Notification (optional)
-                send_notification(
-                    NTFY_TOPIC_PREFIX, title,
-                    f"Vertretung für {kurz} am {datum}",
-                    priority="default"
+            # Diff: Welche Einträge haben sich geändert?
+            # changes basiert auf FaAe/LeAe/RaAe Attributen — wenn diese fehlen,
+            # erkennen wir Änderungen nur am Hash. Dann trotzdem benachrichtigen.
+            if not data["changes"]:
+                # Hash geändert, aber keine Ae-Attribute gefunden.
+                # Das ist der wahrscheinliche Bug: Vertretungen ohne Ae-Attribute.
+                # Fallback: Gesamten Plan als Änderung melden.
+                log.warning(
+                    "Hash geändert aber changes leer für %s am %s — "
+                    "Ae-Attribute fehlen vermutlich im XML. Sende Notification trotzdem.",
+                    kurz, date_str,
                 )
+                for e in data["entries"]:
+                    log.debug("  Entry: Std %s, Fach=%s, Info=%s, geaendert=%s",
+                              e["stunde"], e["fach"], e["info"], e["geaendert"])
 
-                changed_total += 1
-            else:
-                state[key] = data["hash"]
+            log.info("ÄNDERUNG erkannt: %s am %s (%d markierte Änderungen)",
+                     kurz, date_str, len(data["changes"]))
+            title, message = format_notification(kurz, datum, data)
+
+            # Persönliche Notification
+            personal_topic = f"{NTFY_TOPIC_PREFIX}-{kurz.lower()}"
+            send_notification(personal_topic, title, message)
+
+            # Globale Notification (optional)
+            send_notification(
+                NTFY_TOPIC_PREFIX, title,
+                f"Vertretung für {kurz} am {datum}",
+                priority="default"
+            )
+
+            changed_total += 1
 
     # Alte Einträge aufräumen (> 14 Tage), Metadaten-Keys (mit _ Prefix) behalten
     cutoff = (now - timedelta(days=14)).strftime("%Y%m%d")
