@@ -358,18 +358,14 @@
       margin: 0 auto 16px;
     }
 
-    /* --- Small screen fix: prevent Friday from being cut off --- */
+    /* --- Horizontal scroll for narrow screens --- */
+    .table-scroll {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
     @media (max-width: 389px) {
       main { padding: 8px; }
-      .col-std { width: 38px; }
-      .std-cell { padding-left: 8px !important; }
-      .plan-table th:first-child { padding-left: 8px; }
-      .day-cell { min-width: 44px; }
-      .plan-table td { padding: 8px 2px; font-size: 12px; }
-      .day-cell .subject { font-size: 13px; }
-      .day-cell .klasse, .day-cell .room { font-size: 11px; }
-      .std-num { font-size: 15px; }
-      .std-time { font-size: 9px; }
     }
   </style>
 </head>
@@ -566,7 +562,7 @@ function renderPlan() {
     <span onclick="changeWeek(1)" style="cursor:pointer;font-size:18px;opacity:${canNext ? '1' : '0.2'};padding:4px 8px">&rsaquo;</span>
   </div>`;
 
-  html += '<div class="card"><table class="plan-table">';
+  html += '<div class="card"><div class="table-scroll"><table class="plan-table">';
 
   // Day headers
   html += '<thead><tr><th class="col-std" style="text-align:left;padding-left:20px"></th>';
@@ -638,7 +634,7 @@ function renderPlan() {
     html += '</tr>';
   }
 
-  html += '</tbody></table></div>';
+  html += '</tbody></table></div></div>';
   document.getElementById("content").innerHTML = html;
 }
 
