@@ -517,7 +517,10 @@ function renderPlan() {
 
   // Nav bar
   document.getElementById("navTitle").textContent = currentTeacher;
-  document.getElementById("navSubtitle").textContent = `Stand: ${planData.generiert || ""}`;
+  const lastChanged = planData.last_changed
+    ? (() => { const d = new Date(planData.last_changed); return `Letzte Änderung: ${d.toLocaleDateString("de-DE",{day:"2-digit",month:"2-digit",year:"numeric"})}, ${d.toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"})} Uhr`; })()
+    : "Keine Änderungen heute";
+  document.getElementById("navSubtitle").textContent = lastChanged;
 
   // KW nav arrows
   const kws = getKWList();
