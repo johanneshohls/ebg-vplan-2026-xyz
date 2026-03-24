@@ -180,7 +180,7 @@ def format_notification(kurz: str, datum: str, data: dict) -> tuple[str, str]:
     changes = data["changes"]
     entries = data["entries"]
 
-    title = f"📋 Plan geändert: {datum}"
+    title = f"Plan geändert: {datum}"
 
     lines = []
 
@@ -278,7 +278,7 @@ def main():
             log.warning("Schwellwert erreicht (%d Fehlschläge) – sende Monitoring-Alert", FETCH_FAIL_ALERT_THRESHOLD)
             send_notification(
                 NTFY_TOPIC_PREFIX,
-                "⚠️ Vplan-Server nicht erreichbar",
+                "Vplan-Server nicht erreichbar",
                 f"Der Stundenplan-Server ist seit {consecutive_failures} aufeinanderfolgenden Prüfungen "
                 f"(ca. {consecutive_failures * 5} min) nicht erreichbar.",
                 priority="urgent",
