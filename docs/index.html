@@ -357,6 +357,20 @@
       border-radius: 50%; animation: spin 0.7s linear infinite;
       margin: 0 auto 16px;
     }
+
+    /* --- Small screen fix: prevent Friday from being cut off --- */
+    @media (max-width: 389px) {
+      main { padding: 8px; }
+      .col-std { width: 38px; }
+      .std-cell { padding-left: 8px !important; }
+      .plan-table th:first-child { padding-left: 8px; }
+      .day-cell { min-width: 44px; }
+      .plan-table td { padding: 8px 2px; font-size: 12px; }
+      .day-cell .subject { font-size: 13px; }
+      .day-cell .klasse, .day-cell .room { font-size: 11px; }
+      .std-num { font-size: 15px; }
+      .std-time { font-size: 9px; }
+    }
   </style>
 </head>
 <body>
