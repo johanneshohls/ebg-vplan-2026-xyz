@@ -1,6 +1,6 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "23.03.2026, 16:50 Uhr",
+ "generiert": "24.03.2026, 07:07 Uhr",
  "lehrer": [
   "Bar",
   "Bes",
@@ -13473,7 +13473,7 @@
     },
     "20260324": {
      "datum": "Dienstag, 24. März 2026",
-     "zeitstempel": "23.03.2026, 13:28",
+     "zeitstempel": "23.03.2026, 17:53",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -13531,10 +13531,33 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus und Caféteria",
+         "info": "für Rat"
+        }
+       ]
       },
       "Bir": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Mu",
+         "klasse": "7B",
+         "raum": "107",
+         "info": "für Ku Rat",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Mu",
+         "klasse": "7B",
+         "raum": "107",
+         "info": "für Ku Rat",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "inf1",
@@ -13549,6 +13572,22 @@
          "klasse": "11A-11D",
          "raum": "K10",
          "info": "für Inf Bar, Aufsicht",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Mu",
+         "klasse": "9A",
+         "raum": "104",
+         "info": "für eRe Rat",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Mu",
+         "klasse": "9A",
+         "raum": "104",
+         "info": "für eRe Rat",
          "geaendert": true
         },
         {
@@ -13836,7 +13875,7 @@
          "stunde": "1",
          "fach": "eRe",
          "klasse": "8A",
-         "raum": "107",
+         "raum": "Aula",
          "info": "eRe 8A statt Fr (27.03.) St.1",
          "geaendert": true
         },
@@ -13844,7 +13883,7 @@
          "stunde": "2",
          "fach": "eRe",
          "klasse": "8A",
-         "raum": "107",
+         "raum": "Aula",
          "info": "eRe 8A statt Fr (27.03.) St.2",
          "geaendert": true
         },
@@ -13943,7 +13982,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 7A verlegt nach Do (26.03.) St.5",
+         "info": "Geo 7A verlegt nach Do (26.03.) St.5 (Puk)",
          "geaendert": true
         },
         {
@@ -13951,24 +13990,24 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 7A verlegt nach Do (26.03.) St.6",
+         "info": "Geo 7A verlegt nach Do (26.03.) St.6 (Puk)",
          "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "De",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7C fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "De",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7C fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14989,7 +15028,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 9B verlegt nach Fr (27.03.) St.5",
+         "info": "De 9B verlegt nach Fr (27.03.) St.5 (Fla)",
          "geaendert": true
         },
         {
@@ -14997,7 +15036,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 9B verlegt nach Fr (27.03.) St.6",
+         "info": "De 9B verlegt nach Fr (27.03.) St.6 (Fla)",
          "geaendert": true
         },
         {
@@ -15095,51 +15134,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ku",
-         "klasse": "7B",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 7B Bir (für Ku)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ku",
-         "klasse": "7B",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 7B Bir (für Ku)",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "eRe",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 9A Bir (für eRe)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "eRe",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 9A Bir (für eRe)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Ku",
-         "klasse": "8C",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 8C fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ku",
-         "klasse": "8C",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 8C fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -15147,7 +15186,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Haus und Caféteria",
-         "info": ""
+         "info": "entfällt, V: Bes"
         }
        ]
       },
@@ -15625,7 +15664,7 @@
     },
     "20260325": {
      "datum": "Mittwoch, 25. März 2026",
-     "zeitstempel": "23.03.2026, 12:08",
+     "zeitstempel": "23.03.2026, 17:53",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -15850,6 +15889,22 @@
       "Bod": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "Sp",
+         "klasse": "7C",
+         "raum": "Tu2",
+         "info": "für De Fla",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Sp",
+         "klasse": "7C",
+         "raum": "Tu2",
+         "info": "für De Fla",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "sp2",
          "klasse": "12A-12E",
@@ -16065,35 +16120,35 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7C Bod (für De)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7C Bod (für De)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "GS04",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS04 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS04",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS04 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -16101,7 +16156,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Hof 1 und Container",
-         "info": ""
+         "info": "entfällt, V: Köh"
         }
        ]
       },
@@ -16587,6 +16642,22 @@
       "Kno": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "Ch",
+         "klasse": "9B",
+         "raum": "K12",
+         "info": "für De Ost",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ch",
+         "klasse": "9B",
+         "raum": "K12",
+         "info": "für De Ost",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "w1",
          "klasse": "11A-11D",
@@ -16672,7 +16743,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof 1 und Container",
+         "info": "für Fla"
+        }
+       ]
       },
       "Lam": {
        "entries": [
@@ -16901,6 +16979,22 @@
          "raum": "005",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "Ma 8B statt Do (26.03.) St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "Ma 8B statt Do (26.03.) St.8",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -17040,51 +17134,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 9B Kno (für De)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "De",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 9B Kno (für De)",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Bio",
-         "klasse": "9B",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9B See",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Bio",
-         "klasse": "9B",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9B See",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "ILZ",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 8B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "KL",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 8B fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -17405,6 +17499,22 @@
          "klasse": "",
          "raum": "",
          "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "9B",
+         "raum": "204",
+         "info": "für Bio Ost",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Bio",
+         "klasse": "9B",
+         "raum": "204",
+         "info": "für Bio Ost",
          "geaendert": true
         },
         {
@@ -17732,7 +17842,7 @@
     },
     "20260326": {
      "datum": "Donnerstag, 26. März 2026",
-     "zeitstempel": "23.03.2026, 12:08",
+     "zeitstempel": "23.03.2026, 17:53",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17751,6 +17861,22 @@
          "raum": "K10",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ph",
+         "klasse": "8A",
+         "raum": "205",
+         "info": "verlegt von St.7 (Ph Bob)",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ph",
+         "klasse": "8A",
+         "raum": "205",
+         "info": "verlegt von St.8 (Ph Bob)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -17766,11 +17892,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "En",
+         "klasse": "",
+         "raum": "102",
+         "info": "Aufsicht über Vorbereitung der Englisch-Kompetenz-Prüfungen; Ph 9D gehalten am Mi (25.03.) St.1 (Bes)",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ph 9D gehalten am Mi (25.03.) St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "En",
+         "klasse": "",
+         "raum": "102",
+         "info": "Aufsicht über Vorbereitung der Englisch-Kompetenz-Prüfungen; Ph 9D gehalten am Mi (25.03.) St.2 (Bes)",
          "geaendert": true
         },
         {
@@ -17927,7 +18069,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ph 8A selbst. (v), Selbststudium, Fr. Bobert erteilt Aufgaben, kann zu Hause erledigt werden",
+         "info": "Ph 8A verlegt nach St.5 (Bar)",
          "geaendert": true
         },
         {
@@ -17935,7 +18077,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ph 8A selbst. (v), Selbststudium, Fr. Bobert erteilt Aufgaben, kann zu Hause erledigt werden",
+         "info": "Ph 8A verlegt nach St.6 (Bar)",
          "geaendert": true
         }
        ],
@@ -18218,51 +18360,19 @@
       "Fla": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "En",
-         "klasse": "",
-         "raum": "102",
-         "info": "Aufsicht über Vorbereitung der Englisch-Kompetenz-Prüfungen",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "En",
-         "klasse": "",
-         "raum": "102",
-         "info": "Aufsicht über Vorbereitung der Englisch-Kompetenz-Prüfungen",
-         "geaendert": true
-        },
-        {
          "stunde": "3",
-         "fach": "ILZ",
-         "klasse": "7C",
-         "raum": "Co3",
-         "info": "für ILZ Fla",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7C Schil (für ILZ)",
          "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "KL",
-         "klasse": "7C",
-         "raum": "Co3",
-         "info": "für KL Fla",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "Bio",
-         "klasse": "7A",
-         "raum": "204",
-         "info": "Bio 7A statt Di (24.03.) St.5",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Bio",
-         "klasse": "7A",
-         "raum": "204",
-         "info": "Bio 7A statt Di (24.03.) St.6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7C Schil (für KL)",
          "geaendert": true
         }
        ],
@@ -19241,19 +19351,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Ma",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8B gehalten am Mi (25.03.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8B gehalten am Mi (25.03.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -19396,52 +19506,36 @@
       "Ost": {
        "entries": [
         {
-         "stunde": "3",
-         "fach": "De",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "für Ge Schud",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "De",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "für Ge Schud",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
-         "fach": "De",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8A fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "De",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8A fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "de3",
-         "klasse": "12A-12E",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12E selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "de3",
-         "klasse": "12A-12E",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12E selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -19580,6 +19674,22 @@
          "raum": "007",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Geo",
+         "klasse": "7A",
+         "raum": "204",
+         "info": "statt Di (24.03.) St.5 (Bio Fla)",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Geo",
+         "klasse": "7A",
+         "raum": "204",
+         "info": "statt Di (24.03.) St.6 (Bio Fla)",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -19654,6 +19764,22 @@
       },
       "Schil": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "7C",
+         "raum": "101",
+         "info": "für ILZ Fla",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "7C",
+         "raum": "101",
+         "info": "für KL Fla",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "DE1",
@@ -19765,7 +19891,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 7D Ost (für Ge)",
+         "info": "Ge 7D Tie",
          "geaendert": true
         },
         {
@@ -19773,7 +19899,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 7D Ost (für Ge)",
+         "info": "Ge 7D Tie",
          "geaendert": true
         },
         {
@@ -20000,10 +20126,26 @@
       "Tie": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "Ge",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für Ge Schud",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ge",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für Ge Schud",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "ILZ",
          "klasse": "8D",
-         "raum": "205",
+         "raum": "K07",
          "info": "ILZ 8D statt Mo (23.03.) St.7",
          "geaendert": true
         },
@@ -20011,7 +20153,7 @@
          "stunde": "6",
          "fach": "KL",
          "klasse": "8D",
-         "raum": "205",
+         "raum": "K07",
          "info": "KL 8D statt Mo (23.03.) St.8",
          "geaendert": true
         },
@@ -20167,7 +20309,7 @@
     },
     "20260327": {
      "datum": "Freitag, 27. März 2026",
-     "zeitstempel": "23.03.2026, 12:08",
+     "zeitstempel": "23.03.2026, 17:53",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -20484,6 +20626,22 @@
       },
       "Fla": {
        "entries": [
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "statt Di (24.03.) St.5 (De Ost)",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "statt Di (24.03.) St.6 (De Ost)",
+         "geaendert": true
+        },
         {
          "stunde": "7",
          "fach": "bio1",
@@ -21464,59 +21622,43 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "2",
-         "fach": "De",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "3",
-         "fach": "De",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "4",
-         "fach": "De",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "De",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "De 9B statt Di (24.03.) St.5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8B Schuc, Aufsicht, Fr. Ostendorf erteilt Aufgaben",
          "geaendert": true
         },
         {
-         "stunde": "6",
-         "fach": "De",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "De 9B statt Di (24.03.) St.6",
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8B Schuc, Aufsicht, Fr. Ostendorf erteilt Aufgaben",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8A Ter, Aufsicht, Fr. Ostendorf erteilt Aufgaben",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8A Ter, Aufsicht, Fr. Ostendorf erteilt Aufgaben",
          "geaendert": true
         },
         {
          "stunde": "9",
-         "fach": "KL",
-         "klasse": "8B",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "KL 8B fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -21524,7 +21666,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Essenraum und Keller",
-         "info": ""
+         "info": "entfällt, V: Puk"
         }
        ]
       },
@@ -21640,7 +21782,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Essenraum und Keller",
+         "info": "für Ost"
+        }
+       ]
       },
       "Rat": {
        "entries": [
@@ -21806,6 +21955,22 @@
       },
       "Schuc": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "für De Ost, Aufsicht, Fr. Ostendorf erteilt Aufgaben",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "für De Ost, Aufsicht, Fr. Ostendorf erteilt Aufgaben",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "GE1",
@@ -22045,6 +22210,22 @@
          "raum": "005",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "für De Ost, Aufsicht, Fr. Ostendorf erteilt Aufgaben",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "für De Ost, Aufsicht, Fr. Ostendorf erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "5",
