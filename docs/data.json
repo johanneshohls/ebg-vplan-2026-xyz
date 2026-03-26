@@ -1,6 +1,6 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "26.03.2026, 13:07 Uhr",
+ "generiert": "26.03.2026, 14:07 Uhr",
  "lehrer": [
   "Bar",
   "Bes",
@@ -17842,7 +17842,7 @@
     },
     "20260326": {
      "datum": "Donnerstag, 26. März 2026",
-     "zeitstempel": "25.03.2026, 19:39",
+     "zeitstempel": "26.03.2026, 14:59",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -20357,7 +20357,7 @@
     },
     "20260327": {
      "datum": "Freitag, 27. März 2026",
-     "zeitstempel": "25.03.2026, 19:39",
+     "zeitstempel": "26.03.2026, 14:59",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -20749,51 +20749,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "sk2",
-         "klasse": "12A-12E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 12A-12E selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "sk2",
-         "klasse": "12A-12E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 12A-12E selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Sk",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7D Hoh (für Sk)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Sk",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7D Hoh (für Sk)",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "GE2",
-         "klasse": "12A-12E",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "GE2",
-         "klasse": "12A-12E",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12E selbst. (v), Selbststudium",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -20801,13 +20801,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Abwesenheiten der Oberstufe einpflegen",
-         "info": ""
-        },
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Haus und Caféteria",
-         "info": "für Hun"
+         "info": "entfällt, V: See"
         }
        ]
       },
@@ -20951,6 +20945,22 @@
          "raum": "103",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für Sk Gor",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für Sk Gor",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -21131,7 +21141,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Haus und Caféteria",
-         "info": "entfällt, V: Gor"
+         "info": "entfällt, V: Kno"
         }
        ]
       },
@@ -21308,7 +21318,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Haus und Caféteria",
+         "info": "für Hun"
+        }
+       ]
       },
       "Köh": {
        "entries": [
@@ -22134,7 +22151,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Abwesenheiten der Oberstufe einpflegen",
+         "info": "für Gor"
+        }
+       ]
       },
       "Sei": {
        "entries": [],
