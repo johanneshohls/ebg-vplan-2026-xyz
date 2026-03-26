@@ -1,6 +1,6 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "25.03.2026, 18:38 Uhr",
+ "generiert": "26.03.2026, 05:07 Uhr",
  "lehrer": [
   "Bar",
   "Bes",
@@ -17842,7 +17842,7 @@
     },
     "20260326": {
      "datum": "Donnerstag, 26. März 2026",
-     "zeitstempel": "24.03.2026, 14:20",
+     "zeitstempel": "25.03.2026, 19:39",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -18049,6 +18049,22 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "",
+         "raum": "102",
+         "info": "Aufsicht über Vorbereitung der Englisch-Kompetenz-Prüfung",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "",
+         "raum": "102",
+         "info": "Aufsicht über Vorbereitung der Englisch-Kompetenz-Prüfung",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -18140,19 +18156,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ma",
-         "klasse": "10D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10D verlegt nach St.7",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ma",
-         "klasse": "10D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10D verlegt nach St.8",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -18185,6 +18201,22 @@
          "raum": "Co2",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "Ma",
+         "klasse": "10D",
+         "raum": "Co2",
+         "info": "Ma 10D verlegt von St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Ma",
+         "klasse": "10D",
+         "raum": "Co2",
+         "info": "Ma 10D verlegt von St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -18442,51 +18474,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "sk1",
-         "klasse": "12A-12E",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 12A-12E selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "sk1",
-         "klasse": "12A-12E",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 12A-12E selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "AWT",
-         "klasse": "10D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10D verlegt nach St.5 (), Selbststudium, Aufgaben werden in Bio erteilt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "AWT",
-         "klasse": "10D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10D verlegt nach St.6 (), Selbststudium, Aufgaben werden in Bio erteilt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "GE2",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "GE2",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12E selbst. (v), Selbststudium",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -18494,7 +18526,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Hof2 und grünes Klassenzimmer",
-         "info": ""
+         "info": "entfällt, V: Hoh"
         }
        ]
       },
@@ -18758,7 +18790,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": "für Gor"
+        }
+       ]
       },
       "Hol": {
        "entries": [
@@ -19463,35 +19502,35 @@
         },
         {
          "stunde": "3",
-         "fach": "En",
-         "klasse": "",
-         "raum": "102",
-         "info": "Aufsicht über Vorbereitung der Englisch-Kompetenz-Prüfung",
+         "fach": "Span",
+         "klasse": "10D",
+         "raum": "007",
+         "info": "Span 10D verlegt von St.5",
          "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "En",
-         "klasse": "",
-         "raum": "102",
-         "info": "Aufsicht über Vorbereitung der Englisch-Kompetenz-Prüfung",
+         "fach": "Span",
+         "klasse": "10D",
+         "raum": "007",
+         "info": "Span 10D verlegt von St.6",
          "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "10D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10D verlegt nach St.3",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "10D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10D verlegt nach St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -19663,17 +19702,17 @@
          "stunde": "3",
          "fach": "Span",
          "klasse": "10B",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "raum": "104",
+         "info": "für Span Puk",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Span",
          "klasse": "10B",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "raum": "104",
+         "info": "für Span Puk",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -19697,7 +19736,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Hof 1 und Container",
-         "info": "entfällt, V: Schud"
+         "info": ""
         }
        ]
       },
@@ -19768,7 +19807,7 @@
          "stunde": "3",
          "fach": "De",
          "klasse": "7C",
-         "raum": "101",
+         "raum": "107",
          "info": "für ILZ Fla",
          "geaendert": true
         },
@@ -19776,7 +19815,7 @@
          "stunde": "4",
          "fach": "De",
          "klasse": "7C",
-         "raum": "101",
+         "raum": "107",
          "info": "für KL Fla",
          "geaendert": true
         },
@@ -19919,17 +19958,26 @@
          "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Hof 1 und Container",
-         "info": "für Puk"
-        }
-       ]
+       "aufsichten": []
       },
       "See": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Bio",
+         "klasse": "10D",
+         "raum": "201",
+         "info": "Bio 10D verlegt von St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Bio",
+         "klasse": "10D",
+         "raum": "201",
+         "info": "Bio 10D verlegt von St.8",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "BIO1",
@@ -19980,19 +20028,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Bio",
-         "klasse": "10D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10D verlegt nach St.1",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Bio",
-         "klasse": "10D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10D verlegt nach St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20309,7 +20357,7 @@
     },
     "20260327": {
      "datum": "Freitag, 27. März 2026",
-     "zeitstempel": "24.03.2026, 14:20",
+     "zeitstempel": "25.03.2026, 19:39",
      "lehrer": {
       "Bar": {
        "entries": [
