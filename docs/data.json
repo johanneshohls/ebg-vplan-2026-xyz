@@ -1,6 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "26.03.2026, 15:07 Uhr",
+ "generiert": "26.03.2026, 16:07 Uhr",
+ "last_changed": "2026-03-26T14:59:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -22454,6 +22455,5 @@
    "freitag": "20260403",
    "tage": {}
   }
- },
- "last_changed": "2026-03-23T13:28:00"
+ }
 }
