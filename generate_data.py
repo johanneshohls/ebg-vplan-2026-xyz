@@ -198,9 +198,23 @@ def main():
     # Aktuelle KW bestimmen
     aktuelle_kw = str(iso_week(now))
 
+    # Letzten Zeitstempel über alle Tage ermitteln
+    last_changed = None
+    for w in wochen.values():
+        for day in w["tage"].values():
+            ts = day.get("zeitstempel", "")
+            if ts:
+                try:
+                    dt = datetime.strptime(ts, "%d.%m.%Y, %H:%M")
+                    if last_changed is None or dt > last_changed:
+                        last_changed = dt
+                except ValueError:
+                    pass
+
     data = {
         "schule": "Ernst-Barlach-Gymnasium",
         "generiert": now.strftime("%d.%m.%Y, %H:%M Uhr"),
+        "last_changed": last_changed.isoformat() if last_changed else None,
         "lehrer": lehrer_list,
         "aktuelle_kw": aktuelle_kw,
         "wochen": wochen,

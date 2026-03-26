@@ -37,6 +37,14 @@ jobs:
           restore-keys: |
             plan-state-
 
+      - name: Cache-Status prüfen
+        run: |
+          if [ -f state.json ]; then
+            echo "✓ state.json aus Cache wiederhergestellt ($(wc -c < state.json) Bytes)"
+          else
+            echo "⚠ state.json NICHT gefunden — erster Durchlauf oder Cache verloren"
+          fi
+
       # --- Push-Notifications ---
       - name: Vertretungsplan prüfen & benachrichtigen
         env:
@@ -53,6 +61,44 @@ jobs:
           path: state.json
           key: plan-state-${{ github.run_id }}
 
+      # --- E-Mail-Fallback bei Notification-Fehler ---
+      - name: E-Mail-Fallback bei fehlgeschlagener Push-Notification
+        if: always()
+        env:
+          NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
+        run: |
+          if [ ! -f state.json ]; then exit 0; fi
+          FAILURES=$(python3 -c "
+          import json, sys
+          state = json.load(open('state.json'))
+          failures = state.get('_notification_failures', [])
+          if not failures:
+              sys.exit(0)
+          for f in failures:
+              print(f'- {f[\"lehrer\"]} am {f[\"datum\"]} (Topic: {f[\"topic\"]})')
+          " 2>/dev/null) || exit 0
+
+          if [ -z "$FAILURES" ]; then exit 0; fi
+
+          echo "::warning::Push-Notification(s) fehlgeschlagen:"
+          echo "$FAILURES"
+
+          if [ -n "$NOTIFY_EMAIL" ]; then
+            echo "Sende E-Mail-Fallback an $NOTIFY_EMAIL..."
+            # GitHub Actions kann über den Workflow selbst keine E-Mails senden.
+            # Stattdessen: ntfy als Fallback auf einen separaten Kanal mit E-Mail-Weiterleitung.
+            curl -s -o /dev/null -w "HTTP %{http_code}" \
+              -H "Title: Vplan-Notification fehlgeschlagen" \
+              -H "Priority: urgent" \
+              -H "Tags: warning" \
+              -H "Email: $NOTIFY_EMAIL" \
+              -d "Push-Benachrichtigung konnte nicht zugestellt werden:
+          $FAILURES
+
+          Bitte ntfy-Konfiguration prüfen." \
+              "https://ntfy.sh/${{ secrets.NTFY_TOPIC }}-alerts" || true
+          fi
+
       # --- Web-App aktualisieren ---
       - name: data.json für Web-App generieren
         env:
@@ -68,5 +114,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data.json docs/ical/
+          git add docs/data.json docs/history.json docs/ical/
           git diff --cached --quiet || (git commit -m "Update plan data [skip ci]" && git push)

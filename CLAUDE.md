@@ -85,13 +85,27 @@ Abgeschlossen:
 
 ---
 
-## Offene Fragen
+## Aktueller Fokus (Stand 2026-03-25)
 
-- Ist das ntfy-Topic öffentlich oder privat? (Sicherheitsrelevant bei sensiblen Plandaten)
-- `generate_ical.py` im Remote-Repo: noch alte Version mit HTTP-Calls – nach nächstem Push mit lokalem Commit lösen
+**Milestone v1.1** — vollständig abgeschlossen.
+**Milestone v1.2** — fast abgeschlossen. Erledigt:
+- [x] Externer Cron-Trigger via IONOS VPS (GitHub Actions Schedule unzuverlässig) (3 SP)
+- [x] generate_ical.py: data.json statt HTTP-Calls (Wochenende/Ferien-sicher) (2 SP)
+- [x] ntfy Push-Notifications debuggen (3 SP)
+- [x] Web-App: Letzte Planänderung mit Zeitstempel anzeigen (3 SP)
+- [x] Web-App: Historische Planänderungen der letzten 7 Tage (5 SP)
+- [x] E-Mail-Fallback bei fehlgeschlagener ntfy-Benachrichtigung (3 SP)
+- [x] README mit Setup-Anleitung (2 SP)
+
+Noch offen:
+- [ ] Filterung nach eigenem Kurs / Fach in der Benachrichtigung (5 SP)
+
+## Offene Fragen / Blocker
+
+- ntfy-Topic: öffentlich oder privat? Sicherheitsrelevant bei sensiblen Plandaten.
 
 ---
 
 ## Zuletzt aktualisiert
 
-2026-03-21
+2026-03-25 (v1.2 fast fertig: alle Items abgeschlossen bis auf Kurs/Fach-Filterung; generate_ical.py Push-Problem gelöst)

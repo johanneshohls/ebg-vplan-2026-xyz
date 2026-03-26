@@ -36,8 +36,9 @@ log = logging.getLogger("vplan")
 BASE_URL = os.environ.get("PLAN_URL", "https://www.stundenplan24.de/40062811/wplan")
 PLAN_USER = os.environ.get("PLAN_USER", "lehrer")
 PLAN_PASS = os.environ.get("PLAN_PASS", "")
-NTFY_TOPIC_PREFIX = os.environ.get("NTFY_TOPIC", "ebg-vplan")
+NTFY_TOPIC_PREFIX = os.environ.get("NTFY_TOPIC", "") or "ebg-vplan"  # Fallback wenn Secret leer
 STATE_FILE = os.environ.get("STATE_FILE", "state.json")
+HISTORY_FILE = os.environ.get("HISTORY_FILE", "docs/history.json")
 AUTH = (PLAN_USER, PLAN_PASS)
 HEADERS = {"User-Agent": "Vertretungsplan-Notify/2.0"}
 STUNDEN_ZEITEN = {
@@ -233,7 +234,7 @@ def send_notification(topic: str, title: str, message: str, priority: str = "hig
                 timeout=10,
             )
             resp.raise_for_status()
-            log.info("Notification gesendet → %s", topic)
+            log.info("Notification gesendet → %s (HTTP %d)", topic, resp.status_code)
             return True
         except Exception as e:
             log.warning("ntfy-Fehler bei %s (Versuch %d/%d): %s", topic, attempt, retries, e)
@@ -250,14 +251,38 @@ def load_state() -> dict:
     path = Path(STATE_FILE)
     if path.exists():
         try:
-            return json.loads(path.read_text())
-        except Exception:
-            pass
+            data = json.loads(path.read_text())
+            teacher_keys = [k for k in data if not k.startswith("_")]
+            log.info("State geladen: %d Einträge (%d Lehrer-Hashes)", len(data), len(teacher_keys))
+            return data
+        except Exception as e:
+            log.error("State-Datei beschädigt: %s", e)
+    else:
+        log.warning("State-Datei %s nicht gefunden — erster Durchlauf, keine Notifications möglich", STATE_FILE)
     return {}
 
 
 def save_state(state: dict):
     Path(STATE_FILE).write_text(json.dumps(state, ensure_ascii=False, indent=2))
+
+
+def load_history() -> list:
+    """Lädt die Änderungshistorie aus history.json."""
+    path = Path(HISTORY_FILE)
+    if path.exists():
+        try:
+            return json.loads(path.read_text())
+        except Exception:
+            pass
+    return []
+
+
+def save_history(history: list):
+    """Speichert die Änderungshistorie (max. 7 Tage)."""
+    cutoff = (datetime.now() - timedelta(days=7)).isoformat()
+    history = [h for h in history if h.get("timestamp", "") >= cutoff]
+    os.makedirs(os.path.dirname(HISTORY_FILE) or ".", exist_ok=True)
+    Path(HISTORY_FILE).write_text(json.dumps(history, ensure_ascii=False, indent=1))
 
 
 def main():
@@ -267,9 +292,12 @@ def main():
 
     now = datetime.now()
     log.info("=== Vertretungsplan-Check %s ===", now.strftime("%d.%m.%Y %H:%M"))
+    log.info("NTFY_TOPIC_PREFIX=%s", NTFY_TOPIC_PREFIX)
 
     state = load_state()
+    history = load_history()
     changed_total = 0
+    notification_failures = []
     consecutive_failures = state.get("_consecutive_fetch_failures", 0)
 
     # Erreichbarkeitstest: Basis-XML abrufen
@@ -336,29 +364,42 @@ def main():
             log.info("Hash geändert für %s am %s (alt=%s, neu=%s)", kurz, date_str, old_hash, data["hash"])
             log.info("  changes=%d, entries=%d", len(data["changes"]), len(data["entries"]))
 
-            # Diff: Welche Einträge haben sich geändert?
-            # changes basiert auf FaAe/LeAe/RaAe Attributen — wenn diese fehlen,
-            # erkennen wir Änderungen nur am Hash. Dann trotzdem benachrichtigen.
             if not data["changes"]:
-                # Hash geändert, aber keine Ae-Attribute gefunden.
-                # Das ist der wahrscheinliche Bug: Vertretungen ohne Ae-Attribute.
-                # Fallback: Gesamten Plan als Änderung melden.
                 log.warning(
                     "Hash geändert aber changes leer für %s am %s — "
                     "Ae-Attribute fehlen vermutlich im XML. Sende Notification trotzdem.",
                     kurz, date_str,
                 )
-                for e in data["entries"]:
-                    log.debug("  Entry: Std %s, Fach=%s, Info=%s, geaendert=%s",
-                              e["stunde"], e["fach"], e["info"], e["geaendert"])
 
             log.info("ÄNDERUNG erkannt: %s am %s (%d markierte Änderungen)",
                      kurz, date_str, len(data["changes"]))
             title, message = format_notification(kurz, datum, data)
 
+            # Änderung in History aufnehmen
+            change_summary = []
+            for c in data["changes"]:
+                zeit = STUNDEN_ZEITEN.get(c["stunde"], "")
+                if c["info"]:
+                    change_summary.append(f"Std {c['stunde']} ({zeit}): {c['info']}")
+                elif c["geaendert"]:
+                    parts = [c["fach"], c["klasse"]]
+                    detail = " ".join(p for p in parts if p and p != "---")
+                    change_summary.append(f"Std {c['stunde']} ({zeit}): {detail} geändert")
+
+            history.append({
+                "timestamp": now.isoformat(),
+                "lehrer": kurz,
+                "datum": datum,
+                "date_key": date_str,
+                "changes": change_summary or ["Planänderung (Details nicht spezifiziert)"],
+                "zeitstempel": zeitstempel,
+            })
+
             # Persönliche Notification
             personal_topic = f"{NTFY_TOPIC_PREFIX}-{kurz.lower()}"
-            send_notification(personal_topic, title, message)
+            ok = send_notification(personal_topic, title, message)
+            if not ok:
+                notification_failures.append({"lehrer": kurz, "datum": datum, "topic": personal_topic})
 
             # Globale Notification (optional)
             send_notification(
@@ -373,8 +414,16 @@ def main():
     cutoff = (now - timedelta(days=14)).strftime("%Y%m%d")
     state = {k: v for k, v in state.items() if k.startswith("_") or k.split("_")[-1] >= cutoff}
 
+    # Notification-Fehler für E-Mail-Fallback speichern
+    if notification_failures:
+        state["_notification_failures"] = notification_failures
+        log.warning("%d Notification(s) fehlgeschlagen — E-Mail-Fallback wird ausgelöst", len(notification_failures))
+    else:
+        state.pop("_notification_failures", None)
+
     save_state(state)
-    log.info("=== Fertig: %d Änderungen ===", changed_total)
+    save_history(history)
+    log.info("=== Fertig: %d Änderungen, %d Notification-Fehler ===", changed_total, len(notification_failures))
 
 
 if __name__ == "__main__":

@@ -1,7 +1,7 @@
 # Vplan fix – Backlog
 
 > EBG Vertretungsplan Benachrichtigungs-Checker.
-> Letzte Aktualisierung: 2026-03-21
+> Letzte Aktualisierung: 2026-03-25
 
 ---
 
@@ -33,9 +33,9 @@ Feature-Erweiterungen: bessere Nutzererfahrung und mehr Kontrolle.
 
 - [x] Externer Cron-Trigger via IONOS VPS (GitHub Actions Schedule unzuverlässig) (3)
 - [x] generate_ical.py: data.json statt HTTP-Calls (Wochenende/Ferien-sicher) (2)
-- [ ] ntfy Push-Notifications debuggen (keine Benachrichtigungen trotz Planänderungen) (3)
-- [ ] Web-App: Letzte Planänderung mit Zeitstempel anzeigen (3)
-- [ ] Web-App: Historische Planänderungen der letzten 7 Tage einsehbar (5)
+- [x] ntfy Push-Notifications debuggen (keine Benachrichtigungen trotz Planänderungen) (3)
+- [x] Web-App: Letzte Planänderung mit Zeitstempel anzeigen (3)
+- [x] Web-App: Historische Planänderungen der letzten 7 Tage einsehbar (5)
 - [ ] Filterung nach eigenem Kurs / Fach in der Benachrichtigung (5)
-- [ ] E-Mail-Fallback bei fehlgeschlagener Push-Benachrichtigung (3)
-- [ ] README mit Setup-Anleitung für eigene Instanzen (2)
+- [x] E-Mail-Fallback bei fehlgeschlagener Push-Benachrichtigung (3)
+- [x] README mit Setup-Anleitung für eigene Instanzen (2)

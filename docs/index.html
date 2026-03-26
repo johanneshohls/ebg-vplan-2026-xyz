@@ -364,6 +364,72 @@
       -webkit-overflow-scrolling: touch;
     }
 
+    /* --- History Timeline --- */
+    .history-btn {
+      background: none;
+      border: none;
+      font-size: 15px;
+      color: #007aff;
+      cursor: pointer;
+      padding: 4px 8px;
+      font-weight: 600;
+    }
+
+    .history-panel {
+      display: none;
+    }
+    .history-panel.visible {
+      display: block;
+    }
+
+    .history-empty {
+      text-align: center;
+      padding: 32px 16px;
+      color: var(--secondary);
+      font-size: 14px;
+    }
+
+    .history-day {
+      padding: 16px 20px 8px;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--secondary);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    .history-item {
+      padding: 12px 20px;
+      border-bottom: 0.5px solid var(--border);
+    }
+    .history-item:last-child {
+      border-bottom: none;
+    }
+
+    .history-time {
+      font-size: 11px;
+      color: var(--secondary);
+      margin-bottom: 4px;
+    }
+
+    .history-teacher {
+      font-size: 15px;
+      font-weight: 600;
+      margin-bottom: 2px;
+    }
+
+    .history-date-label {
+      font-size: 13px;
+      color: var(--secondary);
+      margin-bottom: 6px;
+    }
+
+    .history-change {
+      font-size: 13px;
+      color: var(--accent);
+      padding: 2px 0;
+    }
+
     @media (max-width: 389px) {
       main { padding: 8px; }
     }
@@ -376,8 +442,9 @@
     <div class="title" id="navTitle">Vertretungsplan</div>
     <div class="subtitle" id="navSubtitle">Lade...</div>
   </div>
-  <div style="display:flex;align-items:center;gap:12px">
+  <div style="display:flex;align-items:center;gap:8px">
     <select class="nav-select" id="teacherSelect" onchange="switchTeacher(this.value)" style="display:none"></select>
+    <button class="history-btn" id="historyBtn" onclick="toggleHistory()" style="display:none">Verlauf</button>
     <button class="refresh-btn" id="refreshBtn" onclick="doRefresh()" style="display:none">&#x21bb;</button>
   </div>
 </div>
@@ -404,7 +471,8 @@ const PERIODS = ["1","2","3","4","5","6","7","8"];
 const MONTH = ["Jan","Feb","Mär","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez"];
 const DOW = {1:"MO",2:"DI",3:"MI",4:"DO",5:"FR"};
 
-let planData = null, currentTeacher = null, currentKW = null;
+let planData = null, historyData = null, currentTeacher = null, currentKW = null;
+let showingHistory = false;
 
 function getTeacher() {
   const p = new URLSearchParams(location.search);
@@ -488,6 +556,7 @@ function setupDone() {
   currentTeacher = document.getElementById("setupSelect").value;
   saveTeacher(currentTeacher);
   renderTeacherSelect();
+  document.getElementById("historyBtn").style.display = "";
   currentKW = planData.aktuelle_kw;
   renderPlan();
 }
@@ -538,6 +607,7 @@ function renderPlan() {
     }
   }
   if (maxP === 0) maxP = 6;
+  if (maxP > PERIODS.length) maxP = PERIODS.length;
 
   // Build grid: dayKey -> period -> entry
   const grid = {};
@@ -638,6 +708,76 @@ function renderPlan() {
   document.getElementById("content").innerHTML = html;
 }
 
+async function loadHistory() {
+  try {
+    const r = await fetch("history.json?_=" + Date.now());
+    if (!r.ok) return [];
+    return await r.json();
+  } catch(e) { return []; }
+}
+
+function toggleHistory() {
+  showingHistory = !showingHistory;
+  const btn = document.getElementById("historyBtn");
+  if (showingHistory) {
+    btn.textContent = "Plan";
+    renderHistory();
+  } else {
+    btn.textContent = "Verlauf";
+    renderPlan();
+  }
+}
+
+function renderHistory() {
+  if (!historyData || !currentTeacher) return;
+
+  // Filter für aktuellen Lehrer
+  const items = historyData.filter(h => h.lehrer === currentTeacher);
+
+  document.getElementById("navTitle").textContent = currentTeacher + " — Verlauf";
+  document.getElementById("navSubtitle").textContent = "Letzte 7 Tage";
+
+  if (!items.length) {
+    document.getElementById("content").innerHTML =
+      '<div class="card"><div class="history-empty">Keine Planänderungen in den letzten 7 Tagen.</div></div>';
+    return;
+  }
+
+  // Gruppiere nach Tag
+  const byDay = {};
+  for (const item of items) {
+    const d = new Date(item.timestamp);
+    const dayKey = d.toLocaleDateString("de-DE", {weekday: "long", day: "2-digit", month: "2-digit", year: "numeric"});
+    if (!byDay[dayKey]) byDay[dayKey] = [];
+    byDay[dayKey].push(item);
+  }
+
+  // Neueste zuerst
+  const sortedDays = Object.entries(byDay).sort((a, b) => {
+    const da = new Date(a[1][0].timestamp);
+    const db = new Date(b[1][0].timestamp);
+    return db - da;
+  });
+
+  let html = '';
+  for (const [dayLabel, items] of sortedDays) {
+    html += `<div class="history-day">${dayLabel}</div><div class="card">`;
+    // Neueste Einträge zuerst
+    const sorted = items.sort((a,b) => new Date(b.timestamp) - new Date(a.timestamp));
+    for (const item of sorted) {
+      const time = new Date(item.timestamp).toLocaleTimeString("de-DE", {hour: "2-digit", minute: "2-digit"});
+      html += `<div class="history-item">
+        <div class="history-time">${time} Uhr</div>
+        <div class="history-date-label">Plan für ${item.datum}</div>
+        ${item.changes.map(c => `<div class="history-change">${c}</div>`).join("")}
+      </div>`;
+    }
+    html += '</div>';
+  }
+
+  document.getElementById("content").innerHTML = html;
+}
+
 function getISOWeek(d) {
   const date = new Date(d.getTime());
   date.setHours(0,0,0,0);
@@ -647,7 +787,7 @@ function getISOWeek(d) {
 }
 
 (async function() {
-  const ok = await loadData();
+  const [ok] = await Promise.all([loadData(), loadHistory().then(h => { historyData = h; })]);
   if (!ok) {
     document.getElementById("content").innerHTML = '<div class="loading">Daten werden geladen...</div>';
     document.getElementById("navSubtitle").textContent = "Keine Verbindung";
@@ -656,13 +796,17 @@ function getISOWeek(d) {
   currentTeacher = getTeacher();
   currentKW = planData.aktuelle_kw;
   if (currentTeacher && planData.lehrer?.includes(currentTeacher)) {
-    saveTeacher(currentTeacher); // In localStorage speichern, damit PWA-Starts ohne URL-Param funktionieren
+    saveTeacher(currentTeacher);
     renderTeacherSelect();
+    document.getElementById("historyBtn").style.display = "";
     renderPlan();
   } else {
     renderSetup();
   }
-  setInterval(doRefresh, 120000);
+  setInterval(async () => {
+    await doRefresh();
+    historyData = await loadHistory();
+  }, 120000);
 })();
 </script>
 </body>
