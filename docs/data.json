@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "27.03.2026, 06:07 Uhr",
- "last_changed": "2026-03-26T14:59:00",
+ "generiert": "27.03.2026, 07:07 Uhr",
+ "last_changed": "2026-03-27T07:27:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -20358,7 +20358,7 @@
     },
     "20260327": {
      "datum": "Freitag, 27. März 2026",
-     "zeitstempel": "26.03.2026, 14:59",
+     "zeitstempel": "27.03.2026, 07:27",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -20646,16 +20646,16 @@
          "stunde": "3",
          "fach": "Span",
          "klasse": "8B",
-         "raum": "006 102",
-         "info": "für Span Köh",
+         "raum": "Aula 102",
+         "info": "für Span Köh, Fel > Aula zus. mit Teilungsgruppe Puk",
          "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Span",
          "klasse": "8B",
-         "raum": "006 102",
-         "info": "für Span Köh",
+         "raum": "Aula 102",
+         "info": "für Span Köh, Fel > Aula zus. mit Teilungsgruppe Puk",
          "geaendert": true
         },
         {
@@ -21350,16 +21350,16 @@
          "stunde": "3",
          "fach": "Span",
          "klasse": "8B",
-         "raum": "006 102",
-         "info": "für Span Köh",
+         "raum": "Aula 102",
+         "info": "für Span Köh, Fel > Aula zus. mit Teilungsgruppe Puk",
          "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Span",
          "klasse": "8B",
-         "raum": "006 102",
-         "info": "für Span Köh",
+         "raum": "Aula 102",
+         "info": "für Span Köh, Fel > Aula zus. mit Teilungsgruppe Puk",
          "geaendert": true
         },
         {
@@ -21795,33 +21795,33 @@
          "stunde": "3",
          "fach": "Span",
          "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Span Puk, Teilungsgruppe Puk zu Fel in der Aula",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Span",
          "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Span Puk, Teilungsgruppe Puk zu Fel in der Aula",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "10B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10B selbst. (v), Selbststudium mit Aufgaben von Fr. Pukrop",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "10B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10B selbst. (v), Selbststudium mit Aufgaben von Fr. Pukrop",
+         "geaendert": true
         },
         {
          "stunde": "9",
