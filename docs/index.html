@@ -486,17 +486,19 @@
     .more-menu-overlay.visible { display: block; }
 
     .more-menu {
-      position: absolute;
-      top: 0;
-      right: 0;
+      display: none;
+      position: fixed;
+      top: 56px;
+      right: 16px;
       background: var(--card);
       border-radius: 14px;
       box-shadow: 0 4px 24px rgba(0,0,0,0.12), 0 0 0 0.5px var(--border);
       min-width: 200px;
       overflow: hidden;
       animation: menuFade 0.15s ease-out;
-      z-index: 151;
+      z-index: 160;
     }
+    .more-menu.visible { display: block; }
 
     @keyframes menuFade {
       from { opacity: 0; transform: scale(0.95) translateY(-4px); }
@@ -504,9 +506,7 @@
     }
 
     .more-menu-item {
-      display: flex;
-      align-items: center;
-      gap: 12px;
+      display: block;
       width: 100%;
       padding: 14px 18px;
       font-size: 15px;
@@ -523,11 +523,6 @@
     }
     .more-menu-item:active {
       background: var(--dismiss-bg);
-    }
-    .more-menu-item .menu-icon {
-      font-size: 18px;
-      width: 24px;
-      text-align: center;
     }
 
     /* --- History Timeline --- */
@@ -695,17 +690,7 @@
   </div>
   <div style="display:flex;align-items:center;gap:6px">
     <select class="nav-select" id="teacherSelect" onchange="switchTeacher(this.value)" style="display:none"></select>
-    <div style="position:relative">
-      <button class="more-btn" id="moreBtn" onclick="toggleMoreMenu()" style="display:none">···</button>
-      <div class="more-menu" id="moreMenu" style="display:none">
-        <button class="more-menu-item" id="historyMenuItem" onclick="menuAction('history')">
-          <span class="menu-icon">📋</span> <span id="historyMenuLabel">Verlauf</span>
-        </button>
-        <button class="more-menu-item" onclick="menuAction('theme')">
-          <span class="menu-icon">🎨</span> Farbschema
-        </button>
-      </div>
-    </div>
+    <button class="more-btn" id="moreBtn" onclick="toggleMoreMenu()" style="display:none">···</button>
     <button class="refresh-btn" id="refreshBtn" onclick="doRefresh()" style="display:none">&#x21bb;</button>
   </div>
 </div>
@@ -718,6 +703,14 @@
 </main>
 
 <div class="more-menu-overlay" id="moreMenuOverlay" onclick="closeMoreMenu()"></div>
+<div class="more-menu" id="moreMenu">
+  <button class="more-menu-item" id="historyMenuItem" onclick="menuAction('history')">
+    <span id="historyMenuLabel">Verlauf</span>
+  </button>
+  <button class="more-menu-item" onclick="menuAction('theme')">
+    Farbschema
+  </button>
+</div>
 
 <div class="theme-picker" id="themePicker">
   <div class="theme-picker-title">Farbschema</div>
@@ -777,12 +770,12 @@ function toggleThemePicker() {
 function toggleMoreMenu() {
   const menu = document.getElementById("moreMenu");
   const overlay = document.getElementById("moreMenuOverlay");
-  const open = menu.style.display === "none" || !menu.style.display;
-  menu.style.display = open ? "block" : "none";
+  const open = !menu.classList.contains("visible");
+  menu.classList.toggle("visible", open);
   overlay.classList.toggle("visible", open);
 }
 function closeMoreMenu() {
-  document.getElementById("moreMenu").style.display = "none";
+  document.getElementById("moreMenu").classList.remove("visible");
   document.getElementById("moreMenuOverlay").classList.remove("visible");
 }
 function menuAction(action) {
