@@ -13,9 +13,10 @@
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
-    :root {
+    :root, [data-theme="light"] {
       --bg: #f5f5f7;
       --card: #ffffff;
+      --card-rgb: 255,255,255;
       --text: #1d1d1f;
       --secondary: #86868b;
       --accent: #e8453c;
@@ -23,6 +24,104 @@
       --orange: #ff9f0a;
       --border: #e5e5ea;
       --radius: 16px;
+      --link: #007aff;
+      --today-bg: #1d1d1f;
+      --today-text: #ffffff;
+      --empty: #d1d1d6;
+      --overlay: rgba(0,0,0,0.3);
+      --sheet: #ffffff;
+      --dismiss-bg: #f2f2f7;
+      --setup-btn-bg: #1d1d1f;
+      --setup-btn-text: #ffffff;
+      --setup-select-bg: #ffffff;
+    }
+
+    [data-theme="dark"] {
+      --bg: #1c1c1e;
+      --card: #2c2c2e;
+      --card-rgb: 44,44,46;
+      --text: #f5f5f7;
+      --secondary: #98989f;
+      --accent: #ff6961;
+      --green: #30d158;
+      --orange: #ffb340;
+      --border: #38383a;
+      --link: #64b5f6;
+      --today-bg: #ffffff;
+      --today-text: #1c1c1e;
+      --empty: #48484a;
+      --overlay: rgba(0,0,0,0.55);
+      --sheet: #2c2c2e;
+      --dismiss-bg: #3a3a3c;
+      --setup-btn-bg: #f5f5f7;
+      --setup-btn-text: #1c1c1e;
+      --setup-select-bg: #3a3a3c;
+    }
+
+    [data-theme="rose"] {
+      --bg: #fdf2f4;
+      --card: #ffffff;
+      --card-rgb: 255,255,255;
+      --text: #3d1f2b;
+      --secondary: #9e7185;
+      --accent: #d4536a;
+      --green: #5cb87a;
+      --orange: #e8945a;
+      --border: #f0d4da;
+      --link: #c24b6e;
+      --today-bg: #d4536a;
+      --today-text: #ffffff;
+      --empty: #e0c4cb;
+      --overlay: rgba(61,31,43,0.25);
+      --sheet: #ffffff;
+      --dismiss-bg: #fce8ec;
+      --setup-btn-bg: #d4536a;
+      --setup-btn-text: #ffffff;
+      --setup-select-bg: #ffffff;
+    }
+
+    [data-theme="ocean"] {
+      --bg: #eef4f9;
+      --card: #ffffff;
+      --card-rgb: 255,255,255;
+      --text: #1a2f3f;
+      --secondary: #6d8a9e;
+      --accent: #e05c4f;
+      --green: #2ea87a;
+      --orange: #e09843;
+      --border: #d0dfe8;
+      --link: #2e86c1;
+      --today-bg: #2e86c1;
+      --today-text: #ffffff;
+      --empty: #bccdd9;
+      --overlay: rgba(26,47,63,0.25);
+      --sheet: #ffffff;
+      --dismiss-bg: #e4edf3;
+      --setup-btn-bg: #2e86c1;
+      --setup-btn-text: #ffffff;
+      --setup-select-bg: #ffffff;
+    }
+
+    [data-theme="beige"] {
+      --bg: #f6f1eb;
+      --card: #ffffff;
+      --card-rgb: 255,255,255;
+      --text: #3b332a;
+      --secondary: #908272;
+      --accent: #c85a3e;
+      --green: #6b9e5a;
+      --orange: #d49b4e;
+      --border: #e3d9cd;
+      --link: #9e6b3a;
+      --today-bg: #9e6b3a;
+      --today-text: #ffffff;
+      --empty: #d1c6b8;
+      --overlay: rgba(59,51,42,0.25);
+      --sheet: #ffffff;
+      --dismiss-bg: #efe8df;
+      --setup-btn-bg: #9e6b3a;
+      --setup-btn-text: #ffffff;
+      --setup-select-bg: #ffffff;
     }
 
     body {
@@ -36,7 +135,7 @@
 
     /* --- Navigation Bar --- */
     .navbar {
-      background: rgba(255,255,255,0.85);
+      background: rgba(var(--card-rgb),0.85);
       backdrop-filter: blur(20px);
       -webkit-backdrop-filter: blur(20px);
       border-bottom: 0.5px solid var(--border);
@@ -65,7 +164,7 @@
     .nav-select {
       font-size: 15px;
       font-weight: 600;
-      color: #007aff;
+      color: var(--link);
       background: none;
       border: none;
       padding: 6px 0;
@@ -79,7 +178,7 @@
       background: none;
       border: none;
       font-size: 18px;
-      color: #007aff;
+      color: var(--link);
       cursor: pointer;
       padding: 4px;
       transition: transform 0.3s;
@@ -183,7 +282,7 @@
       color: var(--secondary);
     }
     .day-cell.empty {
-      color: #d1d1d6;
+      color: var(--empty);
     }
 
     /* Changed indicator */
@@ -205,7 +304,7 @@
       top: 6px;
       right: 4px;
       width: 7px; height: 7px;
-      background: #007aff;
+      background: var(--link);
       border-radius: 50%;
     }
 
@@ -268,14 +367,14 @@
       display: none;
       position: fixed;
       inset: 0;
-      background: rgba(0,0,0,0.3);
+      background: var(--overlay);
       z-index: 300;
       align-items: flex-end;
       justify-content: center;
     }
     .info-overlay.visible { display: flex; }
     .info-sheet {
-      background: white;
+      background: var(--sheet);
       border-radius: 16px 16px 0 0;
       padding: 24px 24px;
       padding-bottom: max(24px, env(safe-area-inset-bottom));
@@ -294,8 +393,8 @@
       padding: 14px;
       font-size: 16px;
       font-weight: 600;
-      color: #007aff;
-      background: #f2f2f7;
+      color: var(--link);
+      background: var(--dismiss-bg);
       border: none;
       border-radius: 12px;
       cursor: pointer;
@@ -327,12 +426,13 @@
       width: 100%;
       max-width: 280px;
       margin-bottom: 20px;
-      background: white;
+      background: var(--setup-select-bg);
+      color: var(--text);
     }
     .setup-screen .btn {
       display: inline-block;
-      background: var(--text);
-      color: white;
+      background: var(--setup-btn-bg);
+      color: var(--setup-btn-text);
       border: none;
       padding: 16px 40px;
       border-radius: 14px;
@@ -364,17 +464,73 @@
       -webkit-overflow-scrolling: touch;
     }
 
-    /* --- History Timeline --- */
-    .history-btn {
+    /* --- More Menu --- */
+    .more-btn {
       background: none;
       border: none;
-      font-size: 15px;
-      color: #007aff;
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--link);
       cursor: pointer;
-      padding: 4px 8px;
-      font-weight: 600;
+      padding: 4px 6px;
+      line-height: 1;
+      letter-spacing: 1px;
     }
 
+    .more-menu-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 150;
+    }
+    .more-menu-overlay.visible { display: block; }
+
+    .more-menu {
+      position: absolute;
+      top: 0;
+      right: 0;
+      background: var(--card);
+      border-radius: 14px;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.12), 0 0 0 0.5px var(--border);
+      min-width: 200px;
+      overflow: hidden;
+      animation: menuFade 0.15s ease-out;
+      z-index: 151;
+    }
+
+    @keyframes menuFade {
+      from { opacity: 0; transform: scale(0.95) translateY(-4px); }
+      to { opacity: 1; transform: scale(1) translateY(0); }
+    }
+
+    .more-menu-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      width: 100%;
+      padding: 14px 18px;
+      font-size: 15px;
+      font-weight: 500;
+      color: var(--text);
+      background: none;
+      border: none;
+      cursor: pointer;
+      text-align: left;
+      transition: background 0.1s;
+    }
+    .more-menu-item:not(:last-child) {
+      border-bottom: 0.5px solid var(--border);
+    }
+    .more-menu-item:active {
+      background: var(--dismiss-bg);
+    }
+    .more-menu-item .menu-icon {
+      font-size: 18px;
+      width: 24px;
+      text-align: center;
+    }
+
+    /* --- History Timeline --- */
     .history-panel {
       display: none;
     }
@@ -430,6 +586,101 @@
       padding: 2px 0;
     }
 
+    /* --- Theme Picker --- */
+    .theme-picker {
+      display: none;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 200;
+      background: var(--sheet);
+      border-radius: 16px 16px 0 0;
+      padding: 20px 20px;
+      padding-bottom: max(20px, env(safe-area-inset-bottom));
+      box-shadow: 0 -4px 24px rgba(0,0,0,0.12);
+      animation: sheetUp 0.25s ease-out;
+    }
+    .theme-picker.visible { display: block; }
+
+    .theme-picker-title {
+      font-size: 15px;
+      font-weight: 600;
+      text-align: center;
+      margin-bottom: 16px;
+      color: var(--text);
+    }
+
+    .theme-options {
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .theme-option {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 6px;
+      cursor: pointer;
+      padding: 8px;
+      border-radius: 12px;
+      border: 2px solid transparent;
+      transition: border-color 0.15s, transform 0.15s;
+      background: none;
+      min-width: 60px;
+    }
+    .theme-option:active { transform: scale(0.95); }
+    .theme-option.active { border-color: var(--link); }
+
+    .theme-swatch {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      border: 2px solid var(--border);
+      position: relative;
+      overflow: hidden;
+    }
+    .theme-swatch::after {
+      content: "";
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 40%;
+    }
+
+    .theme-swatch-light { background: #f5f5f7; }
+    .theme-swatch-light::after { background: #1d1d1f; }
+    .theme-swatch-dark { background: #2c2c2e; }
+    .theme-swatch-dark::after { background: #1c1c1e; }
+    .theme-swatch-rose { background: #fdf2f4; }
+    .theme-swatch-rose::after { background: #d4536a; }
+    .theme-swatch-ocean { background: #eef4f9; }
+    .theme-swatch-ocean::after { background: #2e86c1; }
+    .theme-swatch-beige { background: #f6f1eb; }
+    .theme-swatch-beige::after { background: #9e6b3a; }
+
+    .theme-label {
+      font-size: 11px;
+      color: var(--secondary);
+      font-weight: 500;
+    }
+
+    .theme-picker-close {
+      margin-top: 16px;
+      width: 100%;
+      padding: 12px;
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--link);
+      background: var(--dismiss-bg);
+      border: none;
+      border-radius: 12px;
+      cursor: pointer;
+    }
+
     @media (max-width: 389px) {
       main { padding: 8px; }
     }
@@ -442,9 +693,19 @@
     <div class="title" id="navTitle">Vertretungsplan</div>
     <div class="subtitle" id="navSubtitle">Lade...</div>
   </div>
-  <div style="display:flex;align-items:center;gap:8px">
+  <div style="display:flex;align-items:center;gap:6px">
     <select class="nav-select" id="teacherSelect" onchange="switchTeacher(this.value)" style="display:none"></select>
-    <button class="history-btn" id="historyBtn" onclick="toggleHistory()" style="display:none">Verlauf</button>
+    <div style="position:relative">
+      <button class="more-btn" id="moreBtn" onclick="toggleMoreMenu()" style="display:none">···</button>
+      <div class="more-menu" id="moreMenu" style="display:none">
+        <button class="more-menu-item" id="historyMenuItem" onclick="menuAction('history')">
+          <span class="menu-icon">📋</span> <span id="historyMenuLabel">Verlauf</span>
+        </button>
+        <button class="more-menu-item" onclick="menuAction('theme')">
+          <span class="menu-icon">🎨</span> Farbschema
+        </button>
+      </div>
+    </div>
     <button class="refresh-btn" id="refreshBtn" onclick="doRefresh()" style="display:none">&#x21bb;</button>
   </div>
 </div>
@@ -456,6 +717,35 @@
   </div>
 </main>
 
+<div class="more-menu-overlay" id="moreMenuOverlay" onclick="closeMoreMenu()"></div>
+
+<div class="theme-picker" id="themePicker">
+  <div class="theme-picker-title">Farbschema</div>
+  <div class="theme-options">
+    <button class="theme-option" onclick="setTheme('light')" data-theme-opt="light">
+      <div class="theme-swatch theme-swatch-light"></div>
+      <span class="theme-label">Hell</span>
+    </button>
+    <button class="theme-option" onclick="setTheme('dark')" data-theme-opt="dark">
+      <div class="theme-swatch theme-swatch-dark"></div>
+      <span class="theme-label">Dunkel</span>
+    </button>
+    <button class="theme-option" onclick="setTheme('rose')" data-theme-opt="rose">
+      <div class="theme-swatch theme-swatch-rose"></div>
+      <span class="theme-label">Rosé</span>
+    </button>
+    <button class="theme-option" onclick="setTheme('ocean')" data-theme-opt="ocean">
+      <div class="theme-swatch theme-swatch-ocean"></div>
+      <span class="theme-label">Ozean</span>
+    </button>
+    <button class="theme-option" onclick="setTheme('beige')" data-theme-opt="beige">
+      <div class="theme-swatch theme-swatch-beige"></div>
+      <span class="theme-label">Beige</span>
+    </button>
+  </div>
+  <button class="theme-picker-close" onclick="toggleThemePicker()">Fertig</button>
+</div>
+
 <div class="info-overlay" id="infoOverlay" onclick="hideInfo()">
   <div class="info-sheet" onclick="event.stopPropagation()">
     <p id="infoText"></p>
@@ -464,6 +754,46 @@
 </div>
 
 <script>
+// --- Theme ---
+function getTheme() {
+  try { return localStorage.getItem("ebg_vplan_theme") || "light"; } catch(e) { return "light"; }
+}
+function setTheme(t) {
+  document.documentElement.setAttribute("data-theme", t);
+  try { localStorage.setItem("ebg_vplan_theme", t); } catch(e) {}
+  // Update meta theme-color for mobile browsers
+  const colors = { light:"#f5f5f7", dark:"#1c1c1e", rose:"#fdf2f4", ocean:"#eef4f9", beige:"#f6f1eb" };
+  document.querySelector('meta[name="theme-color"]').setAttribute("content", colors[t] || colors.light);
+  // Update active state in picker
+  document.querySelectorAll(".theme-option").forEach(el => {
+    el.classList.toggle("active", el.getAttribute("data-theme-opt") === t);
+  });
+}
+function toggleThemePicker() {
+  document.getElementById("themePicker").classList.toggle("visible");
+}
+
+// --- More Menu ---
+function toggleMoreMenu() {
+  const menu = document.getElementById("moreMenu");
+  const overlay = document.getElementById("moreMenuOverlay");
+  const open = menu.style.display === "none" || !menu.style.display;
+  menu.style.display = open ? "block" : "none";
+  overlay.classList.toggle("visible", open);
+}
+function closeMoreMenu() {
+  document.getElementById("moreMenu").style.display = "none";
+  document.getElementById("moreMenuOverlay").classList.remove("visible");
+}
+function menuAction(action) {
+  closeMoreMenu();
+  if (action === "history") toggleHistory();
+  if (action === "theme") toggleThemePicker();
+}
+
+// Apply saved theme immediately
+setTheme(getTheme());
+
 const TIMES = {"1":"07:40","2":"08:25","3":"09:40","4":"10:25","5":"11:40","6":"12:25","7":"13:40","8":"14:25"};
 const TIMES_END = {"1":"08:25","2":"09:10","3":"10:25","4":"11:10","5":"12:25","6":"13:10","7":"14:25","8":"15:10"};
 const PAUSEN = {"3":"09:10","5":"11:10","7":"13:10"}; // Pausen VOR diesen Stunden
@@ -556,7 +886,7 @@ function setupDone() {
   currentTeacher = document.getElementById("setupSelect").value;
   saveTeacher(currentTeacher);
   renderTeacherSelect();
-  document.getElementById("historyBtn").style.display = "";
+  document.getElementById("moreBtn").style.display = "";
   currentKW = planData.aktuelle_kw;
   renderPlan();
 }
@@ -644,7 +974,7 @@ function renderPlan() {
     html += `<th><div class="day-th-wrap${isToday ? " day-today" : ""}">
       <div class="day-name">${dow}</div>
       <div class="day-date">${isToday
-        ? '<span style="background:#1d1d1f;color:white;width:26px;height:26px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:13px">'+d.getDate()+'</span>'
+        ? '<span style="background:var(--today-bg);color:var(--today-text);width:26px;height:26px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:13px">'+d.getDate()+'</span>'
         : d.getDate()+'.'}</div>
       ${ts ? '<div class="day-ts">' + ts + '</div>' : ''}
     </div></th>`;
@@ -718,12 +1048,11 @@ async function loadHistory() {
 
 function toggleHistory() {
   showingHistory = !showingHistory;
-  const btn = document.getElementById("historyBtn");
+  const label = document.getElementById("historyMenuLabel");
+  if (label) label.textContent = showingHistory ? "Zurück zum Plan" : "Verlauf";
   if (showingHistory) {
-    btn.textContent = "Plan";
     renderHistory();
   } else {
-    btn.textContent = "Verlauf";
     renderPlan();
   }
 }
@@ -798,7 +1127,7 @@ function getISOWeek(d) {
   if (currentTeacher && planData.lehrer?.includes(currentTeacher)) {
     saveTeacher(currentTeacher);
     renderTeacherSelect();
-    document.getElementById("historyBtn").style.display = "";
+    document.getElementById("moreBtn").style.display = "";
     renderPlan();
   } else {
     renderSetup();
