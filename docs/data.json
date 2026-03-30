@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "30.03.2026, 08:07 Uhr",
- "last_changed": "2026-03-27T07:27:00",
+ "generiert": "30.03.2026, 09:07 Uhr",
+ "last_changed": "2026-03-30T10:27:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -11248,25 +11248,25 @@
    "tage": {
     "20260409": {
      "datum": "Donnerstag, 09. April 2026",
-     "zeitstempel": "17.03.2026, 19:08",
+     "zeitstempel": "30.03.2026, 10:27",
      "lehrer": {
       "Bar": {
        "entries": [
         {
          "stunde": "3",
-         "fach": "inf3",
-         "klasse": "11A-11D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "inf3",
-         "klasse": "11A-11D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -11275,51 +11275,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ph",
-         "klasse": "9D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 9D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ph",
-         "klasse": "9D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 9D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "PH1",
-         "klasse": "12A-12E",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "PH1",
-         "klasse": "12A-12E",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "ph1",
-         "klasse": "11A-11D",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ph1",
-         "klasse": "11A-11D",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -11335,19 +11335,19 @@
        "entries": [
         {
          "stunde": "9",
-         "fach": "mue2",
-         "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "10",
-         "fach": "mue2",
-         "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -11360,51 +11360,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ch",
-         "klasse": "7D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 7D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ch",
-         "klasse": "7D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 7D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Ph",
-         "klasse": "10C",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 10C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ph",
-         "klasse": "10C",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 10C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Ch",
-         "klasse": "10A",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 10A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ch",
-         "klasse": "10A",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 10A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -11413,51 +11413,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Sp",
-         "klasse": "8D",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Sp",
-         "klasse": "8D",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Sp",
-         "klasse": "9A",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 9A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Sp",
-         "klasse": "9A",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 9A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Sp",
-         "klasse": "7B",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Sp",
-         "klasse": "7B",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -11466,35 +11466,35 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "ma1",
-         "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "ma1",
-         "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "MA1",
-         "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "MA1",
-         "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -11503,35 +11503,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "inf1",
-         "klasse": "12A-12E",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "inf1",
-         "klasse": "12A-12E",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Ma",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -11551,35 +11551,35 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "eRe",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 9B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "eRe",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 9B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -11607,35 +11607,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "En",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "En",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -11648,35 +11648,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "ILZ",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "ILZ",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "bio1",
-         "klasse": "12A-12E",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "bio1",
-         "klasse": "12A-12E",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -11685,51 +11685,51 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Ge",
-         "klasse": "7C",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 7C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ge",
-         "klasse": "7C",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 7C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Ge",
-         "klasse": "7B",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 7B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ge",
-         "klasse": "7B",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 7B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "ge1",
-         "klasse": "12A-12E",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ge1",
-         "klasse": "12A-12E",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -11745,35 +11745,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "AWT",
-         "klasse": "10D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 10D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "AWT",
-         "klasse": "10D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 10D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "GE2",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "GE2",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -11782,35 +11782,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Fr",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 8A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Fr",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 8A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Geo",
-         "klasse": "7A",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 7A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Geo",
-         "klasse": "7A",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 7A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -11819,51 +11819,51 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "bo2",
-         "klasse": "11A-11D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "BO 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "bo2",
-         "klasse": "11A-11D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "BO 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Sp",
-         "klasse": "9D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 9D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Sp",
-         "klasse": "9D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 9D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Sp",
-         "klasse": "7D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Sp",
-         "klasse": "7D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -11883,51 +11883,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "En",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "En",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Phil",
-         "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phil 9D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Phil",
-         "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phil 9D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Phil",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phil 7E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Phil",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phil 7E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -11936,51 +11936,51 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Ma",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ma",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Ph",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ph",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Ma",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -11989,35 +11989,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "en2",
-         "klasse": "12A-12E",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "en2",
-         "klasse": "12A-12E",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "EN2",
-         "klasse": "12A-12E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "EN2",
-         "klasse": "12A-12E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -12033,51 +12033,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
-         "klasse": "10C",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "De",
-         "klasse": "10C",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "DE1",
-         "klasse": "11A-11D",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "DE1",
-         "klasse": "11A-11D",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "de2",
-         "klasse": "12A-12E",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "de2",
-         "klasse": "12A-12E",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -12093,51 +12093,51 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Ch",
-         "klasse": "10D",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 10D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ch",
-         "klasse": "10D",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 10D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Ph",
-         "klasse": "10D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 10D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ph",
-         "klasse": "10D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 10D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "As",
-         "klasse": "9B",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "As 9B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "As",
-         "klasse": "9B",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "As 9B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12146,35 +12146,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "10C",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "10C",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "En",
-         "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "En",
-         "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -12194,51 +12194,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "De",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "DE2",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "DE2",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "De",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "De",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12251,51 +12251,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "ch1",
-         "klasse": "12A-12E",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "ch1",
-         "klasse": "12A-12E",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Ch",
-         "klasse": "8C",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 8C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ch",
-         "klasse": "8C",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 8C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "ILZ",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ILZ",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12304,51 +12304,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -12368,51 +12368,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "sk1",
-         "klasse": "11A-11D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "sk1",
-         "klasse": "11A-11D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "AWT",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 8A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "AWT",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 8A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "AWT",
-         "klasse": "10A",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 10A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "AWT",
-         "klasse": "10A",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 10A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -12428,35 +12428,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "ma3",
-         "klasse": "11A-11D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "ma3",
-         "klasse": "11A-11D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Ma",
-         "klasse": "10A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ma",
-         "klasse": "10A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12469,51 +12469,35 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "En",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "En",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "10C",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "10C",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "Ma",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "8",
-         "fach": "Ma",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12522,51 +12506,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Sp",
-         "klasse": "8C",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Sp",
-         "klasse": "8C",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Geo",
-         "klasse": "9A",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 9A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Geo",
-         "klasse": "9A",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 9A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Sp",
-         "klasse": "7B",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Sp",
-         "klasse": "7B",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12583,19 +12567,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12604,51 +12588,51 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "De",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "De",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "bio2",
-         "klasse": "11A-11D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "bio2",
-         "klasse": "11A-11D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12657,35 +12641,35 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Ge",
-         "klasse": "10B",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ge",
-         "klasse": "10B",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "EN1",
-         "klasse": "12A-12E",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "EN1",
-         "klasse": "12A-12E",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12694,35 +12678,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Geo",
-         "klasse": "10B",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 10B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Geo",
-         "klasse": "10B",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 10B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12735,51 +12719,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ma",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ma",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "MA1",
-         "klasse": "12A-12E",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "MA1",
-         "klasse": "12A-12E",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Ma",
-         "klasse": "10C",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "10C",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -12799,19 +12783,19 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "DE1",
-         "klasse": "12A-12E",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "DE1",
-         "klasse": "12A-12E",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12820,35 +12804,35 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "GE1",
-         "klasse": "12A-12E",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "GE1",
-         "klasse": "12A-12E",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "GE1",
-         "klasse": "11A-11D",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "GE1",
-         "klasse": "11A-11D",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -12864,35 +12848,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "ku1",
-         "klasse": "11A-11D",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "ku1",
-         "klasse": "11A-11D",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Ku",
-         "klasse": "8B",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 8B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ku",
-         "klasse": "8B",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 8B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -12908,35 +12892,35 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "BIO1",
-         "klasse": "12A-12E",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "BIO1",
-         "klasse": "12A-12E",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Bio",
-         "klasse": "10B",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Bio",
-         "klasse": "10B",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12945,19 +12929,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ma",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ma",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12966,35 +12950,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "Inf",
-         "klasse": "10B",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Inf",
-         "klasse": "10B",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10B selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Inf",
-         "klasse": "10D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Inf",
-         "klasse": "10D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13011,51 +12995,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "De",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Bio",
-         "klasse": "9C",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Bio",
-         "klasse": "9C",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "BIO2",
-         "klasse": "12A-12E",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "BIO2",
-         "klasse": "12A-12E",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 12A-12E selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13064,35 +13048,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "Ge",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 9C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ge",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 9C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "ge2",
-         "klasse": "11A-11D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ge2",
-         "klasse": "11A-11D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13101,7 +13085,386 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9C selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Wag": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 9A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 9A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11A-11D selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9A selbst. (v), Schulinterne Lehrkräftefortbildung, Aufgaben für die Bearbeitung in der Häuslichkeit werden gestellt",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      }
+     }
+    },
+    "20260410": {
+     "datum": "Freitag, 10. April 2026",
+     "zeitstempel": "30.03.2026, 10:27",
+     "lehrer": {
+      "Bar": {
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "inf1",
+         "klasse": "11A-11D",
+         "raum": "K10",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "inf1",
+         "klasse": "11A-11D",
+         "raum": "K10",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Bes": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Ma",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "Ma",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "ma2",
+         "klasse": "12A-12E",
+         "raum": "201",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "ma2",
+         "klasse": "12A-12E",
+         "raum": "201",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Bir": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Mu",
+         "klasse": "7E",
+         "raum": "107",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "Mu",
+         "klasse": "7E",
+         "raum": "107",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Mu",
+         "klasse": "8D",
+         "raum": "107",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "Mu",
+         "klasse": "8D",
+         "raum": "107",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "mue1",
+         "klasse": "11A-11D",
+         "raum": "107",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "mue1",
+         "klasse": "11A-11D",
+         "raum": "107",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Bis": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Bob": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Bod": {
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "Sk",
+         "klasse": "10B",
+         "raum": "002",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "Sk",
+         "klasse": "10B",
+         "raum": "002",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Sp",
+         "klasse": "8B",
+         "raum": "Tu3",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "Sp",
+         "klasse": "8B",
+         "raum": "Tu3",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Bri": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Ma",
+         "klasse": "10D",
+         "raum": "Co2",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "Ma",
+         "klasse": "10D",
+         "raum": "Co2",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "ma1",
+         "klasse": "12A-12E",
+         "raum": "Co2",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "ma1",
+         "klasse": "12A-12E",
+         "raum": "Co2",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "MA1",
+         "klasse": "11A-11D",
+         "raum": "Co2",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "8",
+         "fach": "MA1",
+         "klasse": "11A-11D",
+         "raum": "Co2",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Con": {
+       "entries": [
+        {
+         "stunde": "7",
+         "fach": "inf1",
+         "klasse": "12A-12E",
+         "raum": "K10",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "8",
+         "fach": "inf1",
+         "klasse": "12A-12E",
+         "raum": "K10",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Epp": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Eul": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "DE2",
+         "klasse": "11A-11D",
+         "raum": "Aula",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "DE2",
+         "klasse": "11A-11D",
+         "raum": "Aula",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "ere2",
+         "klasse": "11A-11D",
+         "raum": "104",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "ere2",
+         "klasse": "11A-11D",
+         "raum": "104",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Ext 4": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Ext 5": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Fech": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Fel": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Span",
          "klasse": "9C",
          "raum": "004",
          "info": "",
@@ -13109,7 +13472,7 @@
         },
         {
          "stunde": "2",
-         "fach": "De",
+         "fach": "Span",
          "klasse": "9C",
          "raum": "004",
          "info": "",
@@ -13117,17 +13480,1444 @@
         },
         {
          "stunde": "3",
-         "fach": "de1",
+         "fach": "span1",
          "klasse": "11A-11D",
+         "raum": "103",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "span1",
+         "klasse": "11A-11D",
+         "raum": "103",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "8D",
+         "raum": "103",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "8D",
+         "raum": "103",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof 1 und Container",
+         "info": ""
+        }
+       ]
+      },
+      "Fer": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Fla": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "7C",
+         "raum": "101",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "7C",
+         "raum": "101",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Gol": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "ge2",
+         "klasse": "12A-12E",
+         "raum": "K07",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "ge2",
+         "klasse": "12A-12E",
+         "raum": "K07",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "ge1",
+         "klasse": "11A-11D",
+         "raum": "K07",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "ge1",
+         "klasse": "11A-11D",
+         "raum": "K07",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Gor": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "GE2",
+         "klasse": "11A-11D",
+         "raum": "106",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "GE2",
+         "klasse": "11A-11D",
+         "raum": "106",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Sk",
+         "klasse": "8C",
          "raum": "008",
          "info": "",
          "geaendert": false
         },
         {
          "stunde": "4",
-         "fach": "de1",
-         "klasse": "11A-11D",
+         "fach": "Sk",
+         "klasse": "8C",
          "raum": "008",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "sk2",
+         "klasse": "12A-12E",
+         "raum": "001",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "sk2",
+         "klasse": "12A-12E",
+         "raum": "001",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": ""
+        }
+       ]
+      },
+      "Hei": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Fr",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "Fr",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Fr",
+         "klasse": "10A",
+         "raum": "207",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "Fr",
+         "klasse": "10A",
+         "raum": "207",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "1",
+         "uhrzeit": "07:10",
+         "ort": "Haus und Caféteria",
+         "info": ""
+        }
+       ]
+      },
+      "Her": {
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "ILZ",
+         "klasse": "7A",
+         "raum": "101",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "ILZ",
+         "klasse": "7A",
+         "raum": "101",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "AWT",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "AWT",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Haus und Caféteria",
+         "info": ""
+        }
+       ]
+      },
+      "Hin": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Hofm": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "En",
+         "klasse": "8C",
+         "raum": "008",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "En",
+         "klasse": "8C",
+         "raum": "008",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Essenraum und Keller",
+         "info": ""
+        }
+       ]
+      },
+      "Hoh": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Ma",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "Ma",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Ph",
+         "klasse": "7D",
+         "raum": "205",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "Ph",
+         "klasse": "7D",
+         "raum": "205",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ph",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "Ph",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Haus und Caféteria",
+         "info": ""
+        }
+       ]
+      },
+      "Hol": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "EN2",
+         "klasse": "11A-11D",
+         "raum": "102",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "EN2",
+         "klasse": "11A-11D",
+         "raum": "102",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "10A",
+         "raum": "Co2",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "10A",
+         "raum": "Co2",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "en2",
+         "klasse": "12A-12E",
+         "raum": "006",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "8",
+         "fach": "en2",
+         "klasse": "12A-12E",
+         "raum": "006",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Hön": {
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "Phil",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "für Phil Schuc",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Phil",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "für Phil Schuc",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "dsp1",
+         "klasse": "12A-12E",
+         "raum": "Aula",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "dsp1",
+         "klasse": "12A-12E",
+         "raum": "Aula",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "DE1",
+         "klasse": "11A-11D",
+         "raum": "106",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "8",
+         "fach": "DE1",
+         "klasse": "11A-11D",
+         "raum": "106",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Hun": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Isb": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Jac": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Jur": {
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "de1",
+         "klasse": "12A-12E",
+         "raum": "106",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "de1",
+         "klasse": "12A-12E",
+         "raum": "106",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "8C",
+         "raum": "K07",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "8C",
+         "raum": "K07",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Kar": {
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "mu1",
+         "klasse": "12A-12E",
+         "raum": "106",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "mu1",
+         "klasse": "12A-12E",
+         "raum": "106",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Kno": {
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "ch1",
+         "klasse": "11A-11D",
+         "raum": "K12",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "ch1",
+         "klasse": "11A-11D",
+         "raum": "K12",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ch",
+         "klasse": "9A",
+         "raum": "K12",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "Ch",
+         "klasse": "9A",
+         "raum": "K12",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "ch1",
+         "klasse": "12A-12E",
+         "raum": "K12",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "8",
+         "fach": "ch1",
+         "klasse": "12A-12E",
+         "raum": "K12",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Köh": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Span",
+         "klasse": "9B",
+         "raum": "007",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "Span",
+         "klasse": "9B",
+         "raum": "007",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Span",
+         "klasse": "7D",
+         "raum": "008",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "Span",
+         "klasse": "7D",
+         "raum": "008",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus und Caféteria",
+         "info": ""
+        }
+       ]
+      },
+      "Lam": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Lan": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Sk",
+         "klasse": "10C",
+         "raum": "103",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "Sk",
+         "klasse": "10C",
+         "raum": "103",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "AWT",
+         "klasse": "9D",
+         "raum": "Co1",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "AWT",
+         "klasse": "9D",
+         "raum": "Co1",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "w3",
+         "klasse": "11A-11D",
+         "raum": "105",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "w3",
+         "klasse": "11A-11D",
+         "raum": "105",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Leu": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Ma",
+         "klasse": "9A",
+         "raum": "104",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "Ma",
+         "klasse": "9A",
+         "raum": "104",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "ma3",
+         "klasse": "12A-12E",
+         "raum": "105",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "ma3",
+         "klasse": "12A-12E",
+         "raum": "105",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "10B",
+         "raum": "004",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "10B",
+         "raum": "004",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "9",
+         "fach": "GS10",
+         "klasse": "7A-7E,8A-8D",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "10",
+         "fach": "GS10",
+         "klasse": "7A-7E,8A-8D",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Lie": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Mar": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Ma",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "Ma",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "7C",
+         "raum": "101",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "7C",
+         "raum": "101",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": ""
+        }
+       ]
+      },
+      "Mue": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Geo",
+         "klasse": "8D",
+         "raum": "105",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "Geo",
+         "klasse": "8D",
+         "raum": "105",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Sp",
+         "klasse": "7C",
+         "raum": "Tu1",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "Sp",
+         "klasse": "7C",
+         "raum": "Tu1",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Sp",
+         "klasse": "8A",
+         "raum": "Tu1",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "Sp",
+         "klasse": "8A",
+         "raum": "Tu1",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Neu": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Now": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "OLop": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Span",
+         "klasse": "9B",
+         "raum": "007",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "Span",
+         "klasse": "9B",
+         "raum": "007",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Span",
+         "klasse": "10D",
+         "raum": "007",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "Span",
+         "klasse": "10D",
+         "raum": "007",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Span",
+         "klasse": "10C",
+         "raum": "007",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "Span",
+         "klasse": "10C",
+         "raum": "007",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Essenraum und Keller",
+         "info": ""
+        }
+       ]
+      },
+      "Ost": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "de3",
+         "klasse": "12A-12E",
+         "raum": "204",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "de3",
+         "klasse": "12A-12E",
+         "raum": "204",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof 1 und Container",
+         "info": ""
+        }
+       ]
+      },
+      "Pri": {
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "GS15",
+         "klasse": "7A-7E,8A-8D",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "8",
+         "fach": "GS15",
+         "klasse": "7A-7E,8A-8D",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "9",
+         "fach": "GS15",
+         "klasse": "7A-7E,8A-8D",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "10",
+         "fach": "GS15",
+         "klasse": "7A-7E,8A-8D",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Puk": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 9D Stu (für Span)",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 9D Stu (für Span)",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Rat": {
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "ere2",
+         "klasse": "11A-11D",
+         "raum": "104",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "ere2",
+         "klasse": "11A-11D",
+         "raum": "104",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Roh": {
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "ph1",
+         "klasse": "12A-12E",
+         "raum": "205",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "ph1",
+         "klasse": "12A-12E",
+         "raum": "205",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Abwesenheiten der Oberstufe einpflegen",
+         "info": ""
+        }
+       ]
+      },
+      "Scheu": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Schil": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "DE2",
+         "klasse": "11A-11D",
+         "raum": "Aula",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "DE2",
+         "klasse": "11A-11D",
+         "raum": "Aula",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Schuc": {
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phil 9C Hön",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phil 9C Hön",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phil 11A-11D selbst. (v), Selbststudium",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phil 11A-11D selbst. (v), Selbststudium",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Schud": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Ku",
+         "klasse": "7D",
+         "raum": "207",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "Ku",
+         "klasse": "7D",
+         "raum": "207",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Ge",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "Ge",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ku",
+         "klasse": "9C",
+         "raum": "207",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "Ku",
+         "klasse": "9C",
+         "raum": "207",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "See": {
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "Bio",
+         "klasse": "10D",
+         "raum": "204",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "Bio",
+         "klasse": "10D",
+         "raum": "204",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Sei": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Sta": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Ph",
+         "klasse": "10A",
+         "raum": "205",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "Ph",
+         "klasse": "10A",
+         "raum": "205",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Inf",
+         "klasse": "10C",
+         "raum": "K09",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "Inf",
+         "klasse": "10C",
+         "raum": "K09",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "9D",
+         "raum": "Co1",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "9D",
+         "raum": "Co1",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": ""
+        }
+       ]
+      },
+      "Stu": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "B VK2 fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "Sp",
+         "klasse": "9D",
+         "raum": "Tu1",
+         "info": "für Span Puk",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "B VK2 fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Sp",
+         "klasse": "9D",
+         "raum": "Tu1",
+         "info": "für Span Puk",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Ten": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Ter": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "BIO1",
+         "klasse": "11A-11D",
+         "raum": "201",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "BIO1",
+         "klasse": "11A-11D",
+         "raum": "201",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Tie": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Tuh": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "10B",
+         "raum": "005",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "10B",
+         "raum": "005",
          "info": "",
          "geaendert": false
         }
@@ -13138,54 +14928,61 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Fr",
-         "klasse": "9A",
-         "raum": "104",
+         "fach": "en1",
+         "klasse": "12A-12E",
+         "raum": "Co3",
          "info": "",
          "geaendert": false
         },
         {
          "stunde": "2",
-         "fach": "Fr",
+         "fach": "en1",
+         "klasse": "12A-12E",
+         "raum": "Co3",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "ILZ",
          "klasse": "9A",
          "raum": "104",
          "info": "",
          "geaendert": false
         },
         {
-         "stunde": "5",
-         "fach": "EN1",
-         "klasse": "11A-11D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "6",
-         "fach": "EN1",
-         "klasse": "11A-11D",
-         "raum": "007",
+         "stunde": "4",
+         "fach": "ILZ",
+         "klasse": "9A",
+         "raum": "104",
          "info": "",
          "geaendert": false
         },
         {
          "stunde": "7",
-         "fach": "En",
-         "klasse": "9A",
-         "raum": "104",
+         "fach": "EN1",
+         "klasse": "11A-11D",
+         "raum": "003",
          "info": "",
          "geaendert": false
         },
         {
          "stunde": "8",
-         "fach": "En",
-         "klasse": "9A",
-         "raum": "104",
+         "fach": "EN1",
+         "klasse": "11A-11D",
+         "raum": "003",
          "info": "",
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof 1 und Container",
+         "info": ""
+        }
+       ]
       }
      }
     }
