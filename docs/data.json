@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "09.04.2026, 16:51 Uhr",
- "last_changed": "2026-04-09T08:20:00",
+ "generiert": "09.04.2026, 17:07 Uhr",
+ "last_changed": "2026-04-09T18:56:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -2021,7 +2021,7 @@
     },
     "20260410": {
      "datum": "Freitag, 10. April 2026",
-     "zeitstempel": "09.04.2026, 08:20",
+     "zeitstempel": "09.04.2026, 18:56",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -2770,22 +2770,6 @@
       "Hön": {
        "entries": [
         {
-         "stunde": "3",
-         "fach": "Phil",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "für Phil Schuc",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Phil",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "für Phil Schuc",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
          "fach": "dsp1",
          "klasse": "12A-12E",
@@ -3496,51 +3480,51 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Phil 9C Hön",
-         "geaendert": true
+         "fach": "Phil",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "4",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Phil 9C Hön",
-         "geaendert": true
+         "fach": "Phil",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Phil 11A-11D selbst. (v), Selbststudium",
-         "geaendert": true
+         "fach": "phil2",
+         "klasse": "11A-11D",
+         "raum": "006",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Phil 11A-11D selbst. (v), Selbststudium",
-         "geaendert": true
+         "fach": "phil2",
+         "klasse": "11A-11D",
+         "raum": "006",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "7",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Ge 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
-         "geaendert": true
+         "fach": "GE1",
+         "klasse": "11A-11D",
+         "raum": "Co1",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "8",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Ge 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
-         "geaendert": true
+         "fach": "GE1",
+         "klasse": "11A-11D",
+         "raum": "Co1",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": [

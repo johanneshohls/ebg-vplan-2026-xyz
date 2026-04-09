@@ -59,5 +59,25 @@
    "Std 6 (12:25): Ge 7E verlegt nach St.4"
   ],
   "zeitstempel": "09.04.2026, 08:20"
+ },
+ {
+  "timestamp": "2026-04-09T17:07:18.064727",
+  "lehrer": "Hön",
+  "datum": "Freitag, 10. April 2026",
+  "date_key": "20260410",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "09.04.2026, 18:56"
+ },
+ {
+  "timestamp": "2026-04-09T17:07:18.064727",
+  "lehrer": "Schuc",
+  "datum": "Freitag, 10. April 2026",
+  "date_key": "20260410",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "09.04.2026, 18:56"
  }
 ]
