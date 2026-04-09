@@ -1,1 +1,63 @@
-[]
+[
+ {
+  "timestamp": "2026-04-09T07:07:14.418745",
+  "lehrer": "Pri",
+  "datum": "Montag, 13. April 2026",
+  "date_key": "20260413",
+  "changes": [
+   "Std 3 (09:40): Ge 10A selbst. (v), Selbststudium, Anwesenheitspflicht, Hr. Priesemuth erteilt Aufgaben",
+   "Std 4 (10:25): Ge 10A selbst. (v), Selbststudium, Anwesenheitspflicht, Hr. Priesemuth erteilt Aufgaben"
+  ],
+  "zeitstempel": "09.04.2026, 08:20"
+ },
+ {
+  "timestamp": "2026-04-09T07:07:14.418745",
+  "lehrer": "Pri",
+  "datum": "Dienstag, 14. April 2026",
+  "date_key": "20260414",
+  "changes": [
+   "Std 3 (09:40): En 12A-12E selbst. (v), Selbststudium, Hr. Priesemuth erteilt Aufgaben",
+   "Std 4 (10:25): En 12A-12E selbst. (v), Selbststudium, Hr. Priesemuth erteilt Aufgaben"
+  ],
+  "zeitstempel": "09.04.2026, 08:20"
+ },
+ {
+  "timestamp": "2026-04-09T07:07:14.418745",
+  "lehrer": "Bri",
+  "datum": "Mittwoch, 15. April 2026",
+  "date_key": "20260415",
+  "changes": [
+   "Std 3 (09:40): Nachschrift",
+   "Std 4 (10:25): Nachschrift",
+   "Std 5 (11:40): Klausuraufsicht",
+   "Std 6 (12:25): Klausuraufsicht"
+  ],
+  "zeitstempel": "09.04.2026, 08:20"
+ },
+ {
+  "timestamp": "2026-04-09T07:07:14.418745",
+  "lehrer": "Mar",
+  "datum": "Mittwoch, 15. April 2026",
+  "date_key": "20260415",
+  "changes": [
+   "Std 3 (09:40): En 7E verlegt nach St.5",
+   "Std 4 (10:25): En 7E verlegt nach St.6",
+   "Std 5 (11:40): En 7E verlegt von St.3",
+   "Std 6 (12:25): En 7E verlegt von St.4"
+  ],
+  "zeitstempel": "09.04.2026, 08:20"
+ },
+ {
+  "timestamp": "2026-04-09T07:07:14.418745",
+  "lehrer": "Pri",
+  "datum": "Mittwoch, 15. April 2026",
+  "date_key": "20260415",
+  "changes": [
+   "Std 3 (09:40): Ge 7E verlegt von St.5",
+   "Std 4 (10:25): Ge 7E verlegt von St.6",
+   "Std 5 (11:40): Ge 7E verlegt nach St.3",
+   "Std 6 (12:25): Ge 7E verlegt nach St.4"
+  ],
+  "zeitstempel": "09.04.2026, 08:20"
+ }
+]

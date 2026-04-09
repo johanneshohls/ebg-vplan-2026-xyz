@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "09.04.2026, 06:18 Uhr",
- "last_changed": "2026-03-30T12:47:00",
+ "generiert": "09.04.2026, 07:07 Uhr",
+ "last_changed": "2026-04-09T08:20:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -78,7 +78,7 @@
    "tage": {
     "20260409": {
      "datum": "Donnerstag, 09. April 2026",
-     "zeitstempel": "30.03.2026, 12:47",
+     "zeitstempel": "09.04.2026, 08:20",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -2021,7 +2021,7 @@
     },
     "20260410": {
      "datum": "Freitag, 10. April 2026",
-     "zeitstempel": "30.03.2026, 12:47",
+     "zeitstempel": "09.04.2026, 08:20",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -3848,7 +3848,7 @@
    "tage": {
     "20260413": {
      "datum": "Montag, 13. April 2026",
-     "zeitstempel": "30.03.2026, 12:47",
+     "zeitstempel": "09.04.2026, 08:20",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -5252,19 +5252,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Ge",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10A selbst. (v), Selbststudium, Anwesenheitspflicht, Hr. Priesemuth erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ge",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10A selbst. (v), Selbststudium, Anwesenheitspflicht, Hr. Priesemuth erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -5811,7 +5811,7 @@
     },
     "20260414": {
      "datum": "Dienstag, 14. April 2026",
-     "zeitstempel": "30.03.2026, 12:47",
+     "zeitstempel": "09.04.2026, 08:20",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -7199,18 +7199,18 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "EN1",
-         "klasse": "12A-12E",
-         "raum": "008",
-         "info": "für En Pri",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12E selbst. (v), Selbststudium, Hr. Priesemuth erteilt Aufgaben",
          "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "EN1",
-         "klasse": "12A-12E",
-         "raum": "008",
-         "info": "für En Pri",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12E selbst. (v), Selbststudium, Hr. Priesemuth erteilt Aufgaben",
          "geaendert": true
         }
        ],
@@ -7757,7 +7757,7 @@
     },
     "20260415": {
      "datum": "Mittwoch, 15. April 2026",
-     "zeitstempel": "30.03.2026, 12:47",
+     "zeitstempel": "09.04.2026, 08:20",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -8012,6 +8012,38 @@
       },
       "Bri": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "Co3",
+         "info": "Nachschrift",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "Co3",
+         "info": "Nachschrift",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "W",
+         "klasse": "",
+         "raum": "Co3",
+         "info": "Klausuraufsicht",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "W",
+         "klasse": "",
+         "raum": "Co3",
+         "info": "Klausuraufsicht",
+         "geaendert": true
+        },
         {
          "stunde": "7",
          "fach": "ma1",
@@ -8984,19 +9016,35 @@
         },
         {
          "stunde": "3",
-         "fach": "En",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7E verlegt nach St.5",
+         "geaendert": true
         },
         {
          "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7E verlegt nach St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
          "fach": "En",
          "klasse": "7E",
          "raum": "005",
-         "info": "",
-         "geaendert": false
+         "info": "En 7E verlegt von St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "En 7E verlegt von St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -9202,20 +9250,36 @@
       "Pri": {
        "entries": [
         {
-         "stunde": "5",
+         "stunde": "3",
          "fach": "Ge",
          "klasse": "7E",
          "raum": "005",
-         "info": "",
-         "geaendert": false
+         "info": "Ge 7E verlegt von St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ge",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "Ge 7E verlegt von St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 7E verlegt nach St.3",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ge",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 7E verlegt nach St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -9784,7 +9848,7 @@
     },
     "20260416": {
      "datum": "Donnerstag, 16. April 2026",
-     "zeitstempel": "30.03.2026, 12:47",
+     "zeitstempel": "09.04.2026, 08:20",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -11298,19 +11362,19 @@
         },
         {
          "stunde": "5",
-         "fach": "EN1",
-         "klasse": "12A-12E",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12E selbst. (v), Selbststudium, Hr. Priesemuth erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "EN1",
-         "klasse": "12A-12E",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12E selbst. (v), Selbststudium, Hr. Priesemuth erteilt Aufgaben",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -11416,14 +11480,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Essenraum und Keller",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Schuc": {
        "entries": [
@@ -11552,7 +11609,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Essenraum und Keller",
+         "info": ""
+        }
+       ]
       },
       "See": {
        "entries": [
@@ -11871,7 +11935,7 @@
     },
     "20260417": {
      "datum": "Freitag, 17. April 2026",
-     "zeitstempel": "30.03.2026, 12:47",
+     "zeitstempel": "09.04.2026, 08:20",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -13134,19 +13198,19 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "EN1",
-         "klasse": "12A-12E",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12E selbst. (v), Selbststudium, Hr. Priesemuth erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "EN1",
-         "klasse": "12A-12E",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12E selbst. (v), Selbststudium, Hr. Priesemuth erteilt Aufgaben",
+         "geaendert": true
         }
        ],
        "aufsichten": []
