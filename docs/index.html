@@ -690,6 +690,7 @@
   </div>
   <div style="display:flex;align-items:center;gap:6px">
     <select class="nav-select" id="teacherSelect" onchange="switchTeacher(this.value)" style="display:none"></select>
+    <select class="nav-select" id="compareSelect" onchange="switchCompareTeacher(this.value)" style="display:none"></select>
     <button class="more-btn" id="moreBtn" onclick="toggleMoreMenu()" style="display:none">···</button>
     <button class="refresh-btn" id="refreshBtn" onclick="doRefresh()" style="display:none">&#x21bb;</button>
   </div>
@@ -709,6 +710,9 @@
   </button>
   <button class="more-menu-item" onclick="menuAction('theme')">
     Farbschema
+  </button>
+  <button class="more-menu-item" onclick="menuAction('compare')">
+    <span id="compareModeLabel">Vergleichsmodus</span>
   </button>
 </div>
 
@@ -782,6 +786,7 @@ function menuAction(action) {
   closeMoreMenu();
   if (action === "history") toggleHistory();
   if (action === "theme") toggleThemePicker();
+  if (action === "compare") toggleCompareMode();
 }
 
 // Apply saved theme immediately
@@ -796,6 +801,7 @@ const DOW = {1:"MO",2:"DI",3:"MI",4:"DO",5:"FR"};
 
 let planData = null, historyData = null, currentTeacher = null, currentKW = null;
 let showingHistory = false;
+let compareMode = false, compareTeacher = null;
 
 function getTeacher() {
   const p = new URLSearchParams(location.search);
@@ -806,6 +812,41 @@ function saveTeacher(c) {
   const u = new URL(location); u.searchParams.set("l", c); history.replaceState(null, "", u);
 }
 function switchTeacher(c) { currentTeacher = c; saveTeacher(c); renderPlan(); }
+
+function getCompareMode() {
+  try { return localStorage.getItem("ebg_vplan_compare") === "1"; } catch(e) { return false; }
+}
+function saveCompareMode(v) {
+  try { localStorage.setItem("ebg_vplan_compare", v ? "1" : "0"); } catch(e) {}
+}
+function getCompareTeacher() {
+  try { return localStorage.getItem("ebg_vplan_compare_lehrer") || null; } catch(e) { return null; }
+}
+function saveCompareTeacher(c) {
+  try { localStorage.setItem("ebg_vplan_compare_lehrer", c); } catch(e) {}
+}
+function toggleCompareMode() {
+  compareMode = !compareMode;
+  saveCompareMode(compareMode);
+  if (compareMode && !compareTeacher && planData?.lehrer) {
+    compareTeacher = planData.lehrer.find(l => l !== currentTeacher) || planData.lehrer[0];
+    saveCompareTeacher(compareTeacher);
+    renderTeacherSelect();
+  }
+  updateCompareModeUI();
+  renderPlan();
+}
+function switchCompareTeacher(c) {
+  compareTeacher = c;
+  saveCompareTeacher(c);
+  renderPlan();
+}
+function updateCompareModeUI() {
+  const label = document.getElementById("compareModeLabel");
+  if (label) label.textContent = compareMode ? "Vergleich ausschalten" : "Vergleichsmodus";
+  const cSel = document.getElementById("compareSelect");
+  if (cSel) cSel.style.display = compareMode ? "" : "none";
+}
 
 async function loadData() {
   try {
@@ -853,6 +894,9 @@ function renderTeacherSelect() {
   const s = document.getElementById("teacherSelect");
   s.innerHTML = planData.lehrer.map(l => `<option value="${l}" ${l===currentTeacher?"selected":""}>${l}</option>`).join("");
   s.style.display = "";
+  const cs = document.getElementById("compareSelect");
+  cs.innerHTML = planData.lehrer.map(l => `<option value="${l}" ${l===compareTeacher?"selected":""}>${l}</option>`).join("");
+  cs.style.display = compareMode ? "" : "none";
   document.getElementById("refreshBtn").style.display = "";
 }
 
@@ -880,6 +924,7 @@ function setupDone() {
   saveTeacher(currentTeacher);
   renderTeacherSelect();
   document.getElementById("moreBtn").style.display = "";
+  updateCompareModeUI();
   currentKW = planData.aktuelle_kw;
   renderPlan();
 }
@@ -904,7 +949,7 @@ function renderPlan() {
   }
 
   // Nav bar
-  document.getElementById("navTitle").textContent = currentTeacher;
+  document.getElementById("navTitle").textContent = compareMode && compareTeacher ? currentTeacher + " / " + compareTeacher : currentTeacher;
   const lastChanged = planData.last_changed
     ? (() => { const d = new Date(planData.last_changed); return `Letzte Änderung: ${d.toLocaleDateString("de-DE",{day:"2-digit",month:"2-digit",year:"numeric"})}, ${d.toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"})} Uhr`; })()
     : "Keine Änderungen heute";
@@ -920,30 +965,79 @@ function renderPlan() {
   const now = new Date();
   const todayStr = now.getFullYear() + String(now.getMonth()+1).padStart(2,"0") + String(now.getDate()).padStart(2,"0");
 
-  // Find max period
-  let maxP = 0;
-  for (const dk of dayKeys) {
-    const td = days[dk]?.lehrer?.[currentTeacher];
-    if (td) {
-      for (const e of td.entries) { const p = parseInt(e.stunde); if (p > maxP) maxP = p; }
-      if (td.aufsichten) for (const a of td.aufsichten) { const p = parseInt(a.vor_stunde); if (p > maxP) maxP = p; }
+  // Helper: build grid + aufsicht grid for a teacher, return maxP
+  function buildGrid(teacher) {
+    let maxP = 0;
+    const grid = {}, aufGrid = {};
+    for (const dk of dayKeys) {
+      grid[dk] = {}; aufGrid[dk] = {};
+      const td = days[dk]?.lehrer?.[teacher];
+      if (td) {
+        for (const e of td.entries) { grid[dk][e.stunde] = e; const p = parseInt(e.stunde); if (p > maxP) maxP = p; }
+        if (td.aufsichten) for (const a of td.aufsichten) { aufGrid[dk][a.vor_stunde] = a; const p = parseInt(a.vor_stunde); if (p > maxP) maxP = p; }
+      }
     }
+    if (maxP === 0) maxP = 6;
+    if (maxP > PERIODS.length) maxP = PERIODS.length;
+    return {grid, aufGrid, maxP};
   }
-  if (maxP === 0) maxP = 6;
-  if (maxP > PERIODS.length) maxP = PERIODS.length;
 
-  // Build grid: dayKey -> period -> entry
-  const grid = {};
-  // Build aufsicht grid: dayKey -> "vor_stunde" -> aufsicht
-  const aufGrid = {};
-  for (const dk of dayKeys) {
-    grid[dk] = {};
-    aufGrid[dk] = {};
-    const td = days[dk]?.lehrer?.[currentTeacher];
-    if (td) {
-      for (const e of td.entries) grid[dk][e.stunde] = e;
-      if (td.aufsichten) for (const a of td.aufsichten) aufGrid[dk][a.vor_stunde] = a;
+  // Helper: build table HTML for a grid
+  function buildTable(grid, aufGrid, maxP) {
+    let h = '<div class="table-scroll"><table class="plan-table">';
+    h += '<thead><tr><th class="col-std" style="text-align:left;padding-left:20px"></th>';
+    for (const dk of dayKeys) {
+      const d = parseDate(dk);
+      const dow = DOW[d.getDay()] || "";
+      const isToday = dk === todayStr;
+      const ts = days[dk]?.zeitstempel || "";
+      h += `<th><div class="day-th-wrap${isToday ? " day-today" : ""}">
+        <div class="day-name">${dow}</div>
+        <div class="day-date">${isToday
+          ? '<span style="background:var(--today-bg);color:var(--today-text);width:26px;height:26px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:13px">'+d.getDate()+'</span>'
+          : d.getDate()+'.'}</div>
+        ${ts ? '<div class="day-ts">' + ts + '</div>' : ''}
+      </div></th>`;
     }
+    h += '</tr></thead><tbody>';
+    for (let pi = 0; pi < maxP; pi++) {
+      const period = PERIODS[pi];
+      const timeStart = TIMES[period] || "";
+      if (PAUSEN[period]) {
+        const hasAnyAufsicht = dayKeys.some(dk => aufGrid[dk]?.[period]);
+        if (hasAnyAufsicht) {
+          h += '<tr class="aufsicht-row">';
+          h += `<td class="aufsicht-cell" style="text-align:left;padding-left:12px;color:var(--secondary);font-size:9px">${PAUSEN[period]}</td>`;
+          for (const dk of dayKeys) {
+            const a = aufGrid[dk]?.[period];
+            if (a) {
+              const txt = a.ort + (a.info ? ' (' + a.info + ')' : '');
+              const shortTxt = txt.length > 24 ? txt.substring(0, 22) + '...' : txt;
+              h += `<td class="aufsicht-cell" onclick="showInfo('${txt.replace(/'/g, "\\'")}')">${shortTxt}</td>`;
+            } else {
+              h += '<td class="aufsicht-cell"></td>';
+            }
+          }
+          h += '</tr>';
+        }
+      }
+      h += '<tr>';
+      h += `<td class="std-cell"><div class="std-num">${period}</div><div class="std-time">${timeStart}</div></td>`;
+      for (const dk of dayKeys) {
+        const e = grid[dk]?.[period];
+        if (!e) { h += '<td class="day-cell empty"></td>'; continue; }
+        const isChanged = e.geaendert || e.info;
+        const isCancelled = e.fach === "---";
+        const hasInfo = !!e.info;
+        const cls = isCancelled ? "day-cell changed cancelled" : isChanged ? "day-cell changed" : "day-cell";
+        const infoClick = hasInfo ? ` onclick="showInfo('${e.info.replace(/'/g, "\\'")}')"` : "";
+        const dot = hasInfo ? '<div class="info-dot"></div>' : "";
+        h += `<td class="${cls}"${infoClick}>${dot}<div class="subject">${e.fach}</div><div class="klasse">${e.klasse}</div><div class="room">${e.raum}</div></td>`;
+      }
+      h += '</tr>';
+    }
+    h += '</tbody></table></div>';
+    return h;
   }
 
   // KW Header with arrows
@@ -955,79 +1049,25 @@ function renderPlan() {
     <span onclick="changeWeek(1)" style="cursor:pointer;font-size:18px;opacity:${canNext ? '1' : '0.2'};padding:4px 8px">&rsaquo;</span>
   </div>`;
 
-  html += '<div class="card"><div class="table-scroll"><table class="plan-table">';
-
-  // Day headers
-  html += '<thead><tr><th class="col-std" style="text-align:left;padding-left:20px"></th>';
-  for (const dk of dayKeys) {
-    const d = parseDate(dk);
-    const dow = DOW[d.getDay()] || "";
-    const isToday = dk === todayStr;
-    const ts = days[dk]?.zeitstempel || "";
-    html += `<th><div class="day-th-wrap${isToday ? " day-today" : ""}">
-      <div class="day-name">${dow}</div>
-      <div class="day-date">${isToday
-        ? '<span style="background:var(--today-bg);color:var(--today-text);width:26px;height:26px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:13px">'+d.getDate()+'</span>'
-        : d.getDate()+'.'}</div>
-      ${ts ? '<div class="day-ts">' + ts + '</div>' : ''}
-    </div></th>`;
-  }
-  html += '</tr></thead><tbody>';
-
-  // Period rows with Aufsicht/Pausen dazwischen
-  for (let pi = 0; pi < maxP; pi++) {
-    const period = PERIODS[pi];
-    const timeStart = TIMES[period] || "";
-
-    // Aufsicht-Zeile VOR dieser Stunde (wenn es eine Pause gibt)
-    if (PAUSEN[period]) {
-      const hasAnyAufsicht = dayKeys.some(dk => aufGrid[dk]?.[period]);
-      if (hasAnyAufsicht) {
-        html += '<tr class="aufsicht-row">';
-        html += `<td class="aufsicht-cell" style="text-align:left;padding-left:12px;color:var(--secondary);font-size:9px">${PAUSEN[period]}</td>`;
-        for (const dk of dayKeys) {
-          const a = aufGrid[dk]?.[period];
-          if (a) {
-            const txt = a.ort + (a.info ? ' (' + a.info + ')' : '');
-            const shortTxt = txt.length > 24 ? txt.substring(0, 22) + '...' : txt;
-            html += `<td class="aufsicht-cell" onclick="showInfo('${txt.replace(/'/g, "\\'")}')">${shortTxt}</td>`;
-          } else {
-            html += '<td class="aufsicht-cell"></td>';
-          }
-        }
-        html += '</tr>';
-      }
-    }
-
-    html += '<tr>';
-    html += `<td class="std-cell"><div class="std-num">${period}</div><div class="std-time">${timeStart}</div></td>`;
-
-    for (const dk of dayKeys) {
-      const e = grid[dk]?.[period];
-
-      if (!e) {
-        html += '<td class="day-cell empty"></td>';
-        continue;
-      }
-
-      const isChanged = e.geaendert || e.info;
-      const isCancelled = e.fach === "---";
-      const hasInfo = !!e.info;
-      const cls = isCancelled ? "day-cell changed cancelled" : isChanged ? "day-cell changed" : "day-cell";
-      const infoClick = hasInfo ? ` onclick="showInfo('${e.info.replace(/'/g, "\\'")}')"` : "";
-      const dot = hasInfo ? '<div class="info-dot"></div>' : "";
-
-      html += `<td class="${cls}"${infoClick}>
-        ${dot}
-        <div class="subject">${e.fach}</div>
-        <div class="klasse">${e.klasse}</div>
-        <div class="room">${e.raum}</div>
-      </td>`;
-    }
-    html += '</tr>';
+  if (compareMode && compareTeacher) {
+    const g1 = buildGrid(currentTeacher);
+    const g2 = buildGrid(compareTeacher);
+    const sharedMaxP = Math.max(g1.maxP, g2.maxP);
+    html += `<div style="display:flex;gap:8px">
+      <div style="flex:1;min-width:0">
+        <div style="text-align:center;font-weight:600;padding:6px 0;font-size:13px;color:var(--secondary)">${currentTeacher}</div>
+        <div class="card">${buildTable(g1.grid, g1.aufGrid, sharedMaxP)}</div>
+      </div>
+      <div style="flex:1;min-width:0">
+        <div style="text-align:center;font-weight:600;padding:6px 0;font-size:13px;color:var(--secondary)">${compareTeacher}</div>
+        <div class="card">${buildTable(g2.grid, g2.aufGrid, sharedMaxP)}</div>
+      </div>
+    </div>`;
+  } else {
+    const g = buildGrid(currentTeacher);
+    html += '<div class="card">' + buildTable(g.grid, g.aufGrid, g.maxP) + '</div>';
   }
 
-  html += '</tbody></table></div></div>';
   document.getElementById("content").innerHTML = html;
 }
 
@@ -1116,11 +1156,14 @@ function getISOWeek(d) {
     return;
   }
   currentTeacher = getTeacher();
+  compareMode = getCompareMode();
+  compareTeacher = getCompareTeacher();
   currentKW = planData.aktuelle_kw;
   if (currentTeacher && planData.lehrer?.includes(currentTeacher)) {
     saveTeacher(currentTeacher);
     renderTeacherSelect();
     document.getElementById("moreBtn").style.display = "";
+    updateCompareModeUI();
     renderPlan();
   } else {
     renderSetup();
