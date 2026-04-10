@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "10.04.2026, 08:11 Uhr",
- "last_changed": "2026-04-10T07:38:00",
+ "generiert": "10.04.2026, 09:07 Uhr",
+ "last_changed": "2026-04-10T10:46:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -3832,7 +3832,7 @@
    "tage": {
     "20260413": {
      "datum": "Montag, 13. April 2026",
-     "zeitstempel": "09.04.2026, 08:20",
+     "zeitstempel": "10.04.2026, 10:46",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -4165,19 +4165,19 @@
         },
         {
          "stunde": "5",
-         "fach": "De",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7B verlegt nach Mi (15.04.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "De",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7B verlegt nach Mi (15.04.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -4444,26 +4444,18 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "B VK2 fällt aus",
+         "fach": "Geo",
+         "klasse": "9D",
+         "raum": "105",
+         "info": "für Geo Puk, Aufsicht",
          "geaendert": true
         },
         {
          "stunde": "1",
-         "fach": "Geo",
-         "klasse": "9D",
-         "raum": "105",
-         "info": "für Geo Puk, Aufsicht",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "Geo",
-         "klasse": "9D",
-         "raum": "105",
-         "info": "für Geo Puk, Aufsicht",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "B VK2 fällt aus",
          "geaendert": true
         },
         {
@@ -4472,6 +4464,14 @@
          "klasse": "",
          "raum": "",
          "info": "B VK2 fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Geo",
+         "klasse": "9D",
+         "raum": "105",
+         "info": "für Geo Puk, Aufsicht",
          "geaendert": true
         },
         {
@@ -4979,6 +4979,22 @@
          "raum": "003",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Sk",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "Sk 7B statt Mi (15.04.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Sk",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "Sk 7B statt Mi (15.04.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -5795,7 +5811,7 @@
     },
     "20260414": {
      "datum": "Dienstag, 14. April 2026",
-     "zeitstempel": "09.04.2026, 08:20",
+     "zeitstempel": "10.04.2026, 10:46",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -5974,6 +5990,22 @@
          "raum": "003",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Sk",
+         "klasse": "10B",
+         "raum": "005",
+         "info": "Sk 10B statt Fr (17.04.) St.3, Verlegung aufgrund einer Hospitation",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Sk",
+         "klasse": "10B",
+         "raum": "005",
+         "info": "Sk 10B statt Fr (17.04.) St.4, Verlegung aufgrund einer Hospitation",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -6715,17 +6747,17 @@
          "stunde": "5",
          "fach": "En",
          "klasse": "10C",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "105 002",
+         "info": "für En Isb",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "En",
          "klasse": "10C",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "105 002",
+         "info": "für En Isb",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -6942,17 +6974,17 @@
          "stunde": "5",
          "fach": "ILZ",
          "klasse": "10B",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "K09",
+         "info": "für ILZ Leu",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "KL",
          "klasse": "10B",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "K09",
+         "info": "für KL Leu",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -6999,17 +7031,17 @@
          "stunde": "5",
          "fach": "En",
          "klasse": "10C",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "105 002",
+         "info": "für En Isb",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "En",
          "klasse": "10C",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "105 002",
+         "info": "für En Isb",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -7637,19 +7669,19 @@
         },
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "10B",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10B verlegt nach Fr (17.04.) St.3, UB Eul mit Pohla",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "10B",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10B verlegt nach Fr (17.04.) St.4 (Ter), Aufsicht nach UB, Aufgaben sind erteilt",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -7741,7 +7773,7 @@
     },
     "20260415": {
      "datum": "Mittwoch, 15. April 2026",
-     "zeitstempel": "09.04.2026, 08:20",
+     "zeitstempel": "10.04.2026, 10:46",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -8089,6 +8121,22 @@
          "raum": "107",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "De 7B statt Mo (13.04.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "De 7B statt Mo (13.04.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -8857,19 +8905,19 @@
         },
         {
          "stunde": "5",
-         "fach": "Sk",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 7B gehalten am Mo (13.04.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Sk",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 7B gehalten am Mo (13.04.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -9832,7 +9880,7 @@
     },
     "20260416": {
      "datum": "Donnerstag, 16. April 2026",
-     "zeitstempel": "09.04.2026, 08:20",
+     "zeitstempel": "10.04.2026, 10:46",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -11919,7 +11967,7 @@
     },
     "20260417": {
      "datum": "Freitag, 17. April 2026",
-     "zeitstempel": "09.04.2026, 08:20",
+     "zeitstempel": "10.04.2026, 10:46",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -11998,6 +12046,14 @@
       "Bir": {
        "entries": [
         {
+         "stunde": "2",
+         "fach": "En",
+         "klasse": "10C",
+         "raum": "",
+         "info": "Aufsicht über Teilungsgruppe 10c in R 105",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "Mu",
          "klasse": "7A",
@@ -12044,19 +12100,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Sk",
-         "klasse": "10B",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 10B gehalten am Di (14.04.) St.3, Verlegung aufgrund einer Hospitation",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Sk",
-         "klasse": "10B",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 10B gehalten am Di (14.04.) St.4, Verlegung aufgrund einer Hospitation",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -12656,17 +12712,17 @@
          "stunde": "1",
          "fach": "En",
          "klasse": "10C",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "105 Co3",
+         "info": "für En Isb, Hospitation",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "En",
          "klasse": "10C",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "105 Co3",
+         "info": "für En Isb",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12981,17 +13037,17 @@
          "stunde": "1",
          "fach": "En",
          "klasse": "10C",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "105 Co3",
+         "info": "für En Isb, Hospitation",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "En",
          "klasse": "10C",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "105 Co3",
+         "info": "für En Isb",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -13623,22 +13679,14 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
-         "klasse": "9D",
-         "raum": "Co1",
-         "info": "für Span Puk, Aufsicht",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "B VK2 fällt aus",
          "geaendert": true
         },
         {
          "stunde": "1",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "B VK2 fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
          "fach": "Span",
          "klasse": "9D",
          "raum": "Co1",
@@ -13651,6 +13699,14 @@
          "klasse": "",
          "raum": "",
          "info": "B VK2 fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Span",
+         "klasse": "9D",
+         "raum": "Co1",
+         "info": "für Span Puk, Aufsicht",
          "geaendert": true
         },
         {
@@ -13711,6 +13767,14 @@
          "geaendert": false
         },
         {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "10B",
+         "raum": "002",
+         "info": "statt Di (14.04.) St.4 (De Tuh), Aufsicht nach UB, Aufgaben sind erteilt",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "BIO2",
          "klasse": "12A-12E",
@@ -13769,19 +13833,27 @@
         },
         {
          "stunde": "3",
-         "fach": "de1",
-         "klasse": "11A-11D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium aufgrund einer Hospitation, Fr. Tuhcic erteilt Aufgaben",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "10B",
+         "raum": "002",
+         "info": "De 10B statt Di (14.04.) St.3, UB Eul mit Pohla; De 11A-11D selbst. (v), Selbststudium aufgrund einer Hospitation, Fr. Tuhcic erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "de1",
-         "klasse": "11A-11D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium aufgrund einer Hospitation, Fr. Tuhcic erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "9",
