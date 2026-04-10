@@ -79,5 +79,27 @@
    "Planänderung (Details nicht spezifiziert)"
   ],
   "zeitstempel": "09.04.2026, 18:56"
+ },
+ {
+  "timestamp": "2026-04-10T06:07:13.593605",
+  "lehrer": "Köh",
+  "datum": "Freitag, 10. April 2026",
+  "date_key": "20260410",
+  "changes": [
+   "Std 1 (07:40): für Span OLop",
+   "Std 2 (08:25): für Span OLop"
+  ],
+  "zeitstempel": "10.04.2026, 07:38"
+ },
+ {
+  "timestamp": "2026-04-10T06:07:13.593605",
+  "lehrer": "OLop",
+  "datum": "Freitag, 10. April 2026",
+  "date_key": "20260410",
+  "changes": [
+   "Std 1 (07:40): für Span OLop",
+   "Std 2 (08:25): für Span OLop"
+  ],
+  "zeitstempel": "10.04.2026, 07:38"
  }
 ]

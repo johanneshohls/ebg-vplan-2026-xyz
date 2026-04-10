@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "10.04.2026, 05:07 Uhr",
- "last_changed": "2026-04-09T18:56:00",
+ "generiert": "10.04.2026, 06:07 Uhr",
+ "last_changed": "2026-04-10T07:38:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -2021,7 +2021,7 @@
     },
     "20260410": {
      "datum": "Freitag, 10. April 2026",
-     "zeitstempel": "09.04.2026, 18:56",
+     "zeitstempel": "10.04.2026, 07:38",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -2940,17 +2940,17 @@
          "stunde": "1",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "raum": "007 K12",
+         "info": "für Span OLop",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "raum": "007 K12",
+         "info": "für Span OLop",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -3228,17 +3228,17 @@
          "stunde": "1",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "raum": "007 K12",
+         "info": "für Span OLop",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "raum": "007 K12",
+         "info": "für Span OLop",
+         "geaendert": true
         },
         {
          "stunde": "3",
