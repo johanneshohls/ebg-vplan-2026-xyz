@@ -239,5 +239,82 @@
    "Std 2 (08:25): für Ma Bri"
   ],
   "zeitstempel": "10.04.2026, 13:19"
+ },
+ {
+  "timestamp": "2026-04-10T12:07:13.916708",
+  "lehrer": "Hei",
+  "datum": "Montag, 13. April 2026",
+  "date_key": "20260413",
+  "changes": [
+   "Std 3 (09:40): für Geo Hei, Klausur, Aula",
+   "Std 4 (10:25): für Geo Hei, Klausur, Aula"
+  ],
+  "zeitstempel": "10.04.2026, 14:05"
+ },
+ {
+  "timestamp": "2026-04-10T12:07:13.916708",
+  "lehrer": "See",
+  "datum": "Dienstag, 14. April 2026",
+  "date_key": "20260414",
+  "changes": [
+   "Std 7 (13:40): PVU",
+   "Std 8 (14:25): PVU"
+  ],
+  "zeitstempel": "10.04.2026, 14:05"
+ },
+ {
+  "timestamp": "2026-04-10T12:07:13.916708",
+  "lehrer": "Bod",
+  "datum": "Mittwoch, 15. April 2026",
+  "date_key": "20260415",
+  "changes": [
+   "Std 7 (13:40): für Sp Bod, Klausur, Aula",
+   "Std 8 (14:25): für Sp Bod, Klausur, Aula"
+  ],
+  "zeitstempel": "10.04.2026, 14:05"
+ },
+ {
+  "timestamp": "2026-04-10T12:07:13.916708",
+  "lehrer": "Gor",
+  "datum": "Mittwoch, 15. April 2026",
+  "date_key": "20260415",
+  "changes": [
+   "Std 7 (13:40): für Sk Gor, Klausur, Aula",
+   "Std 8 (14:25): für Sk Gor, Klausur, Aula"
+  ],
+  "zeitstempel": "10.04.2026, 14:05"
+ },
+ {
+  "timestamp": "2026-04-10T12:07:13.916708",
+  "lehrer": "Kar",
+  "datum": "Mittwoch, 15. April 2026",
+  "date_key": "20260415",
+  "changes": [
+   "Std 7 (13:40): für Mu Kar, Klausur, Aula",
+   "Std 8 (14:25): für Mu Kar, Klausur, Aula"
+  ],
+  "zeitstempel": "10.04.2026, 14:05"
+ },
+ {
+  "timestamp": "2026-04-10T12:07:13.916708",
+  "lehrer": "Jur",
+  "datum": "Donnerstag, 16. April 2026",
+  "date_key": "20260416",
+  "changes": [
+   "Std 3 (09:40): für De Jur",
+   "Std 4 (10:25): für De Jur"
+  ],
+  "zeitstempel": "10.04.2026, 14:05"
+ },
+ {
+  "timestamp": "2026-04-10T12:07:13.916708",
+  "lehrer": "Tuh",
+  "datum": "Donnerstag, 16. April 2026",
+  "date_key": "20260416",
+  "changes": [
+   "Std 3 (09:40): für De Tuh, Klausur, Aula",
+   "Std 4 (10:25): für De Tuh, Klausur, Aula"
+  ],
+  "zeitstempel": "10.04.2026, 14:05"
  }
 ]
