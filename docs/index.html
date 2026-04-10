@@ -691,6 +691,7 @@
   <div style="display:flex;align-items:center;gap:6px">
     <select class="nav-select" id="teacherSelect" onchange="switchTeacher(this.value)" style="display:none"></select>
     <select class="nav-select" id="compareSelect" onchange="switchCompareTeacher(this.value)" style="display:none"></select>
+    <select class="nav-select" id="contextSelect" onchange="switchContext(this.value)" style="display:none"></select>
     <button class="more-btn" id="moreBtn" onclick="toggleMoreMenu()" style="display:none">···</button>
     <button class="refresh-btn" id="refreshBtn" onclick="doRefresh()" style="display:none">&#x21bb;</button>
   </div>
@@ -713,6 +714,12 @@
   </button>
   <button class="more-menu-item" onclick="menuAction('compare')">
     <span id="compareModeLabel">Vergleichsmodus</span>
+  </button>
+  <button class="more-menu-item" onclick="menuAction('rooms')">
+    <span id="roomsMenuLabel">Räume</span>
+  </button>
+  <button class="more-menu-item" onclick="menuAction('classes')">
+    <span id="klassenMenuLabel">Klassen</span>
   </button>
 </div>
 
@@ -787,6 +794,8 @@ function menuAction(action) {
   if (action === "history") toggleHistory();
   if (action === "theme") toggleThemePicker();
   if (action === "compare") toggleCompareMode();
+  if (action === "rooms") setView(currentView === 'rooms' ? 'plan' : 'rooms');
+  if (action === "classes") setView(currentView === 'classes' ? 'plan' : 'classes');
 }
 
 // Apply saved theme immediately
@@ -802,6 +811,8 @@ const DOW = {1:"MO",2:"DI",3:"MI",4:"DO",5:"FR"};
 let planData = null, historyData = null, currentTeacher = null, currentKW = null;
 let showingHistory = false;
 let compareMode = false, compareTeacher = null;
+let currentView = 'plan'; // 'plan' | 'rooms' | 'classes'
+let currentRoom = null, currentKlasse = null;
 
 function getTeacher() {
   const p = new URLSearchParams(location.search);
@@ -826,6 +837,7 @@ function saveCompareTeacher(c) {
   try { localStorage.setItem("ebg_vplan_compare_lehrer", c); } catch(e) {}
 }
 function toggleCompareMode() {
+  currentView = 'plan';
   compareMode = !compareMode;
   saveCompareMode(compareMode);
   if (compareMode && !compareTeacher && planData?.lehrer) {
@@ -833,7 +845,7 @@ function toggleCompareMode() {
     saveCompareTeacher(compareTeacher);
     renderTeacherSelect();
   }
-  updateCompareModeUI();
+  updateViewUI();
   renderPlan();
 }
 function switchCompareTeacher(c) {
@@ -841,11 +853,222 @@ function switchCompareTeacher(c) {
   saveCompareTeacher(c);
   renderPlan();
 }
-function updateCompareModeUI() {
-  const label = document.getElementById("compareModeLabel");
-  if (label) label.textContent = compareMode ? "Vergleich ausschalten" : "Vergleichsmodus";
-  const cSel = document.getElementById("compareSelect");
-  if (cSel) cSel.style.display = compareMode ? "" : "none";
+function updateViewUI() {
+  const isPlan = currentView === 'plan';
+  const ts = document.getElementById("teacherSelect");
+  const cs = document.getElementById("compareSelect");
+  const ctx = document.getElementById("contextSelect");
+  if (ts && ts.options.length > 0) ts.style.display = isPlan ? "" : "none";
+  if (cs) cs.style.display = (isPlan && compareMode) ? "" : "none";
+  if (ctx) ctx.style.display = isPlan ? "none" : "";
+  const cl = document.getElementById("compareModeLabel");
+  if (cl) cl.textContent = compareMode ? "Vergleich ausschalten" : "Vergleichsmodus";
+  const rl = document.getElementById("roomsMenuLabel");
+  if (rl) rl.textContent = currentView === 'rooms' ? "Räume ausblenden" : "Räume";
+  const kl = document.getElementById("klassenMenuLabel");
+  if (kl) kl.textContent = currentView === 'classes' ? "Klassen ausblenden" : "Klassen";
+}
+
+function extractRooms() {
+  const rooms = new Set();
+  for (const week of Object.values(planData.wochen || {})) {
+    for (const day of Object.values(week.tage || {})) {
+      for (const td of Object.values(day.lehrer || {})) {
+        for (const e of td.entries) {
+          if (e.raum && e.raum !== "---" && e.fach !== "---") rooms.add(e.raum);
+        }
+      }
+    }
+  }
+  return [...rooms].sort((a, b) => a.localeCompare(b, 'de', {numeric: true}));
+}
+
+function extractKlassen() {
+  const klassen = new Set();
+  for (const week of Object.values(planData.wochen || {})) {
+    for (const day of Object.values(week.tage || {})) {
+      for (const td of Object.values(day.lehrer || {})) {
+        for (const e of td.entries) {
+          if (e.klasse && e.klasse !== "---" && e.fach !== "---") klassen.add(e.klasse);
+        }
+      }
+    }
+  }
+  return [...klassen].sort((a, b) => a.localeCompare(b, 'de', {numeric: true}));
+}
+
+function populateContextSelect(items, current) {
+  const ctx = document.getElementById("contextSelect");
+  if (!ctx) return;
+  ctx.innerHTML = items.map(i => `<option value="${i}" ${i===current?"selected":""}>${i}</option>`).join("");
+}
+
+function switchContext(v) {
+  if (currentView === 'rooms') { currentRoom = v; renderRooms(); }
+  else if (currentView === 'classes') { currentKlasse = v; renderKlassen(); }
+}
+
+function setView(view) {
+  showingHistory = false;
+  const hl = document.getElementById("historyMenuLabel");
+  if (hl) hl.textContent = "Verlauf";
+  currentView = view;
+  if (view === 'rooms') {
+    const rooms = extractRooms();
+    if (!currentRoom || !rooms.includes(currentRoom)) currentRoom = rooms[0] || null;
+    populateContextSelect(rooms, currentRoom);
+    updateViewUI();
+    renderRooms();
+  } else if (view === 'classes') {
+    const klassen = extractKlassen();
+    if (!currentKlasse || !klassen.includes(currentKlasse)) currentKlasse = klassen[0] || null;
+    populateContextSelect(klassen, currentKlasse);
+    updateViewUI();
+    renderKlassen();
+  } else {
+    updateViewUI();
+    renderPlan();
+  }
+}
+
+function buildWeekTableHTML(dayKeys, days, todayStr, grid, maxP, cellBuilder) {
+  let h = '<div class="table-scroll"><table class="plan-table">';
+  h += '<thead><tr><th class="col-std" style="text-align:left;padding-left:20px"></th>';
+  for (const dk of dayKeys) {
+    const d = parseDate(dk);
+    const dow = DOW[d.getDay()] || "";
+    const isToday = dk === todayStr;
+    const ts = days[dk]?.zeitstempel || "";
+    h += `<th><div class="day-th-wrap${isToday ? " day-today" : ""}">
+      <div class="day-name">${dow}</div>
+      <div class="day-date">${isToday
+        ? '<span style="background:var(--today-bg);color:var(--today-text);width:26px;height:26px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:13px">'+d.getDate()+'</span>'
+        : d.getDate()+'.'}</div>
+      ${ts ? '<div class="day-ts">' + ts + '</div>' : ''}
+    </div></th>`;
+  }
+  h += '</tr></thead><tbody>';
+  for (let pi = 0; pi < maxP; pi++) {
+    const period = PERIODS[pi];
+    h += '<tr>';
+    h += `<td class="std-cell"><div class="std-num">${period}</div><div class="std-time">${TIMES[period]||""}</div></td>`;
+    for (const dk of dayKeys) {
+      const e = grid[dk]?.[period];
+      if (!e) { h += '<td class="day-cell empty"></td>'; continue; }
+      h += cellBuilder(e);
+    }
+    h += '</tr>';
+  }
+  h += '</tbody></table></div>';
+  return h;
+}
+
+function renderRooms() {
+  if (!planData || !currentRoom || !currentKW) return;
+  const wochen = planData.wochen || {};
+  const week = wochen[currentKW];
+  if (!week) { document.getElementById("content").innerHTML = '<div class="loading">Keine Daten für diese Woche.</div>'; return; }
+  const days = week.tage || {};
+  const monday = parseDate(week.montag);
+  const dayKeys = [];
+  for (let i = 0; i < 5; i++) {
+    const d = new Date(monday); d.setDate(d.getDate() + i);
+    dayKeys.push(d.getFullYear() + String(d.getMonth()+1).padStart(2,"0") + String(d.getDate()).padStart(2,"0"));
+  }
+  document.getElementById("navTitle").textContent = "Raum " + currentRoom;
+  document.getElementById("navSubtitle").textContent = planData.last_changed
+    ? (() => { const d = new Date(planData.last_changed); return `Letzte Änderung: ${d.toLocaleDateString("de-DE",{day:"2-digit",month:"2-digit",year:"numeric"})}, ${d.toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"})} Uhr`; })()
+    : "Keine Änderungen heute";
+  const kws = getKWList();
+  const kwIdx = kws.indexOf(currentKW);
+  const canPrev = kwIdx > 0, canNext = kwIdx < kws.length - 1;
+  const now = new Date();
+  const todayStr = now.getFullYear() + String(now.getMonth()+1).padStart(2,"0") + String(now.getDate()).padStart(2,"0");
+  let maxP = 0;
+  const grid = {};
+  for (const dk of dayKeys) {
+    grid[dk] = {};
+    for (const [lehrerCode, td] of Object.entries(days[dk]?.lehrer || {})) {
+      for (const e of td.entries) {
+        if (e.raum === currentRoom && !grid[dk][e.stunde]) {
+          grid[dk][e.stunde] = { ...e, lehrer: lehrerCode };
+          const p = parseInt(e.stunde); if (p > maxP) maxP = p;
+        }
+      }
+    }
+  }
+  if (maxP === 0) maxP = 6;
+  if (maxP > PERIODS.length) maxP = PERIODS.length;
+  const mMon = parseDate(dayKeys[0]), mFri = parseDate(dayKeys[4]);
+  let html = `<div class="week-header" style="display:flex;align-items:center;justify-content:center;gap:16px">
+    <span onclick="changeWeek(-1)" style="cursor:pointer;font-size:18px;opacity:${canPrev?'1':'0.2'};padding:4px 8px">&lsaquo;</span>
+    <span>KW ${week.kw} · ${mMon.getDate()}. ${MONTH[mMon.getMonth()]} – ${mFri.getDate()}. ${MONTH[mFri.getMonth()]} ${mFri.getFullYear()}</span>
+    <span onclick="changeWeek(1)" style="cursor:pointer;font-size:18px;opacity:${canNext?'1':'0.2'};padding:4px 8px">&rsaquo;</span>
+  </div>`;
+  html += '<div class="card">' + buildWeekTableHTML(dayKeys, days, todayStr, grid, maxP, e => {
+    const isChanged = e.geaendert || e.info;
+    const isCancelled = e.fach === "---";
+    const hasInfo = !!e.info;
+    const cls = isCancelled ? "day-cell changed cancelled" : isChanged ? "day-cell changed" : "day-cell";
+    const infoClick = hasInfo ? ` onclick="showInfo('${e.info.replace(/'/g,"\\'")}')"` : "";
+    const dot = hasInfo ? '<div class="info-dot"></div>' : "";
+    return `<td class="${cls}"${infoClick}>${dot}<div class="subject">${e.fach}</div><div class="klasse">${e.klasse}</div><div class="room">${e.lehrer}</div></td>`;
+  }) + '</div>';
+  document.getElementById("content").innerHTML = html;
+}
+
+function renderKlassen() {
+  if (!planData || !currentKlasse || !currentKW) return;
+  const wochen = planData.wochen || {};
+  const week = wochen[currentKW];
+  if (!week) { document.getElementById("content").innerHTML = '<div class="loading">Keine Daten für diese Woche.</div>'; return; }
+  const days = week.tage || {};
+  const monday = parseDate(week.montag);
+  const dayKeys = [];
+  for (let i = 0; i < 5; i++) {
+    const d = new Date(monday); d.setDate(d.getDate() + i);
+    dayKeys.push(d.getFullYear() + String(d.getMonth()+1).padStart(2,"0") + String(d.getDate()).padStart(2,"0"));
+  }
+  document.getElementById("navTitle").textContent = "Klasse " + currentKlasse;
+  document.getElementById("navSubtitle").textContent = planData.last_changed
+    ? (() => { const d = new Date(planData.last_changed); return `Letzte Änderung: ${d.toLocaleDateString("de-DE",{day:"2-digit",month:"2-digit",year:"numeric"})}, ${d.toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"})} Uhr`; })()
+    : "Keine Änderungen heute";
+  const kws = getKWList();
+  const kwIdx = kws.indexOf(currentKW);
+  const canPrev = kwIdx > 0, canNext = kwIdx < kws.length - 1;
+  const now = new Date();
+  const todayStr = now.getFullYear() + String(now.getMonth()+1).padStart(2,"0") + String(now.getDate()).padStart(2,"0");
+  let maxP = 0;
+  const grid = {};
+  for (const dk of dayKeys) {
+    grid[dk] = {};
+    for (const [lehrerCode, td] of Object.entries(days[dk]?.lehrer || {})) {
+      for (const e of td.entries) {
+        if (e.klasse === currentKlasse && !grid[dk][e.stunde]) {
+          grid[dk][e.stunde] = { ...e, lehrer: lehrerCode };
+          const p = parseInt(e.stunde); if (p > maxP) maxP = p;
+        }
+      }
+    }
+  }
+  if (maxP === 0) maxP = 6;
+  if (maxP > PERIODS.length) maxP = PERIODS.length;
+  const mMon = parseDate(dayKeys[0]), mFri = parseDate(dayKeys[4]);
+  let html = `<div class="week-header" style="display:flex;align-items:center;justify-content:center;gap:16px">
+    <span onclick="changeWeek(-1)" style="cursor:pointer;font-size:18px;opacity:${canPrev?'1':'0.2'};padding:4px 8px">&lsaquo;</span>
+    <span>KW ${week.kw} · ${mMon.getDate()}. ${MONTH[mMon.getMonth()]} – ${mFri.getDate()}. ${MONTH[mFri.getMonth()]} ${mFri.getFullYear()}</span>
+    <span onclick="changeWeek(1)" style="cursor:pointer;font-size:18px;opacity:${canNext?'1':'0.2'};padding:4px 8px">&rsaquo;</span>
+  </div>`;
+  html += '<div class="card">' + buildWeekTableHTML(dayKeys, days, todayStr, grid, maxP, e => {
+    const isChanged = e.geaendert || e.info;
+    const isCancelled = e.fach === "---";
+    const hasInfo = !!e.info;
+    const cls = isCancelled ? "day-cell changed cancelled" : isChanged ? "day-cell changed" : "day-cell";
+    const infoClick = hasInfo ? ` onclick="showInfo('${e.info.replace(/'/g,"\\'")}')"` : "";
+    const dot = hasInfo ? '<div class="info-dot"></div>' : "";
+    return `<td class="${cls}"${infoClick}>${dot}<div class="subject">${e.fach}</div><div class="klasse">${e.lehrer}</div><div class="room">${e.raum}</div></td>`;
+  }) + '</div>';
+  document.getElementById("content").innerHTML = html;
 }
 
 async function loadData() {
@@ -869,7 +1092,9 @@ async function doRefresh() {
   const b = document.getElementById("refreshBtn");
   b.classList.add("spinning");
   await loadData();
-  if (currentTeacher) renderPlan();
+  if (currentView === 'rooms') renderRooms();
+  else if (currentView === 'classes') renderKlassen();
+  else if (currentTeacher) renderPlan();
   b.classList.remove("spinning");
 }
 
@@ -885,7 +1110,9 @@ function changeWeek(dir) {
   const newIdx = idx + dir;
   if (newIdx >= 0 && newIdx < kws.length) {
     currentKW = kws[newIdx];
-    renderPlan();
+    if (currentView === 'rooms') renderRooms();
+    else if (currentView === 'classes') renderKlassen();
+    else renderPlan();
   }
 }
 
@@ -893,11 +1120,10 @@ function renderTeacherSelect() {
   if (!planData?.lehrer) return;
   const s = document.getElementById("teacherSelect");
   s.innerHTML = planData.lehrer.map(l => `<option value="${l}" ${l===currentTeacher?"selected":""}>${l}</option>`).join("");
-  s.style.display = "";
   const cs = document.getElementById("compareSelect");
   cs.innerHTML = planData.lehrer.map(l => `<option value="${l}" ${l===compareTeacher?"selected":""}>${l}</option>`).join("");
-  cs.style.display = compareMode ? "" : "none";
   document.getElementById("refreshBtn").style.display = "";
+  updateViewUI();
 }
 
 function renderSetup() {
@@ -924,7 +1150,6 @@ function setupDone() {
   saveTeacher(currentTeacher);
   renderTeacherSelect();
   document.getElementById("moreBtn").style.display = "";
-  updateCompareModeUI();
   currentKW = planData.aktuelle_kw;
   renderPlan();
 }
@@ -1080,6 +1305,8 @@ async function loadHistory() {
 }
 
 function toggleHistory() {
+  currentView = 'plan';
+  updateViewUI();
   showingHistory = !showingHistory;
   const label = document.getElementById("historyMenuLabel");
   if (label) label.textContent = showingHistory ? "Zurück zum Plan" : "Verlauf";
@@ -1163,7 +1390,6 @@ function getISOWeek(d) {
     saveTeacher(currentTeacher);
     renderTeacherSelect();
     document.getElementById("moreBtn").style.display = "";
-    updateCompareModeUI();
     renderPlan();
   } else {
     renderSetup();
