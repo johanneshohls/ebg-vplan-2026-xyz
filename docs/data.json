@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "10.04.2026, 11:07 Uhr",
- "last_changed": "2026-04-10T10:46:00",
+ "generiert": "10.04.2026, 11:27 Uhr",
+ "last_changed": "2026-04-10T13:19:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -3832,7 +3832,7 @@
    "tage": {
     "20260413": {
      "datum": "Montag, 13. April 2026",
-     "zeitstempel": "10.04.2026, 10:46",
+     "zeitstempel": "10.04.2026, 13:19",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -5811,7 +5811,7 @@
     },
     "20260414": {
      "datum": "Dienstag, 14. April 2026",
-     "zeitstempel": "10.04.2026, 10:46",
+     "zeitstempel": "10.04.2026, 13:19",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -7672,7 +7672,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 10B verlegt nach Fr (17.04.) St.3, UB Eul mit Pohla",
+         "info": "De 10B verlegt nach Fr (17.04.) St.3, UB ",
          "geaendert": true
         },
         {
@@ -7680,7 +7680,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 10B verlegt nach Fr (17.04.) St.4 (Ter), Aufsicht nach UB, Aufgaben sind erteilt",
+         "info": "De 10B verlegt nach Fr (17.04.) St.4",
          "geaendert": true
         },
         {
@@ -7773,7 +7773,7 @@
     },
     "20260415": {
      "datum": "Mittwoch, 15. April 2026",
-     "zeitstempel": "10.04.2026, 10:46",
+     "zeitstempel": "10.04.2026, 13:19",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -9880,7 +9880,7 @@
     },
     "20260416": {
      "datum": "Donnerstag, 16. April 2026",
-     "zeitstempel": "10.04.2026, 10:46",
+     "zeitstempel": "10.04.2026, 13:19",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -10139,17 +10139,17 @@
          "stunde": "1",
          "fach": "Ma",
          "klasse": "10D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Ma Bri",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Ma",
          "klasse": "10D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Ma Bri",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -11967,7 +11967,7 @@
     },
     "20260417": {
      "datum": "Freitag, 17. April 2026",
-     "zeitstempel": "10.04.2026, 10:46",
+     "zeitstempel": "10.04.2026, 13:19",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -12134,7 +12134,24 @@
        "aufsichten": []
       },
       "Bri": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "10D",
+         "raum": "004",
+         "info": "für De Schil",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "10D",
+         "raum": "004",
+         "info": "für De Schil",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Con": {
@@ -12165,19 +12182,27 @@
         },
         {
          "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10D Bri (für De)",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
          "fach": "De",
-         "klasse": "10D",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "klasse": "10B",
+         "raum": "002",
+         "info": "statt Di (14.04.) St.3 (De Tuh), UB ; Ma 10D Bri (für De)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "10D",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10D Bri (für De)",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -13428,35 +13453,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "ILZ",
+         "fach": "De",
          "klasse": "10D",
          "raum": "002",
-         "info": "",
-         "geaendert": false
+         "info": "für ILZ Schil",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "KL",
+         "fach": "De",
          "klasse": "10D",
          "raum": "002",
-         "info": "",
-         "geaendert": false
+         "info": "für KL Schil",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10D Bri (für De)",
+         "geaendert": true
         },
         {
          "stunde": "3",
          "fach": "De",
-         "klasse": "10D",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "klasse": "",
+         "raum": "",
+         "info": "Hospi ; Ma 10D Bri (für De)",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10D Bri (für De)",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "De",
-         "klasse": "10D",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "klasse": "",
+         "raum": "",
+         "info": "Hospi ; Ma 10D Bri (für De)",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -13767,14 +13808,6 @@
          "geaendert": false
         },
         {
-         "stunde": "4",
-         "fach": "De",
-         "klasse": "10B",
-         "raum": "002",
-         "info": "statt Di (14.04.) St.4 (De Tuh), Aufsicht nach UB, Aufgaben sind erteilt",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
          "fach": "BIO2",
          "klasse": "12A-12E",
@@ -13844,7 +13877,7 @@
          "fach": "De",
          "klasse": "10B",
          "raum": "002",
-         "info": "De 10B statt Di (14.04.) St.3, UB Eul mit Pohla; De 11A-11D selbst. (v), Selbststudium aufgrund einer Hospitation, Fr. Tuhcic erteilt Aufgaben",
+         "info": "De 10B statt Di (14.04.) St.3, UB ; De 11A-11D selbst. (v), Selbststudium aufgrund einer Hospitation, Fr. Tuhcic erteilt Aufgaben",
          "geaendert": true
         },
         {
@@ -13853,6 +13886,14 @@
          "klasse": "",
          "raum": "",
          "info": "De 11A-11D selbst. (v), Selbststudium aufgrund einer Hospitation, Fr. Tuhcic erteilt Aufgaben",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "10B",
+         "raum": "002",
+         "info": "De 10B statt Di (14.04.) St.4; De 11A-11D selbst. (v), Selbststudium aufgrund einer Hospitation, Fr. Tuhcic erteilt Aufgaben",
          "geaendert": true
         },
         {

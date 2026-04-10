@@ -217,5 +217,27 @@
    "Std 6 (12:25): Sk 7B gehalten am Mo (13.04.) St.6"
   ],
   "zeitstempel": "10.04.2026, 10:46"
+ },
+ {
+  "timestamp": "2026-04-10T11:27:41.110865",
+  "lehrer": "Tuh",
+  "datum": "Dienstag, 14. April 2026",
+  "date_key": "20260414",
+  "changes": [
+   "Std 3 (09:40): De 10B verlegt nach Fr (17.04.) St.3, UB",
+   "Std 4 (10:25): De 10B verlegt nach Fr (17.04.) St.4"
+  ],
+  "zeitstempel": "10.04.2026, 13:19"
+ },
+ {
+  "timestamp": "2026-04-10T11:27:41.110865",
+  "lehrer": "Bri",
+  "datum": "Donnerstag, 16. April 2026",
+  "date_key": "20260416",
+  "changes": [
+   "Std 1 (07:40): für Ma Bri",
+   "Std 2 (08:25): für Ma Bri"
+  ],
+  "zeitstempel": "10.04.2026, 13:19"
  }
 ]
