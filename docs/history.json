@@ -316,5 +316,329 @@
    "Std 4 (10:25): für De Tuh, Klausur, Aula"
   ],
   "zeitstempel": "10.04.2026, 14:05"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Eul",
+  "datum": "Montag, 13. April 2026",
+  "date_key": "20260413",
+  "changes": [
+   "Std 5 (11:40): De 7B verlegt nach Di (14.04.) St.3",
+   "Std 6 (12:25): De 7B verlegt nach Di (14.04.) St.4"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Hofm",
+  "datum": "Montag, 13. April 2026",
+  "date_key": "20260413",
+  "changes": [
+   "Std 5 (11:40): En 7B statt Di (14.04.) St.3",
+   "Std 6 (12:25): En 7B statt Di (14.04.) St.4"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Lan",
+  "datum": "Montag, 13. April 2026",
+  "date_key": "20260413",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Eul",
+  "datum": "Dienstag, 14. April 2026",
+  "date_key": "20260414",
+  "changes": [
+   "Std 3 (09:40): De 7B statt Mo (13.04.) St.5",
+   "Std 4 (10:25): De 7B statt Mo (13.04.) St.6",
+   "Std 5 (11:40): De 7B verlegt nach Mi (15.04.) St.1",
+   "Std 6 (12:25): De 7B verlegt nach Mi (15.04.) St.2"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Fel",
+  "datum": "Dienstag, 14. April 2026",
+  "date_key": "20260414",
+  "changes": [
+   "Std 5 (11:40): für Span Köh",
+   "Std 6 (12:25): für Span Köh"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Gol",
+  "datum": "Dienstag, 14. April 2026",
+  "date_key": "20260414",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Hofm",
+  "datum": "Dienstag, 14. April 2026",
+  "date_key": "20260414",
+  "changes": [
+   "Std 1 (07:40): B VK statt Do (16.04.) St.1",
+   "Std 2 (08:25): B VK statt Do (16.04.) St.2",
+   "Std 3 (09:40): En 7B gehalten am Mo (13.04.) St.5",
+   "Std 3 (09:40): En 8C statt Mi (15.04.) St.5; En 7B gehalten am Mo (13.04.) St.5",
+   "Std 4 (10:25): En 7B gehalten am Mo (13.04.) St.6",
+   "Std 4 (10:25): En 8C statt Mi (15.04.) St.6; En 7B gehalten am Mo (13.04.) St.6"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Hoh",
+  "datum": "Dienstag, 14. April 2026",
+  "date_key": "20260414",
+  "changes": [
+   "Std 3 (09:40): Ma 8A verlegt nach St.5",
+   "Std 4 (10:25): Ma 8A verlegt nach St.6",
+   "Std 5 (11:40): Ma 8A verlegt von St.3",
+   "Std 6 (12:25): Ma 8A verlegt von St.4"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Köh",
+  "datum": "Dienstag, 14. April 2026",
+  "date_key": "20260414",
+  "changes": [
+   "Std 5 (11:40): für Span Köh",
+   "Std 6 (12:25): für Span Köh"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Lan",
+  "datum": "Dienstag, 14. April 2026",
+  "date_key": "20260414",
+  "changes": [
+   "Std 3 (09:40): AWT 8A verlegt von St.5",
+   "Std 4 (10:25): AWT 8A verlegt von St.6",
+   "Std 5 (11:40): AWT 8A verlegt nach St.3",
+   "Std 5 (11:40): Sk 7B statt Mi (15.04.) St.5; AWT 8A verlegt nach St.3",
+   "Std 6 (12:25): AWT 8A verlegt nach St.4",
+   "Std 6 (12:25): Sk 7B statt Mi (15.04.) St.6; AWT 8A verlegt nach St.4"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Rat",
+  "datum": "Dienstag, 14. April 2026",
+  "date_key": "20260414",
+  "changes": [
+   "Std 7 (13:40): Ku 8C verlegt nach Mi (15.04.) St.5",
+   "Std 8 (14:25): Ku 8C verlegt nach Mi (15.04.) St.6"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Schud",
+  "datum": "Dienstag, 14. April 2026",
+  "date_key": "20260414",
+  "changes": [
+   "Std 3 (09:40): Ge 8C verlegt nach Fr (17.04.) St.5",
+   "Std 4 (10:25): Ge 8C verlegt nach Fr (17.04.) St.6"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Wag",
+  "datum": "Dienstag, 14. April 2026",
+  "date_key": "20260414",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Eul",
+  "datum": "Mittwoch, 15. April 2026",
+  "date_key": "20260415",
+  "changes": [
+   "Std 1 (07:40): De 11A-11D Schil",
+   "Std 1 (07:40): De 7B statt Di (14.04.) St.5; De 11A-11D Schil",
+   "Std 2 (08:25): De 11A-11D Schil",
+   "Std 2 (08:25): De 7B statt Di (14.04.) St.6; De 11A-11D Schil"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Hofm",
+  "datum": "Mittwoch, 15. April 2026",
+  "date_key": "20260415",
+  "changes": [
+   "Std 1 (07:40): En 7B verlegt nach St.5",
+   "Std 2 (08:25): En 7B verlegt nach St.6",
+   "Std 5 (11:40): En 8C gehalten am Di (14.04.) St.3",
+   "Std 5 (11:40): En 7B verlegt von St.1; En 8C gehalten am Di (14.04.) St.3",
+   "Std 6 (12:25): En 8C gehalten am Di (14.04.) St.4",
+   "Std 6 (12:25): En 7B verlegt von St.2; En 8C gehalten am Di (14.04.) St.4"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Köh",
+  "datum": "Mittwoch, 15. April 2026",
+  "date_key": "20260415",
+  "changes": [
+   "Std 5 (11:40): für Span OLop",
+   "Std 6 (12:25): für Span OLop"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Lan",
+  "datum": "Mittwoch, 15. April 2026",
+  "date_key": "20260415",
+  "changes": [
+   "Std 5 (11:40): Sk 7B gehalten am Di (14.04.) St.5",
+   "Std 6 (12:25): Sk 7B gehalten am Di (14.04.) St.6"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "OLop",
+  "datum": "Mittwoch, 15. April 2026",
+  "date_key": "20260415",
+  "changes": [
+   "Std 5 (11:40): für Span OLop",
+   "Std 6 (12:25): für Span OLop"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Rat",
+  "datum": "Mittwoch, 15. April 2026",
+  "date_key": "20260415",
+  "changes": [
+   "Std 5 (11:40): Ku 8C statt Di (14.04.) St.7",
+   "Std 6 (12:25): Ku 8C statt Di (14.04.) St.8"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Schil",
+  "datum": "Mittwoch, 15. April 2026",
+  "date_key": "20260415",
+  "changes": [
+   "Std 1 (07:40): für De Schil",
+   "Std 2 (08:25): für De Schil"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Fla",
+  "datum": "Donnerstag, 16. April 2026",
+  "date_key": "20260416",
+  "changes": [
+   "Std 1 (07:40): KL 7C verlegt von St.4",
+   "Std 2 (08:25): ILZ 7C verlegt von St.3",
+   "Std 3 (09:40): ILZ 7C verlegt nach St.2",
+   "Std 4 (10:25): KL 7C verlegt nach St.1"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Gol",
+  "datum": "Donnerstag, 16. April 2026",
+  "date_key": "20260416",
+  "changes": [
+   "Std 1 (07:40): Ge 7C verlegt nach St.4",
+   "Std 2 (08:25): Ge 7C verlegt nach St.3",
+   "Std 3 (09:40): Ge 9A verlegt nach St.5",
+   "Std 3 (09:40): Ge 7C verlegt von St.2; Ge 9A verlegt nach St.5",
+   "Std 4 (10:25): Ge 9A verlegt nach St.6",
+   "Std 4 (10:25): Ge 7C verlegt von St.1; Ge 9A verlegt nach St.6",
+   "Std 5 (11:40): Ge 9A verlegt von St.3",
+   "Std 6 (12:25): Ge 9A verlegt von St.4"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Hun",
+  "datum": "Donnerstag, 16. April 2026",
+  "date_key": "20260416",
+  "changes": [
+   "Std 3 (09:40): As 9A verlegt von St.7",
+   "Std 4 (10:25): As 9A verlegt von St.8",
+   "Std 7 (13:40): As 9A verlegt nach St.3",
+   "Std 8 (14:25): As 9A verlegt nach St.4"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Fel",
+  "datum": "Freitag, 17. April 2026",
+  "date_key": "20260417",
+  "changes": [
+   "Std 3 (09:40): für Span Köh",
+   "Std 4 (10:25): für Span Köh"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Köh",
+  "datum": "Freitag, 17. April 2026",
+  "date_key": "20260417",
+  "changes": [
+   "Std 1 (07:40): für Span OLop",
+   "Std 2 (08:25): für Span OLop",
+   "Std 3 (09:40): für Span Köh",
+   "Std 4 (10:25): für Span Köh"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "Leu",
+  "datum": "Freitag, 17. April 2026",
+  "date_key": "20260417",
+  "changes": [
+   "Std 1 (07:40): für Ma Leu",
+   "Std 2 (08:25): für Ma Leu"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
+ },
+ {
+  "timestamp": "2026-04-11T17:07:10.411950",
+  "lehrer": "OLop",
+  "datum": "Freitag, 17. April 2026",
+  "date_key": "20260417",
+  "changes": [
+   "Std 1 (07:40): für Span OLop",
+   "Std 2 (08:25): für Span OLop"
+  ],
+  "zeitstempel": "11.04.2026, 18:29"
  }
 ]
