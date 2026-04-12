@@ -798,5 +798,27 @@
    "Planänderung (Details nicht spezifiziert)"
   ],
   "zeitstempel": "12.04.2026, 16:52"
+ },
+ {
+  "timestamp": "2026-04-12T16:07:12.869503",
+  "lehrer": "Bir",
+  "datum": "Montag, 13. April 2026",
+  "date_key": "20260413",
+  "changes": [
+   "Std 1 (07:40): für Mu Bir, Klausur, Aula",
+   "Std 2 (08:25): für Mu Bir, Klausur, Aula"
+  ],
+  "zeitstempel": "12.04.2026, 17:45"
+ },
+ {
+  "timestamp": "2026-04-12T16:07:12.869503",
+  "lehrer": "Kar",
+  "datum": "Montag, 13. April 2026",
+  "date_key": "20260413",
+  "changes": [
+   "Std 1 (07:40): für Mu Kar, Raumtausch wegen Klausur",
+   "Std 2 (08:25): für Mu Kar, Raumtausch wegen Klausur"
+  ],
+  "zeitstempel": "12.04.2026, 17:45"
  }
 ]
