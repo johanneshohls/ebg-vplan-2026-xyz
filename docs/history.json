@@ -820,5 +820,27 @@
    "Std 2 (08:25): für Mu Kar, Raumtausch wegen Klausur"
   ],
   "zeitstempel": "12.04.2026, 17:45"
+ },
+ {
+  "timestamp": "2026-04-12T19:07:11.764053",
+  "lehrer": "Bri",
+  "datum": "Mittwoch, 15. April 2026",
+  "date_key": "20260415",
+  "changes": [
+   "Std 3 (09:40): Nachschrift",
+   "Std 4 (10:25): Nachschrift"
+  ],
+  "zeitstempel": "12.04.2026, 20:14"
+ },
+ {
+  "timestamp": "2026-04-12T19:07:11.764053",
+  "lehrer": "Ter",
+  "datum": "Mittwoch, 15. April 2026",
+  "date_key": "20260415",
+  "changes": [
+   "Std 5 (11:40): Klausuraufsicht",
+   "Std 6 (12:25): Klausuraufsicht"
+  ],
+  "zeitstempel": "12.04.2026, 20:14"
  }
 ]

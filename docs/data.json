@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "12.04.2026, 18:07 Uhr",
- "last_changed": "2026-04-12T17:45:00",
+ "generiert": "12.04.2026, 19:07 Uhr",
+ "last_changed": "2026-04-12T20:14:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -3832,7 +3832,7 @@
    "tage": {
     "20260413": {
      "datum": "Montag, 13. April 2026",
-     "zeitstempel": "12.04.2026, 17:45",
+     "zeitstempel": "12.04.2026, 20:14",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -5811,7 +5811,7 @@
     },
     "20260414": {
      "datum": "Dienstag, 14. April 2026",
-     "zeitstempel": "12.04.2026, 16:52",
+     "zeitstempel": "12.04.2026, 20:14",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -7853,7 +7853,7 @@
     },
     "20260415": {
      "datum": "Mittwoch, 15. April 2026",
-     "zeitstempel": "12.04.2026, 16:52",
+     "zeitstempel": "12.04.2026, 20:14",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -8122,22 +8122,6 @@
          "klasse": "",
          "raum": "Co3",
          "info": "Nachschrift",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "W",
-         "klasse": "",
-         "raum": "Co3",
-         "info": "Klausuraufsicht",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "W",
-         "klasse": "",
-         "raum": "Co3",
-         "info": "Klausuraufsicht",
          "geaendert": true
         },
         {
@@ -9802,6 +9786,22 @@
          "raum": "Aula",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "W",
+         "klasse": "",
+         "raum": "Co3",
+         "info": "Klausuraufsicht",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "W",
+         "klasse": "",
+         "raum": "Co3",
+         "info": "Klausuraufsicht",
+         "geaendert": true
         }
        ],
        "aufsichten": [
