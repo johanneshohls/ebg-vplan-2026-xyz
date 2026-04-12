@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "12.04.2026, 14:07 Uhr",
- "last_changed": "2026-04-11T18:29:00",
+ "generiert": "12.04.2026, 15:07 Uhr",
+ "last_changed": "2026-04-12T16:52:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -3832,7 +3832,7 @@
    "tage": {
     "20260413": {
      "datum": "Montag, 13. April 2026",
-     "zeitstempel": "11.04.2026, 18:29",
+     "zeitstempel": "12.04.2026, 16:52",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -5811,7 +5811,7 @@
     },
     "20260414": {
      "datum": "Dienstag, 14. April 2026",
-     "zeitstempel": "11.04.2026, 18:29",
+     "zeitstempel": "12.04.2026, 16:52",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -6163,19 +6163,19 @@
         },
         {
          "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "De 7B verlegt nach Mi (15.04.) St.1",
-         "geaendert": true
+         "fach": "De",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "De 7B verlegt nach Mi (15.04.) St.2",
-         "geaendert": true
+         "fach": "De",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": []
@@ -6230,7 +6230,7 @@
          "stunde": "5",
          "fach": "Span",
          "klasse": "8B",
-         "raum": "006 K07",
+         "raum": "006 005",
          "info": "für Span Köh",
          "geaendert": true
         },
@@ -6238,7 +6238,7 @@
          "stunde": "6",
          "fach": "Span",
          "klasse": "8B",
-         "raum": "006 K07",
+         "raum": "006 005",
          "info": "für Span Köh",
          "geaendert": true
         }
@@ -6538,10 +6538,10 @@
         },
         {
          "stunde": "3",
-         "fach": "En",
-         "klasse": "8C",
+         "fach": "Phil",
+         "klasse": "7E",
          "raum": "008",
-         "info": "En 8C statt Mi (15.04.) St.5; En 7B gehalten am Mo (13.04.) St.5",
+         "info": "Phil 7E verlegt von St.5; En 7B gehalten am Mo (13.04.) St.5",
          "geaendert": true
         },
         {
@@ -6554,27 +6554,27 @@
         },
         {
          "stunde": "4",
-         "fach": "En",
-         "klasse": "8C",
+         "fach": "Phil",
+         "klasse": "7E",
          "raum": "008",
-         "info": "En 8C statt Mi (15.04.) St.6; En 7B gehalten am Mo (13.04.) St.6",
+         "info": "Phil 7E verlegt von St.6; En 7B gehalten am Mo (13.04.) St.6",
          "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Phil",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phil 7E verlegt nach St.3",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Phil",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phil 7E verlegt nach St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -6953,7 +6953,7 @@
          "stunde": "5",
          "fach": "Span",
          "klasse": "8B",
-         "raum": "006 K07",
+         "raum": "006 005",
          "info": "für Span Köh",
          "geaendert": true
         },
@@ -6961,7 +6961,7 @@
          "stunde": "6",
          "fach": "Span",
          "klasse": "8B",
-         "raum": "006 K07",
+         "raum": "006 005",
          "info": "für Span Köh",
          "geaendert": true
         }
@@ -7015,27 +7015,11 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
-         "fach": "Sk",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "Sk 7B statt Mi (15.04.) St.5; AWT 8A verlegt nach St.3",
-         "geaendert": true
-        },
-        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "AWT 8A verlegt nach St.4",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Sk",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "Sk 7B statt Mi (15.04.) St.6; AWT 8A verlegt nach St.4",
          "geaendert": true
         }
        ],
@@ -7054,7 +7038,7 @@
          "stunde": "5",
          "fach": "ILZ",
          "klasse": "10B",
-         "raum": "K09",
+         "raum": "K07",
          "info": "für ILZ Leu",
          "geaendert": true
         },
@@ -7062,7 +7046,7 @@
          "stunde": "6",
          "fach": "KL",
          "klasse": "10B",
-         "raum": "K09",
+         "raum": "K07",
          "info": "für KL Leu",
          "geaendert": true
         }
@@ -7399,28 +7383,12 @@
          "geaendert": false
         },
         {
-         "stunde": "7",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Ku 8C verlegt nach Mi (15.04.) St.5",
-         "geaendert": true
-        },
-        {
          "stunde": "8",
          "fach": "eRe",
          "klasse": "9A",
          "raum": "104",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "8",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Ku 8C verlegt nach Mi (15.04.) St.6",
-         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -7543,22 +7511,6 @@
       "Schud": {
        "entries": [
         {
-         "stunde": "3",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Ge 8C verlegt nach Fr (17.04.) St.5",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Ge 8C verlegt nach Fr (17.04.) St.6",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
          "fach": "ku2",
          "klasse": "11A-11D",
@@ -7671,19 +7623,35 @@
         },
         {
          "stunde": "3",
-         "fach": "Inf",
-         "klasse": "7E",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 7E verlegt nach St.5",
+         "geaendert": true
         },
         {
          "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 7E verlegt nach St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
          "fach": "Inf",
          "klasse": "7E",
          "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "info": "Inf 7E verlegt von St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Inf",
+         "klasse": "7E",
+         "raum": "K09",
+         "info": "Inf 7E verlegt von St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -7885,7 +7853,7 @@
     },
     "20260415": {
      "datum": "Mittwoch, 15. April 2026",
-     "zeitstempel": "11.04.2026, 18:29",
+     "zeitstempel": "12.04.2026, 16:52",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -8227,27 +8195,11 @@
          "geaendert": true
         },
         {
-         "stunde": "1",
-         "fach": "De",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "De 7B statt Di (14.04.) St.5; De 11A-11D Schil",
-         "geaendert": true
-        },
-        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "De 11A-11D Schil",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "De",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "De 7B statt Di (14.04.) St.6; De 11A-11D Schil",
          "geaendert": true
         }
        ],
@@ -8555,19 +8507,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 7B verlegt nach St.5",
-         "geaendert": true
+         "fach": "En",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "2",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 7B verlegt nach St.6",
-         "geaendert": true
+         "fach": "En",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "3",
@@ -8587,35 +8539,19 @@
         },
         {
          "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 8C gehalten am Di (14.04.) St.3",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
          "fach": "En",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "En 7B verlegt von St.1; En 8C gehalten am Di (14.04.) St.3",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 8C gehalten am Di (14.04.) St.4",
-         "geaendert": true
+         "klasse": "8C",
+         "raum": "008",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "6",
          "fach": "En",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "En 7B verlegt von St.2; En 8C gehalten am Di (14.04.) St.4",
-         "geaendert": true
+         "klasse": "8C",
+         "raum": "008",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "7",
@@ -9033,19 +8969,19 @@
         },
         {
          "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Sk 7B gehalten am Di (14.04.) St.5",
-         "geaendert": true
+         "fach": "Sk",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Sk 7B gehalten am Di (14.04.) St.6",
-         "geaendert": true
+         "fach": "Sk",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": []
@@ -9498,22 +9434,6 @@
          "raum": "104",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "Ku",
-         "klasse": "8C",
-         "raum": "207",
-         "info": "Ku 8C statt Di (14.04.) St.7",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Ku",
-         "klasse": "8C",
-         "raum": "207",
-         "info": "Ku 8C statt Di (14.04.) St.8",
-         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -10024,7 +9944,7 @@
     },
     "20260416": {
      "datum": "Donnerstag, 16. April 2026",
-     "zeitstempel": "11.04.2026, 18:29",
+     "zeitstempel": "12.04.2026, 16:52",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -12143,7 +12063,7 @@
     },
     "20260417": {
      "datum": "Freitag, 17. April 2026",
-     "zeitstempel": "11.04.2026, 18:29",
+     "zeitstempel": "12.04.2026, 16:52",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -13779,22 +13699,6 @@
          "raum": "207",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "Ge",
-         "klasse": "8C",
-         "raum": "008",
-         "info": "Ge 8C statt Di (14.04.) St.3",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Ge",
-         "klasse": "8C",
-         "raum": "008",
-         "info": "Ge 8C statt Di (14.04.) St.4",
-         "geaendert": true
         },
         {
          "stunde": "9",
