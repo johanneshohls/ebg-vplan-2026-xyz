@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "13.04.2026, 14:54 Uhr",
- "last_changed": "2026-04-13T12:30:00",
+ "generiert": "13.04.2026, 15:07 Uhr",
+ "last_changed": "2026-04-13T17:04:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -3826,7 +3826,7 @@
    "tage": {
     "20260413": {
      "datum": "Montag, 13. April 2026",
-     "zeitstempel": "13.04.2026, 06:50",
+     "zeitstempel": "13.04.2026, 17:04",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -5844,7 +5844,7 @@
     },
     "20260414": {
      "datum": "Dienstag, 14. April 2026",
-     "zeitstempel": "13.04.2026, 06:50",
+     "zeitstempel": "13.04.2026, 17:04",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -7745,19 +7745,19 @@
        "entries": [
         {
          "stunde": "7",
-         "fach": "ge2",
-         "klasse": "11A-11D",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 11A-11D selbst. (v), Selbststudium, Hr. Tietje erteilt Aufgaben, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ge2",
-         "klasse": "11A-11D",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 11A-11D selbst. (v), Selbststudium, Hr. Tietje erteilt Aufgaben, kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -7886,7 +7886,7 @@
     },
     "20260415": {
      "datum": "Mittwoch, 15. April 2026",
-     "zeitstempel": "13.04.2026, 06:50",
+     "zeitstempel": "13.04.2026, 17:04",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -8271,6 +8271,22 @@
       "Fel": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "En",
+         "klasse": "8D",
+         "raum": "103",
+         "info": "für Sk Lie",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "En",
+         "klasse": "8D",
+         "raum": "103",
+         "info": "für Sk Lie",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "En",
          "klasse": "8D",
@@ -8622,6 +8638,22 @@
          "raum": "106",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "10D",
+         "raum": "001",
+         "info": "für Sk Lie, Bitte mit Fr. Brincker absprechen.",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "10D",
+         "raum": "001",
+         "info": "für Sk Lie, Bitte mit Fr. Brincker absprechen.",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -9060,51 +9092,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Sk",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8D Fel (für Sk)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Sk",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8D Fel (für Sk)",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Sk",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8B Mar (für Sk)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Sk",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8B Mar (für Sk)",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Sk",
-         "klasse": "10D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10D Hoh (für Sk), Bitte mit Fr. Brincker absprechen.",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Sk",
-         "klasse": "10D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10D Hoh (für Sk), Bitte mit Fr. Brincker absprechen.",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -9136,11 +9168,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "für Sk Lie",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "En 7E verlegt nach St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "für Sk Lie",
          "geaendert": true
         },
         {
@@ -9977,7 +10025,7 @@
     },
     "20260416": {
      "datum": "Donnerstag, 16. April 2026",
-     "zeitstempel": "13.04.2026, 06:50",
+     "zeitstempel": "13.04.2026, 17:04",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -12096,7 +12144,7 @@
     },
     "20260417": {
      "datum": "Freitag, 17. April 2026",
-     "zeitstempel": "13.04.2026, 06:50",
+     "zeitstempel": "13.04.2026, 17:04",
      "lehrer": {
       "Bar": {
        "entries": [
