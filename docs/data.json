@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "13.04.2026, 10:07 Uhr",
- "last_changed": "2026-04-13T06:52:00",
+ "generiert": "13.04.2026, 10:54 Uhr",
+ "last_changed": "2026-04-13T12:30:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14092,47 +14092,14 @@
    "tage": {
     "20260420": {
      "datum": "Montag, 20. April 2026",
-     "zeitstempel": "11.04.2026, 18:29",
+     "zeitstempel": "13.04.2026, 12:30",
      "lehrer": {
       "Bar": {
        "entries": [],
        "aufsichten": []
       },
       "Bes": {
-       "entries": [
-        {
-         "stunde": "3",
-         "fach": "Bio",
-         "klasse": "",
-         "raum": "201",
-         "info": "PVU",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Bio",
-         "klasse": "",
-         "raum": "201",
-         "info": "PVU",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "Bio",
-         "klasse": "",
-         "raum": "201",
-         "info": "PVU",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Bio",
-         "klasse": "",
-         "raum": "201",
-         "info": "PVU",
-         "geaendert": true
-        }
-       ],
+       "entries": [],
        "aufsichten": []
       },
       "Bir": {
@@ -15726,7 +15693,40 @@
        "aufsichten": []
       },
       "See": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "201",
+         "info": "PVU",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "201",
+         "info": "PVU",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "201",
+         "info": "PVU",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "201",
+         "info": "PVU",
+         "geaendert": true
+        }
+       ],
        "aufsichten": [
         {
          "vor_stunde": "3",
