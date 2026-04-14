@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "14.04.2026, 06:28 Uhr",
- "last_changed": "2026-04-13T23:13:00",
+ "generiert": "14.04.2026, 07:07 Uhr",
+ "last_changed": "2026-04-14T08:58:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -5844,7 +5844,7 @@
     },
     "20260414": {
      "datum": "Dienstag, 14. April 2026",
-     "zeitstempel": "13.04.2026, 23:13",
+     "zeitstempel": "14.04.2026, 08:58",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -6086,19 +6086,19 @@
         },
         {
          "stunde": "5",
-         "fach": "ma1",
-         "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 11A-11D selbst. (v), Selbststudium, Fr. Brincker erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "ma1",
-         "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 11A-11D selbst. (v), Selbststudium, Fr. Brincker erteilt Aufgaben",
+         "geaendert": true
         }
        ],
        "aufsichten": []
