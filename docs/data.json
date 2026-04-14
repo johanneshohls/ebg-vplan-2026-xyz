@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "14.04.2026, 08:10 Uhr",
- "last_changed": "2026-04-14T08:58:00",
+ "generiert": "14.04.2026, 09:07 Uhr",
+ "last_changed": "2026-04-14T10:39:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -7886,7 +7886,7 @@
     },
     "20260415": {
      "datum": "Mittwoch, 15. April 2026",
-     "zeitstempel": "13.04.2026, 23:13",
+     "zeitstempel": "14.04.2026, 10:39",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -9163,17 +9163,17 @@
          "stunde": "1",
          "fach": "Ma",
          "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Ma Mar, Klassenarbeit, Aula",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Ma",
          "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Ma Mar, Klassenarbeit, Aula",
+         "geaendert": true
         },
         {
          "stunde": "3",

@@ -1129,5 +1129,22 @@
    "Std 6 (12:25): Ma 11A-11D selbst. (v), Selbststudium, Fr. Brincker erteilt Aufgaben"
   ],
   "zeitstempel": "14.04.2026, 08:58"
+ },
+ {
+  "timestamp": "2026-04-14T09:07:12.627664",
+  "lehrer": "Mar",
+  "datum": "Mittwoch, 15. April 2026",
+  "date_key": "20260415",
+  "changes": [
+   "Std 1 (07:40): für Ma Mar, Klassenarbeit, Aula",
+   "Std 2 (08:25): für Ma Mar, Klassenarbeit, Aula",
+   "Std 3 (09:40): En 7E verlegt nach St.5",
+   "Std 3 (09:40): für Sk Lie",
+   "Std 4 (10:25): für Sk Lie",
+   "Std 4 (10:25): En 7E verlegt nach St.6",
+   "Std 5 (11:40): En 7E verlegt von St.3",
+   "Std 6 (12:25): En 7E verlegt von St.4"
+  ],
+  "zeitstempel": "14.04.2026, 10:39"
  }
 ]
