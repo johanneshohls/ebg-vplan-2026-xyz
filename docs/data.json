@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "13.04.2026, 20:07 Uhr",
- "last_changed": "2026-04-13T17:04:00",
+ "generiert": "14.04.2026, 05:07 Uhr",
+ "last_changed": "2026-04-13T23:13:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -3826,7 +3826,7 @@
    "tage": {
     "20260413": {
      "datum": "Montag, 13. April 2026",
-     "zeitstempel": "13.04.2026, 17:04",
+     "zeitstempel": "13.04.2026, 23:13",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -5844,7 +5844,7 @@
     },
     "20260414": {
      "datum": "Dienstag, 14. April 2026",
-     "zeitstempel": "13.04.2026, 17:04",
+     "zeitstempel": "13.04.2026, 23:13",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -7886,7 +7886,7 @@
     },
     "20260415": {
      "datum": "Mittwoch, 15. April 2026",
-     "zeitstempel": "13.04.2026, 17:04",
+     "zeitstempel": "13.04.2026, 23:13",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -8304,19 +8304,19 @@
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9C verlegt nach Do (16.04.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9C verlegt nach Do (16.04.) St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -8691,6 +8691,22 @@
          "raum": "Co2",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "En 9C statt Do (16.04.) St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "En 9C statt Do (16.04.) St.8",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -9177,18 +9193,18 @@
         },
         {
          "stunde": "4",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 7E verlegt nach St.6",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
          "fach": "Ma",
          "klasse": "8B",
          "raum": "006",
          "info": "für Sk Lie",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7E verlegt nach St.6",
          "geaendert": true
         },
         {
@@ -10025,7 +10041,7 @@
     },
     "20260416": {
      "datum": "Donnerstag, 16. April 2026",
-     "zeitstempel": "13.04.2026, 17:04",
+     "zeitstempel": "13.04.2026, 23:13",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -10436,6 +10452,22 @@
          "raum": "006",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Span",
+         "klasse": "9C",
+         "raum": "204",
+         "info": "Span 9C statt Mi (15.04.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Span",
+         "klasse": "9C",
+         "raum": "204",
+         "info": "Span 9C statt Mi (15.04.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -10852,22 +10884,6 @@
       "Hol": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "En",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "En 9C verlegt von St.7",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "En",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "En 9C verlegt von St.8",
-         "geaendert": true
-        },
-        {
          "stunde": "3",
          "fach": "EN2",
          "klasse": "12A-12E",
@@ -10888,7 +10904,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 9C verlegt nach St.1",
+         "info": "En 9C gehalten am Mi (15.04.) St.5",
          "geaendert": true
         },
         {
@@ -10896,7 +10912,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 9C verlegt nach St.2",
+         "info": "En 9C gehalten am Mi (15.04.) St.6",
          "geaendert": true
         }
        ],
@@ -11695,19 +11711,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Phil 9C verlegt nach St.7",
-         "geaendert": true
+         "fach": "Phil",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "2",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Phil 9C verlegt nach St.8",
-         "geaendert": true
+         "fach": "Phil",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "3",
@@ -11740,22 +11756,6 @@
          "raum": "Co3",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "Phil",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "Phil 9C verlegt von St.1",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Phil",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "Phil 9C verlegt von St.2",
-         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -11816,6 +11816,22 @@
          "raum": "207",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "Ku",
+         "klasse": "9C",
+         "raum": "207",
+         "info": "Ku 9C statt Fr (17.04.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Ku",
+         "klasse": "9C",
+         "raum": "207",
+         "info": "Ku 9C statt Fr (17.04.) St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -11957,19 +11973,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Bio",
-         "klasse": "9C",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9C verlegt nach Fr (17.04.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Bio",
-         "klasse": "9C",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9C verlegt nach Fr (17.04.) St.4",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -12144,7 +12160,7 @@
     },
     "20260417": {
      "datum": "Freitag, 17. April 2026",
-     "zeitstempel": "13.04.2026, 17:04",
+     "zeitstempel": "13.04.2026, 23:13",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -13767,19 +13783,19 @@
         },
         {
          "stunde": "3",
-         "fach": "Ku",
-         "klasse": "9C",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 9C gehalten am Do (16.04.) St.7",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ku",
-         "klasse": "9C",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 9C gehalten am Do (16.04.) St.8",
+         "geaendert": true
         },
         {
          "stunde": "9",
@@ -13967,6 +13983,22 @@
          "raum": "005",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "9C",
+         "raum": "204",
+         "info": "Bio 9C statt Do (16.04.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Bio",
+         "klasse": "9C",
+         "raum": "204",
+         "info": "Bio 9C statt Do (16.04.) St.4",
+         "geaendert": true
         },
         {
          "stunde": "5",
