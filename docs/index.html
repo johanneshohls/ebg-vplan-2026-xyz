@@ -953,13 +953,19 @@ function updateViewUI() {
   if (frl) frl.textContent = currentView === 'freerooms' ? "Freier Raum ausblenden" : "Freier Raum";
 }
 
+const NONEXISTENT_ROOMS = new Set([
+  "004 005","006 002","006 005","006 107","006 Co2",
+  "007 008","007 104","007 204","007 K12",
+  "105 002","105 008","105 Co3"
+]);
+
 function extractRooms() {
   const rooms = new Set();
   for (const week of Object.values(planData.wochen || {})) {
     for (const day of Object.values(week.tage || {})) {
       for (const td of Object.values(day.lehrer || {})) {
         for (const e of td.entries) {
-          if (e.raum && e.raum !== "---" && e.fach !== "---") rooms.add(e.raum);
+          if (e.raum && e.raum !== "---" && e.fach !== "---" && !NONEXISTENT_ROOMS.has(e.raum)) rooms.add(e.raum);
         }
       }
     }
