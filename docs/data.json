@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "15.04.2026, 09:07 Uhr",
- "last_changed": "2026-04-15T07:56:00",
+ "generiert": "15.04.2026, 09:52 Uhr",
+ "last_changed": "2026-04-15T11:33:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -3826,7 +3826,7 @@
    "tage": {
     "20260413": {
      "datum": "Montag, 13. April 2026",
-     "zeitstempel": "13.04.2026, 23:13",
+     "zeitstempel": "15.04.2026, 11:33",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -5844,7 +5844,7 @@
     },
     "20260414": {
      "datum": "Dienstag, 14. April 2026",
-     "zeitstempel": "14.04.2026, 08:58",
+     "zeitstempel": "15.04.2026, 11:33",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -7886,7 +7886,7 @@
     },
     "20260415": {
      "datum": "Mittwoch, 15. April 2026",
-     "zeitstempel": "15.04.2026, 07:56",
+     "zeitstempel": "15.04.2026, 11:33",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -10041,7 +10041,7 @@
     },
     "20260416": {
      "datum": "Donnerstag, 16. April 2026",
-     "zeitstempel": "15.04.2026, 07:26",
+     "zeitstempel": "15.04.2026, 11:33",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -10095,22 +10095,6 @@
          "fach": "PH1",
          "klasse": "12A-12E",
          "raum": "K09",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "Ph",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "6",
-         "fach": "Ph",
-         "klasse": "9B",
-         "raum": "102",
          "info": "",
          "geaendert": false
         }
@@ -10172,7 +10156,7 @@
         {
          "vor_stunde": "7",
          "uhrzeit": "13:10",
-         "ort": "Haus und Caféteria",
+         "ort": "Haus, WCs, Caféteria",
          "info": ""
         }
        ]
@@ -10232,7 +10216,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof 1, WC, Container",
+         "info": ""
+        }
+       ]
       },
       "Bod": {
        "entries": [
@@ -10400,9 +10391,9 @@
        ],
        "aufsichten": [
         {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Hof2 und grünes Klassenzimmer",
+         "vor_stunde": "1",
+         "uhrzeit": "07:10",
+         "ort": "Haus, WCs, Caféteria",
          "info": ""
         }
        ]
@@ -10414,7 +10405,7 @@
       "Eul": {
        "entries": [
         {
-         "stunde": "1",
+         "stunde": "5",
          "fach": "eRe",
          "klasse": "9B",
          "raum": "102",
@@ -10422,7 +10413,7 @@
          "geaendert": false
         },
         {
-         "stunde": "2",
+         "stunde": "6",
          "fach": "eRe",
          "klasse": "9B",
          "raum": "102",
@@ -10442,14 +10433,7 @@
       },
       "Fech": {
        "entries": [],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Haus und Caféteria",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Fel": {
        "entries": [
@@ -10612,14 +10596,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "1",
-         "uhrzeit": "07:10",
-         "ort": "Haus und Caféteria",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Gor": {
        "entries": [
@@ -10672,14 +10649,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Hof2 und grünes Klassenzimmer",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Hei": {
        "entries": [
@@ -10734,9 +10704,9 @@
        ],
        "aufsichten": [
         {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Hof2 und grünes Klassenzimmer",
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Essenraum und Keller",
          "info": ""
         }
        ]
@@ -10853,7 +10823,7 @@
         {
          "vor_stunde": "3",
          "uhrzeit": "09:10",
-         "ort": "Essenraum und Keller",
+         "ort": "erst Haus, dann Hof2+GKLZ",
          "info": ""
         }
        ]
@@ -10946,14 +10916,7 @@
          "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Hof 1 und Container",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Hön": {
        "entries": [
@@ -11214,7 +11177,7 @@
         {
          "vor_stunde": "5",
          "uhrzeit": "11:10",
-         "ort": "Essenraum und Keller",
+         "ort": "Hof2 und grünes Klassenzimmer",
          "info": ""
         }
        ]
@@ -11405,7 +11368,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": ""
+        }
+       ]
       },
       "Mue": {
        "entries": [
@@ -11474,14 +11444,7 @@
          "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Hof 1 und Container",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Neu": {
        "entries": [],
@@ -11579,10 +11542,33 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof 1, WC, Container",
+         "info": ""
+        }
+       ]
       },
       "Pri": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "En",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "En",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "",
+         "geaendert": false
+        },
         {
          "stunde": "3",
          "fach": "Ge",
@@ -11614,22 +11600,6 @@
          "raum": "",
          "info": "En 12A-12E selbst. (v), Selbststudium, Hr. Priesemuth erteilt Aufgaben",
          "geaendert": true
-        },
-        {
-         "stunde": "7",
-         "fach": "En",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "8",
-         "fach": "En",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
         }
        ],
        "aufsichten": []
@@ -11653,14 +11623,7 @@
          "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Hof 1 und Container",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Rat": {
        "entries": [],
@@ -11795,7 +11758,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": ""
+        }
+       ]
       },
       "Schud": {
        "entries": [
@@ -11864,7 +11834,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Essenraum und Keller",
+         "info": ""
+        }
+       ]
       },
       "See": {
        "entries": [
@@ -11979,7 +11956,7 @@
         {
          "vor_stunde": "5",
          "uhrzeit": "11:10",
-         "ort": "Haus und Caféteria",
+         "ort": "Haus, WCs, Caféteria",
          "info": ""
         }
        ]
@@ -12117,7 +12094,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof 1, WC, Container",
+         "info": ""
+        }
+       ]
       },
       "Wag": {
        "entries": [
@@ -12176,7 +12160,7 @@
     },
     "20260417": {
      "datum": "Freitag, 17. April 2026",
-     "zeitstempel": "15.04.2026, 07:26",
+     "zeitstempel": "15.04.2026, 11:33",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -12230,6 +12214,22 @@
          "fach": "PH1",
          "klasse": "12A-12E",
          "raum": "205",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ph",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "Ph",
+         "klasse": "9B",
+         "raum": "102",
          "info": "",
          "geaendert": false
         }
@@ -12286,32 +12286,8 @@
        "aufsichten": []
       },
       "Bob": {
-       "entries": [
-        {
-         "stunde": "5",
-         "fach": "Ch",
-         "klasse": "9C",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "6",
-         "fach": "Ch",
-         "klasse": "9C",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
-        }
-       ],
-       "aufsichten": [
-        {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Hof 1 und Container",
-         "info": ""
-        }
-       ]
+       "entries": [],
+       "aufsichten": []
       },
       "Bod": {
        "entries": [
@@ -12440,9 +12416,9 @@
        ],
        "aufsichten": [
         {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Hof 1 und Container",
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof 1, WC, Container",
          "info": ""
         }
        ]
@@ -12494,6 +12470,22 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "9C",
+         "raum": "Aula",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "9C",
+         "raum": "Aula",
+         "info": "",
+         "geaendert": false
+        },
+        {
          "stunde": "9",
          "fach": "KL",
          "klasse": "9C",
@@ -12502,7 +12494,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "1",
+         "uhrzeit": "07:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": ""
+        }
+       ]
       },
       "Fer": {
        "entries": [],
@@ -12572,7 +12571,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof 1, WC, Container",
+         "info": ""
+        }
+       ]
       },
       "Gor": {
        "entries": [
@@ -12794,8 +12800,8 @@
        ],
        "aufsichten": [
         {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
          "ort": "Essenraum und Keller",
          "info": ""
         }
@@ -12909,38 +12915,14 @@
         {
          "vor_stunde": "7",
          "uhrzeit": "13:10",
-         "ort": "Haus und Caféteria",
+         "ort": "Hof2 und grünes Klassenzimmer",
          "info": ""
         }
        ]
       },
       "Hun": {
-       "entries": [
-        {
-         "stunde": "5",
-         "fach": "As",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "6",
-         "fach": "As",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
-        }
-       ],
-       "aufsichten": [
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Haus und Caféteria",
-         "info": ""
-        }
-       ]
+       "entries": [],
+       "aufsichten": []
       },
       "Isb": {
        "entries": [
@@ -13031,14 +13013,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Hof2 und grünes Klassenzimmer",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Kno": {
        "entries": [
@@ -13099,7 +13074,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Essenraum und Keller",
+         "info": ""
+        }
+       ]
       },
       "Köh": {
        "entries": [
@@ -13256,9 +13238,9 @@
        ],
        "aufsichten": [
         {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Hof2 und grünes Klassenzimmer",
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "erst Haus, dann Hof2+GKLZ",
          "info": ""
         }
        ]
@@ -13320,9 +13302,9 @@
        ],
        "aufsichten": [
         {
-         "vor_stunde": "1",
-         "uhrzeit": "07:10",
-         "ort": "Haus und Caféteria",
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus, WCs, Caféteria",
          "info": ""
         }
        ]
@@ -13468,14 +13450,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Essenraum und Keller",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Pri": {
        "entries": [
@@ -13557,7 +13532,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "entfällt, V: Ter"
+        }
+       ]
       },
       "Rat": {
        "entries": [
@@ -13647,7 +13629,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": ""
+        }
+       ]
       },
       "Scheu": {
        "entries": [],
@@ -13730,9 +13719,9 @@
        ],
        "aufsichten": [
         {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Haus und Caféteria",
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof 1, WC, Container",
          "info": ""
         }
        ]
@@ -13817,7 +13806,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": ""
+        }
+       ]
       },
       "See": {
        "entries": [
@@ -13895,14 +13891,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Hof2 und grünes Klassenzimmer",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Stu": {
        "entries": [
@@ -14030,10 +14019,10 @@
        ],
        "aufsichten": [
         {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Hof 1 und Container",
-         "info": ""
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Puk"
         }
        ]
       },
@@ -14183,7 +14172,7 @@
    "tage": {
     "20260420": {
      "datum": "Montag, 20. April 2026",
-     "zeitstempel": "15.04.2026, 07:26",
+     "zeitstempel": "15.04.2026, 11:33",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -14228,14 +14217,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Haus und Caféteria",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Bis": {
        "entries": [
@@ -14288,7 +14270,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": ""
+        }
+       ]
       },
       "Bob": {
        "entries": [
@@ -14357,14 +14346,7 @@
          "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Hof 1 und Container",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Bod": {
        "entries": [
@@ -14531,14 +14513,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Hof 1 und Container",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Ext 4": {
        "entries": [],
@@ -14587,7 +14562,7 @@
         {
          "vor_stunde": "1",
          "uhrzeit": "07:10",
-         "ort": "Haus und Caféteria",
+         "ort": "Haus, WCs, Caféteria",
          "info": ""
         }
        ]
@@ -14627,25 +14602,32 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": ""
+        }
+       ]
       },
       "Hei": {
        "entries": [
         {
          "stunde": "3",
-         "fach": "geo1",
-         "klasse": "11A-11D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 11A-11D selbst. (v)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "geo1",
-         "klasse": "11A-11D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 11A-11D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -14680,7 +14662,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": ""
+        }
+       ]
       },
       "Her": {
        "entries": [
@@ -14791,7 +14780,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof 1, WC, Container",
+         "info": ""
+        }
+       ]
       },
       "Hoh": {
        "entries": [
@@ -14901,7 +14897,7 @@
         {
          "vor_stunde": "3",
          "uhrzeit": "09:10",
-         "ort": "Essenraum und Keller",
+         "ort": "Hof 1, WC, Container",
          "info": ""
         }
        ]
@@ -14994,14 +14990,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Haus und Caféteria",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Isb": {
        "entries": [
@@ -15079,7 +15068,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof 1, WC, Container",
+         "info": ""
+        }
+       ]
       },
       "Kar": {
        "entries": [
@@ -15153,14 +15149,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Hof2 und grünes Klassenzimmer",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Köh": {
        "entries": [
@@ -15309,9 +15298,9 @@
        ],
        "aufsichten": [
         {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Hof2 und grünes Klassenzimmer",
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "erst Haus, dann Hof2+GKLZ",
          "info": ""
         }
        ]
@@ -15371,7 +15360,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Essenraum und Keller",
+         "info": ""
+        }
+       ]
       },
       "Mue": {
        "entries": [
@@ -15712,8 +15708,8 @@
        ],
        "aufsichten": [
         {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
          "ort": "Essenraum und Keller",
          "info": ""
         }
@@ -15774,14 +15770,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Haus und Caféteria",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "See": {
        "entries": [
@@ -15992,14 +15981,7 @@
          "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Hof 1 und Container",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Tie": {
        "entries": [
@@ -16054,8 +16036,8 @@
        ],
        "aufsichten": [
         {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
          "ort": "Hof2 und grünes Klassenzimmer",
          "info": ""
         }
@@ -16112,7 +16094,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": ""
+        }
+       ]
       },
       "Wag": {
        "entries": [
