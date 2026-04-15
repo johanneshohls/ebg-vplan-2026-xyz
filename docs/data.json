@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "15.04.2026, 12:43 Uhr",
- "last_changed": "2026-04-15T12:04:00",
+ "generiert": "15.04.2026, 13:07 Uhr",
+ "last_changed": "2026-04-15T14:47:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10041,7 +10041,7 @@
     },
     "20260416": {
      "datum": "Donnerstag, 16. April 2026",
-     "zeitstempel": "15.04.2026, 12:04",
+     "zeitstempel": "15.04.2026, 14:45",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -12177,7 +12177,7 @@
     },
     "20260417": {
      "datum": "Freitag, 17. April 2026",
-     "zeitstempel": "15.04.2026, 12:04",
+     "zeitstempel": "15.04.2026, 14:45",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -14189,7 +14189,7 @@
    "tage": {
     "20260420": {
      "datum": "Montag, 20. April 2026",
-     "zeitstempel": "15.04.2026, 11:33",
+     "zeitstempel": "15.04.2026, 14:45",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -16161,7 +16161,7 @@
     },
     "20260421": {
      "datum": "Dienstag, 21. April 2026",
-     "zeitstempel": "15.04.2026, 07:26",
+     "zeitstempel": "15.04.2026, 14:45",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -16312,9 +16312,32 @@
          "raum": "001",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "Ch",
+         "klasse": "8B",
+         "raum": "002",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "8",
+         "fach": "Ch",
+         "klasse": "8B",
+         "raum": "002",
+         "info": "",
+         "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof 1, WC, Container",
+         "info": ""
+        }
+       ]
       },
       "Bod": {
        "entries": [
@@ -16591,7 +16614,7 @@
         {
          "vor_stunde": "1",
          "uhrzeit": "07:10",
-         "ort": "Haus und Caféteria",
+         "ort": "Haus, WCs, Caféteria",
          "info": ""
         }
        ]
@@ -16635,14 +16658,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Hof 1 und Container",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Gol": {
        "entries": [
@@ -16753,6 +16769,22 @@
       "Hei": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "Fr",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "Fr",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "",
+         "geaendert": false
+        },
+        {
          "stunde": "3",
          "fach": "Fr",
          "klasse": "10A",
@@ -16767,48 +16799,9 @@
          "raum": "003",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "Fr",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "6",
-         "fach": "Fr",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "Fr",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "8",
-         "fach": "Fr",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Hof2 und grünes Klassenzimmer",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Her": {
        "entries": [
@@ -16972,7 +16965,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": ""
+        }
+       ]
       },
       "Hol": {
        "entries": [
@@ -17062,14 +17062,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Essenraum und Keller",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Hun": {
        "entries": [
@@ -17090,6 +17083,22 @@
          "geaendert": false
         },
         {
+         "stunde": "5",
+         "fach": "Ph",
+         "klasse": "7A",
+         "raum": "204",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "Ph",
+         "klasse": "7A",
+         "raum": "204",
+         "info": "",
+         "geaendert": false
+        },
+        {
          "stunde": "7",
          "fach": "Clu11",
          "klasse": "10A-10D,9A-9D",
@@ -17106,26 +17115,17 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": ""
+        }
+       ]
       },
       "Isb": {
        "entries": [
-        {
-         "stunde": "1",
-         "fach": "Ge",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "2",
-         "fach": "Ge",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
-        },
         {
          "stunde": "5",
          "fach": "En",
@@ -17141,13 +17141,29 @@
          "raum": "Co1",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "Ge",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "8",
+         "fach": "Ge",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": [
         {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Hof 1 und Container",
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof 1, WC, Container",
          "info": ""
         }
        ]
@@ -17191,14 +17207,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Hof 1 und Container",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Kar": {
        "entries": [
@@ -17256,7 +17265,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Essenraum und Keller",
+         "info": ""
+        }
+       ]
       },
       "Köh": {
        "entries": [
@@ -17370,7 +17386,7 @@
         {
          "vor_stunde": "3",
          "uhrzeit": "09:10",
-         "ort": "Haus und Caféteria",
+         "ort": "Hof 1, WC, Container",
          "info": ""
         }
        ]
@@ -17535,9 +17551,9 @@
        ],
        "aufsichten": [
         {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Essenraum und Keller",
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Haus, WCs, Caféteria",
          "info": ""
         }
        ]
@@ -17671,7 +17687,7 @@
         {
          "vor_stunde": "5",
          "uhrzeit": "11:10",
-         "ort": "Haus und Caféteria",
+         "ort": "Essenraum und Keller",
          "info": ""
         }
        ]
@@ -17731,7 +17747,7 @@
         {
          "vor_stunde": "7",
          "uhrzeit": "13:10",
-         "ort": "Haus und Caféteria",
+         "ort": "Haus, WCs, Caféteria",
          "info": ""
         }
        ]
@@ -17865,7 +17881,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": ""
+        }
+       ]
       },
       "Schud": {
        "entries": [
@@ -17997,14 +18020,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Hof2 und grünes Klassenzimmer",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Stu": {
        "entries": [],
@@ -18049,7 +18065,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "erst Haus, dann Hof2+GKLZ",
+         "info": ""
+        }
+       ]
       },
       "Tie": {
        "entries": [
@@ -18086,14 +18109,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Hof2 und grünes Klassenzimmer",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Tuh": {
        "entries": [
@@ -18189,7 +18205,7 @@
     },
     "20260422": {
      "datum": "Mittwoch, 22. April 2026",
-     "zeitstempel": "13.04.2026, 06:52",
+     "zeitstempel": "15.04.2026, 14:45",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -19709,19 +19725,19 @@
         },
         {
          "stunde": "3",
-         "fach": "Bio",
-         "klasse": "9B",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9B verlegt nach Fr (24.04.) St.5, Verlegung aufgrund Tutorenstunde 12",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Bio",
-         "klasse": "9B",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9B verlegt nach Fr (24.04.) St.6, Verlegung aufgrund Tutorenstunde 12",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -19744,6 +19760,22 @@
       },
       "Pri": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "En 9B statt Fr (24.04.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "En 9B statt Fr (24.04.) St.6",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "Ge",
@@ -19999,6 +20031,22 @@
       "See": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "Bio",
+         "klasse": "10D",
+         "raum": "205",
+         "info": "Bio 10D statt Fr (24.04.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Bio",
+         "klasse": "10D",
+         "raum": "205",
+         "info": "Bio 10D statt Fr (24.04.) St.6",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "Bio",
          "klasse": "10C",
@@ -20244,19 +20292,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "En",
-         "klasse": "10D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10D verlegt nach Fr (24.04.) St.5, Verlegeung aufgrund Tutorenstunde 12",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "En",
-         "klasse": "10D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10D verlegt nach Fr (24.04.) St.6, Verlegung aufgrund Tutorenstunde 12",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20265,7 +20313,7 @@
     },
     "20260423": {
      "datum": "Donnerstag, 23. April 2026",
-     "zeitstempel": "11.04.2026, 18:29",
+     "zeitstempel": "15.04.2026, 14:45",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -22256,7 +22304,7 @@
     },
     "20260424": {
      "datum": "Freitag, 24. April 2026",
-     "zeitstempel": "11.04.2026, 18:29",
+     "zeitstempel": "15.04.2026, 14:47",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -22312,6 +22360,22 @@
          "raum": "201",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "",
+         "raum": "",
+         "info": "Tutorenstunde 12",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "",
+         "raum": "",
+         "info": "Tutorenstunde 12",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -22743,19 +22807,19 @@
         },
         {
          "stunde": "5",
-         "fach": "sk2",
-         "klasse": "12A-12E",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "sk2 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "sk2",
-         "klasse": "12A-12E",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "sk2 12A-12E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23031,19 +23095,19 @@
         },
         {
          "stunde": "5",
-         "fach": "dsp1",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "dsp1 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "dsp1",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "dsp1 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -23117,19 +23181,19 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "mu1",
-         "klasse": "12A-12E",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "mu1 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "mu1",
-         "klasse": "12A-12E",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "mu1 12A-12E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23568,6 +23632,22 @@
          "raum": "006",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Bio",
+         "klasse": "9B",
+         "raum": "204",
+         "info": "Bio 9B statt Mi (22.04.) St.3, Verlegung aufgrund Tutorenstunde 12",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Bio",
+         "klasse": "9B",
+         "raum": "204",
+         "info": "Bio 9B statt Mi (22.04.) St.4, Verlegung aufgrund Tutorenstunde 12",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23576,19 +23656,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9B gehalten am Mi (22.04.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "",
+         "raum": "",
+         "info": "Tutorenstunde 12; En 9B gehalten am Mi (22.04.) St.3 (Pri)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9B gehalten am Mi (22.04.) St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "",
+         "raum": "",
+         "info": "Tutorenstunde 12; En 9B gehalten am Mi (22.04.) St.4 (Pri)",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -23869,19 +23965,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "Bio",
-         "klasse": "10D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10D gehalten am Mi (22.04.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "",
+         "raum": "",
+         "info": "Tutorenstunde 12; Bio 10D gehalten am Mi (22.04.) St.1 (See)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Bio",
-         "klasse": "10D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10D gehalten am Mi (22.04.) St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "",
+         "raum": "",
+         "info": "Tutorenstunde 12; Bio 10D gehalten am Mi (22.04.) St.2 (See)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -24054,6 +24166,22 @@
          "raum": "104",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "10D",
+         "raum": "201",
+         "info": "En 10D statt Mi (22.04.) St.1, Verlegeung aufgrund Tutorenstunde 12",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "10D",
+         "raum": "201",
+         "info": "En 10D statt Mi (22.04.) St.2, Verlegung aufgrund Tutorenstunde 12",
+         "geaendert": true
         },
         {
          "stunde": "7",
