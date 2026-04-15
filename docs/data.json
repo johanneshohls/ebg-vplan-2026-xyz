@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "15.04.2026, 09:52 Uhr",
- "last_changed": "2026-04-15T11:33:00",
+ "generiert": "15.04.2026, 10:07 Uhr",
+ "last_changed": "2026-04-15T12:04:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10041,7 +10041,7 @@
     },
     "20260416": {
      "datum": "Donnerstag, 16. April 2026",
-     "zeitstempel": "15.04.2026, 11:33",
+     "zeitstempel": "15.04.2026, 12:04",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -11847,51 +11847,51 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "BIO1",
-         "klasse": "12A-12E",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 12A-12E selbst. (v), Selbststudium: AB - Abriss Evolutionsbelege sichten, Fragen notieren",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "BIO1",
-         "klasse": "12A-12E",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 12A-12E selbst. (v), Selbststudium: AB - Abriss Evolutionsbelege sichten, Fragen notieren",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Bio",
-         "klasse": "10B",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10B verlegt nach Fr (17.04.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Bio",
-         "klasse": "10B",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10B verlegt nach Fr (17.04.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Bio",
-         "klasse": "10D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10D selbst. (v), Selbststudium, kann zu Hause erledigt werden > Aufgaben per Mail",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Bio",
-         "klasse": "10D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10D selbst. (v), Selbststudium, kann zu Hause erledigt werden > Aufgaben per Mail",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -11962,7 +11962,24 @@
        ]
       },
       "Stu": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "Geo",
+         "klasse": "10B",
+         "raum": "004",
+         "info": "statt Fr (17.04.) St.5 (Span Puk), Aufgaben durch Fr. Pukrop erteilt, Aufsicht",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Geo",
+         "klasse": "10B",
+         "raum": "004",
+         "info": "statt Fr (17.04.) St.6 (Span Puk), Aufgaben durch Fr. Pukrop erteilt, Aufsicht",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Ten": {
@@ -12160,7 +12177,7 @@
     },
     "20260417": {
      "datum": "Freitag, 17. April 2026",
-     "zeitstempel": "15.04.2026, 11:33",
+     "zeitstempel": "15.04.2026, 12:04",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -13512,7 +13529,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Geo 10B Stu (für Span), Aufsicht",
+         "info": "Geo 10B gehalten am Do (16.04.) St.5 (Stu), Aufgaben durch Fr. Pukrop erteilt, Aufsicht",
          "geaendert": true
         },
         {
@@ -13520,7 +13537,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Geo 10B Stu (für Span), Aufsicht",
+         "info": "Geo 10B gehalten am Do (16.04.) St.6 (Stu), Aufgaben durch Fr. Pukrop erteilt, Aufsicht",
          "geaendert": true
         },
         {
@@ -13832,6 +13849,22 @@
          "raum": "201",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Bio",
+         "klasse": "10B",
+         "raum": "008",
+         "info": "Bio 10B statt Do (16.04.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Bio",
+         "klasse": "10B",
+         "raum": "008",
+         "info": "Bio 10B statt Do (16.04.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13940,22 +13973,6 @@
          "fach": "Span",
          "klasse": "8D",
          "raum": "103",
-         "info": "für Span Puk, Aufsicht",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "Geo",
-         "klasse": "10B",
-         "raum": "006",
-         "info": "für Span Puk, Aufsicht",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Geo",
-         "klasse": "10B",
-         "raum": "006",
          "info": "für Span Puk, Aufsicht",
          "geaendert": true
         }
