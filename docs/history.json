@@ -1146,5 +1146,128 @@
    "Std 6 (12:25): En 7E verlegt von St.4"
   ],
   "zeitstempel": "14.04.2026, 10:39"
+ },
+ {
+  "timestamp": "2026-04-15T06:07:15.860473",
+  "lehrer": "See",
+  "datum": "Mittwoch, 15. April 2026",
+  "date_key": "20260415",
+  "changes": [
+   "Std 7 (13:40): Bio 10A fällt aus",
+   "Std 8 (14:25): Bio 10A fällt aus"
+  ],
+  "zeitstempel": "15.04.2026, 07:56"
+ },
+ {
+  "timestamp": "2026-04-15T06:07:15.860473",
+  "lehrer": "Bes",
+  "datum": "Donnerstag, 16. April 2026",
+  "date_key": "20260416",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "15.04.2026, 07:26"
+ },
+ {
+  "timestamp": "2026-04-15T06:07:15.860473",
+  "lehrer": "Eul",
+  "datum": "Donnerstag, 16. April 2026",
+  "date_key": "20260416",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "15.04.2026, 07:26"
+ },
+ {
+  "timestamp": "2026-04-15T06:07:15.860473",
+  "lehrer": "Pri",
+  "datum": "Donnerstag, 16. April 2026",
+  "date_key": "20260416",
+  "changes": [
+   "Std 5 (11:40): En 12A-12E selbst. (v), Selbststudium, Hr. Priesemuth erteilt Aufgaben",
+   "Std 6 (12:25): En 12A-12E selbst. (v), Selbststudium, Hr. Priesemuth erteilt Aufgaben"
+  ],
+  "zeitstempel": "15.04.2026, 07:26"
+ },
+ {
+  "timestamp": "2026-04-15T06:07:15.860473",
+  "lehrer": "Bes",
+  "datum": "Freitag, 17. April 2026",
+  "date_key": "20260417",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "15.04.2026, 07:26"
+ },
+ {
+  "timestamp": "2026-04-15T06:07:15.860473",
+  "lehrer": "Bob",
+  "datum": "Freitag, 17. April 2026",
+  "date_key": "20260417",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "15.04.2026, 07:26"
+ },
+ {
+  "timestamp": "2026-04-15T06:07:15.860473",
+  "lehrer": "Fel",
+  "datum": "Freitag, 17. April 2026",
+  "date_key": "20260417",
+  "changes": [
+   "Std 3 (09:40): für Span Köh",
+   "Std 4 (10:25): für Span Köh"
+  ],
+  "zeitstempel": "15.04.2026, 07:26"
+ },
+ {
+  "timestamp": "2026-04-15T06:07:15.860473",
+  "lehrer": "Hun",
+  "datum": "Freitag, 17. April 2026",
+  "date_key": "20260417",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "15.04.2026, 07:26"
+ },
+ {
+  "timestamp": "2026-04-15T06:07:15.860473",
+  "lehrer": "Bob",
+  "datum": "Dienstag, 21. April 2026",
+  "date_key": "20260421",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "15.04.2026, 07:26"
+ },
+ {
+  "timestamp": "2026-04-15T06:07:15.860473",
+  "lehrer": "Hei",
+  "datum": "Dienstag, 21. April 2026",
+  "date_key": "20260421",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "15.04.2026, 07:26"
+ },
+ {
+  "timestamp": "2026-04-15T06:07:15.860473",
+  "lehrer": "Hun",
+  "datum": "Dienstag, 21. April 2026",
+  "date_key": "20260421",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "15.04.2026, 07:26"
+ },
+ {
+  "timestamp": "2026-04-15T06:07:15.860473",
+  "lehrer": "Isb",
+  "datum": "Dienstag, 21. April 2026",
+  "date_key": "20260421",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "15.04.2026, 07:26"
  }
 ]
