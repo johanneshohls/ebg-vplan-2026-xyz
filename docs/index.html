@@ -525,6 +525,76 @@
       background: var(--dismiss-bg);
     }
 
+    /* --- Free Rooms View --- */
+    .free-cell {
+      cursor: pointer;
+      text-align: center;
+      padding: 8px 4px;
+      transition: background 0.15s;
+    }
+    .free-cell:active { background: var(--dismiss-bg); }
+    .free-count {
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 1;
+    }
+    .free-label {
+      font-size: 10px;
+      color: var(--secondary);
+      margin-top: 2px;
+    }
+    .free-many { color: var(--green); }
+    .free-some { color: var(--orange); }
+    .free-none { color: var(--empty); }
+
+    /* Free Rooms Detail Sheet */
+    .free-rooms-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: var(--overlay);
+      z-index: 300;
+      align-items: flex-end;
+      justify-content: center;
+    }
+    .free-rooms-overlay.visible { display: flex; }
+    .free-rooms-sheet {
+      background: var(--sheet);
+      border-radius: 16px 16px 0 0;
+      padding: 24px 24px;
+      padding-bottom: max(24px, env(safe-area-inset-bottom));
+      width: 100%;
+      max-width: 500px;
+      animation: sheetUp 0.25s ease-out;
+    }
+    .free-rooms-title {
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--secondary);
+      margin-bottom: 14px;
+    }
+    .free-rooms-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 20px;
+      max-height: 50vh;
+      overflow-y: auto;
+    }
+    .free-rooms-chip {
+      background: var(--dismiss-bg);
+      border-radius: 8px;
+      padding: 7px 14px;
+      font-size: 15px;
+      font-weight: 500;
+      color: var(--text);
+    }
+    .free-rooms-empty {
+      color: var(--secondary);
+      font-size: 15px;
+      padding: 4px 0;
+    }
+
     /* --- History Timeline --- */
     .history-panel {
       display: none;
@@ -721,6 +791,9 @@
   <button class="more-menu-item" onclick="menuAction('classes')">
     <span id="klassenMenuLabel">Klassen</span>
   </button>
+  <button class="more-menu-item" onclick="menuAction('freerooms')">
+    <span id="freeroomsMenuLabel">Freier Raum</span>
+  </button>
 </div>
 
 <div class="theme-picker" id="themePicker">
@@ -754,6 +827,14 @@
   <div class="info-sheet" onclick="event.stopPropagation()">
     <p id="infoText"></p>
     <button class="dismiss" onclick="hideInfo()">OK</button>
+  </div>
+</div>
+
+<div class="free-rooms-overlay" id="freeRoomsOverlay" onclick="hideFreeRoomsDetail()">
+  <div class="free-rooms-sheet" onclick="event.stopPropagation()">
+    <div class="free-rooms-title" id="freeRoomsTitle"></div>
+    <div class="free-rooms-chips" id="freeRoomsChips"></div>
+    <button class="dismiss" onclick="hideFreeRoomsDetail()">Schließen</button>
   </div>
 </div>
 
@@ -796,6 +877,7 @@ function menuAction(action) {
   if (action === "compare") toggleCompareMode();
   if (action === "rooms") setView(currentView === 'rooms' ? 'plan' : 'rooms');
   if (action === "classes") setView(currentView === 'classes' ? 'plan' : 'classes');
+  if (action === "freerooms") setView(currentView === 'freerooms' ? 'plan' : 'freerooms');
 }
 
 // Apply saved theme immediately
@@ -811,7 +893,7 @@ const DOW = {1:"MO",2:"DI",3:"MI",4:"DO",5:"FR"};
 let planData = null, historyData = null, currentTeacher = null, currentKW = null;
 let showingHistory = false;
 let compareMode = false, compareTeacher = null;
-let currentView = 'plan'; // 'plan' | 'rooms' | 'classes'
+let currentView = 'plan'; // 'plan' | 'rooms' | 'classes' | 'freerooms'
 let currentRoom = null, currentKlasse = null;
 
 function getTeacher() {
@@ -860,13 +942,15 @@ function updateViewUI() {
   const ctx = document.getElementById("contextSelect");
   if (ts && ts.options.length > 0) ts.style.display = isPlan ? "" : "none";
   if (cs) cs.style.display = (isPlan && compareMode) ? "" : "none";
-  if (ctx) ctx.style.display = isPlan ? "none" : "";
+  if (ctx) ctx.style.display = (isPlan || currentView === 'freerooms') ? "none" : "";
   const cl = document.getElementById("compareModeLabel");
   if (cl) cl.textContent = compareMode ? "Vergleich ausschalten" : "Vergleichsmodus";
   const rl = document.getElementById("roomsMenuLabel");
   if (rl) rl.textContent = currentView === 'rooms' ? "Räume ausblenden" : "Räume";
   const kl = document.getElementById("klassenMenuLabel");
   if (kl) kl.textContent = currentView === 'classes' ? "Klassen ausblenden" : "Klassen";
+  const frl = document.getElementById("freeroomsMenuLabel");
+  if (frl) frl.textContent = currentView === 'freerooms' ? "Freier Raum ausblenden" : "Freier Raum";
 }
 
 function extractRooms() {
@@ -925,6 +1009,9 @@ function setView(view) {
     populateContextSelect(klassen, currentKlasse);
     updateViewUI();
     renderKlassen();
+  } else if (view === 'freerooms') {
+    updateViewUI();
+    renderFreeRooms();
   } else {
     updateViewUI();
     renderPlan();
@@ -1071,6 +1158,117 @@ function renderKlassen() {
   document.getElementById("content").innerHTML = html;
 }
 
+function renderFreeRooms() {
+  if (!planData || !currentKW) return;
+  const wochen = planData.wochen || {};
+  const week = wochen[currentKW];
+  if (!week) { document.getElementById("content").innerHTML = '<div class="loading">Keine Daten für diese Woche.</div>'; return; }
+
+  const allRooms = extractRooms();
+  const days = week.tage || {};
+  const monday = parseDate(week.montag);
+  const dayKeys = [];
+  for (let i = 0; i < 5; i++) {
+    const d = new Date(monday); d.setDate(d.getDate() + i);
+    dayKeys.push(d.getFullYear() + String(d.getMonth()+1).padStart(2,"0") + String(d.getDate()).padStart(2,"0"));
+  }
+
+  document.getElementById("navTitle").textContent = "Freie Räume";
+  document.getElementById("navSubtitle").textContent = planData.last_changed
+    ? (() => { const d = new Date(planData.last_changed); return `Stand: ${d.toLocaleDateString("de-DE",{day:"2-digit",month:"2-digit",year:"numeric"})}, ${d.toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"})} Uhr`; })()
+    : "";
+
+  const kws = getKWList();
+  const kwIdx = kws.indexOf(currentKW);
+  const canPrev = kwIdx > 0, canNext = kwIdx < kws.length - 1;
+  const now = new Date();
+  const todayStr = now.getFullYear() + String(now.getMonth()+1).padStart(2,"0") + String(now.getDate()).padStart(2,"0");
+
+  // Belegte Räume pro Tag und Stunde ermitteln
+  const occupiedRooms = {};
+  for (const dk of dayKeys) {
+    occupiedRooms[dk] = {};
+    for (const p of PERIODS) occupiedRooms[dk][p] = new Set();
+    for (const td of Object.values(days[dk]?.lehrer || {})) {
+      for (const e of td.entries) {
+        if (e.raum && e.raum !== "---" && e.fach !== "---" && e.stunde && occupiedRooms[dk][e.stunde]) {
+          occupiedRooms[dk][e.stunde].add(e.raum);
+        }
+      }
+    }
+  }
+
+  const mMon = parseDate(dayKeys[0]), mFri = parseDate(dayKeys[4]);
+  let html = `<div class="week-header" style="display:flex;align-items:center;justify-content:center;gap:16px">
+    <span onclick="changeWeek(-1)" style="cursor:pointer;font-size:18px;opacity:${canPrev?'1':'0.2'};padding:4px 8px">&lsaquo;</span>
+    <span>KW ${week.kw} · ${mMon.getDate()}. ${MONTH[mMon.getMonth()]} – ${mFri.getDate()}. ${MONTH[mFri.getMonth()]} ${mFri.getFullYear()}</span>
+    <span onclick="changeWeek(1)" style="cursor:pointer;font-size:18px;opacity:${canNext?'1':'0.2'};padding:4px 8px">&rsaquo;</span>
+  </div>`;
+
+  html += '<div class="card"><div class="table-scroll"><table class="plan-table"><thead><tr>';
+  html += '<th class="col-std" style="text-align:left;padding-left:20px"></th>';
+  for (const dk of dayKeys) {
+    const d = parseDate(dk);
+    const dow = DOW[d.getDay()] || "";
+    const isToday = dk === todayStr;
+    html += `<th><div class="day-th-wrap${isToday ? " day-today" : ""}">
+      <div class="day-name">${dow}</div>
+      <div class="day-date">${isToday
+        ? '<span style="background:var(--today-bg);color:var(--today-text);width:26px;height:26px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:13px">'+d.getDate()+'</span>'
+        : d.getDate()+'.'}</div>
+    </div></th>`;
+  }
+  html += '</tr></thead><tbody>';
+
+  for (const period of PERIODS) {
+    html += '<tr>';
+    html += `<td class="std-cell"><div class="std-num">${period}</div><div class="std-time">${TIMES[period]||""}</div></td>`;
+    for (const dk of dayKeys) {
+      const occupied = occupiedRooms[dk]?.[period] || new Set();
+      const freeCount = allRooms.filter(r => !occupied.has(r)).length;
+      const cls = freeCount === 0 ? 'free-none' : freeCount < 5 ? 'free-some' : 'free-many';
+      html += `<td class="day-cell free-cell" onclick="showFreeRoomsDetail('${dk}','${period}')">` +
+        `<div class="free-count ${cls}">${freeCount}</div>` +
+        `<div class="free-label">frei</div></td>`;
+    }
+    html += '</tr>';
+  }
+  html += '</tbody></table></div></div>';
+  document.getElementById("content").innerHTML = html;
+}
+
+function showFreeRoomsDetail(dk, period) {
+  if (!planData || !currentKW) return;
+  const allRooms = extractRooms();
+  const week = planData.wochen?.[currentKW];
+  if (!week) return;
+  const days = week.tage || {};
+  const occupied = new Set();
+  for (const td of Object.values(days[dk]?.lehrer || {})) {
+    for (const e of td.entries) {
+      if (e.stunde === period && e.raum && e.raum !== "---" && e.fach !== "---") {
+        occupied.add(e.raum);
+      }
+    }
+  }
+  const freeRooms = allRooms.filter(r => !occupied.has(r));
+  const d = parseDate(dk);
+  const dow = ["So","Mo","Di","Mi","Do","Fr","Sa"][d.getDay()];
+  document.getElementById("freeRoomsTitle").textContent =
+    `${dow}, ${d.getDate()}. ${MONTH[d.getMonth()]} · ${period}. Stunde · ${TIMES[period]||""} – ${TIMES_END[period]||""} Uhr`;
+  const chipsEl = document.getElementById("freeRoomsChips");
+  if (freeRooms.length === 0) {
+    chipsEl.innerHTML = '<div class="free-rooms-empty">Keine freien Räume</div>';
+  } else {
+    chipsEl.innerHTML = freeRooms.map(r => `<div class="free-rooms-chip">${r}</div>`).join("");
+  }
+  document.getElementById("freeRoomsOverlay").classList.add("visible");
+}
+
+function hideFreeRoomsDetail() {
+  document.getElementById("freeRoomsOverlay").classList.remove("visible");
+}
+
 async function loadData() {
   try {
     const r = await fetch("data.json?_=" + Date.now());
@@ -1094,6 +1292,7 @@ async function doRefresh() {
   await loadData();
   if (currentView === 'rooms') renderRooms();
   else if (currentView === 'classes') renderKlassen();
+  else if (currentView === 'freerooms') renderFreeRooms();
   else if (currentTeacher) renderPlan();
   b.classList.remove("spinning");
 }
@@ -1112,6 +1311,7 @@ function changeWeek(dir) {
     currentKW = kws[newIdx];
     if (currentView === 'rooms') renderRooms();
     else if (currentView === 'classes') renderKlassen();
+    else if (currentView === 'freerooms') renderFreeRooms();
     else renderPlan();
   }
 }
