@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "16.04.2026, 11:07 Uhr",
- "last_changed": "2026-04-16T11:20:00",
+ "generiert": "16.04.2026, 11:45 Uhr",
+ "last_changed": "2026-04-16T13:37:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14212,7 +14212,7 @@
    "tage": {
     "20260420": {
      "datum": "Montag, 20. April 2026",
-     "zeitstempel": "16.04.2026, 11:00",
+     "zeitstempel": "16.04.2026, 13:37",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -14295,19 +14295,19 @@
         },
         {
          "stunde": "7",
-         "fach": "En",
-         "klasse": "10B",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10B verlegt nach Di (21.04.) St.1",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "En",
-         "klasse": "10B",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10B verlegt nach Di (21.04.) St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -14315,7 +14315,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Sta"
         }
        ]
       },
@@ -15334,6 +15334,22 @@
          "raum": "Co2",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "Ph",
+         "klasse": "10B",
+         "raum": "104",
+         "info": "Ph 10B statt Di (21.04.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Ph",
+         "klasse": "10B",
+         "raum": "104",
+         "info": "Ph 10B statt Di (21.04.) St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -15911,7 +15927,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Bis"
+        }
+       ]
       },
       "Stu": {
        "entries": [
@@ -16184,7 +16207,7 @@
     },
     "20260421": {
      "datum": "Dienstag, 21. April 2026",
-     "zeitstempel": "16.04.2026, 11:00",
+     "zeitstempel": "16.04.2026, 13:37",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -16283,6 +16306,22 @@
       },
       "Bis": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "En",
+         "klasse": "10B",
+         "raum": "Aula",
+         "info": "En 10B statt Mo (20.04.) St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "En",
+         "klasse": "10B",
+         "raum": "Aula",
+         "info": "En 10B statt Mo (20.04.) St.8",
+         "geaendert": true
+        },
         {
          "stunde": "7",
          "fach": "---",
@@ -17425,19 +17464,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ph",
-         "klasse": "10B",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 10B gehalten am Mo (20.04.) St.7",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ph",
-         "klasse": "10B",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 10B gehalten am Mo (20.04.) St.8",
+         "geaendert": true
         }
        ],
        "aufsichten": []

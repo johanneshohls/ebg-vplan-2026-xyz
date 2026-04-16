@@ -1577,5 +1577,51 @@
    "Std 2 (08:25): En 10A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
   ],
   "zeitstempel": "16.04.2026, 11:20"
+ },
+ {
+  "timestamp": "2026-04-16T11:45:26.834547",
+  "lehrer": "Bis",
+  "datum": "Montag, 20. April 2026",
+  "date_key": "20260420",
+  "changes": [
+   "Std 7 (13:40): En 10B verlegt nach Di (21.04.) St.1",
+   "Std 8 (14:25): En 10B verlegt nach Di (21.04.) St.2"
+  ],
+  "zeitstempel": "16.04.2026, 13:37"
+ },
+ {
+  "timestamp": "2026-04-16T11:45:26.834547",
+  "lehrer": "Leu",
+  "datum": "Montag, 20. April 2026",
+  "date_key": "20260420",
+  "changes": [
+   "Std 7 (13:40): Ph 10B statt Di (21.04.) St.1",
+   "Std 8 (14:25): Ph 10B statt Di (21.04.) St.2"
+  ],
+  "zeitstempel": "16.04.2026, 13:37"
+ },
+ {
+  "timestamp": "2026-04-16T11:45:26.834547",
+  "lehrer": "Bis",
+  "datum": "Dienstag, 21. April 2026",
+  "date_key": "20260421",
+  "changes": [
+   "Std 1 (07:40): En 10B statt Mo (20.04.) St.7",
+   "Std 2 (08:25): En 10B statt Mo (20.04.) St.8",
+   "Std 7 (13:40): Club8 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club8 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "16.04.2026, 13:37"
+ },
+ {
+  "timestamp": "2026-04-16T11:45:26.834547",
+  "lehrer": "Leu",
+  "datum": "Dienstag, 21. April 2026",
+  "date_key": "20260421",
+  "changes": [
+   "Std 1 (07:40): Ph 10B gehalten am Mo (20.04.) St.7",
+   "Std 2 (08:25): Ph 10B gehalten am Mo (20.04.) St.8"
+  ],
+  "zeitstempel": "16.04.2026, 13:37"
  }
 ]
