@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "16.04.2026, 05:07 Uhr",
- "last_changed": "2026-04-15T14:47:00",
+ "generiert": "16.04.2026, 06:07 Uhr",
+ "last_changed": "2026-04-16T07:25:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10041,7 +10041,7 @@
     },
     "20260416": {
      "datum": "Donnerstag, 16. April 2026",
-     "zeitstempel": "15.04.2026, 14:45",
+     "zeitstempel": "16.04.2026, 07:19",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -10123,17 +10123,17 @@
          "stunde": "7",
          "fach": "Mu",
          "klasse": "10B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Mu Bir, Klassenkonzert, Aula",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "Mu",
          "klasse": "10B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Mu Bir, Klassenkonzert, Aula",
+         "geaendert": true
         },
         {
          "stunde": "9",
@@ -18205,7 +18205,7 @@
     },
     "20260422": {
      "datum": "Mittwoch, 22. April 2026",
-     "zeitstempel": "15.04.2026, 14:45",
+     "zeitstempel": "16.04.2026, 07:25",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -19711,7 +19711,7 @@
          "stunde": "1",
          "fach": "De",
          "klasse": "9B",
-         "raum": "007",
+         "raum": "Aula",
          "info": "De 9B statt Do (23.04.) St.3, Verlegung aufgrund einer Hospitation",
          "geaendert": true
         },
@@ -19719,7 +19719,7 @@
          "stunde": "2",
          "fach": "De",
          "klasse": "9B",
-         "raum": "007",
+         "raum": "Aula",
          "info": "De 9B statt Do (23.04.) St.4, Verlegung aufgrund einer Hospitation",
          "geaendert": true
         },
