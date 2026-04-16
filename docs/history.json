@@ -1460,5 +1460,111 @@
    "Std 4 (10:25): für Sk Gor"
   ],
   "zeitstempel": "16.04.2026, 09:59"
+ },
+ {
+  "timestamp": "2026-04-16T09:07:11.833259",
+  "lehrer": "Puk",
+  "datum": "Dienstag, 21. April 2026",
+  "date_key": "20260421",
+  "changes": [
+   "Std 1 (07:40): Geo 9D verlegt nach Fr (24.04.) St.1",
+   "Std 1 (07:40): Span 9D statt Fr (24.04.) St.1; Geo 9D verlegt nach Fr (24.04.) St.1",
+   "Std 2 (08:25): Geo 9D verlegt nach Fr (24.04.) St.2",
+   "Std 2 (08:25): Span 9D statt Fr (24.04.) St.2; Geo 9D verlegt nach Fr (24.04.) St.2",
+   "Std 3 (09:40): ILZ 9D gehalten am Mo (20.04.) St.3",
+   "Std 4 (10:25): ILZ 9D gehalten am Mo (20.04.) St.4"
+  ],
+  "zeitstempel": "16.04.2026, 11:00"
+ },
+ {
+  "timestamp": "2026-04-16T09:07:11.833259",
+  "lehrer": "Rat",
+  "datum": "Dienstag, 21. April 2026",
+  "date_key": "20260421",
+  "changes": [
+   "Std 7 (13:40): Ku 8C verlegt nach Mi (22.04.) St.3",
+   "Std 8 (14:25): Ku 8C verlegt nach Mi (22.04.) St.4"
+  ],
+  "zeitstempel": "16.04.2026, 11:00"
+ },
+ {
+  "timestamp": "2026-04-16T09:07:11.833259",
+  "lehrer": "Roh",
+  "datum": "Dienstag, 21. April 2026",
+  "date_key": "20260421",
+  "changes": [
+   "Std 7 (13:40): Ma 8C statt Mi (22.04.) St.3",
+   "Std 8 (14:25): Ma 8C statt Mi (22.04.) St.4"
+  ],
+  "zeitstempel": "16.04.2026, 11:00"
+ },
+ {
+  "timestamp": "2026-04-16T09:07:11.833259",
+  "lehrer": "Gor",
+  "datum": "Mittwoch, 22. April 2026",
+  "date_key": "20260422",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "16.04.2026, 11:00"
+ },
+ {
+  "timestamp": "2026-04-16T09:07:11.833259",
+  "lehrer": "Hön",
+  "datum": "Mittwoch, 22. April 2026",
+  "date_key": "20260422",
+  "changes": [
+   "Std 1 (07:40): De 10C statt Do (23.04.) St.1",
+   "Std 2 (08:25): De 10C statt Do (23.04.) St.2"
+  ],
+  "zeitstempel": "16.04.2026, 11:00"
+ },
+ {
+  "timestamp": "2026-04-16T09:07:11.833259",
+  "lehrer": "Lan",
+  "datum": "Mittwoch, 22. April 2026",
+  "date_key": "20260422",
+  "changes": [
+   "Std 5 (11:40): Sk 10C statt Fr (24.04.) St.1",
+   "Std 6 (12:25): Sk 10C statt Fr (24.04.) St.2"
+  ],
+  "zeitstempel": "16.04.2026, 11:00"
+ },
+ {
+  "timestamp": "2026-04-16T09:07:11.833259",
+  "lehrer": "Rat",
+  "datum": "Mittwoch, 22. April 2026",
+  "date_key": "20260422",
+  "changes": [
+   "Std 3 (09:40): Ku 8C statt Di (21.04.) St.7",
+   "Std 4 (10:25): Ku 8C statt Di (21.04.) St.8"
+  ],
+  "zeitstempel": "16.04.2026, 11:00"
+ },
+ {
+  "timestamp": "2026-04-16T09:07:11.833259",
+  "lehrer": "Roh",
+  "datum": "Mittwoch, 22. April 2026",
+  "date_key": "20260422",
+  "changes": [
+   "Std 1 (07:40): Ma 10C verlegt nach Fr (24.04.) St.1",
+   "Std 2 (08:25): Ma 10C verlegt nach Fr (24.04.) St.2",
+   "Std 3 (09:40): Ma 8C gehalten am Di (21.04.) St.7",
+   "Std 4 (10:25): Ma 8C gehalten am Di (21.04.) St.8"
+  ],
+  "zeitstempel": "16.04.2026, 11:00"
+ },
+ {
+  "timestamp": "2026-04-16T09:07:11.833259",
+  "lehrer": "See",
+  "datum": "Mittwoch, 22. April 2026",
+  "date_key": "20260422",
+  "changes": [
+   "Std 1 (07:40): Bio 10D statt Fr (24.04.) St.5",
+   "Std 2 (08:25): Bio 10D statt Fr (24.04.) St.6",
+   "Std 7 (13:40): Bio 10C verlegt nach Do (23.04.) St.1",
+   "Std 8 (14:25): Bio 10C verlegt nach Do (23.04.) St.2"
+  ],
+  "zeitstempel": "16.04.2026, 11:00"
  }
 ]
