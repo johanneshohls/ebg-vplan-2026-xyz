@@ -1566,5 +1566,16 @@
    "Std 8 (14:25): Bio 10C verlegt nach Do (23.04.) St.2"
   ],
   "zeitstempel": "16.04.2026, 11:00"
+ },
+ {
+  "timestamp": "2026-04-16T09:51:17.834617",
+  "lehrer": "Hol",
+  "datum": "Freitag, 17. April 2026",
+  "date_key": "20260417",
+  "changes": [
+   "Std 1 (07:40): En 10A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 2 (08:25): En 10A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "16.04.2026, 11:20"
  }
 ]

@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "16.04.2026, 09:07 Uhr",
- "last_changed": "2026-04-16T11:00:00",
+ "generiert": "16.04.2026, 09:51 Uhr",
+ "last_changed": "2026-04-16T11:20:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12177,7 +12177,7 @@
     },
     "20260417": {
      "datum": "Freitag, 17. April 2026",
-     "zeitstempel": "16.04.2026, 09:59",
+     "zeitstempel": "16.04.2026, 11:20",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -12828,19 +12828,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "En",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "En",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
