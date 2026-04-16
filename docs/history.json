@@ -1423,5 +1423,42 @@
    "Std 4 (10:25): Bio 9B verlegt nach Fr (24.04.) St.6, Verlegung aufgrund Tutorenstunde 12"
   ],
   "zeitstempel": "16.04.2026, 07:25"
+ },
+ {
+  "timestamp": "2026-04-16T08:07:15.479047",
+  "lehrer": "Gor",
+  "datum": "Donnerstag, 16. April 2026",
+  "date_key": "20260416",
+  "changes": [
+   "Std 5 (11:40): Ge 12A-12E selbst. (v), Selbststudium, bitte die Stühle in der Aula hochstellen",
+   "Std 6 (12:25): Ge 12A-12E selbst. (v), Selbststudium, bitte die Stühle in der Aula hochstellen"
+  ],
+  "zeitstempel": "16.04.2026, 09:59"
+ },
+ {
+  "timestamp": "2026-04-16T08:07:15.479047",
+  "lehrer": "Gor",
+  "datum": "Freitag, 17. April 2026",
+  "date_key": "20260417",
+  "changes": [
+   "Std 1 (07:40): Sk 12A-12E selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 2 (08:25): Sk 12A-12E selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 3 (09:40): Mu 7D Kar (für Sk)",
+   "Std 4 (10:25): Mu 7D Kar (für Sk)",
+   "Std 5 (11:40): Ge 12A-12E selbst. (v), Selbststudium",
+   "Std 6 (12:25): Ge 12A-12E selbst. (v), Selbststudium"
+  ],
+  "zeitstempel": "16.04.2026, 09:59"
+ },
+ {
+  "timestamp": "2026-04-16T08:07:15.479047",
+  "lehrer": "Kar",
+  "datum": "Freitag, 17. April 2026",
+  "date_key": "20260417",
+  "changes": [
+   "Std 3 (09:40): für Sk Gor",
+   "Std 4 (10:25): für Sk Gor"
+  ],
+  "zeitstempel": "16.04.2026, 09:59"
  }
 ]

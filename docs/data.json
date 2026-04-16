@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "16.04.2026, 07:07 Uhr",
- "last_changed": "2026-04-16T07:25:00",
+ "generiert": "16.04.2026, 08:07 Uhr",
+ "last_changed": "2026-04-16T09:59:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10041,7 +10041,7 @@
     },
     "20260416": {
      "datum": "Donnerstag, 16. April 2026",
-     "zeitstempel": "16.04.2026, 07:19",
+     "zeitstempel": "16.04.2026, 09:59",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -10634,19 +10634,19 @@
         },
         {
          "stunde": "5",
-         "fach": "GE2",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12E selbst. (v), Selbststudium, bitte die Stühle in der Aula hochstellen",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "GE2",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12E selbst. (v), Selbststudium, bitte die Stühle in der Aula hochstellen",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12177,7 +12177,7 @@
     },
     "20260417": {
      "datum": "Freitag, 17. April 2026",
-     "zeitstempel": "15.04.2026, 14:45",
+     "zeitstempel": "16.04.2026, 09:59",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -12601,51 +12601,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "sk2",
-         "klasse": "12A-12E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 12A-12E selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "sk2",
-         "klasse": "12A-12E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 12A-12E selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Sk",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 7D Kar (für Sk)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Sk",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 7D Kar (für Sk)",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "GE2",
-         "klasse": "12A-12E",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "GE2",
-         "klasse": "12A-12E",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12E selbst. (v), Selbststudium",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -12653,7 +12653,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Abwesenheiten der Oberstufe einpflegen",
-         "info": ""
+         "info": "entfällt, V: See"
         }
        ]
       },
@@ -13028,6 +13028,22 @@
          "raum": "106",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Mu",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für Sk Gor",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Mu",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für Sk Gor",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13867,7 +13883,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Abwesenheiten der Oberstufe einpflegen",
+         "info": "für Gor"
+        }
+       ]
       },
       "Sei": {
        "entries": [],
