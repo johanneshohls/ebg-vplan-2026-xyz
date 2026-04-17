@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "17.04.2026, 07:07 Uhr",
- "last_changed": "2026-04-17T07:35:00",
+ "generiert": "17.04.2026, 08:07 Uhr",
+ "last_changed": "2026-04-17T09:23:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -22487,7 +22487,7 @@
     },
     "20260424": {
      "datum": "Freitag, 24. April 2026",
-     "zeitstempel": "16.04.2026, 11:00",
+     "zeitstempel": "17.04.2026, 09:23",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23376,6 +23376,22 @@
          "klasse": "",
          "raum": "",
          "info": "mu1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Nachschriften",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Nachschriften",
          "geaendert": true
         }
        ],
