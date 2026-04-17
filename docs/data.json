@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "16.04.2026, 20:07 Uhr",
- "last_changed": "2026-04-16T13:37:00",
+ "generiert": "17.04.2026, 05:07 Uhr",
+ "last_changed": "2026-04-17T05:31:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12177,7 +12177,7 @@
     },
     "20260417": {
      "datum": "Freitag, 17. April 2026",
-     "zeitstempel": "16.04.2026, 11:20",
+     "zeitstempel": "17.04.2026, 05:31",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -12458,24 +12458,24 @@
          "stunde": "1",
          "fach": "Span",
          "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Span Fel, Teilungsgruppe Köhler zu Feldhusen, Aula",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Span",
          "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Span Fel, Teilungsgruppe Köhler zu Feldhusen, Aula",
+         "geaendert": true
         },
         {
          "stunde": "3",
          "fach": "Span",
          "klasse": "8B",
          "raum": "006 107",
-         "info": "für Span Köh",
+         "info": "für Span Köh, Teilungsgruppe Köhler zu Hohls, Mathe",
          "geaendert": true
         },
         {
@@ -12483,7 +12483,7 @@
          "fach": "Span",
          "klasse": "8B",
          "raum": "006 107",
-         "info": "für Span Köh",
+         "info": "für Span Köh, Teilungsgruppe Köhler zu Hohls, Mathe",
          "geaendert": true
         },
         {
@@ -12799,6 +12799,22 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "107",
+         "info": "Mathe mit Span-Teilungsgruppe Köhler",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "107",
+         "info": "Mathe mit Span-Teilungsgruppe Köhler",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Ph",
          "klasse": "8D",
@@ -12875,17 +12891,17 @@
          "stunde": "1",
          "fach": "dsp1",
          "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "Co2",
+         "info": "für DSp Hön, Raumtausch wegen dringender Vertretung und Klassenzusammenlegung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "dsp1",
          "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "Co2",
+         "info": "für DSp Hön, Raumtausch wegen dringender Vertretung und Klassenzusammenlegung",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -13122,16 +13138,16 @@
          "stunde": "1",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007 204",
-         "info": "für Span OLop",
+         "raum": "007 Aula",
+         "info": "für Span OLop, Teilungsgruppe Köhler zu Feldhusen, Aula",
          "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007 204",
-         "info": "für Span OLop",
+         "raum": "007 Aula",
+         "info": "für Span OLop, Teilungsgruppe Köhler zu Feldhusen, Aula",
          "geaendert": true
         },
         {
@@ -13139,7 +13155,7 @@
          "fach": "Span",
          "klasse": "8B",
          "raum": "006 107",
-         "info": "für Span Köh",
+         "info": "für Span Köh, Teilungsgruppe Köhler zu Hohls, Mathe",
          "geaendert": true
         },
         {
@@ -13147,24 +13163,24 @@
          "fach": "Span",
          "klasse": "8B",
          "raum": "006 107",
-         "info": "für Span Köh",
+         "info": "für Span Köh, Teilungsgruppe Köhler zu Hohls, Mathe",
          "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7D Ost (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7D Ost (für Span)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13393,16 +13409,16 @@
          "stunde": "1",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007 204",
-         "info": "für Span OLop",
+         "raum": "007 Aula",
+         "info": "für Span OLop, Teilungsgruppe Köhler zu Feldhusen, Aula",
          "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007 204",
-         "info": "für Span OLop",
+         "raum": "007 Aula",
+         "info": "für Span OLop, Teilungsgruppe Köhler zu Feldhusen, Aula",
          "geaendert": true
         },
         {
@@ -13473,6 +13489,22 @@
          "raum": "001",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für Span Köh",
+         "geaendert": true
         },
         {
          "stunde": "9",

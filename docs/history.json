@@ -1603,5 +1603,77 @@
    "Std 2 (08:25): Ph 10B gehalten am Mo (20.04.) St.8"
   ],
   "zeitstempel": "16.04.2026, 13:37"
+ },
+ {
+  "timestamp": "2026-04-17T05:07:14.551257",
+  "lehrer": "Fel",
+  "datum": "Freitag, 17. April 2026",
+  "date_key": "20260417",
+  "changes": [
+   "Std 1 (07:40): für Span Fel, Teilungsgruppe Köhler zu Feldhusen, Aula",
+   "Std 2 (08:25): für Span Fel, Teilungsgruppe Köhler zu Feldhusen, Aula",
+   "Std 3 (09:40): für Span Köh, Teilungsgruppe Köhler zu Hohls, Mathe",
+   "Std 4 (10:25): für Span Köh, Teilungsgruppe Köhler zu Hohls, Mathe"
+  ],
+  "zeitstempel": "17.04.2026, 05:31"
+ },
+ {
+  "timestamp": "2026-04-17T05:07:14.551257",
+  "lehrer": "Hoh",
+  "datum": "Freitag, 17. April 2026",
+  "date_key": "20260417",
+  "changes": [
+   "Std 3 (09:40): Mathe mit Span-Teilungsgruppe Köhler",
+   "Std 4 (10:25): Mathe mit Span-Teilungsgruppe Köhler"
+  ],
+  "zeitstempel": "17.04.2026, 05:31"
+ },
+ {
+  "timestamp": "2026-04-17T05:07:14.551257",
+  "lehrer": "Hön",
+  "datum": "Freitag, 17. April 2026",
+  "date_key": "20260417",
+  "changes": [
+   "Std 1 (07:40): für DSp Hön, Raumtausch wegen dringender Vertretung und Klassenzusammenlegung",
+   "Std 2 (08:25): für DSp Hön, Raumtausch wegen dringender Vertretung und Klassenzusammenlegung"
+  ],
+  "zeitstempel": "17.04.2026, 05:31"
+ },
+ {
+  "timestamp": "2026-04-17T05:07:14.551257",
+  "lehrer": "Köh",
+  "datum": "Freitag, 17. April 2026",
+  "date_key": "20260417",
+  "changes": [
+   "Std 1 (07:40): für Span OLop, Teilungsgruppe Köhler zu Feldhusen, Aula",
+   "Std 2 (08:25): für Span OLop, Teilungsgruppe Köhler zu Feldhusen, Aula",
+   "Std 3 (09:40): für Span Köh, Teilungsgruppe Köhler zu Hohls, Mathe",
+   "Std 4 (10:25): für Span Köh, Teilungsgruppe Köhler zu Hohls, Mathe",
+   "Std 5 (11:40): De 7D Ost (für Span)",
+   "Std 6 (12:25): De 7D Ost (für Span)"
+  ],
+  "zeitstempel": "17.04.2026, 05:31"
+ },
+ {
+  "timestamp": "2026-04-17T05:07:14.551257",
+  "lehrer": "OLop",
+  "datum": "Freitag, 17. April 2026",
+  "date_key": "20260417",
+  "changes": [
+   "Std 1 (07:40): für Span OLop, Teilungsgruppe Köhler zu Feldhusen, Aula",
+   "Std 2 (08:25): für Span OLop, Teilungsgruppe Köhler zu Feldhusen, Aula"
+  ],
+  "zeitstempel": "17.04.2026, 05:31"
+ },
+ {
+  "timestamp": "2026-04-17T05:07:14.551257",
+  "lehrer": "Ost",
+  "datum": "Freitag, 17. April 2026",
+  "date_key": "20260417",
+  "changes": [
+   "Std 5 (11:40): für Span Köh",
+   "Std 6 (12:25): für Span Köh"
+  ],
+  "zeitstempel": "17.04.2026, 05:31"
  }
 ]
