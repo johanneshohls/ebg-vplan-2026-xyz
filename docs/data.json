@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "17.04.2026, 05:07 Uhr",
- "last_changed": "2026-04-17T05:31:00",
+ "generiert": "17.04.2026, 06:07 Uhr",
+ "last_changed": "2026-04-17T07:35:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12177,7 +12177,7 @@
     },
     "20260417": {
      "datum": "Freitag, 17. April 2026",
-     "zeitstempel": "17.04.2026, 05:31",
+     "zeitstempel": "17.04.2026, 07:35",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -12458,17 +12458,17 @@
          "stunde": "1",
          "fach": "Span",
          "klasse": "9C",
-         "raum": "Aula",
-         "info": "für Span Fel, Teilungsgruppe Köhler zu Feldhusen, Aula",
-         "geaendert": true
+         "raum": "004",
+         "info": "für Span Fel",
+         "geaendert": false
         },
         {
          "stunde": "2",
          "fach": "Span",
          "klasse": "9C",
-         "raum": "Aula",
-         "info": "für Span Fel, Teilungsgruppe Köhler zu Feldhusen, Aula",
-         "geaendert": true
+         "raum": "004",
+         "info": "für Span Fel",
+         "geaendert": false
         },
         {
          "stunde": "3",
@@ -12802,7 +12802,7 @@
          "stunde": "3",
          "fach": "Ma",
          "klasse": "",
-         "raum": "107",
+         "raum": "207",
          "info": "Mathe mit Span-Teilungsgruppe Köhler",
          "geaendert": true
         },
@@ -12810,7 +12810,7 @@
          "stunde": "4",
          "fach": "Ma",
          "klasse": "",
-         "raum": "107",
+         "raum": "207",
          "info": "Mathe mit Span-Teilungsgruppe Köhler",
          "geaendert": true
         },
@@ -12963,7 +12963,7 @@
          "stunde": "1",
          "fach": "En",
          "klasse": "10C",
-         "raum": "105 Co3",
+         "raum": "105 107",
          "info": "für En Isb, Hospitation",
          "geaendert": true
         },
@@ -12971,7 +12971,7 @@
          "stunde": "2",
          "fach": "En",
          "klasse": "10C",
-         "raum": "105 Co3",
+         "raum": "105 107",
          "info": "für En Isb",
          "geaendert": true
         }
@@ -13138,17 +13138,17 @@
          "stunde": "1",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007 Aula",
-         "info": "für Span OLop, Teilungsgruppe Köhler zu Feldhusen, Aula",
-         "geaendert": true
+         "raum": "007",
+         "info": "für Span OLop, gesamte 9b zu Frau Lopez",
+         "geaendert": false
         },
         {
          "stunde": "2",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007 Aula",
-         "info": "für Span OLop, Teilungsgruppe Köhler zu Feldhusen, Aula",
-         "geaendert": true
+         "raum": "007",
+         "info": "für Span OLop, gesamte 9b zu Frau Lopez",
+         "geaendert": false
         },
         {
          "stunde": "3",
@@ -13304,7 +13304,7 @@
          "stunde": "1",
          "fach": "En",
          "klasse": "10C",
-         "raum": "105 Co3",
+         "raum": "105 107",
          "info": "für En Isb, Hospitation",
          "geaendert": true
         },
@@ -13312,7 +13312,7 @@
          "stunde": "2",
          "fach": "En",
          "klasse": "10C",
-         "raum": "105 Co3",
+         "raum": "105 107",
          "info": "für En Isb",
          "geaendert": true
         },
@@ -13409,17 +13409,17 @@
          "stunde": "1",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007 Aula",
-         "info": "für Span OLop, Teilungsgruppe Köhler zu Feldhusen, Aula",
-         "geaendert": true
+         "raum": "007",
+         "info": "für Span OLop, gesamte 9b zu Frau Lopez",
+         "geaendert": false
         },
         {
          "stunde": "2",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007 Aula",
-         "info": "für Span OLop, Teilungsgruppe Köhler zu Feldhusen, Aula",
-         "geaendert": true
+         "raum": "007",
+         "info": "für Span OLop, gesamte 9b zu Frau Lopez",
+         "geaendert": false
         },
         {
          "stunde": "3",
