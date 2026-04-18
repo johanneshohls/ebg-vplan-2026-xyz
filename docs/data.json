@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "18.04.2026, 17:07 Uhr",
- "last_changed": "2026-04-17T09:23:00",
+ "generiert": "18.04.2026, 18:07 Uhr",
+ "last_changed": "2026-04-18T19:50:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14244,7 +14244,7 @@
    "tage": {
     "20260420": {
      "datum": "Montag, 20. April 2026",
-     "zeitstempel": "16.04.2026, 13:37",
+     "zeitstempel": "18.04.2026, 19:50",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -15366,22 +15366,6 @@
          "raum": "Co2",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "Ph",
-         "klasse": "10B",
-         "raum": "104",
-         "info": "Ph 10B statt Di (21.04.) St.1",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Ph",
-         "klasse": "10B",
-         "raum": "104",
-         "info": "Ph 10B statt Di (21.04.) St.2",
-         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -15563,35 +15547,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "Ge",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7A Stu (für Ge)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ge",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7A Stu (für Ge)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "En",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "En",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9B fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15893,6 +15877,22 @@
          "raum": "201",
          "info": "PVU",
          "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Bio",
+         "klasse": "10B",
+         "raum": "102",
+         "info": "statt Do (23.04.) St.3 (Ge Pri)",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Bio",
+         "klasse": "10B",
+         "raum": "102",
+         "info": "statt Do (23.04.) St.4 (Ge Pri)",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -15912,19 +15912,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Inf",
-         "klasse": "7E",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 7E verlegt nach Mi (22.04.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Inf",
-         "klasse": "7E",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 7E verlegt nach Mi (22.04.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -15972,35 +15972,67 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "7E",
+         "raum": "103",
+         "info": "statt Mi (22.04.) St.5 (Ge Pri); B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "7E",
+         "raum": "103",
+         "info": "statt Mi (22.04.) St.6 (Ge Pri); B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für Ge Pri",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für Ge Pri",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16239,7 +16271,7 @@
     },
     "20260421": {
      "datum": "Dienstag, 21. April 2026",
-     "zeitstempel": "16.04.2026, 13:37",
+     "zeitstempel": "18.04.2026, 19:50",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17127,17 +17159,17 @@
          "stunde": "5",
          "fach": "ILZ",
          "klasse": "10C",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "für ILZ Hön",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "ILZ",
          "klasse": "10C",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "für ILZ Hön",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -17468,19 +17500,19 @@
         },
         {
          "stunde": "5",
-         "fach": "AWT",
-         "klasse": "10B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 10B verlegt nach Do (23.04.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "AWT",
-         "klasse": "10B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 10B verlegt nach Do (23.04.) St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -17499,7 +17531,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ph 10B gehalten am Mo (20.04.) St.7",
+         "info": "Ph 10B verlegt nach Do (23.04.) St.5",
          "geaendert": true
         },
         {
@@ -17507,7 +17539,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ph 10B gehalten am Mo (20.04.) St.8",
+         "info": "Ph 10B verlegt nach Do (23.04.) St.6",
          "geaendert": true
         }
        ],
@@ -17716,19 +17748,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "EN1",
-         "klasse": "12A-12E",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12E selbst. (v)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "EN1",
-         "klasse": "12A-12E",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12E selbst. (v)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -18157,6 +18189,22 @@
          "raum": "K09",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Inf",
+         "klasse": "10B",
+         "raum": "K10",
+         "info": "Inf 10B statt Do (23.04.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Inf",
+         "klasse": "10B",
+         "raum": "K10",
+         "info": "Inf 10B statt Do (23.04.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -18344,7 +18392,7 @@
     },
     "20260422": {
      "datum": "Mittwoch, 22. April 2026",
-     "zeitstempel": "16.04.2026, 11:00",
+     "zeitstempel": "18.04.2026, 19:50",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -18624,6 +18672,38 @@
       },
       "Bri": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Wir machen unser Ding.",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Wir machen unser Ding.",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Wir machen unser Ding.",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Wir machen unser Ding.",
+         "geaendert": true
+        },
         {
          "stunde": "7",
          "fach": "ma1",
@@ -19880,19 +19960,19 @@
         },
         {
          "stunde": "3",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Bio 9B verlegt nach Fr (24.04.) St.5, Verlegung aufgrund Tutorenstunde 12",
-         "geaendert": true
+         "fach": "Bio",
+         "klasse": "9B",
+         "raum": "204",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "4",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Bio 9B verlegt nach Fr (24.04.) St.6, Verlegung aufgrund Tutorenstunde 12",
-         "geaendert": true
+         "fach": "Bio",
+         "klasse": "9B",
+         "raum": "204",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "5",
@@ -19916,52 +19996,36 @@
       "Pri": {
        "entries": [
         {
-         "stunde": "3",
-         "fach": "En",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "En 9B statt Fr (24.04.) St.5",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "En",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "En 9B statt Fr (24.04.) St.6",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
-         "fach": "Ge",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7E gehalten am Mo (20.04.) St.1 (Stu)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ge",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7E gehalten am Mo (20.04.) St.2 (Stu)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Ge",
-         "klasse": "10A",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10A verlegt nach Fr (24.04.) St.3 (See)",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ge",
-         "klasse": "10A",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10A verlegt nach Fr (24.04.) St.4 (See)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -19988,17 +20052,17 @@
          "stunde": "5",
          "fach": "Span",
          "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Span Puk",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Span",
          "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Span Puk",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20124,19 +20188,35 @@
         },
         {
          "stunde": "5",
-         "fach": "dsp2",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "DSp 12A-12E selbst. (v)",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "",
+         "raum": "Co1",
+         "info": "PVU 12; DSp 12A-12E selbst. (v)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "dsp2",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "DSp 12A-12E selbst. (v)",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "",
+         "raum": "Co1",
+         "info": "PVU 12; DSp 12A-12E selbst. (v)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20218,6 +20298,38 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Wir machen unser Ding.",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Wir machen unser Ding.",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Wir machen unser Ding.",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Wir machen unser Ding.",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "---",
          "klasse": "",
@@ -20273,6 +20385,22 @@
          "raum": "K10",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Inf",
+         "klasse": "7E",
+         "raum": "K09",
+         "info": "Inf 7E statt Mo (20.04.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Inf",
+         "klasse": "7E",
+         "raum": "K09",
+         "info": "Inf 7E statt Mo (20.04.) St.2",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -20468,7 +20596,7 @@
     },
     "20260423": {
      "datum": "Donnerstag, 23. April 2026",
-     "zeitstempel": "16.04.2026, 11:00",
+     "zeitstempel": "18.04.2026, 19:50",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -20631,7 +20759,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ch 10A selbst. (v), Selbststudium, Fr. Bobert erteilt Aufgaben, kann zu Hause erledigt werden",
+         "info": "Ch 10A gehalten am Mi (22.04.) St.7 (), Selbststudium, Fr. Bobert erteilt Aufgaben, kann zu Hause erledigt werden",
          "geaendert": true
         },
         {
@@ -20639,7 +20767,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ch 10A selbst. (v), Selbststudium, Fr. Bobert erteilt Aufgaben, kann zu Hause erledigt werden",
+         "info": "Ch 10A gehalten am Mi (22.04.) St.8 (), Selbststudium, Fr. Bobert erteilt Aufgaben, kann zu Hause erledigt werden",
          "geaendert": true
         }
        ],
@@ -21011,19 +21139,35 @@
        "entries": [
         {
          "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 8A verlegt nach St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
          "fach": "Fr",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "klasse": "10A",
+         "raum": "106",
+         "info": "Fr 10A statt Fr (24.04.) St.3; Fr 8A verlegt nach St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 8A verlegt nach St.6",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Fr",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "klasse": "10A",
+         "raum": "106",
+         "info": "Fr 10A statt Fr (24.04.) St.4; Fr 8A verlegt nach St.6",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -21040,6 +21184,22 @@
          "raum": "101",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Fr",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "Fr 8A verlegt von St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Fr",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "Fr 8A verlegt von St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -21439,19 +21599,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10A verlegt nach St.7",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "De",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10A verlegt nach St.8",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -21484,6 +21644,22 @@
          "raum": "002",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "De",
+         "klasse": "10A",
+         "raum": "Co2",
+         "info": "De 10A verlegt von St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "De",
+         "klasse": "10A",
+         "raum": "Co2",
+         "info": "De 10A verlegt von St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -21622,19 +21798,35 @@
         },
         {
          "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 8A verlegt nach Fr (24.04.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
          "fach": "AWT",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "klasse": "10B",
+         "raum": "004",
+         "info": "AWT 10B statt Di (21.04.) St.5; AWT 8A verlegt nach Fr (24.04.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 8A verlegt nach Fr (24.04.) St.2",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "AWT",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "klasse": "10B",
+         "raum": "004",
+         "info": "AWT 10B statt Di (21.04.) St.6; AWT 8A verlegt nach Fr (24.04.) St.2",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -21701,6 +21893,22 @@
          "raum": "002",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ph",
+         "klasse": "10B",
+         "raum": "102",
+         "info": "Ph 10B statt Di (21.04.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ph",
+         "klasse": "10B",
+         "raum": "102",
+         "info": "Ph 10B statt Di (21.04.) St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -21711,6 +21919,22 @@
       },
       "Mar": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "En",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "En 8A statt Fr (24.04.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "En",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "En 8A statt Fr (24.04.) St.4",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "En",
@@ -21839,6 +22063,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "De 8A verlegt von St.5; De 9B gehalten am Mi (22.04.) St.1, Verlegung aufgrund einer Hospitation",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -21847,20 +22079,28 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
+         "stunde": "4",
          "fach": "De",
          "klasse": "8A",
          "raum": "001",
-         "info": "",
-         "geaendert": false
+         "info": "De 8A verlegt von St.6; De 9B gehalten am Mi (22.04.) St.2, Verlegung aufgrund einer Hospitation",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8A verlegt nach St.3",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "De",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8A verlegt nach St.4",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -21898,19 +22138,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Ge",
-         "klasse": "10B",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10B gehalten am Mo (20.04.) St.7 (See)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ge",
-         "klasse": "10B",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10B gehalten am Mo (20.04.) St.8 (See)",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -22248,19 +22488,19 @@
         },
         {
          "stunde": "5",
-         "fach": "Inf",
-         "klasse": "10B",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10B gehalten am Di (21.04.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Inf",
-         "klasse": "10B",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10B gehalten am Di (21.04.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -22487,7 +22727,7 @@
     },
     "20260424": {
      "datum": "Freitag, 24. April 2026",
-     "zeitstempel": "17.04.2026, 09:23",
+     "zeitstempel": "18.04.2026, 19:50",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23027,19 +23267,19 @@
         },
         {
          "stunde": "3",
-         "fach": "Fr",
-         "klasse": "10A",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 10A gehalten am Do (23.04.) St.1",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Fr",
-         "klasse": "10A",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 10A gehalten am Do (23.04.) St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23149,19 +23389,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ma",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8A verlegt nach St.3",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ma",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8A verlegt nach St.4",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -23172,11 +23412,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "Ma 8A verlegt von St.1; Ph 7D gehalten am Do (23.04.) St.1",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ph 7D gehalten am Do (23.04.) St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "Ma 8A verlegt von St.2; Ph 7D gehalten am Do (23.04.) St.2",
          "geaendert": true
         },
         {
@@ -23509,11 +23765,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "AWT",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "AWT 8A statt Do (23.04.) St.3; Sk 10C gehalten am Mi (22.04.) St.5",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Sk 10C gehalten am Mi (22.04.) St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "AWT",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "AWT 8A statt Do (23.04.) St.4; Sk 10C gehalten am Mi (22.04.) St.6",
          "geaendert": true
         },
         {
@@ -23651,19 +23923,19 @@
         },
         {
          "stunde": "3",
-         "fach": "En",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8A gehalten am Do (23.04.) St.1",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "En",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8A gehalten am Do (23.04.) St.2",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -23831,22 +24103,6 @@
          "raum": "006",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "Bio",
-         "klasse": "9B",
-         "raum": "204",
-         "info": "Bio 9B statt Mi (22.04.) St.3, Verlegung aufgrund Tutorenstunde 12",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Bio",
-         "klasse": "9B",
-         "raum": "204",
-         "info": "Bio 9B statt Mi (22.04.) St.4, Verlegung aufgrund Tutorenstunde 12",
-         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23858,15 +24114,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 9B gehalten am Mi (22.04.) St.3",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "ILZ",
-         "klasse": "",
-         "raum": "",
-         "info": "Tutorenstunde 12; En 9B gehalten am Mi (22.04.) St.3 (Pri)",
+         "info": "De 9B Stu (für En)",
          "geaendert": true
         },
         {
@@ -23874,48 +24122,40 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 9B gehalten am Mi (22.04.) St.4",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "ILZ",
-         "klasse": "",
-         "raum": "",
-         "info": "Tutorenstunde 12; En 9B gehalten am Mi (22.04.) St.4 (Pri)",
+         "info": "De 9B Stu (für En)",
          "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "GS15",
-         "klasse": "7A-7E,8A-8D",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "GS15 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS15",
-         "klasse": "7A-7E,8A-8D",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "GS15 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "9",
-         "fach": "GS15",
-         "klasse": "7A-7E,8A-8D",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "GS15 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "10",
-         "fach": "GS15",
-         "klasse": "7A-7E,8A-8D",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "GS15 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -24195,6 +24435,22 @@
       "See": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "10A",
+         "raum": "205",
+         "info": "statt Mi (22.04.) St.7 (Ge Pri)",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Bio",
+         "klasse": "10A",
+         "raum": "205",
+         "info": "statt Mi (22.04.) St.8 (Ge Pri)",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -24297,19 +24553,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "B",
-         "klasse": "VK2",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK2 fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "B",
-         "klasse": "VK2",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK2 fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "für En Pri",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "für En Pri",
+         "geaendert": true
         }
        ],
        "aufsichten": []

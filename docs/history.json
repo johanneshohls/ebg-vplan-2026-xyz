@@ -1186,5 +1186,441 @@
    "Std 2 (08:25): für Span OLop, gesamte 9b zu Frau Lopez"
   ],
   "zeitstempel": "17.04.2026, 07:35"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Leu",
+  "datum": "Montag, 20. April 2026",
+  "date_key": "20260420",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Pri",
+  "datum": "Montag, 20. April 2026",
+  "date_key": "20260420",
+  "changes": [
+   "Std 5 (11:40): De 7A Stu (für Ge)",
+   "Std 6 (12:25): De 7A Stu (für Ge)",
+   "Std 7 (13:40): En 9B fällt aus",
+   "Std 8 (14:25): En 9B fällt aus"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "See",
+  "datum": "Montag, 20. April 2026",
+  "date_key": "20260420",
+  "changes": [
+   "Std 3 (09:40): PVU",
+   "Std 4 (10:25): PVU",
+   "Std 5 (11:40): PVU",
+   "Std 6 (12:25): PVU",
+   "Std 7 (13:40): statt Do (23.04.) St.3 (Ge Pri)",
+   "Std 8 (14:25): statt Do (23.04.) St.4 (Ge Pri)"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Sta",
+  "datum": "Montag, 20. April 2026",
+  "date_key": "20260420",
+  "changes": [
+   "Std 1 (07:40): Inf 7E verlegt nach Mi (22.04.) St.5",
+   "Std 2 (08:25): Inf 7E verlegt nach Mi (22.04.) St.6"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Stu",
+  "datum": "Montag, 20. April 2026",
+  "date_key": "20260420",
+  "changes": [
+   "Std 1 (07:40): B VK fällt aus",
+   "Std 1 (07:40): statt Mi (22.04.) St.5 (Ge Pri); B VK fällt aus",
+   "Std 2 (08:25): B VK fällt aus",
+   "Std 2 (08:25): statt Mi (22.04.) St.6 (Ge Pri); B VK fällt aus",
+   "Std 3 (09:40): B VK fällt aus",
+   "Std 4 (10:25): B VK fällt aus",
+   "Std 5 (11:40): für Ge Pri",
+   "Std 6 (12:25): für Ge Pri"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Hön",
+  "datum": "Dienstag, 21. April 2026",
+  "date_key": "20260421",
+  "changes": [
+   "Std 3 (09:40): De 9D statt Mo (20.04.) St.5",
+   "Std 4 (10:25): De 9D statt Mo (20.04.) St.6",
+   "Std 5 (11:40): für ILZ Hön",
+   "Std 6 (12:25): für ILZ Hön"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Lan",
+  "datum": "Dienstag, 21. April 2026",
+  "date_key": "20260421",
+  "changes": [
+   "Std 5 (11:40): AWT 10B verlegt nach Do (23.04.) St.3",
+   "Std 6 (12:25): AWT 10B verlegt nach Do (23.04.) St.4"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Leu",
+  "datum": "Dienstag, 21. April 2026",
+  "date_key": "20260421",
+  "changes": [
+   "Std 1 (07:40): Ph 10B verlegt nach Do (23.04.) St.5",
+   "Std 2 (08:25): Ph 10B verlegt nach Do (23.04.) St.6"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Pri",
+  "datum": "Dienstag, 21. April 2026",
+  "date_key": "20260421",
+  "changes": [
+   "Std 3 (09:40): En 12A-12E selbst. (v)",
+   "Std 4 (10:25): En 12A-12E selbst. (v)"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Sta",
+  "datum": "Dienstag, 21. April 2026",
+  "date_key": "20260421",
+  "changes": [
+   "Std 5 (11:40): Inf 10B statt Do (23.04.) St.5",
+   "Std 6 (12:25): Inf 10B statt Do (23.04.) St.6"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Bri",
+  "datum": "Mittwoch, 22. April 2026",
+  "date_key": "20260422",
+  "changes": [
+   "Std 3 (09:40): Wir machen unser Ding.",
+   "Std 4 (10:25): Wir machen unser Ding.",
+   "Std 5 (11:40): Wir machen unser Ding.",
+   "Std 6 (12:25): Wir machen unser Ding."
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Ost",
+  "datum": "Mittwoch, 22. April 2026",
+  "date_key": "20260422",
+  "changes": [
+   "Std 1 (07:40): De 9B statt Do (23.04.) St.3, Verlegung aufgrund einer Hospitation",
+   "Std 2 (08:25): De 9B statt Do (23.04.) St.4, Verlegung aufgrund einer Hospitation"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Pri",
+  "datum": "Mittwoch, 22. April 2026",
+  "date_key": "20260422",
+  "changes": [
+   "Std 5 (11:40): De 7E gehalten am Mo (20.04.) St.1 (Stu)",
+   "Std 6 (12:25): De 7E gehalten am Mo (20.04.) St.2 (Stu)",
+   "Std 7 (13:40): Bio 10A verlegt nach Fr (24.04.) St.3 (See)",
+   "Std 8 (14:25): Bio 10A verlegt nach Fr (24.04.) St.4 (See)"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Puk",
+  "datum": "Mittwoch, 22. April 2026",
+  "date_key": "20260422",
+  "changes": [
+   "Std 5 (11:40): für Span Puk",
+   "Std 6 (12:25): für Span Puk"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Schil",
+  "datum": "Mittwoch, 22. April 2026",
+  "date_key": "20260422",
+  "changes": [
+   "Std 5 (11:40): DSp 12A-12E selbst. (v)",
+   "Std 5 (11:40): PVU 12; DSp 12A-12E selbst. (v)",
+   "Std 6 (12:25): DSp 12A-12E selbst. (v)",
+   "Std 6 (12:25): PVU 12; DSp 12A-12E selbst. (v)"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "See",
+  "datum": "Mittwoch, 22. April 2026",
+  "date_key": "20260422",
+  "changes": [
+   "Std 1 (07:40): Bio 10D statt Fr (24.04.) St.5",
+   "Std 2 (08:25): Bio 10D statt Fr (24.04.) St.6",
+   "Std 3 (09:40): Wir machen unser Ding.",
+   "Std 4 (10:25): Wir machen unser Ding.",
+   "Std 5 (11:40): Wir machen unser Ding.",
+   "Std 6 (12:25): Wir machen unser Ding.",
+   "Std 7 (13:40): Bio 10C verlegt nach Do (23.04.) St.1",
+   "Std 8 (14:25): Bio 10C verlegt nach Do (23.04.) St.2"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Sta",
+  "datum": "Mittwoch, 22. April 2026",
+  "date_key": "20260422",
+  "changes": [
+   "Std 5 (11:40): Inf 7E statt Mo (20.04.) St.1",
+   "Std 6 (12:25): Inf 7E statt Mo (20.04.) St.2"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Bob",
+  "datum": "Donnerstag, 23. April 2026",
+  "date_key": "20260423",
+  "changes": [
+   "Std 1 (07:40): Ch 7D gehalten am Mi (22.04.) St.3",
+   "Std 2 (08:25): Ch 7D gehalten am Mi (22.04.) St.4",
+   "Std 3 (09:40): Ph 10C gehalten am Mo (20.04.) St.7",
+   "Std 4 (10:25): Ph 10C gehalten am Mo (20.04.) St.8",
+   "Std 7 (13:40): Ch 10A gehalten am Mi (22.04.) St.7 (), Selbststudium, Fr. Bobert erteilt Aufgaben, kann zu Hause erledigt werden",
+   "Std 8 (14:25): Ch 10A gehalten am Mi (22.04.) St.8 (), Selbststudium, Fr. Bobert erteilt Aufgaben, kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Hei",
+  "datum": "Donnerstag, 23. April 2026",
+  "date_key": "20260423",
+  "changes": [
+   "Std 1 (07:40): Fr 8A verlegt nach St.5",
+   "Std 1 (07:40): Fr 10A statt Fr (24.04.) St.3; Fr 8A verlegt nach St.5",
+   "Std 2 (08:25): Fr 8A verlegt nach St.6",
+   "Std 2 (08:25): Fr 10A statt Fr (24.04.) St.4; Fr 8A verlegt nach St.6",
+   "Std 5 (11:40): Fr 8A verlegt von St.1",
+   "Std 6 (12:25): Fr 8A verlegt von St.2"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Jur",
+  "datum": "Donnerstag, 23. April 2026",
+  "date_key": "20260423",
+  "changes": [
+   "Std 1 (07:40): De 10A verlegt nach St.7",
+   "Std 2 (08:25): De 10A verlegt nach St.8",
+   "Std 7 (13:40): De 10A verlegt von St.1",
+   "Std 8 (14:25): De 10A verlegt von St.2"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Lan",
+  "datum": "Donnerstag, 23. April 2026",
+  "date_key": "20260423",
+  "changes": [
+   "Std 3 (09:40): AWT 8A verlegt nach Fr (24.04.) St.1",
+   "Std 3 (09:40): AWT 10B statt Di (21.04.) St.5; AWT 8A verlegt nach Fr (24.04.) St.1",
+   "Std 4 (10:25): AWT 8A verlegt nach Fr (24.04.) St.2",
+   "Std 4 (10:25): AWT 10B statt Di (21.04.) St.6; AWT 8A verlegt nach Fr (24.04.) St.2"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Leu",
+  "datum": "Donnerstag, 23. April 2026",
+  "date_key": "20260423",
+  "changes": [
+   "Std 5 (11:40): Ph 10B statt Di (21.04.) St.1",
+   "Std 6 (12:25): Ph 10B statt Di (21.04.) St.2"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Mar",
+  "datum": "Donnerstag, 23. April 2026",
+  "date_key": "20260423",
+  "changes": [
+   "Std 1 (07:40): En 8A statt Fr (24.04.) St.3",
+   "Std 2 (08:25): En 8A statt Fr (24.04.) St.4",
+   "Std 5 (11:40): für En Isb",
+   "Std 6 (12:25): für En Isb"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Ost",
+  "datum": "Donnerstag, 23. April 2026",
+  "date_key": "20260423",
+  "changes": [
+   "Std 3 (09:40): De 9B gehalten am Mi (22.04.) St.1, Verlegung aufgrund einer Hospitation",
+   "Std 3 (09:40): De 8A verlegt von St.5; De 9B gehalten am Mi (22.04.) St.1, Verlegung aufgrund einer Hospitation",
+   "Std 4 (10:25): De 9B gehalten am Mi (22.04.) St.2, Verlegung aufgrund einer Hospitation",
+   "Std 4 (10:25): De 8A verlegt von St.6; De 9B gehalten am Mi (22.04.) St.2, Verlegung aufgrund einer Hospitation",
+   "Std 5 (11:40): De 8A verlegt nach St.3",
+   "Std 6 (12:25): De 8A verlegt nach St.4"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Pri",
+  "datum": "Donnerstag, 23. April 2026",
+  "date_key": "20260423",
+  "changes": [
+   "Std 3 (09:40): Bio 10B gehalten am Mo (20.04.) St.7 (See)",
+   "Std 4 (10:25): Bio 10B gehalten am Mo (20.04.) St.8 (See)",
+   "Std 5 (11:40): En 12A-12E selbst. (v), Selbststudium, Hr. Priesemuth erteilt Aufgaben",
+   "Std 6 (12:25): En 12A-12E selbst. (v), Selbststudium, Hr. Priesemuth erteilt Aufgaben"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Sta",
+  "datum": "Donnerstag, 23. April 2026",
+  "date_key": "20260423",
+  "changes": [
+   "Std 3 (09:40): Inf 10C statt Fr (24.04.) St.3",
+   "Std 4 (10:25): Inf 10C statt Fr (24.04.) St.4",
+   "Std 5 (11:40): Inf 10B gehalten am Di (21.04.) St.5",
+   "Std 6 (12:25): Inf 10B gehalten am Di (21.04.) St.6"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Hei",
+  "datum": "Freitag, 24. April 2026",
+  "date_key": "20260424",
+  "changes": [
+   "Std 3 (09:40): Fr 10A gehalten am Do (23.04.) St.1",
+   "Std 4 (10:25): Fr 10A gehalten am Do (23.04.) St.2"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Hoh",
+  "datum": "Freitag, 24. April 2026",
+  "date_key": "20260424",
+  "changes": [
+   "Std 1 (07:40): Ma 8A verlegt nach St.3",
+   "Std 2 (08:25): Ma 8A verlegt nach St.4",
+   "Std 3 (09:40): Ph 7D gehalten am Do (23.04.) St.1",
+   "Std 3 (09:40): Ma 8A verlegt von St.1; Ph 7D gehalten am Do (23.04.) St.1",
+   "Std 4 (10:25): Ph 7D gehalten am Do (23.04.) St.2",
+   "Std 4 (10:25): Ma 8A verlegt von St.2; Ph 7D gehalten am Do (23.04.) St.2"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Lan",
+  "datum": "Freitag, 24. April 2026",
+  "date_key": "20260424",
+  "changes": [
+   "Std 1 (07:40): Sk 10C gehalten am Mi (22.04.) St.5",
+   "Std 1 (07:40): AWT 8A statt Do (23.04.) St.3; Sk 10C gehalten am Mi (22.04.) St.5",
+   "Std 2 (08:25): Sk 10C gehalten am Mi (22.04.) St.6",
+   "Std 2 (08:25): AWT 8A statt Do (23.04.) St.4; Sk 10C gehalten am Mi (22.04.) St.6"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Mar",
+  "datum": "Freitag, 24. April 2026",
+  "date_key": "20260424",
+  "changes": [
+   "Std 3 (09:40): En 8A gehalten am Do (23.04.) St.1",
+   "Std 4 (10:25): En 8A gehalten am Do (23.04.) St.2"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Ost",
+  "datum": "Freitag, 24. April 2026",
+  "date_key": "20260424",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Pri",
+  "datum": "Freitag, 24. April 2026",
+  "date_key": "20260424",
+  "changes": [
+   "Std 5 (11:40): De 9B Stu (für En)",
+   "Std 6 (12:25): De 9B Stu (für En)",
+   "Std 7 (13:40): GS15 7A-7E,8A-8D fällt aus",
+   "Std 8 (14:25): GS15 7A-7E,8A-8D fällt aus",
+   "Std 9 (): GS15 7A-7E,8A-8D fällt aus",
+   "Std 10 (): GS15 7A-7E,8A-8D fällt aus"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "See",
+  "datum": "Freitag, 24. April 2026",
+  "date_key": "20260424",
+  "changes": [
+   "Std 3 (09:40): statt Mi (22.04.) St.7 (Ge Pri)",
+   "Std 4 (10:25): statt Mi (22.04.) St.8 (Ge Pri)",
+   "Std 5 (11:40): Bio 10D gehalten am Mi (22.04.) St.1",
+   "Std 5 (11:40): Tutorenstunde 12; Bio 10D gehalten am Mi (22.04.) St.1 (See)",
+   "Std 6 (12:25): Bio 10D gehalten am Mi (22.04.) St.2",
+   "Std 6 (12:25): Tutorenstunde 12; Bio 10D gehalten am Mi (22.04.) St.2 (See)"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-18T18:07:12.830537",
+  "lehrer": "Stu",
+  "datum": "Freitag, 24. April 2026",
+  "date_key": "20260424",
+  "changes": [
+   "Std 1 (07:40): B VK2 fällt aus",
+   "Std 2 (08:25): B VK2 fällt aus",
+   "Std 5 (11:40): für En Pri",
+   "Std 6 (12:25): für En Pri"
+  ],
+  "zeitstempel": "18.04.2026, 19:50"
  }
 ]
