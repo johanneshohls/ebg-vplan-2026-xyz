@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "19.04.2026, 10:07 Uhr",
- "last_changed": "2026-04-18T19:50:00",
+ "generiert": "19.04.2026, 11:07 Uhr",
+ "last_changed": "2026-04-19T12:50:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14244,7 +14244,7 @@
    "tage": {
     "20260420": {
      "datum": "Montag, 20. April 2026",
-     "zeitstempel": "18.04.2026, 19:50",
+     "zeitstempel": "19.04.2026, 12:50",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -14800,19 +14800,67 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "B",
-         "klasse": "VK2",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK2 fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "7C",
+         "raum": "101",
+         "info": "für Span Köh",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "B",
-         "klasse": "VK2",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK2 fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "7C",
+         "raum": "101",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "für Span Köh",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15227,51 +15275,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7C Hin (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7C Hin (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7B Hin (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7B Hin (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7E Hin (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7E Hin (für Span)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16271,7 +16319,7 @@
     },
     "20260421": {
      "datum": "Dienstag, 21. April 2026",
-     "zeitstempel": "18.04.2026, 19:50",
+     "zeitstempel": "19.04.2026, 12:50",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -16986,35 +17034,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "B",
-         "klasse": "VK2",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK2 fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "B",
-         "klasse": "VK2",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK2 fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "B",
-         "klasse": "VK2",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK2 fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "B",
-         "klasse": "VK2",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK2 fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -18392,7 +18440,7 @@
     },
     "20260422": {
      "datum": "Mittwoch, 22. April 2026",
-     "zeitstempel": "18.04.2026, 19:50",
+     "zeitstempel": "19.04.2026, 12:50",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -20596,7 +20644,7 @@
     },
     "20260423": {
      "datum": "Donnerstag, 23. April 2026",
-     "zeitstempel": "18.04.2026, 19:50",
+     "zeitstempel": "19.04.2026, 12:50",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -22727,7 +22775,7 @@
     },
     "20260424": {
      "datum": "Freitag, 24. April 2026",
-     "zeitstempel": "18.04.2026, 19:50",
+     "zeitstempel": "19.04.2026, 12:50",
      "lehrer": {
       "Bar": {
        "entries": [

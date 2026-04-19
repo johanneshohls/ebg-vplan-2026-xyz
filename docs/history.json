@@ -1622,5 +1622,50 @@
    "Std 6 (12:25): für En Pri"
   ],
   "zeitstempel": "18.04.2026, 19:50"
+ },
+ {
+  "timestamp": "2026-04-19T11:07:11.810912",
+  "lehrer": "Hin",
+  "datum": "Montag, 20. April 2026",
+  "date_key": "20260420",
+  "changes": [
+   "Std 1 (07:40): B VK2 fällt aus",
+   "Std 1 (07:40): für Span Köh",
+   "Std 2 (08:25): B VK2 fällt aus",
+   "Std 2 (08:25): für Span Köh",
+   "Std 3 (09:40): für Span Köh",
+   "Std 4 (10:25): für Span Köh",
+   "Std 5 (11:40): für Span Köh",
+   "Std 6 (12:25): für Span Köh"
+  ],
+  "zeitstempel": "19.04.2026, 12:50"
+ },
+ {
+  "timestamp": "2026-04-19T11:07:11.810912",
+  "lehrer": "Köh",
+  "datum": "Montag, 20. April 2026",
+  "date_key": "20260420",
+  "changes": [
+   "Std 1 (07:40): De 7C Hin (für Span)",
+   "Std 2 (08:25): De 7C Hin (für Span)",
+   "Std 3 (09:40): De 7B Hin (für Span)",
+   "Std 4 (10:25): De 7B Hin (für Span)",
+   "Std 5 (11:40): De 7E Hin (für Span)",
+   "Std 6 (12:25): De 7E Hin (für Span)"
+  ],
+  "zeitstempel": "19.04.2026, 12:50"
+ },
+ {
+  "timestamp": "2026-04-19T11:07:11.810912",
+  "lehrer": "Hin",
+  "datum": "Dienstag, 21. April 2026",
+  "date_key": "20260421",
+  "changes": [
+   "Std 1 (07:40): B VK2 fällt aus",
+   "Std 2 (08:25): B VK2 fällt aus",
+   "Std 3 (09:40): B VK2 fällt aus",
+   "Std 4 (10:25): B VK2 fällt aus"
+  ],
+  "zeitstempel": "19.04.2026, 12:50"
  }
 ]
