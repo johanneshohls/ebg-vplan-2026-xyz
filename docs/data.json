@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "19.04.2026, 13:07 Uhr",
- "last_changed": "2026-04-19T13:08:00",
+ "generiert": "19.04.2026, 14:07 Uhr",
+ "last_changed": "2026-04-19T15:09:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14244,7 +14244,7 @@
    "tage": {
     "20260420": {
      "datum": "Montag, 20. April 2026",
-     "zeitstempel": "19.04.2026, 12:50",
+     "zeitstempel": "19.04.2026, 15:09",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -14496,6 +14496,22 @@
       "Con": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "für AWT Gor",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "für AWT Gor",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "ma2",
          "klasse": "11A-11D",
@@ -14643,35 +14659,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "GE2",
-         "klasse": "11A-11D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "GE2",
-         "klasse": "11A-11D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "AWT",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9C Con (für AWT)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "AWT",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9C Con (für AWT)",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -14679,7 +14695,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Hof2 und grünes Klassenzimmer",
-         "info": ""
+         "info": "entfällt, V: Ost"
         }
        ]
       },
@@ -15589,7 +15605,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": "für Gor"
+        }
+       ]
       },
       "Pri": {
        "entries": [
@@ -16319,7 +16342,7 @@
     },
     "20260421": {
      "datum": "Dienstag, 21. April 2026",
-     "zeitstempel": "19.04.2026, 12:50",
+     "zeitstempel": "19.04.2026, 15:09",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -16338,6 +16361,14 @@
          "raum": "K10",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Aufsicht 15 min vor Schluss über Teilungsgruppe Span 8 in 103",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16891,51 +16922,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "sk1",
-         "klasse": "12A-12E",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 12A-12E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "sk1",
-         "klasse": "12A-12E",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 12A-12E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "GE2",
-         "klasse": "12A-12E",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "GE2",
-         "klasse": "12A-12E",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Sk",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 7D Lan",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Sk",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 7D Lan",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -17555,11 +17586,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Sk",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für Sk Gor",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "AWT 10B verlegt nach Do (23.04.) St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Sk",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für Sk Gor",
          "geaendert": true
         }
        ],
@@ -18440,7 +18487,7 @@
     },
     "20260422": {
      "datum": "Mittwoch, 22. April 2026",
-     "zeitstempel": "19.04.2026, 12:50",
+     "zeitstempel": "19.04.2026, 15:09",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -19060,51 +19107,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "GE2",
-         "klasse": "11A-11D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "GE2",
-         "klasse": "11A-11D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "AWT",
-         "klasse": "10C",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10C OLop (für AWT)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "AWT",
-         "klasse": "10C",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10C OLop (für AWT)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "sk2",
-         "klasse": "11A-11D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "sk2",
-         "klasse": "11A-11D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -19112,7 +19159,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Essenraum und Keller",
-         "info": ""
+         "info": "entfällt, V: Kno"
         }
        ]
       },
@@ -19557,7 +19604,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Essenraum und Keller",
+         "info": "für Gor"
+        }
+       ]
       },
       "Köh": {
        "entries": [
@@ -19946,6 +20000,22 @@
       },
       "OLop": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "Span",
+         "klasse": "10C",
+         "raum": "102",
+         "info": "für AWT Gor",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Span",
+         "klasse": "10C",
+         "raum": "102",
+         "info": "für AWT Gor",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "Span",
@@ -20644,7 +20714,7 @@
     },
     "20260423": {
      "datum": "Donnerstag, 23. April 2026",
-     "zeitstempel": "19.04.2026, 12:50",
+     "zeitstempel": "19.04.2026, 15:09",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -21150,35 +21220,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "AWT",
-         "klasse": "10D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10D verlegt nach St.5 (See)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "AWT",
-         "klasse": "10D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10D verlegt nach St.6 (See)",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "GE2",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "GE2",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12E selbst. (v), Selbststudium",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -21545,6 +21615,22 @@
       "Hun": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "Ph",
+         "klasse": "10D",
+         "raum": "007",
+         "info": "Ph 10D verlegt von St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ph",
+         "klasse": "10D",
+         "raum": "007",
+         "info": "Ph 10D verlegt von St.6",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "Ch",
          "klasse": "10D",
@@ -21562,18 +21648,18 @@
         },
         {
          "stunde": "5",
-         "fach": "Ph",
-         "klasse": "10D",
-         "raum": "201",
-         "info": "für Ph Hun",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 10D verlegt nach St.1",
          "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ph",
-         "klasse": "10D",
-         "raum": "201",
-         "info": "für Ph Hun",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 10D verlegt nach St.2",
          "geaendert": true
         },
         {
@@ -22477,6 +22563,22 @@
          "geaendert": false
         },
         {
+         "stunde": "5",
+         "fach": "Bio",
+         "klasse": "10D",
+         "raum": "201",
+         "info": "verlegt von St.1 (AWT Gor)",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Bio",
+         "klasse": "10D",
+         "raum": "201",
+         "info": "verlegt von St.2 (AWT Gor)",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "Bio",
          "klasse": "10B",
@@ -22775,7 +22877,7 @@
     },
     "20260424": {
      "datum": "Freitag, 24. April 2026",
-     "zeitstempel": "19.04.2026, 13:08",
+     "zeitstempel": "19.04.2026, 15:09",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -22921,6 +23023,22 @@
       },
       "Bod": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "GE2",
+         "klasse": "11A-11D",
+         "raum": "Aula",
+         "info": "für Ge Gor, Klausuraufsicht",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "GE2",
+         "klasse": "11A-11D",
+         "raum": "Aula",
+         "info": "für Ge Gor, Klausuraufsicht",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "Sk",
@@ -23262,35 +23380,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "GE2",
-         "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "für Ge Gor, Klausur, Aula",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 11A-11D Bod, Klausuraufsicht",
          "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "GE2",
-         "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "für Ge Gor, Klausur, Aula",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 11A-11D Bod, Klausuraufsicht",
          "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Sk",
-         "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 8C Sta (für Sk)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Sk",
-         "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 8C Sta (für Sk)",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -24580,11 +24698,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Inf",
+         "klasse": "8C",
+         "raum": "K09",
+         "info": "für Sk Gor",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Inf 10C gehalten am Do (23.04.) St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Inf",
+         "klasse": "8C",
+         "raum": "K09",
+         "info": "für Sk Gor",
          "geaendert": true
         },
         {
