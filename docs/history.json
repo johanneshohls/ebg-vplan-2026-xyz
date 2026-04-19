@@ -1,27 +1,5 @@
 [
  {
-  "timestamp": "2026-04-12T16:07:12.869503",
-  "lehrer": "Bir",
-  "datum": "Montag, 13. April 2026",
-  "date_key": "20260413",
-  "changes": [
-   "Std 1 (07:40): für Mu Bir, Klausur, Aula",
-   "Std 2 (08:25): für Mu Bir, Klausur, Aula"
-  ],
-  "zeitstempel": "12.04.2026, 17:45"
- },
- {
-  "timestamp": "2026-04-12T16:07:12.869503",
-  "lehrer": "Kar",
-  "datum": "Montag, 13. April 2026",
-  "date_key": "20260413",
-  "changes": [
-   "Std 1 (07:40): für Mu Kar, Raumtausch wegen Klausur",
-   "Std 2 (08:25): für Mu Kar, Raumtausch wegen Klausur"
-  ],
-  "zeitstempel": "12.04.2026, 17:45"
- },
- {
   "timestamp": "2026-04-12T19:07:11.764053",
   "lehrer": "Bri",
   "datum": "Mittwoch, 15. April 2026",
@@ -1762,5 +1740,44 @@
    "Std 4 (10:25): für Sk Gor"
   ],
   "zeitstempel": "19.04.2026, 15:09"
+ },
+ {
+  "timestamp": "2026-04-19T16:07:17.286153",
+  "lehrer": "Eul",
+  "datum": "Montag, 20. April 2026",
+  "date_key": "20260420",
+  "changes": [
+   "Std 1 (07:40): De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 2 (08:25): De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 3 (09:40): De 10D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben, Anwesenheitspflicht",
+   "Std 4 (10:25): De 10D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben, Anwesenheitspflicht"
+  ],
+  "zeitstempel": "19.04.2026, 17:45"
+ },
+ {
+  "timestamp": "2026-04-19T16:07:17.286153",
+  "lehrer": "Hol",
+  "datum": "Montag, 20. April 2026",
+  "date_key": "20260420",
+  "changes": [
+   "Std 5 (11:40): für Geo Schil, Aufsicht: Klausur",
+   "Std 6 (12:25): für Geo Schil, Aufsicht: Klausur"
+  ],
+  "zeitstempel": "19.04.2026, 17:45"
+ },
+ {
+  "timestamp": "2026-04-19T16:07:17.286153",
+  "lehrer": "Schil",
+  "datum": "Montag, 20. April 2026",
+  "date_key": "20260420",
+  "changes": [
+   "Std 1 (07:40): De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 2 (08:25): De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 3 (09:40): De 10D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben, Anwesenheitspflicht",
+   "Std 4 (10:25): De 10D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben, Anwesenheitspflicht",
+   "Std 5 (11:40): Geo 10D Hol, Aufsicht: Klausur",
+   "Std 6 (12:25): Geo 10D Hol, Aufsicht: Klausur"
+  ],
+  "zeitstempel": "19.04.2026, 17:45"
  }
 ]

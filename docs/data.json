@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "19.04.2026, 15:07 Uhr",
- "last_changed": "2026-04-19T15:09:00",
+ "generiert": "19.04.2026, 16:07 Uhr",
+ "last_changed": "2026-04-19T17:45:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14244,7 +14244,7 @@
    "tage": {
     "20260420": {
      "datum": "Montag, 20. April 2026",
-     "zeitstempel": "19.04.2026, 15:09",
+     "zeitstempel": "19.04.2026, 17:45",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -14554,35 +14554,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "DE2",
-         "klasse": "11A-11D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "DE2",
-         "klasse": "11A-11D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "10D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben, Anwesenheitspflicht",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "10D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben, Anwesenheitspflicht",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -15013,6 +15013,22 @@
          "geaendert": false
         },
         {
+         "stunde": "5",
+         "fach": "Geo",
+         "klasse": "10D",
+         "raum": "105",
+         "info": "für Geo Schil, Aufsicht: Klausur",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Geo",
+         "klasse": "10D",
+         "raum": "105",
+         "info": "für Geo Schil, Aufsicht: Klausur",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "En",
          "klasse": "9C",
@@ -15379,7 +15395,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Essenraum und Keller",
+         "info": "für Schil"
+        }
+       ]
       },
       "Leu": {
        "entries": [
@@ -15802,51 +15825,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "DE2",
-         "klasse": "11A-11D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "DE2",
-         "klasse": "11A-11D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "10D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben, Anwesenheitspflicht",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "10D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben, Anwesenheitspflicht",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Geo",
-         "klasse": "10D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 10D Hol, Aufsicht: Klausur",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Geo",
-         "klasse": "10D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 10D Hol, Aufsicht: Klausur",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -15854,7 +15877,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Essenraum und Keller",
-         "info": ""
+         "info": "entfällt, V: Lan"
         }
        ]
       },
