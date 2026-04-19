@@ -1667,5 +1667,88 @@
    "Std 4 (10:25): B VK2 fällt aus"
   ],
   "zeitstempel": "19.04.2026, 12:50"
+ },
+ {
+  "timestamp": "2026-04-19T12:07:12.577152",
+  "lehrer": "Bes",
+  "datum": "Freitag, 24. April 2026",
+  "date_key": "20260424",
+  "changes": [
+   "Std 5 (11:40): Tutorenstunde 12, A 001, B 002, C/E 003, D 004",
+   "Std 6 (12:25): Tutorenstunde 12, A 001, B 002, C/E 003, D 004"
+  ],
+  "zeitstempel": "19.04.2026, 13:08"
+ },
+ {
+  "timestamp": "2026-04-19T12:07:12.577152",
+  "lehrer": "Bri",
+  "datum": "Freitag, 24. April 2026",
+  "date_key": "20260424",
+  "changes": [
+   "Std 5 (11:40): Tutorenstunde 12, A 001, B 002, C/E 003, D 004",
+   "Std 6 (12:25): Tutorenstunde 12, A 001, B 002, C/E 003, D 004"
+  ],
+  "zeitstempel": "19.04.2026, 13:08"
+ },
+ {
+  "timestamp": "2026-04-19T12:07:12.577152",
+  "lehrer": "Her",
+  "datum": "Freitag, 24. April 2026",
+  "date_key": "20260424",
+  "changes": [
+   "Std 5 (11:40): für AWT Her",
+   "Std 6 (12:25): für AWT Her"
+  ],
+  "zeitstempel": "19.04.2026, 13:08"
+ },
+ {
+  "timestamp": "2026-04-19T12:07:12.577152",
+  "lehrer": "Hofm",
+  "datum": "Freitag, 24. April 2026",
+  "date_key": "20260424",
+  "changes": [
+   "Std 5 (11:40): für ILZ Hofm",
+   "Std 6 (12:25): für ILZ Hofm"
+  ],
+  "zeitstempel": "19.04.2026, 13:08"
+ },
+ {
+  "timestamp": "2026-04-19T12:07:12.577152",
+  "lehrer": "Leu",
+  "datum": "Freitag, 24. April 2026",
+  "date_key": "20260424",
+  "changes": [
+   "Std 5 (11:40): für Ma Leu",
+   "Std 6 (12:25): für Ma Leu"
+  ],
+  "zeitstempel": "19.04.2026, 13:08"
+ },
+ {
+  "timestamp": "2026-04-19T12:07:12.577152",
+  "lehrer": "Roh",
+  "datum": "Freitag, 24. April 2026",
+  "date_key": "20260424",
+  "changes": [
+   "Std 1 (07:40): Ma 10C statt Mi (22.04.) St.1",
+   "Std 2 (08:25): Ma 10C statt Mi (22.04.) St.2",
+   "Std 5 (11:40): für Ph Roh, Tutorenstunde",
+   "Std 6 (12:25): für Ph Roh, Tutorenstunde"
+  ],
+  "zeitstempel": "19.04.2026, 13:08"
+ },
+ {
+  "timestamp": "2026-04-19T12:07:12.577152",
+  "lehrer": "See",
+  "datum": "Freitag, 24. April 2026",
+  "date_key": "20260424",
+  "changes": [
+   "Std 3 (09:40): statt Mi (22.04.) St.7 (Ge Pri)",
+   "Std 4 (10:25): statt Mi (22.04.) St.8 (Ge Pri)",
+   "Std 5 (11:40): Bio 10D gehalten am Mi (22.04.) St.1",
+   "Std 5 (11:40): Tutorenstunde 12, A 001, B 002, C/E 003, D 004; Bio 10D gehalten am Mi (22.04.) St.1 (See)",
+   "Std 6 (12:25): Bio 10D gehalten am Mi (22.04.) St.2",
+   "Std 6 (12:25): Tutorenstunde 12, A 001, B 002, C/E 003, D 004; Bio 10D gehalten am Mi (22.04.) St.2 (See)"
+  ],
+  "zeitstempel": "19.04.2026, 13:08"
  }
 ]

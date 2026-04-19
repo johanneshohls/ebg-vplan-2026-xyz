@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "19.04.2026, 11:07 Uhr",
- "last_changed": "2026-04-19T12:50:00",
+ "generiert": "19.04.2026, 12:07 Uhr",
+ "last_changed": "2026-04-19T13:08:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -22775,7 +22775,7 @@
     },
     "20260424": {
      "datum": "Freitag, 24. April 2026",
-     "zeitstempel": "19.04.2026, 12:50",
+     "zeitstempel": "19.04.2026, 13:08",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -22836,16 +22836,16 @@
          "stunde": "5",
          "fach": "ILZ",
          "klasse": "",
-         "raum": "",
-         "info": "Tutorenstunde 12",
+         "raum": "001 002",
+         "info": "Tutorenstunde 12, A 001, B 002, C/E 003, D 004",
          "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "ILZ",
          "klasse": "",
-         "raum": "",
-         "info": "Tutorenstunde 12",
+         "raum": "001 002",
+         "info": "Tutorenstunde 12, A 001, B 002, C/E 003, D 004",
          "geaendert": true
         }
        ],
@@ -22989,6 +22989,22 @@
          "raum": "Co2",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "",
+         "raum": "003 004",
+         "info": "Tutorenstunde 12, A 001, B 002, C/E 003, D 004",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "",
+         "raum": "003 004",
+         "info": "Tutorenstunde 12, A 001, B 002, C/E 003, D 004",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -23354,17 +23370,17 @@
          "stunde": "5",
          "fach": "AWT",
          "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "106",
+         "info": "für AWT Her",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "AWT",
          "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "106",
+         "info": "für AWT Her",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -23418,17 +23434,17 @@
          "stunde": "5",
          "fach": "ILZ",
          "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für ILZ Hofm",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "ILZ",
          "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für ILZ Hofm",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23909,17 +23925,17 @@
          "stunde": "5",
          "fach": "Ma",
          "klasse": "10B",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Ma Leu",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Ma",
          "klasse": "10B",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Ma Leu",
+         "geaendert": true
         },
         {
          "stunde": "9",
@@ -24304,17 +24320,17 @@
          "stunde": "5",
          "fach": "ph1",
          "klasse": "12A-12E",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für Ph Roh, Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "ph1",
          "klasse": "12A-12E",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für Ph Roh, Tutorenstunde",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -24510,8 +24526,8 @@
          "stunde": "5",
          "fach": "ILZ",
          "klasse": "",
-         "raum": "",
-         "info": "Tutorenstunde 12; Bio 10D gehalten am Mi (22.04.) St.1 (See)",
+         "raum": "003 004",
+         "info": "Tutorenstunde 12, A 001, B 002, C/E 003, D 004; Bio 10D gehalten am Mi (22.04.) St.1 (See)",
          "geaendert": true
         },
         {
@@ -24526,8 +24542,8 @@
          "stunde": "6",
          "fach": "ILZ",
          "klasse": "",
-         "raum": "",
-         "info": "Tutorenstunde 12; Bio 10D gehalten am Mi (22.04.) St.2 (See)",
+         "raum": "003 004",
+         "info": "Tutorenstunde 12, A 001, B 002, C/E 003, D 004; Bio 10D gehalten am Mi (22.04.) St.2 (See)",
          "geaendert": true
         }
        ],
