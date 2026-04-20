@@ -1,103 +1,5 @@
 [
  {
-  "timestamp": "2026-04-13T05:07:11.157215",
-  "lehrer": "Leu",
-  "datum": "Montag, 13. April 2026",
-  "date_key": "20260413",
-  "changes": [
-   "Std 3 (09:40): für De Tie, Bitte Mathe-Übungen machen, sorry für die Kurzfristigkeit!",
-   "Std 4 (10:25): für De Tie, Bitte Mathe-Übungen machen, sorry für die Kurzfristigkeit!"
-  ],
-  "zeitstempel": "13.04.2026, 06:50"
- },
- {
-  "timestamp": "2026-04-13T05:07:11.157215",
-  "lehrer": "Tie",
-  "datum": "Montag, 13. April 2026",
-  "date_key": "20260413",
-  "changes": [
-   "Std 3 (09:40): Ma 9A Leu (für De), Bitte Mathe-Übungen machen, sorry für die Kurzfristigkeit!",
-   "Std 4 (10:25): Ma 9A Leu (für De), Bitte Mathe-Übungen machen, sorry für die Kurzfristigkeit!",
-   "Std 5 (11:40): De 8D Tuh, Bitte Grammatik-Übungen machen.",
-   "Std 6 (12:25): De 8D Tuh, Bitte Grammatik-Übungen machen.",
-   "Std 7 (13:40): ILZ 8D fällt aus",
-   "Std 8 (14:25): KL 8D fällt aus"
-  ],
-  "zeitstempel": "13.04.2026, 06:50"
- },
- {
-  "timestamp": "2026-04-13T05:07:11.157215",
-  "lehrer": "Tuh",
-  "datum": "Montag, 13. April 2026",
-  "date_key": "20260413",
-  "changes": [
-   "Std 5 (11:40): für De Tie, Bitte Grammatik-Übungen machen.",
-   "Std 6 (12:25): für De Tie, Bitte Grammatik-Übungen machen."
-  ],
-  "zeitstempel": "13.04.2026, 06:50"
- },
- {
-  "timestamp": "2026-04-13T05:07:11.157215",
-  "lehrer": "Hin",
-  "datum": "Dienstag, 14. April 2026",
-  "date_key": "20260414",
-  "changes": [
-   "Std 1 (07:40): B VK2 fällt aus",
-   "Std 1 (07:40): für Geo Puk, Aufsicht",
-   "Std 2 (08:25): B VK2 fällt aus",
-   "Std 2 (08:25): für Geo Puk, Aufsicht",
-   "Std 5 (11:40): für Span Puk, Aufsicht",
-   "Std 6 (12:25): für Span Puk, Aufsicht"
-  ],
-  "zeitstempel": "13.04.2026, 06:50"
- },
- {
-  "timestamp": "2026-04-13T05:07:11.157215",
-  "lehrer": "Puk",
-  "datum": "Dienstag, 14. April 2026",
-  "date_key": "20260414",
-  "changes": [
-   "Std 1 (07:40): Span 10B Hin (für Geo), Aufsicht",
-   "Std 2 (08:25): Span 10B Hin (für Geo), Aufsicht",
-   "Std 5 (11:40): Span 8D Hin, Aufsicht",
-   "Std 6 (12:25): Span 8D Hin, Aufsicht"
-  ],
-  "zeitstempel": "13.04.2026, 06:50"
- },
- {
-  "timestamp": "2026-04-13T05:07:11.157215",
-  "lehrer": "Puk",
-  "datum": "Freitag, 17. April 2026",
-  "date_key": "20260417",
-  "changes": [
-   "Std 1 (07:40): Span 9D Stu, Aufsicht",
-   "Std 2 (08:25): Span 9D Stu, Aufsicht",
-   "Std 3 (09:40): Span 8D Stu, Aufsicht",
-   "Std 4 (10:25): Span 8D Stu, Aufsicht",
-   "Std 5 (11:40): Geo 10B Stu (für Span), Aufsicht",
-   "Std 6 (12:25): Geo 10B Stu (für Span), Aufsicht",
-   "Std 9 (): KL 9D fällt aus"
-  ],
-  "zeitstempel": "13.04.2026, 06:50"
- },
- {
-  "timestamp": "2026-04-13T05:07:11.157215",
-  "lehrer": "Stu",
-  "datum": "Freitag, 17. April 2026",
-  "date_key": "20260417",
-  "changes": [
-   "Std 1 (07:40): B VK2 fällt aus",
-   "Std 1 (07:40): für Span Puk, Aufsicht",
-   "Std 2 (08:25): B VK2 fällt aus",
-   "Std 2 (08:25): für Span Puk, Aufsicht",
-   "Std 3 (09:40): für Span Puk, Aufsicht",
-   "Std 4 (10:25): für Span Puk, Aufsicht",
-   "Std 5 (11:40): für Span Puk, Aufsicht",
-   "Std 6 (12:25): für Span Puk, Aufsicht"
-  ],
-  "zeitstempel": "13.04.2026, 06:50"
- },
- {
   "timestamp": "2026-04-13T15:07:14.342920",
   "lehrer": "Tie",
   "datum": "Dienstag, 14. April 2026",
@@ -1757,5 +1659,69 @@
    "Std 6 (12:25): Geo 10D Hol, Aufsicht: Klausur"
   ],
   "zeitstempel": "19.04.2026, 17:45"
+ },
+ {
+  "timestamp": "2026-04-20T05:07:11.481151",
+  "lehrer": "Bod",
+  "datum": "Montag, 20. April 2026",
+  "date_key": "20260420",
+  "changes": [
+   "Std 1 (07:40): Sp 9B Stu",
+   "Std 2 (08:25): Sp 9B Stu",
+   "Std 3 (09:40): Sk 11A-11D selbst. (v), Selbststudium",
+   "Std 4 (10:25): Sk 11A-11D selbst. (v), Selbststudium",
+   "Std 5 (11:40): Sp 12A-12E selbst. (v), Selbststudium",
+   "Std 6 (12:25): Sp 12A-12E selbst. (v), Selbststudium",
+   "Std 7 (13:40): Sp 7E fällt aus",
+   "Std 8 (14:25): Sp 7E fällt aus"
+  ],
+  "zeitstempel": "20.04.2026, 06:21"
+ },
+ {
+  "timestamp": "2026-04-20T05:07:11.481151",
+  "lehrer": "Her",
+  "datum": "Montag, 20. April 2026",
+  "date_key": "20260420",
+  "changes": [
+   "Std 3 (09:40): Sp 11A-11D selbst. (v), Wiederholung aktueller Unterrichtsinhalte",
+   "Std 4 (10:25): Sp 11A-11D selbst. (v), Wiederholung aktueller Unterrichtsinhalte",
+   "Std 5 (11:40): BO 11A-11D selbst. (v), Wiederholung aktueller Unterrichtsinhalte, kann zu Hause erledigt werden",
+   "Std 6 (12:25): BO 11A-11D selbst. (v), Wiederholung aktueller Unterrichtsinhalte, kann zu Hause erledigt werden",
+   "Std 7 (13:40): Sp 7A fällt aus",
+   "Std 8 (14:25): Sp 7A fällt aus"
+  ],
+  "zeitstempel": "20.04.2026, 06:21"
+ },
+ {
+  "timestamp": "2026-04-20T05:07:11.481151",
+  "lehrer": "Pri",
+  "datum": "Montag, 20. April 2026",
+  "date_key": "20260420",
+  "changes": [
+   "Std 1 (07:40): Ge 7E statt Mi (22.04.) St.5",
+   "Std 2 (08:25): Ge 7E statt Mi (22.04.) St.6",
+   "Std 5 (11:40): De 7A Stu (für Ge)",
+   "Std 6 (12:25): De 7A Stu (für Ge)",
+   "Std 7 (13:40): En 9B fällt aus",
+   "Std 8 (14:25): En 9B fällt aus"
+  ],
+  "zeitstempel": "20.04.2026, 06:21"
+ },
+ {
+  "timestamp": "2026-04-20T05:07:11.481151",
+  "lehrer": "Stu",
+  "datum": "Montag, 20. April 2026",
+  "date_key": "20260420",
+  "changes": [
+   "Std 1 (07:40): B VK fällt aus",
+   "Std 1 (07:40): für Sp Bod",
+   "Std 2 (08:25): B VK fällt aus",
+   "Std 2 (08:25): für Sp Bod",
+   "Std 3 (09:40): B VK fällt aus",
+   "Std 4 (10:25): B VK fällt aus",
+   "Std 5 (11:40): für Ge Pri",
+   "Std 6 (12:25): für Ge Pri"
+  ],
+  "zeitstempel": "20.04.2026, 06:21"
  }
 ]
