@@ -1846,5 +1846,78 @@
    "Std 8 (14:25): Bio 10A verlegt nach Fr (24.04.) St.4 (See)"
   ],
   "zeitstempel": "20.04.2026, 15:44"
+ },
+ {
+  "timestamp": "2026-04-20T16:07:15.312354",
+  "lehrer": "Con",
+  "datum": "Dienstag, 21. April 2026",
+  "date_key": "20260421",
+  "changes": [
+   "Std 5 (11:40): für Pro1 Con, Bitte 10b in K10 mit beaufsichtigen"
+  ],
+  "zeitstempel": "20.04.2026, 17:17"
+ },
+ {
+  "timestamp": "2026-04-20T16:07:15.312354",
+  "lehrer": "Fla",
+  "datum": "Dienstag, 21. April 2026",
+  "date_key": "20260421",
+  "changes": [
+   "Std 1 (07:40): ILZ 7C statt Do (23.04.) St.5",
+   "Std 2 (08:25): ILZ 7C statt Do (23.04.) St.6"
+  ],
+  "zeitstempel": "20.04.2026, 17:17"
+ },
+ {
+  "timestamp": "2026-04-20T16:07:15.312354",
+  "lehrer": "Schuc",
+  "datum": "Dienstag, 21. April 2026",
+  "date_key": "20260421",
+  "changes": [
+   "Std 3 (09:40): für Inf Sta, Aufgaben werden vom FL gesellt",
+   "Std 4 (10:25): für Inf Sta, Aufgaben werden vom FL gesellt"
+  ],
+  "zeitstempel": "20.04.2026, 17:17"
+ },
+ {
+  "timestamp": "2026-04-20T16:07:15.312354",
+  "lehrer": "Sta",
+  "datum": "Dienstag, 21. April 2026",
+  "date_key": "20260421",
+  "changes": [
+   "Std 1 (07:40): Ma 7C verlegt nach Do (23.04.) St.5",
+   "Std 2 (08:25): Ma 7C verlegt nach Do (23.04.) St.6",
+   "Std 3 (09:40): Inf 7B Schuc, Aufgaben werden vom FL gesellt",
+   "Std 4 (10:25): Inf 7B Schuc, Aufgaben werden vom FL gesellt",
+   "Std 5 (11:40): Inf 10B statt Do (23.04.) St.5, Herr Convent wird euch mit beaufsichtigen, Aufgaben werden gestellt",
+   "Std 6 (12:25): Inf 10B statt Do (23.04.) St.6"
+  ],
+  "zeitstempel": "20.04.2026, 17:17"
+ },
+ {
+  "timestamp": "2026-04-20T16:07:15.312354",
+  "lehrer": "Fla",
+  "datum": "Donnerstag, 23. April 2026",
+  "date_key": "20260423",
+  "changes": [
+   "Std 5 (11:40): ILZ 7C gehalten am Di (21.04.) St.1",
+   "Std 6 (12:25): ILZ 7C gehalten am Di (21.04.) St.2"
+  ],
+  "zeitstempel": "20.04.2026, 17:17"
+ },
+ {
+  "timestamp": "2026-04-20T16:07:15.312354",
+  "lehrer": "Sta",
+  "datum": "Donnerstag, 23. April 2026",
+  "date_key": "20260423",
+  "changes": [
+   "Std 3 (09:40): Inf 10C statt Fr (24.04.) St.3",
+   "Std 4 (10:25): Inf 10C statt Fr (24.04.) St.4",
+   "Std 5 (11:40): Inf 10B gehalten am Di (21.04.) St.5, Herr Convent wird euch mit beaufsichtigen, Aufgaben werden gestellt",
+   "Std 5 (11:40): Ma 7C statt Di (21.04.) St.1; Inf 10B gehalten am Di (21.04.) St.5, Herr Convent wird euch mit beaufsichtigen, Aufgaben werden gestellt",
+   "Std 6 (12:25): Inf 10B gehalten am Di (21.04.) St.6",
+   "Std 6 (12:25): Ma 7C statt Di (21.04.) St.2; Inf 10B gehalten am Di (21.04.) St.6"
+  ],
+  "zeitstempel": "20.04.2026, 17:17"
  }
 ]

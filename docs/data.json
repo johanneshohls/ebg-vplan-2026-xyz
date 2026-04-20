@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "20.04.2026, 15:07 Uhr",
- "last_changed": "2026-04-20T15:44:00",
+ "generiert": "20.04.2026, 16:07 Uhr",
+ "last_changed": "2026-04-20T17:17:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12627,7 +12627,7 @@
     },
     "20260421": {
      "datum": "Dienstag, 21. April 2026",
-     "zeitstempel": "20.04.2026, 15:44",
+     "zeitstempel": "20.04.2026, 17:17",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -12958,7 +12958,7 @@
          "fach": "pro11",
          "klasse": "11A-11D",
          "raum": "K09",
-         "info": "",
+         "info": "für Pro1 Con, Bitte 10b in K10 mit beaufsichtigen",
          "geaendert": false
         },
         {
@@ -13131,6 +13131,22 @@
       },
       "Fla": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "ILZ",
+         "klasse": "7C",
+         "raum": "101",
+         "info": "ILZ 7C statt Do (23.04.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "ILZ",
+         "klasse": "7C",
+         "raum": "101",
+         "info": "ILZ 7C statt Do (23.04.) St.6",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "Bio",
@@ -14464,6 +14480,22 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "Inf",
+         "klasse": "7B",
+         "raum": "K09",
+         "info": "für Inf Sta, Aufgaben werden vom FL gesellt",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Inf",
+         "klasse": "7B",
+         "raum": "K09",
+         "info": "für Inf Sta, Aufgaben werden vom FL gesellt",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "GE1",
          "klasse": "12A-12E",
@@ -14588,42 +14620,42 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ma",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7C verlegt nach Do (23.04.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ma",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7C verlegt nach Do (23.04.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Inf",
-         "klasse": "7B",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 7B Schuc, Aufgaben werden vom FL gesellt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Inf",
-         "klasse": "7B",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 7B Schuc, Aufgaben werden vom FL gesellt",
+         "geaendert": true
         },
         {
          "stunde": "5",
          "fach": "Inf",
          "klasse": "10B",
          "raum": "K10",
-         "info": "Inf 10B statt Do (23.04.) St.5",
+         "info": "Inf 10B statt Do (23.04.) St.5, Herr Convent wird euch mit beaufsichtigen, Aufgaben werden gestellt",
          "geaendert": true
         },
         {
@@ -14837,7 +14869,7 @@
     },
     "20260422": {
      "datum": "Mittwoch, 22. April 2026",
-     "zeitstempel": "20.04.2026, 15:44",
+     "zeitstempel": "20.04.2026, 17:17",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -17087,7 +17119,7 @@
     },
     "20260423": {
      "datum": "Donnerstag, 23. April 2026",
-     "zeitstempel": "20.04.2026, 15:44",
+     "zeitstempel": "20.04.2026, 17:17",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17503,19 +17535,19 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "ILZ",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7C gehalten am Di (21.04.) St.1",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "ILZ",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7C gehalten am Di (21.04.) St.2",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -19014,7 +19046,15 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Inf 10B gehalten am Di (21.04.) St.5",
+         "info": "Inf 10B gehalten am Di (21.04.) St.5, Herr Convent wird euch mit beaufsichtigen, Aufgaben werden gestellt",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "7C",
+         "raum": "101",
+         "info": "Ma 7C statt Di (21.04.) St.1; Inf 10B gehalten am Di (21.04.) St.5, Herr Convent wird euch mit beaufsichtigen, Aufgaben werden gestellt",
          "geaendert": true
         },
         {
@@ -19023,6 +19063,14 @@
          "klasse": "",
          "raum": "",
          "info": "Inf 10B gehalten am Di (21.04.) St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "7C",
+         "raum": "101",
+         "info": "Ma 7C statt Di (21.04.) St.2; Inf 10B gehalten am Di (21.04.) St.6",
          "geaendert": true
         },
         {
@@ -19250,7 +19298,7 @@
     },
     "20260424": {
      "datum": "Freitag, 24. April 2026",
-     "zeitstempel": "20.04.2026, 15:44",
+     "zeitstempel": "20.04.2026, 17:17",
      "lehrer": {
       "Bar": {
        "entries": [
