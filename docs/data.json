@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "20.04.2026, 13:07 Uhr",
- "last_changed": "2026-04-20T06:21:00",
+ "generiert": "20.04.2026, 13:49 Uhr",
+ "last_changed": "2026-04-20T15:44:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10490,7 +10490,7 @@
    "tage": {
     "20260420": {
      "datum": "Montag, 20. April 2026",
-     "zeitstempel": "20.04.2026, 06:21",
+     "zeitstempel": "20.04.2026, 15:32",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -12627,7 +12627,7 @@
     },
     "20260421": {
      "datum": "Dienstag, 21. April 2026",
-     "zeitstempel": "19.04.2026, 15:09",
+     "zeitstempel": "20.04.2026, 15:44",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -12711,6 +12711,22 @@
          "klasse": "8C",
          "raum": "Aula",
          "info": "für Mu Bir, Klassenkonzert",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "10D",
+         "raum": "101",
+         "info": "für ILZ Schil, Aufsicht während der ILZ",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "10D",
+         "raum": "101",
+         "info": "für ILZ Schil, Aufsicht während der ILZ",
          "geaendert": true
         },
         {
@@ -12833,35 +12849,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "Sk",
-         "klasse": "10A",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 10A Hei (für Sk)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Sk",
-         "klasse": "10A",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 10A Hei (für Sk)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Club3",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club3 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club3",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club3 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13087,17 +13103,17 @@
          "stunde": "5",
          "fach": "Span",
          "klasse": "8B",
-         "raum": "006 002",
-         "info": "für Span Köh",
-         "geaendert": true
+         "raum": "006",
+         "info": "für Span Köh, Teilgruppe Köh 8b zu OLop, Köh 8c zu Puk, Köh 8d zu Fel",
+         "geaendert": false
         },
         {
          "stunde": "6",
          "fach": "Span",
          "klasse": "8B",
-         "raum": "006 002",
-         "info": "für Span Köh",
-         "geaendert": true
+         "raum": "006",
+         "info": "für Span Köh, Teilgruppe Köh 8b zu OLop, Köh 8c zu Puk, Köh 8d zu Fel",
+         "geaendert": false
         }
        ],
        "aufsichten": [
@@ -13289,6 +13305,22 @@
          "raum": "003",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Fr",
+         "klasse": "10A",
+         "raum": "008",
+         "info": "für Sk Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Fr",
+         "klasse": "10A",
+         "raum": "008",
+         "info": "für Sk Bod",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13297,26 +13329,26 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Sp",
-         "klasse": "10C",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 10C Stu",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Sp",
-         "klasse": "10C",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 10C Stu",
+         "geaendert": true
         },
         {
          "stunde": "5",
          "fach": "bo1",
          "klasse": "11A-11D",
          "raum": "102",
-         "info": "",
+         "info": "für BO Her, Besuch Herr Meyer und Frau Straubel",
          "geaendert": false
         },
         {
@@ -13324,24 +13356,24 @@
          "fach": "bo1",
          "klasse": "11A-11D",
          "raum": "102",
-         "info": "",
+         "info": "für BO Her, Besuch Herr Meyer und Frau Straubel",
          "geaendert": false
         },
         {
          "stunde": "7",
-         "fach": "Clu10",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Clu10 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Clu10",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Clu10 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13775,51 +13807,51 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7E Puk",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7E Puk",
+         "geaendert": true
         },
         {
          "stunde": "5",
          "fach": "Span",
          "klasse": "8B",
-         "raum": "006 002",
-         "info": "für Span Köh",
-         "geaendert": true
+         "raum": "006",
+         "info": "für Span Köh, Teilgruppe Köh 8b zu OLop, Köh 8c zu Puk, Köh 8d zu Fel",
+         "geaendert": false
         },
         {
          "stunde": "6",
          "fach": "Span",
          "klasse": "8B",
-         "raum": "006 002",
-         "info": "für Span Köh",
-         "geaendert": true
+         "raum": "006",
+         "info": "für Span Köh, Teilgruppe Köh 8b zu OLop, Köh 8c zu Puk, Köh 8d zu Fel",
+         "geaendert": false
         },
         {
          "stunde": "7",
-         "fach": "Club9",
-         "klasse": "10A-10D,9A-9D",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "Club9 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club9",
-         "klasse": "10A-10D,9A-9D",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "Club9 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14188,11 +14220,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Span",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "ILZ 9D gehalten am Mo (20.04.) St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Span",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "für Span Köh",
          "geaendert": true
         },
         {
@@ -14364,35 +14412,35 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "DE1",
-         "klasse": "12A-12E",
-         "raum": "107",
-         "info": "für De Schil, Raumtausch wegen Klassenkonzert",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12E selbst. (v), Raumtausch wegen Klassenkonzert, Selbststudium",
          "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "DE1",
-         "klasse": "12A-12E",
-         "raum": "107",
-         "info": "für De Schil, Raumtausch wegen Klassenkonzert",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12E selbst. (v), Raumtausch wegen Klassenkonzert, Selbststudium",
          "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "ILZ",
-         "klasse": "10D",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10D Bir, Aufsicht während der ILZ",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "ILZ",
-         "klasse": "10D",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10D Bir, Aufsicht während der ILZ",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14590,7 +14638,24 @@
        "aufsichten": []
       },
       "Stu": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Sp",
+         "klasse": "10C",
+         "raum": "Tu1",
+         "info": "für Sp Her",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Sp",
+         "klasse": "10C",
+         "raum": "Tu1",
+         "info": "für Sp Her",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Ten": {
@@ -14772,7 +14837,7 @@
     },
     "20260422": {
      "datum": "Mittwoch, 22. April 2026",
-     "zeitstempel": "19.04.2026, 15:09",
+     "zeitstempel": "20.04.2026, 15:44",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -14789,11 +14854,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "Ma",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ph 9B verlegt nach Do (23.04.) St.6, Verlegung aufgrund einer Hospitation",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ma",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Span Köh",
          "geaendert": true
         },
         {
@@ -15017,35 +15098,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "sp2",
-         "klasse": "12A-12E",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 12A-12E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "sp2",
-         "klasse": "12A-12E",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 12A-12E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "sp1",
-         "klasse": "11A-11D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 11A-11D selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "sp1",
-         "klasse": "11A-11D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 11A-11D selbst. (v), Selbststudium",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15902,51 +15983,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7B Bes (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7B Bes (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "9B",
-         "raum": "007 104",
-         "info": "für Span OLop",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9B OLop, ganze Klasse 9b zu OLop",
          "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "9B",
-         "raum": "007 104",
-         "info": "für Span OLop",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9B OLop, ganze Klasse 9b zu OLop",
          "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "GS03",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS03 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS03",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS03 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -15954,7 +16035,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Hof 1, WC, Container",
-         "info": ""
+         "info": "entfällt, V: Schuc"
         }
        ]
       },
@@ -16305,17 +16386,17 @@
          "stunde": "5",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007 104",
-         "info": "für Span OLop",
-         "geaendert": true
+         "raum": "007",
+         "info": "für Span OLop, ganze Klasse 9b zu OLop",
+         "geaendert": false
         },
         {
          "stunde": "6",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007 104",
-         "info": "für Span OLop",
-         "geaendert": true
+         "raum": "007",
+         "info": "für Span OLop, ganze Klasse 9b zu OLop",
+         "geaendert": false
         },
         {
          "stunde": "7",
@@ -16403,7 +16484,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 7E gehalten am Mo (20.04.) St.1 (Stu)",
+         "info": "Ge 7E gehalten am Mo (20.04.) St.1",
          "geaendert": true
         },
         {
@@ -16411,7 +16492,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 7E gehalten am Mo (20.04.) St.2 (Stu)",
+         "info": "Ge 7E gehalten am Mo (20.04.) St.2",
          "geaendert": true
         },
         {
@@ -16659,7 +16740,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof 1, WC, Container",
+         "info": "für Köh"
+        }
+       ]
       },
       "Schud": {
        "entries": [
@@ -16999,7 +17087,7 @@
     },
     "20260423": {
      "datum": "Donnerstag, 23. April 2026",
-     "zeitstempel": "19.04.2026, 15:09",
+     "zeitstempel": "20.04.2026, 15:44",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -19162,7 +19250,7 @@
     },
     "20260424": {
      "datum": "Freitag, 24. April 2026",
-     "zeitstempel": "19.04.2026, 15:09",
+     "zeitstempel": "20.04.2026, 15:44",
      "lehrer": {
       "Bar": {
        "entries": [
