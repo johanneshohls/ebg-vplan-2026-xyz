@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "21.04.2026, 13:27 Uhr",
- "last_changed": "2026-04-21T14:14:00",
+ "generiert": "21.04.2026, 14:55 Uhr",
+ "last_changed": "2026-04-21T15:31:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -17119,7 +17119,7 @@
     },
     "20260423": {
      "datum": "Donnerstag, 23. April 2026",
-     "zeitstempel": "21.04.2026, 14:14",
+     "zeitstempel": "21.04.2026, 15:31",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17358,6 +17358,22 @@
       },
       "Bri": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Ma",
+         "klasse": "12A-12E",
+         "raum": "Co2",
+         "info": "",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ma",
+         "klasse": "12A-12E",
+         "raum": "Co2",
+         "info": "",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "ma1",
