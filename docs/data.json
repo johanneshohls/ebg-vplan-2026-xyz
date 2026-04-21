@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "21.04.2026, 08:07 Uhr",
- "last_changed": "2026-04-21T07:32:00",
+ "generiert": "21.04.2026, 08:27 Uhr",
+ "last_changed": "2026-04-21T10:19:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21342,7 +21342,7 @@
    "tage": {
     "20260427": {
      "datum": "Montag, 27. April 2026",
-     "zeitstempel": "19.04.2026, 12:50",
+     "zeitstempel": "21.04.2026, 10:19",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -22088,6 +22088,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "",
+         "raum": "101",
+         "info": "Kompetenzprüfungen Englisch 9d; en2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -22096,20 +22104,60 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "",
+         "raum": "101",
+         "info": "Kompetenzprüfungen Englisch 9d; en2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9C verlegt nach Di (28.04.) St.5, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "En",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "klasse": "",
+         "raum": "101",
+         "info": "Kompetenzprüfungen Englisch 9d; En 9C verlegt nach Di (28.04.) St.5 (Hol), Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9C verlegt nach Di (28.04.) St.6, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "En",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "klasse": "",
+         "raum": "101",
+         "info": "Kompetenzprüfungen Englisch 9d; En 9C verlegt nach Di (28.04.) St.6 (Hol), Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "En",
+         "klasse": "",
+         "raum": "101",
+         "info": "Kompetenzprüfungen Englisch 9d",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "En",
+         "klasse": "",
+         "raum": "101",
+         "info": "Kompetenzprüfungen Englisch 9d",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -22237,6 +22285,38 @@
       "Isb": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "",
+         "raum": "101",
+         "info": "Kompetenzprüfungen Englisch 9d",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "",
+         "raum": "101",
+         "info": "Kompetenzprüfungen Englisch 9d",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "",
+         "raum": "101",
+         "info": "Kompetenzprüfungen Englisch 9d",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "",
+         "raum": "101",
+         "info": "Kompetenzprüfungen Englisch 9d",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "---",
          "klasse": "",
@@ -22245,11 +22325,27 @@
          "geaendert": true
         },
         {
+         "stunde": "7",
+         "fach": "En",
+         "klasse": "",
+         "raum": "101",
+         "info": "Kompetenzprüfungen Englisch 9d; Ge 8A verlegt nach Do (30.04.) St.5 (Isb)",
+         "geaendert": true
+        },
+        {
          "stunde": "8",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ge 8A verlegt nach Do (30.04.) St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "En",
+         "klasse": "",
+         "raum": "101",
+         "info": "Kompetenzprüfungen Englisch 9d; Ge 8A verlegt nach Do (30.04.) St.6 (Isb)",
          "geaendert": true
         }
        ],
@@ -22463,17 +22559,17 @@
          "stunde": "7",
          "fach": "Span",
          "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "001",
+         "info": "für Span Köh",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "Span",
          "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "001",
+         "info": "für Span Köh",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -22495,17 +22591,17 @@
          "stunde": "1",
          "fach": "Sk",
          "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für Sk Lan",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Sk",
          "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für Sk Lan",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -22734,6 +22830,22 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "",
+         "raum": "102",
+         "info": "Aufsicht über Vorbereitung der Kompetenzprüfung Englisch 9d",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "",
+         "raum": "102",
+         "info": "Aufsicht über Vorbereitung der Kompetenzprüfung Englisch 9d",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Bio",
          "klasse": "9A",
@@ -22790,17 +22902,17 @@
          "stunde": "5",
          "fach": "En",
          "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "007",
+         "info": "für En Pri",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "En",
          "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "007",
+         "info": "für En Pri",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -22882,6 +22994,22 @@
          "raum": "104",
          "info": "für eRe Rat, Klausur, Aula",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "En",
+         "klasse": "",
+         "raum": "102",
+         "info": "Aufsicht über Vorbereitung der Kompetenzprüfung Englisch 9d",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "En",
+         "klasse": "",
+         "raum": "102",
+         "info": "Aufsicht über Vorbereitung der Kompetenzprüfung Englisch 9d",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23006,33 +23134,49 @@
          "stunde": "3",
          "fach": "ILZ",
          "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "207",
+         "info": "für ILZ Schud",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "KL",
          "klasse": "9B",
+         "raum": "207",
+         "info": "für KL Schud",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "",
          "raum": "102",
-         "info": "",
-         "geaendert": false
+         "info": "Aufsicht über Vorbereitung der Kompetenzprüfungen 9d",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "",
+         "raum": "102",
+         "info": "Aufsicht über Vorbereitung der Kompetenzprüfungen 9d",
+         "geaendert": true
         },
         {
          "stunde": "7",
          "fach": "Ge",
          "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für Ge Schud",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "Ge",
          "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für Ge Schud",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23304,6 +23448,22 @@
          "geaendert": false
         },
         {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "De 9C statt Di (28.04.) St.5, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "De 9C statt Di (28.04.) St.6, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "de2",
          "klasse": "11A-11D",
@@ -23347,7 +23507,7 @@
     },
     "20260428": {
      "datum": "Dienstag, 28. April 2026",
-     "zeitstempel": "19.04.2026, 12:50",
+     "zeitstempel": "21.04.2026, 10:19",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -24193,11 +24353,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "En 9C statt Mo (27.04.) St.5, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch; EN2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "EN2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "En 9C statt Mo (27.04.) St.6, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch; EN2 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -25049,19 +25225,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Geo",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 10B verlegt nach Do (30.04.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "Span",
          "klasse": "10B",
          "raum": "105",
-         "info": "",
-         "geaendert": false
+         "info": "Span 10B statt Do (30.04.) St.3; Geo 10B verlegt nach Do (30.04.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Geo",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 10B verlegt nach Do (30.04.) St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Span",
          "klasse": "10B",
          "raum": "105",
-         "info": "",
-         "geaendert": false
+         "info": "Span 10B statt Do (30.04.) St.4; Geo 10B verlegt nach Do (30.04.) St.4",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -25643,19 +25835,19 @@
         },
         {
          "stunde": "5",
-         "fach": "De",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9C gehalten am Mo (27.04.) St.5, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "De",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9C gehalten am Mo (27.04.) St.6, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -25731,7 +25923,7 @@
     },
     "20260429": {
      "datum": "Mittwoch, 29. April 2026",
-     "zeitstempel": "19.04.2026, 12:50",
+     "zeitstempel": "21.04.2026, 10:19",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -27925,7 +28117,7 @@
     },
     "20260430": {
      "datum": "Donnerstag, 30. April 2026",
-     "zeitstempel": "19.04.2026, 12:50",
+     "zeitstempel": "21.04.2026, 10:19",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -29593,19 +29785,35 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Span",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10B gehalten am Di (28.04.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "Geo",
          "klasse": "10B",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "raum": "102",
+         "info": "Geo 10B statt Di (28.04.) St.1; Span 10B gehalten am Di (28.04.) St.1",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10B gehalten am Di (28.04.) St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Geo",
          "klasse": "10B",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "raum": "102",
+         "info": "Geo 10B statt Di (28.04.) St.2; Span 10B gehalten am Di (28.04.) St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": []
