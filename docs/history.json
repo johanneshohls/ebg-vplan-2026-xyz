@@ -1912,5 +1912,90 @@
    "Std 6 (12:25): De 9C statt Di (28.04.) St.6, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch"
   ],
   "zeitstempel": "21.04.2026, 10:19"
+ },
+ {
+  "timestamp": "2026-04-21T13:27:03.972553",
+  "lehrer": "Eul",
+  "datum": "Mittwoch, 22. April 2026",
+  "date_key": "20260422",
+  "changes": [
+   "Std 1 (07:40): De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 2 (08:25): De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 3 (09:40): für De Schil",
+   "Std 4 (10:25): für De Schil"
+  ],
+  "zeitstempel": "21.04.2026, 14:14"
+ },
+ {
+  "timestamp": "2026-04-21T13:27:03.972553",
+  "lehrer": "Schil",
+  "datum": "Mittwoch, 22. April 2026",
+  "date_key": "20260422",
+  "changes": [
+   "Std 1 (07:40): De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 2 (08:25): De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 3 (09:40): De 10D Tuh",
+   "Std 4 (10:25): De 10D Tuh",
+   "Std 5 (11:40): DSp 12A-12E selbst. (v)",
+   "Std 6 (12:25): DSp 12A-12E selbst. (v)"
+  ],
+  "zeitstempel": "21.04.2026, 14:14"
+ },
+ {
+  "timestamp": "2026-04-21T13:27:03.972553",
+  "lehrer": "Tuh",
+  "datum": "Mittwoch, 22. April 2026",
+  "date_key": "20260422",
+  "changes": [
+   "Std 3 (09:40): für De Schil",
+   "Std 4 (10:25): für De Schil"
+  ],
+  "zeitstempel": "21.04.2026, 14:14"
+ },
+ {
+  "timestamp": "2026-04-21T13:27:03.972553",
+  "lehrer": "Hol",
+  "datum": "Donnerstag, 23. April 2026",
+  "date_key": "20260423",
+  "changes": [
+   "Std 5 (11:40): PVU LK12 zusätzlich für Kurs Pri",
+   "Std 6 (12:25): PVU LK12 zusätzlich für Kurs Pri"
+  ],
+  "zeitstempel": "21.04.2026, 14:14"
+ },
+ {
+  "timestamp": "2026-04-21T13:27:03.972553",
+  "lehrer": "Schil",
+  "datum": "Donnerstag, 23. April 2026",
+  "date_key": "20260423",
+  "changes": [
+   "Std 5 (11:40): De 12A-12E selbst. (v), Selbststudium",
+   "Std 6 (12:25): De 12A-12E selbst. (v), Selbststudium"
+  ],
+  "zeitstempel": "21.04.2026, 14:14"
+ },
+ {
+  "timestamp": "2026-04-21T13:27:03.972553",
+  "lehrer": "Eul",
+  "datum": "Freitag, 24. April 2026",
+  "date_key": "20260424",
+  "changes": [
+   "Std 1 (07:40): De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 2 (08:25): De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 3 (09:40): eRe 9B statt Do (23.04.) St.5, Hospitation",
+   "Std 4 (10:25): eRe 9B statt Do (23.04.) St.6"
+  ],
+  "zeitstempel": "21.04.2026, 14:14"
+ },
+ {
+  "timestamp": "2026-04-21T13:27:03.972553",
+  "lehrer": "Schil",
+  "datum": "Freitag, 24. April 2026",
+  "date_key": "20260424",
+  "changes": [
+   "Std 1 (07:40): De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 2 (08:25): De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "21.04.2026, 14:14"
  }
 ]

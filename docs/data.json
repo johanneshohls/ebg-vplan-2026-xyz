@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "21.04.2026, 12:00 Uhr",
- "last_changed": "2026-04-21T10:44:00",
+ "generiert": "21.04.2026, 13:27 Uhr",
+ "last_changed": "2026-04-21T14:14:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14869,7 +14869,7 @@
     },
     "20260422": {
      "datum": "Mittwoch, 22. April 2026",
-     "zeitstempel": "20.04.2026, 17:17",
+     "zeitstempel": "21.04.2026, 14:14",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -15252,35 +15252,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "DE2",
-         "klasse": "11A-11D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "DE2",
-         "klasse": "11A-11D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
          "fach": "De",
          "klasse": "10D",
          "raum": "003",
-         "info": "",
-         "geaendert": false
+         "info": "für De Schil",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "De",
          "klasse": "10D",
          "raum": "003",
-         "info": "",
-         "geaendert": false
+         "info": "für De Schil",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16672,35 +16672,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "DE2",
-         "klasse": "11A-11D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "DE2",
-         "klasse": "11A-11D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "10D",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10D Tuh",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "10D",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10D Tuh",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -16711,27 +16711,11 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
-         "fach": "De",
-         "klasse": "",
-         "raum": "Co1",
-         "info": "PVU 12; DSp 12A-12E selbst. (v)",
-         "geaendert": true
-        },
-        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "DSp 12A-12E selbst. (v)",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "De",
-         "klasse": "",
-         "raum": "Co1",
-         "info": "PVU 12; DSp 12A-12E selbst. (v)",
          "geaendert": true
         }
        ],
@@ -17060,6 +17044,22 @@
       "Tuh": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "10D",
+         "raum": "003",
+         "info": "für De Schil",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "10D",
+         "raum": "003",
+         "info": "für De Schil",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "De",
          "klasse": "7D",
@@ -17119,7 +17119,7 @@
     },
     "20260423": {
      "datum": "Donnerstag, 23. April 2026",
-     "zeitstempel": "20.04.2026, 17:17",
+     "zeitstempel": "21.04.2026, 14:14",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17946,6 +17946,22 @@
          "raum": "107",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "",
+         "raum": "107",
+         "info": "PVU LK12 zusätzlich für Kurs Pri",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "",
+         "raum": "107",
+         "info": "PVU LK12 zusätzlich für Kurs Pri",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -18819,19 +18835,19 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "DE1",
-         "klasse": "12A-12E",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "DE1",
-         "klasse": "12A-12E",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12E selbst. (v), Selbststudium",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -19298,7 +19314,7 @@
     },
     "20260424": {
      "datum": "Freitag, 24. April 2026",
-     "zeitstempel": "20.04.2026, 17:17",
+     "zeitstempel": "21.04.2026, 14:14",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -19600,18 +19616,18 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "DE2",
-         "klasse": "11A-11D",
-         "raum": "106",
-         "info": "für De Schil, Raumtausch wegen Klausur",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
          "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "DE2",
-         "klasse": "11A-11D",
-         "raum": "106",
-         "info": "für De Schil, Raumtausch wegen Klausur",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
          "geaendert": true
         },
         {
@@ -20889,18 +20905,18 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "DE2",
-         "klasse": "11A-11D",
-         "raum": "106",
-         "info": "für De Schil, Raumtausch wegen Klausur",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
          "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "DE2",
-         "klasse": "11A-11D",
-         "raum": "106",
-         "info": "für De Schil, Raumtausch wegen Klausur",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
          "geaendert": true
         }
        ],
@@ -21342,7 +21358,7 @@
    "tage": {
     "20260427": {
      "datum": "Montag, 27. April 2026",
-     "zeitstempel": "21.04.2026, 10:44",
+     "zeitstempel": "21.04.2026, 14:14",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -23507,7 +23523,7 @@
     },
     "20260428": {
      "datum": "Dienstag, 28. April 2026",
-     "zeitstempel": "21.04.2026, 10:44",
+     "zeitstempel": "21.04.2026, 14:14",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -25923,7 +25939,7 @@
     },
     "20260429": {
      "datum": "Mittwoch, 29. April 2026",
-     "zeitstempel": "21.04.2026, 10:44",
+     "zeitstempel": "21.04.2026, 14:14",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -28117,7 +28133,7 @@
     },
     "20260430": {
      "datum": "Donnerstag, 30. April 2026",
-     "zeitstempel": "21.04.2026, 10:44",
+     "zeitstempel": "21.04.2026, 14:14",
      "lehrer": {
       "Bar": {
        "entries": [
