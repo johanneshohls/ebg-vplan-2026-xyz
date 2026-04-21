@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "21.04.2026, 05:07 Uhr",
- "last_changed": "2026-04-20T17:17:00",
+ "generiert": "21.04.2026, 06:07 Uhr",
+ "last_changed": "2026-04-21T07:32:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12627,7 +12627,7 @@
     },
     "20260421": {
      "datum": "Dienstag, 21. April 2026",
-     "zeitstempel": "20.04.2026, 17:17",
+     "zeitstempel": "21.04.2026, 07:32",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -13571,7 +13571,7 @@
          "stunde": "5",
          "fach": "ILZ",
          "klasse": "10C",
-         "raum": "107",
+         "raum": "002",
          "info": "für ILZ Hön",
          "geaendert": true
         },
@@ -13579,7 +13579,7 @@
          "stunde": "6",
          "fach": "ILZ",
          "klasse": "10C",
-         "raum": "107",
+         "raum": "002",
          "info": "für ILZ Hön",
          "geaendert": true
         },
@@ -13600,14 +13600,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Haus, WCs, Caféteria",
-         "info": "für Rat"
-        }
-       ]
+       "aufsichten": []
       },
       "Hun": {
        "entries": [
@@ -14341,7 +14334,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": "entfällt, V: Hön"
+         "info": "entfällt, V: Tie"
         },
         {
          "vor_stunde": "3",
@@ -14773,7 +14766,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Rat"
+        }
+       ]
       },
       "Tuh": {
        "entries": [
