@@ -1,16 +1,5 @@
 [
  {
-  "timestamp": "2026-04-14T07:07:18.326089",
-  "lehrer": "Bri",
-  "datum": "Dienstag, 14. April 2026",
-  "date_key": "20260414",
-  "changes": [
-   "Std 5 (11:40): Ma 11A-11D selbst. (v), Selbststudium, Fr. Brincker erteilt Aufgaben",
-   "Std 6 (12:25): Ma 11A-11D selbst. (v), Selbststudium, Fr. Brincker erteilt Aufgaben"
-  ],
-  "zeitstempel": "14.04.2026, 08:58"
- },
- {
   "timestamp": "2026-04-14T09:07:12.627664",
   "lehrer": "Mar",
   "datum": "Mittwoch, 15. April 2026",
