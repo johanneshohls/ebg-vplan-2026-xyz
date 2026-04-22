@@ -1,45 +1,5 @@
 [
  {
-  "timestamp": "2026-04-15T13:07:12.372037",
-  "lehrer": "Bob",
-  "datum": "Dienstag, 21. April 2026",
-  "date_key": "20260421",
-  "changes": [
-   "Planänderung (Details nicht spezifiziert)"
-  ],
-  "zeitstempel": "15.04.2026, 14:45"
- },
- {
-  "timestamp": "2026-04-15T13:07:12.372037",
-  "lehrer": "Hei",
-  "datum": "Dienstag, 21. April 2026",
-  "date_key": "20260421",
-  "changes": [
-   "Planänderung (Details nicht spezifiziert)"
-  ],
-  "zeitstempel": "15.04.2026, 14:45"
- },
- {
-  "timestamp": "2026-04-15T13:07:12.372037",
-  "lehrer": "Hun",
-  "datum": "Dienstag, 21. April 2026",
-  "date_key": "20260421",
-  "changes": [
-   "Planänderung (Details nicht spezifiziert)"
-  ],
-  "zeitstempel": "15.04.2026, 14:45"
- },
- {
-  "timestamp": "2026-04-15T13:07:12.372037",
-  "lehrer": "Isb",
-  "datum": "Dienstag, 21. April 2026",
-  "date_key": "20260421",
-  "changes": [
-   "Planänderung (Details nicht spezifiziert)"
-  ],
-  "zeitstempel": "15.04.2026, 14:45"
- },
- {
   "timestamp": "2026-04-16T06:07:13.332930",
   "lehrer": "Bir",
   "datum": "Donnerstag, 16. April 2026",
