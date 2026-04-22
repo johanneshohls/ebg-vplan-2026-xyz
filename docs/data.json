@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "22.04.2026, 10:56 Uhr",
- "last_changed": "2026-04-21T15:31:00",
+ "generiert": "22.04.2026, 11:53 Uhr",
+ "last_changed": "2026-04-22T13:35:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14869,7 +14869,7 @@
     },
     "20260422": {
      "datum": "Mittwoch, 22. April 2026",
-     "zeitstempel": "21.04.2026, 14:14",
+     "zeitstempel": "22.04.2026, 13:35",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -15166,6 +15166,22 @@
       "Bri": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "Ma",
+         "klasse": "12A-12E",
+         "raum": "Co1",
+         "info": "",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ma",
+         "klasse": "12A-12E",
+         "raum": "Co1",
+         "info": "",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -15410,17 +15426,17 @@
          "stunde": "7",
          "fach": "GS04",
          "klasse": "7A-7E,8A-8D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "201",
+         "info": "für GS04 Fla",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "GS04",
          "klasse": "7A-7E,8A-8D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "201",
+         "info": "für GS04 Fla",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16077,17 +16093,17 @@
          "stunde": "7",
          "fach": "GS05",
          "klasse": "7A-7E,8A-8D",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "raum": "105",
+         "info": "für GS05 Lam",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "GS05",
          "klasse": "7A-7E,8A-8D",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "raum": "105",
+         "info": "für GS05 Lam",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16983,7 +16999,7 @@
          "stunde": "4",
          "fach": "dsp1",
          "klasse": "11A-11D",
-         "raum": "105",
+         "raum": "Co2",
          "info": "für DSp Ter, Raumtausch wegen Klausur",
          "geaendert": true
         }
@@ -17119,7 +17135,7 @@
     },
     "20260423": {
      "datum": "Donnerstag, 23. April 2026",
-     "zeitstempel": "21.04.2026, 15:31",
+     "zeitstempel": "22.04.2026, 13:35",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17528,16 +17544,16 @@
          "stunde": "3",
          "fach": "Span",
          "klasse": "8B",
-         "raum": "006 Co3",
-         "info": "für Span Köh",
+         "raum": "006",
+         "info": "für Span Köh, Teilgruppe Köh zu Tie Co3 Deutsch!",
          "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Span",
          "klasse": "8B",
-         "raum": "006 Co3",
-         "info": "für Span Köh",
+         "raum": "006",
+         "info": "für Span Köh, Teilgruppe Köh zu Tie Co3 Deutsch!",
          "geaendert": true
         }
        ],
@@ -17586,6 +17602,22 @@
       },
       "Gol": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Ge",
+         "klasse": "",
+         "raum": "K07",
+         "info": "PVU 12 ",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ge",
+         "klasse": "",
+         "raum": "K07",
+         "info": "PVU 12 ",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "Ge",
@@ -18296,51 +18328,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7C OLop",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7C OLop",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "8B",
-         "raum": "006 Co3",
-         "info": "für Span Köh",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8B Fel, Teilgruppe Köh zu Tie Co3 Deutsch!",
          "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
-         "klasse": "8B",
-         "raum": "006 Co3",
-         "info": "für Span Köh",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8B Fel, Teilgruppe Köh zu Tie Co3 Deutsch!",
          "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7D Ost (für Span), Bitte mit Fr. Tuhcic abstimmen.",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7D Ost (für Span), Bitte mit Fr. Tuhcic abstimmen.",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -18605,11 +18637,27 @@
       "OLop": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "Span",
+         "klasse": "7C",
+         "raum": "101",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Span",
+         "klasse": "7C",
+         "raum": "101",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "Span",
          "klasse": "8C",
          "raum": "007",
-         "info": "",
+         "info": "für Span OLop, Teilgruppe Köh zu Tie Co3 Deutsch!",
          "geaendert": false
         },
         {
@@ -18617,7 +18665,7 @@
          "fach": "Span",
          "klasse": "8C",
          "raum": "007",
-         "info": "",
+         "info": "für Span OLop, Teilgruppe Köh zu Tie Co3 Deutsch!",
          "geaendert": false
         }
        ],
@@ -18666,11 +18714,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für Span Köh, Bitte mit Fr. Tuhcic abstimmen.",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "De 8A verlegt nach St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für Span Köh, Bitte mit Fr. Tuhcic abstimmen.",
          "geaendert": true
         },
         {
@@ -18765,7 +18829,7 @@
          "fach": "Span",
          "klasse": "8D",
          "raum": "103",
-         "info": "",
+         "info": "für Span Puk, Teilgruppe Köh zu Tie Co3 Deutsch!",
          "geaendert": false
         },
         {
@@ -18773,7 +18837,7 @@
          "fach": "Span",
          "klasse": "8D",
          "raum": "103",
-         "info": "",
+         "info": "für Span Puk, Teilgruppe Köh zu Tie Co3 Deutsch!",
          "geaendert": false
         }
        ],
@@ -19195,6 +19259,22 @@
       "Tie": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "",
+         "raum": "Co3",
+         "info": "Teilungsgruppe Span 8 aus b,c,d bitte Deutsch machen",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "",
+         "raum": "Co3",
+         "info": "Teilungsgruppe Span 8 aus b,c,d bitte Deutsch machen",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Ge",
          "klasse": "9C",
@@ -19330,7 +19410,7 @@
     },
     "20260424": {
      "datum": "Freitag, 24. April 2026",
-     "zeitstempel": "21.04.2026, 14:14",
+     "zeitstempel": "22.04.2026, 13:35",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -19959,7 +20039,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Hof2 und grünes Klassenzimmer",
-         "info": ""
+         "info": "entfällt, V: Schud"
         }
        ]
       },
@@ -20169,10 +20249,26 @@
         },
         {
          "stunde": "5",
+         "fach": "De",
+         "klasse": "7D",
+         "raum": "008",
+         "info": "für Span Köh, Bitte mit Fr. Tuhcic absprechen.",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "dsp1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "7D",
+         "raum": "008",
+         "info": "für Span Köh, Bitte mit Fr. Tuhcic absprechen.",
          "geaendert": true
         },
         {
@@ -20352,35 +20448,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
-         "klasse": "9B",
-         "raum": "007 K12",
-         "info": "für Span OLop",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9B OLop, Ganze Klasse 9b zu OLop.",
          "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
-         "klasse": "9B",
-         "raum": "007 K12",
-         "info": "für Span OLop",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9B OLop, Ganze Klasse 9b zu OLop.",
          "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "7D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7D Hön (für Span), Bitte mit Fr. Tuhcic absprechen.",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "7D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7D Hön (für Span), Bitte mit Fr. Tuhcic absprechen.",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20658,17 +20754,17 @@
          "stunde": "1",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007 K12",
-         "info": "für Span OLop",
-         "geaendert": true
+         "raum": "007",
+         "info": "für Span OLop, Ganze Klasse 9b zu OLop.",
+         "geaendert": false
         },
         {
          "stunde": "2",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007 K12",
-         "info": "für Span OLop",
-         "geaendert": true
+         "raum": "007",
+         "info": "für Span OLop, Ganze Klasse 9b zu OLop.",
+         "geaendert": false
         },
         {
          "stunde": "3",
@@ -21065,7 +21161,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": "für Her"
+        }
+       ]
       },
       "See": {
        "entries": [
@@ -21374,7 +21477,7 @@
    "tage": {
     "20260427": {
      "datum": "Montag, 27. April 2026",
-     "zeitstempel": "21.04.2026, 14:14",
+     "zeitstempel": "22.04.2026, 13:35",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -21440,6 +21543,22 @@
       "Bis": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "7D",
+         "raum": "Co1",
+         "info": "En 7D verlegt von St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "7D",
+         "raum": "Co1",
+         "info": "En 7D verlegt von St.8",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "En",
          "klasse": "7A",
@@ -21457,19 +21576,19 @@
         },
         {
          "stunde": "7",
-         "fach": "En",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7D verlegt nach St.3",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "En",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7D verlegt nach St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -21504,7 +21623,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ch 7D Kno",
+         "info": "Ch 7D fällt aus",
          "geaendert": true
         },
         {
@@ -21512,7 +21631,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ch 7D Kno",
+         "info": "Ch 7D fällt aus",
          "geaendert": true
         },
         {
@@ -21570,19 +21689,19 @@
         },
         {
          "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "sp1 12A-12E fällt aus",
-         "geaendert": true
+         "fach": "sp1",
+         "klasse": "12A-12E",
+         "raum": "Tu1",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "sp1 12A-12E fällt aus",
-         "geaendert": true
+         "fach": "sp1",
+         "klasse": "12A-12E",
+         "raum": "Tu1",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "7",
@@ -21618,19 +21737,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "inf1 12A-12E fällt aus",
-         "geaendert": true
+         "fach": "inf1",
+         "klasse": "12A-12E",
+         "raum": "K10",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "4",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "inf1 12A-12E fällt aus",
-         "geaendert": true
+         "fach": "inf1",
+         "klasse": "12A-12E",
+         "raum": "K10",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "5",
@@ -21784,6 +21903,22 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "Ge",
+         "klasse": "10A",
+         "raum": "Co2",
+         "info": "für Ge Pri, Klausur: Geschichte",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ge",
+         "klasse": "10A",
+         "raum": "Co2",
+         "info": "für Ge Pri, Klausur: Geschichte",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Ge",
          "klasse": "10C",
@@ -21801,19 +21936,19 @@
         },
         {
          "stunde": "7",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "ge2 12A-12E fällt aus",
-         "geaendert": true
+         "fach": "ge2",
+         "klasse": "12A-12E",
+         "raum": "K07",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "8",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "ge2 12A-12E fällt aus",
-         "geaendert": true
+         "fach": "ge2",
+         "klasse": "12A-12E",
+         "raum": "K07",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": [
@@ -21858,6 +21993,38 @@
          "raum": "008",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "AWT",
+         "klasse": "10D",
+         "raum": "207",
+         "info": "AWT 10D statt Do (30.04.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "AWT",
+         "klasse": "10D",
+         "raum": "207",
+         "info": "AWT 10D statt Do (30.04.) St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Ge",
+         "klasse": "10B",
+         "raum": "Co1",
+         "info": "für Ge Pri, Klausuraufsicht",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Ge",
+         "klasse": "10B",
+         "raum": "Co1",
+         "info": "für Ge Pri, Klausuraufsicht",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -21905,19 +22072,19 @@
         },
         {
          "stunde": "7",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "geo2 12A-12E fällt aus",
-         "geaendert": true
+         "fach": "geo2",
+         "klasse": "12A-12E",
+         "raum": "105",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "8",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "geo2 12A-12E fällt aus",
-         "geaendert": true
+         "fach": "geo2",
+         "klasse": "12A-12E",
+         "raum": "105",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": [
@@ -22116,7 +22283,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "en2 12A-12E fällt aus",
+         "info": "En 12A-12E selbst. (v), Selbststudium",
          "geaendert": true
         },
         {
@@ -22124,7 +22291,7 @@
          "fach": "En",
          "klasse": "",
          "raum": "101",
-         "info": "Kompetenzprüfungen Englisch 9d; en2 12A-12E fällt aus",
+         "info": "Kompetenzprüfungen Englisch 9d; En 12A-12E selbst. (v), Selbststudium",
          "geaendert": true
         },
         {
@@ -22132,7 +22299,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "en2 12A-12E fällt aus",
+         "info": "En 12A-12E selbst. (v), Selbststudium",
          "geaendert": true
         },
         {
@@ -22140,7 +22307,7 @@
          "fach": "En",
          "klasse": "",
          "raum": "101",
-         "info": "Kompetenzprüfungen Englisch 9d; en2 12A-12E fällt aus",
+         "info": "Kompetenzprüfungen Englisch 9d; En 12A-12E selbst. (v), Selbststudium",
          "geaendert": true
         },
         {
@@ -22148,7 +22315,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 9C verlegt nach Di (28.04.) St.5, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
+         "info": "En 9C verlegt nach Mi (29.04.) St.3",
          "geaendert": true
         },
         {
@@ -22156,7 +22323,7 @@
          "fach": "En",
          "klasse": "",
          "raum": "101",
-         "info": "Kompetenzprüfungen Englisch 9d; En 9C verlegt nach Di (28.04.) St.5 (Hol), Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
+         "info": "Kompetenzprüfungen Englisch 9d; En 9C verlegt nach Mi (29.04.) St.3 (Hol)",
          "geaendert": true
         },
         {
@@ -22164,7 +22331,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 9C verlegt nach Di (28.04.) St.6, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
+         "info": "En 9C verlegt nach Mi (29.04.) St.4",
          "geaendert": true
         },
         {
@@ -22172,7 +22339,7 @@
          "fach": "En",
          "klasse": "",
          "raum": "101",
-         "info": "Kompetenzprüfungen Englisch 9d; En 9C verlegt nach Di (28.04.) St.6 (Hol), Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
+         "info": "Kompetenzprüfungen Englisch 9d; En 9C verlegt nach Mi (29.04.) St.4 (Hol)",
          "geaendert": true
         },
         {
@@ -22274,19 +22441,19 @@
         },
         {
          "stunde": "5",
-         "fach": "Ch",
-         "klasse": "10D",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 10D verlegt nach Di (28.04.) St.7",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ch",
-         "klasse": "10D",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 10D verlegt nach Di (28.04.) St.8",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -22488,51 +22655,35 @@
         },
         {
          "stunde": "3",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "ch1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "3",
-         "fach": "Ch",
-         "klasse": "7D",
+         "fach": "ch1",
+         "klasse": "12A-12E",
          "raum": "K12",
-         "info": "für Ch Bob",
+         "info": "für Ch Kno",
          "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "ch1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Ch",
-         "klasse": "7D",
+         "fach": "ch1",
+         "klasse": "12A-12E",
          "raum": "K12",
-         "info": "für Ch Bob",
+         "info": "für Ch Kno",
          "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "ch2 12A-12E fällt aus",
-         "geaendert": true
+         "fach": "ch2",
+         "klasse": "12A-12E",
+         "raum": "Co3",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "ch2 12A-12E fällt aus",
-         "geaendert": true
+         "fach": "ch2",
+         "klasse": "12A-12E",
+         "raum": "Co3",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "7",
@@ -22895,19 +23046,19 @@
         },
         {
          "stunde": "7",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "de3 12A-12E fällt aus",
-         "geaendert": true
+         "fach": "de3",
+         "klasse": "12A-12E",
+         "raum": "002",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "8",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "de3 12A-12E fällt aus",
-         "geaendert": true
+         "fach": "de3",
+         "klasse": "12A-12E",
+         "raum": "002",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": []
@@ -22916,51 +23067,51 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Ge",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10A Gol, Klausur: Geschichte",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ge",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10A Gol, Klausur: Geschichte",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "9B",
-         "raum": "007",
-         "info": "für En Pri",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9B fällt aus",
          "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "9B",
-         "raum": "007",
-         "info": "für En Pri",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9B fällt aus",
          "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Ge",
-         "klasse": "10B",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10B Gor, Klausuraufsicht",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ge",
-         "klasse": "10B",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10B Gor, Klausuraufsicht",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23081,6 +23232,22 @@
          "geaendert": false
         },
         {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "9B",
+         "raum": "007",
+         "info": "Ma 9B statt Mi (29.04.) St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "9B",
+         "raum": "007",
+         "info": "Ma 9B statt Mi (29.04.) St.8",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "---",
          "klasse": "",
@@ -23148,19 +23315,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "ku2 12A-12E fällt aus",
-         "geaendert": true
+         "fach": "ku2",
+         "klasse": "12A-12E",
+         "raum": "207",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "2",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "ku2 12A-12E fällt aus",
-         "geaendert": true
+         "fach": "ku2",
+         "klasse": "12A-12E",
+         "raum": "207",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "3",
@@ -23198,7 +23365,7 @@
          "stunde": "7",
          "fach": "Ge",
          "klasse": "9B",
-         "raum": "002",
+         "raum": "004",
          "info": "für Ge Schud",
          "geaendert": true
         },
@@ -23206,7 +23373,7 @@
          "stunde": "8",
          "fach": "Ge",
          "klasse": "9B",
-         "raum": "002",
+         "raum": "004",
          "info": "für Ge Schud",
          "geaendert": true
         }
@@ -23375,11 +23542,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "201",
+         "info": "PVU 12 BIO; Bio 9D verlegt nach St.3 (Ter)",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Bio 9D verlegt nach St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "201",
+         "info": "PVU 12 BIO; Bio 9D verlegt nach St.4 (Ter)",
          "geaendert": true
         },
         {
@@ -23484,7 +23667,7 @@
          "fach": "De",
          "klasse": "9C",
          "raum": "004",
-         "info": "De 9C statt Di (28.04.) St.5, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
+         "info": "De 9C statt Di (28.04.) St.5",
          "geaendert": true
         },
         {
@@ -23492,7 +23675,7 @@
          "fach": "De",
          "klasse": "9C",
          "raum": "004",
-         "info": "De 9C statt Di (28.04.) St.6, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
+         "info": "De 9C statt Di (28.04.) St.6",
          "geaendert": true
         },
         {
@@ -23518,19 +23701,19 @@
        "entries": [
         {
          "stunde": "7",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "en1 12A-12E fällt aus",
-         "geaendert": true
+         "fach": "en1",
+         "klasse": "12A-12E",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "8",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "en1 12A-12E fällt aus",
-         "geaendert": true
+         "fach": "en1",
+         "klasse": "12A-12E",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": []
@@ -23539,7 +23722,7 @@
     },
     "20260428": {
      "datum": "Dienstag, 28. April 2026",
-     "zeitstempel": "21.04.2026, 14:14",
+     "zeitstempel": "22.04.2026, 13:35",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23610,19 +23793,19 @@
        "entries": [
         {
          "stunde": "7",
-         "fach": "Mu",
-         "klasse": "10D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 10D verlegt nach Do (30.04.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Mu",
-         "klasse": "10D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 10D verlegt nach Do (30.04.) St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23793,6 +23976,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "Ma",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "Ma 9C verlegt von St.3; inf2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -23801,11 +23992,19 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "Ma",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "Ma 9C verlegt von St.4; inf2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 9C verlegt nach Do (30.04.) St.7",
+         "info": "Ma 9C verlegt nach St.1",
          "geaendert": true
         },
         {
@@ -23813,7 +24012,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 9C verlegt nach Do (30.04.) St.8",
+         "info": "Ma 9C verlegt nach St.2",
          "geaendert": true
         },
         {
@@ -23849,7 +24048,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Essenraum und Keller",
+         "info": "für Hön"
+        }
+       ]
       },
       "Epp": {
        "entries": [],
@@ -24046,19 +24252,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "AWT",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 9C verlegt nach St.7",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "AWT",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 9C verlegt nach St.8",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -24074,6 +24280,22 @@
          "klasse": "",
          "raum": "",
          "info": "GE2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "AWT",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "AWT 9C verlegt von St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "AWT",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "AWT 9C verlegt von St.2",
          "geaendert": true
         }
        ],
@@ -24385,27 +24607,11 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
-         "fach": "En",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "En 9C statt Mo (27.04.) St.5, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch; EN2 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "EN2 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "En",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "En 9C statt Mo (27.04.) St.6, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch; EN2 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -24431,34 +24637,34 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "DE1",
-         "klasse": "11A-11D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "1",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
-         "info": "Deutsch-Abitur",
+         "info": "Deutsch-Abitur; De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
          "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "DE1",
-         "klasse": "11A-11D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
-         "info": "Deutsch-Abitur",
+         "info": "Deutsch-Abitur; De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
          "geaendert": true
         },
         {
@@ -24472,7 +24678,7 @@
         {
          "stunde": "3",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur; De 10C gehalten am Mo (27.04.) St.3 (Hön)",
          "geaendert": true
@@ -24488,7 +24694,7 @@
         {
          "stunde": "4",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur; De 10C gehalten am Mo (27.04.) St.4 (Hön)",
          "geaendert": true
@@ -24504,7 +24710,7 @@
         {
          "stunde": "5",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur; De 9D gehalten am Mo (27.04.) St.5 (Hön)",
          "geaendert": true
@@ -24520,7 +24726,7 @@
         {
          "stunde": "6",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur; De 9D gehalten am Mo (27.04.) St.6 (Hön)",
          "geaendert": true
@@ -24528,7 +24734,7 @@
         {
          "stunde": "7",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur",
          "geaendert": true
@@ -24536,7 +24742,7 @@
         {
          "stunde": "8",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur",
          "geaendert": true
@@ -24547,7 +24753,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Essenraum und Keller",
-         "info": "entfällt, V: Mar"
+         "info": "entfällt, V: Con"
         }
        ]
       },
@@ -24610,11 +24816,27 @@
          "geaendert": true
         },
         {
+         "stunde": "7",
+         "fach": "Ch",
+         "klasse": "10D",
+         "raum": "K12",
+         "info": "Ch 10D statt Mo (27.04.) St.5; As 9B verlegt nach Do (30.04.) St.1",
+         "geaendert": true
+        },
+        {
          "stunde": "8",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "As 9B verlegt nach Do (30.04.) St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Ch",
+         "klasse": "10D",
+         "raum": "K12",
+         "info": "Ch 10D statt Mo (27.04.) St.6; As 9B verlegt nach Do (30.04.) St.2",
          "geaendert": true
         }
        ],
@@ -24673,7 +24895,7 @@
         {
          "stunde": "1",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur",
          "geaendert": true
@@ -24681,7 +24903,7 @@
         {
          "stunde": "2",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur",
          "geaendert": true
@@ -24697,7 +24919,7 @@
         {
          "stunde": "3",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur; Phil 8D fällt aus",
          "geaendert": true
@@ -24713,7 +24935,7 @@
         {
          "stunde": "4",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur; Phil 8D fällt aus",
          "geaendert": true
@@ -24729,7 +24951,7 @@
         {
          "stunde": "5",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur; DE2 12A-12E fällt aus",
          "geaendert": true
@@ -24745,7 +24967,7 @@
         {
          "stunde": "6",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur; DE2 12A-12E fällt aus",
          "geaendert": true
@@ -24761,7 +24983,7 @@
         {
          "stunde": "7",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur; Phil 10C fällt aus",
          "geaendert": true
@@ -24777,7 +24999,7 @@
         {
          "stunde": "8",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur; Phil 10C fällt aus",
          "geaendert": true
@@ -25003,14 +25225,7 @@
          "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Essenraum und Keller",
-         "info": "für Hön"
-        }
-       ]
+       "aufsichten": []
       },
       "Mue": {
        "entries": [
@@ -25032,19 +25247,19 @@
         },
         {
          "stunde": "3",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Geo 9B verlegt nach St.7",
-         "geaendert": true
+         "fach": "Geo",
+         "klasse": "9B",
+         "raum": "105",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "4",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Geo 9B verlegt nach St.8",
-         "geaendert": true
+         "fach": "Geo",
+         "klasse": "9B",
+         "raum": "105",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "5",
@@ -25061,22 +25276,6 @@
          "raum": "106",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "Geo",
-         "klasse": "9B",
-         "raum": "106",
-         "info": "Geo 9B verlegt von St.3",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Geo",
-         "klasse": "9B",
-         "raum": "106",
-         "info": "Geo 9B verlegt von St.4",
-         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -25185,19 +25384,19 @@
         },
         {
          "stunde": "7",
-         "fach": "bio2",
-         "klasse": "11A-11D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "bio2",
-         "klasse": "11A-11D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -25205,7 +25404,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Tie"
         }
        ]
       },
@@ -25220,27 +25419,11 @@
          "geaendert": true
         },
         {
-         "stunde": "3",
-         "fach": "En",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "En 9B statt Do (30.04.) St.1; EN1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "EN1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "En",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "En 9B statt Do (30.04.) St.2; EN1 12A-12E fällt aus",
          "geaendert": true
         }
        ],
@@ -25249,7 +25432,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Abwesenheiten der Oberstufe einpflegen",
-         "info": ""
+         "info": "entfällt, V: Roh"
         }
        ]
       },
@@ -25401,7 +25584,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Abwesenheiten der Oberstufe einpflegen",
+         "info": "für Pri"
+        }
+       ]
       },
       "Scheu": {
        "entries": [],
@@ -25412,7 +25602,7 @@
         {
          "stunde": "1",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur",
          "geaendert": true
@@ -25420,7 +25610,7 @@
         {
          "stunde": "2",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur",
          "geaendert": true
@@ -25436,7 +25626,7 @@
         {
          "stunde": "3",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur; DE1 12A-12E fällt aus",
          "geaendert": true
@@ -25452,7 +25642,7 @@
         {
          "stunde": "4",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur; DE1 12A-12E fällt aus",
          "geaendert": true
@@ -25460,7 +25650,7 @@
         {
          "stunde": "5",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur",
          "geaendert": true
@@ -25468,7 +25658,7 @@
         {
          "stunde": "6",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur",
          "geaendert": true
@@ -25476,7 +25666,7 @@
         {
          "stunde": "7",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur",
          "geaendert": true
@@ -25484,7 +25674,7 @@
         {
          "stunde": "8",
          "fach": "De",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Deutsch-Abitur",
          "geaendert": true
@@ -25813,6 +26003,22 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Ge",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "Ge 9C statt Mi (29.04.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ge",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "Ge 9C statt Mi (29.04.) St.4",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "ge2",
          "klasse": "11A-11D",
@@ -25829,7 +26035,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Ost"
+        }
+       ]
       },
       "Tuh": {
        "entries": [
@@ -25870,7 +26083,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 9C gehalten am Mo (27.04.) St.5, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
+         "info": "De 9C gehalten am Mo (27.04.) St.5",
          "geaendert": true
         },
         {
@@ -25878,7 +26091,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 9C gehalten am Mo (27.04.) St.6, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
+         "info": "De 9C gehalten am Mo (27.04.) St.6",
          "geaendert": true
         }
        ],
@@ -25955,7 +26168,7 @@
     },
     "20260429": {
      "datum": "Mittwoch, 29. April 2026",
-     "zeitstempel": "21.04.2026, 14:14",
+     "zeitstempel": "22.04.2026, 13:35",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -26722,11 +26935,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "9C",
+         "raum": "002",
+         "info": "En 9C statt Mo (27.04.) St.5; ILZ 10A gehalten am Di (28.04.) St.1",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "KL 10A gehalten am Di (28.04.) St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "9C",
+         "raum": "002",
+         "info": "En 9C statt Mo (27.04.) St.6; KL 10A gehalten am Di (28.04.) St.2",
          "geaendert": true
         },
         {
@@ -27480,36 +27709,20 @@
       "Pri": {
        "entries": [
         {
-         "stunde": "3",
-         "fach": "Ge",
-         "klasse": "7A",
-         "raum": "105",
-         "info": "Ge 7A statt Do (30.04.) St.3",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Ge",
-         "klasse": "7A",
-         "raum": "105",
-         "info": "Ge 7A statt Do (30.04.) St.4",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
-         "fach": "Ge",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7E Roh (für Ge)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ge",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7E Roh (für Ge)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -27594,11 +27807,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Ku",
+         "klasse": "7A",
+         "raum": "207",
+         "info": "statt Do (30.04.) St.3 (Ge Pri); Ku 7A verlegt nach St.1",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ku 7A verlegt nach St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ku",
+         "klasse": "7A",
+         "raum": "207",
+         "info": "statt Do (30.04.) St.4 (Ge Pri); Ku 7A verlegt nach St.2",
          "geaendert": true
         }
        ],
@@ -27646,20 +27875,36 @@
          "geaendert": false
         },
         {
-         "stunde": "7",
+         "stunde": "5",
          "fach": "Ma",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "klasse": "7E",
+         "raum": "005",
+         "info": "für Ge Pri",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "für Ge Pri",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9B gehalten am Mo (27.04.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9B gehalten am Mo (27.04.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -28022,19 +28267,19 @@
         },
         {
          "stunde": "3",
-         "fach": "Ge",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 9C gehalten am Di (28.04.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ge",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 9C gehalten am Di (28.04.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -28149,7 +28394,7 @@
     },
     "20260430": {
      "datum": "Donnerstag, 30. April 2026",
-     "zeitstempel": "21.04.2026, 14:14",
+     "zeitstempel": "22.04.2026, 13:35",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -28211,6 +28456,22 @@
       },
       "Bir": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "Mu",
+         "klasse": "10D",
+         "raum": "107",
+         "info": "Mu 10D statt Di (28.04.) St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Mu",
+         "klasse": "10D",
+         "raum": "107",
+         "info": "Mu 10D statt Di (28.04.) St.8",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "Mu",
@@ -28473,27 +28734,11 @@
          "geaendert": true
         },
         {
-         "stunde": "7",
-         "fach": "Ma",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "Ma 9C statt Di (28.04.) St.3; inf2 11A-11D fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "8",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "inf2 11A-11D fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Ma",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "Ma 9C statt Di (28.04.) St.4; inf2 11A-11D fällt aus",
          "geaendert": true
         }
        ],
@@ -28685,19 +28930,19 @@
         },
         {
          "stunde": "3",
-         "fach": "AWT",
-         "klasse": "10D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 10D gehalten am Mo (27.04.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "AWT",
-         "klasse": "10D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 10D gehalten am Mo (27.04.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -28839,19 +29084,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -28870,6 +29115,22 @@
          "geaendert": false
         },
         {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Aufsicht Englisch-Abitur",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Aufsicht Englisch-Abitur",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "---",
          "klasse": "",
@@ -28878,11 +29139,27 @@
          "geaendert": true
         },
         {
+         "stunde": "7",
+         "fach": "En",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Aufsicht Englisch-Abitur; en2 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "8",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "en2 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "En",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Aufsicht Englisch-Abitur; en2 11A-11D fällt aus",
          "geaendert": true
         }
        ],
@@ -28960,7 +29237,7 @@
         {
          "stunde": "1",
          "fach": "En",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Englisch-Abitur",
          "geaendert": true
@@ -28968,7 +29245,7 @@
         {
          "stunde": "2",
          "fach": "En",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Englisch-Abitur",
          "geaendert": true
@@ -28984,7 +29261,7 @@
         {
          "stunde": "3",
          "fach": "En",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Englisch-Abitur; EN2 12A-12E fällt aus",
          "geaendert": true
@@ -29000,7 +29277,7 @@
         {
          "stunde": "4",
          "fach": "En",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Englisch-Abitur; EN2 12A-12E fällt aus",
          "geaendert": true
@@ -29008,7 +29285,7 @@
         {
          "stunde": "5",
          "fach": "En",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Englisch-Abitur",
          "geaendert": true
@@ -29016,7 +29293,7 @@
         {
          "stunde": "6",
          "fach": "En",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Englisch-Abitur",
          "geaendert": true
@@ -29032,7 +29309,7 @@
         {
          "stunde": "7",
          "fach": "En",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Englisch-Abitur; En 9C gehalten am Di (28.04.) St.3 (Hol)",
          "geaendert": true
@@ -29048,7 +29325,7 @@
         {
          "stunde": "8",
          "fach": "En",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Englisch-Abitur; En 9C gehalten am Di (28.04.) St.4 (Hol)",
          "geaendert": true
@@ -29123,7 +29400,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof 1, WC, Container",
+         "info": "für Ost"
+        }
+       ]
       },
       "Hun": {
        "entries": [
@@ -29208,7 +29492,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof 1, WC, Container",
+         "info": "für Tuh"
+        }
+       ]
       },
       "Isb": {
        "entries": [
@@ -29286,14 +29577,7 @@
          "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Hof 1, WC, Container",
-         "info": "für Tuh"
-        }
-       ]
+       "aufsichten": []
       },
       "Kar": {
        "entries": [],
@@ -29301,6 +29585,22 @@
       },
       "Kno": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "En",
+         "klasse": "",
+         "raum": "Aula K10",
+         "info": "Aufsicht im Abitur Englisch, Begleitung Kim Nitz",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "En",
+         "klasse": "",
+         "raum": "Aula K10",
+         "info": "Aufsicht im Abitur Englisch, Begleitung Kim Nitz",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "Ch",
@@ -29395,11 +29695,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "En",
+         "klasse": "",
+         "raum": "Aula K10",
+         "info": "Aufsicht im Abitur Englisch, Begleitung Kim Nitz; w1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "w1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "En",
+         "klasse": "",
+         "raum": "Aula K10",
+         "info": "Aufsicht im Abitur Englisch, Begleitung Kim Nitz; w1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -29692,7 +30008,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Hof 1, WC, Container",
-         "info": ""
+         "info": "entfällt, V: Hön"
         }
        ]
       },
@@ -29703,15 +30019,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 9B gehalten am Di (28.04.) St.3",
-         "geaendert": true
-        },
-        {
-         "stunde": "1",
-         "fach": "En",
-         "klasse": "",
-         "raum": "Aula",
-         "info": "Englisch-Abitur; En 9B gehalten am Di (28.04.) St.3 (Pri)",
+         "info": "En 9B fällt aus",
          "geaendert": true
         },
         {
@@ -29719,15 +30027,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 9B gehalten am Di (28.04.) St.4",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "En",
-         "klasse": "",
-         "raum": "Aula",
-         "info": "Englisch-Abitur; En 9B gehalten am Di (28.04.) St.4 (Pri)",
+         "info": "En 9B fällt aus",
          "geaendert": true
         },
         {
@@ -29735,15 +30035,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 7A gehalten am Mi (29.04.) St.3",
-         "geaendert": true
-        },
-        {
-         "stunde": "3",
-         "fach": "En",
-         "klasse": "",
-         "raum": "Aula",
-         "info": "Englisch-Abitur; Ge 7A gehalten am Mi (29.04.) St.3 (Pri)",
+         "info": "Ku 7A gehalten am Mi (29.04.) St.3 (Rat)",
          "geaendert": true
         },
         {
@@ -29751,15 +30043,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 7A gehalten am Mi (29.04.) St.4",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "En",
-         "klasse": "",
-         "raum": "Aula",
-         "info": "Englisch-Abitur; Ge 7A gehalten am Mi (29.04.) St.4 (Pri)",
+         "info": "Ku 7A gehalten am Mi (29.04.) St.4 (Rat)",
          "geaendert": true
         },
         {
@@ -29771,43 +30055,11 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
-         "fach": "En",
-         "klasse": "",
-         "raum": "Aula",
-         "info": "Englisch-Abitur; EN1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "EN1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "En",
-         "klasse": "",
-         "raum": "Aula",
-         "info": "Englisch-Abitur; EN1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "7",
-         "fach": "En",
-         "klasse": "",
-         "raum": "Aula",
-         "info": "Englisch-Abitur",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "En",
-         "klasse": "",
-         "raum": "Aula",
-         "info": "Englisch-Abitur",
          "geaendert": true
         }
        ],
@@ -29975,11 +30227,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Aufsicht im Englisch-Abitur; GE1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "GE1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Aufsicht im Englisch-Abitur; GE1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -30324,7 +30592,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Hof 1, WC, Container",
-         "info": "entfällt, V: Jur"
+         "info": "entfällt, V: Hun"
         }
        ]
       },
@@ -30341,7 +30609,7 @@
         {
          "stunde": "1",
          "fach": "En",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Englisch-Abitur; ILZ 9A gehalten am Mi (29.04.) St.3 (Wag)",
          "geaendert": true
@@ -30357,7 +30625,7 @@
         {
          "stunde": "2",
          "fach": "En",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Englisch-Abitur; KL 9A gehalten am Mi (29.04.) St.4 (Wag)",
          "geaendert": true
@@ -30365,7 +30633,7 @@
         {
          "stunde": "3",
          "fach": "En",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Englisch-Abitur",
          "geaendert": true
@@ -30373,7 +30641,7 @@
         {
          "stunde": "4",
          "fach": "En",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Englisch-Abitur",
          "geaendert": true
@@ -30389,7 +30657,7 @@
         {
          "stunde": "5",
          "fach": "En",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Englisch-Abitur; EN1 11A-11D fällt aus",
          "geaendert": true
@@ -30405,7 +30673,7 @@
         {
          "stunde": "6",
          "fach": "En",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Englisch-Abitur; EN1 11A-11D fällt aus",
          "geaendert": true
@@ -30421,7 +30689,7 @@
         {
          "stunde": "7",
          "fach": "En",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Englisch-Abitur; en1 12A-12E fällt aus",
          "geaendert": true
@@ -30437,7 +30705,7 @@
         {
          "stunde": "8",
          "fach": "En",
-         "klasse": "",
+         "klasse": "12A-12E",
          "raum": "Aula",
          "info": "Englisch-Abitur; en1 12A-12E fällt aus",
          "geaendert": true
