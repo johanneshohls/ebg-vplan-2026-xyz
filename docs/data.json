@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "23.04.2026, 10:10 Uhr",
- "last_changed": "2026-04-22T13:35:00",
+ "generiert": "23.04.2026, 11:21 Uhr",
+ "last_changed": "2026-04-23T12:23:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -17135,7 +17135,7 @@
     },
     "20260423": {
      "datum": "Donnerstag, 23. April 2026",
-     "zeitstempel": "22.04.2026, 13:35",
+     "zeitstempel": "23.04.2026, 12:23",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -19410,7 +19410,7 @@
     },
     "20260424": {
      "datum": "Freitag, 24. April 2026",
-     "zeitstempel": "22.04.2026, 13:35",
+     "zeitstempel": "23.04.2026, 12:23",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -21477,7 +21477,7 @@
    "tage": {
     "20260427": {
      "datum": "Montag, 27. April 2026",
-     "zeitstempel": "22.04.2026, 13:35",
+     "zeitstempel": "23.04.2026, 12:23",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -21903,22 +21903,6 @@
          "geaendert": false
         },
         {
-         "stunde": "3",
-         "fach": "Ge",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "für Ge Pri, Klausur: Geschichte",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Ge",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "für Ge Pri, Klausur: Geschichte",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
          "fach": "Ge",
          "klasse": "10C",
@@ -22008,22 +21992,6 @@
          "klasse": "10D",
          "raum": "207",
          "info": "AWT 10D statt Do (30.04.) St.4",
-         "geaendert": true
-        },
-        {
-         "stunde": "7",
-         "fach": "Ge",
-         "klasse": "10B",
-         "raum": "Co1",
-         "info": "für Ge Pri, Klausuraufsicht",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Ge",
-         "klasse": "10B",
-         "raum": "Co1",
-         "info": "für Ge Pri, Klausuraufsicht",
          "geaendert": true
         }
        ],
@@ -22831,6 +22799,22 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "10A",
+         "raum": "Co2",
+         "info": "Ma 10A verlegt von St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "10A",
+         "raum": "Co2",
+         "info": "Ma 10A verlegt von St.8",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Ma",
          "klasse": "10B",
@@ -22848,19 +22832,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Ma",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10A verlegt nach St.3",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10A verlegt nach St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -23070,7 +23054,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 10A Gol, Klausur: Geschichte",
+         "info": "Ge 10A fällt aus",
          "geaendert": true
         },
         {
@@ -23078,7 +23062,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 10A Gol, Klausur: Geschichte",
+         "info": "Ge 10A fällt aus",
          "geaendert": true
         },
         {
@@ -23102,7 +23086,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 10B Gor, Klausuraufsicht",
+         "info": "Ge 10B fällt aus",
          "geaendert": true
         },
         {
@@ -23110,7 +23094,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 10B Gor, Klausuraufsicht",
+         "info": "Ge 10B fällt aus",
          "geaendert": true
         }
        ],
@@ -23722,7 +23706,7 @@
     },
     "20260428": {
      "datum": "Dienstag, 28. April 2026",
-     "zeitstempel": "22.04.2026, 13:35",
+     "zeitstempel": "23.04.2026, 12:23",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23756,11 +23740,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Ph",
+         "klasse": "11A-11D",
+         "raum": "205",
+         "info": "PH 12/11 LK; PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ph",
+         "klasse": "11A-11D",
+         "raum": "205",
+         "info": "PH 12/11 LK; PH1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -26168,7 +26168,7 @@
     },
     "20260429": {
      "datum": "Mittwoch, 29. April 2026",
-     "zeitstempel": "22.04.2026, 13:35",
+     "zeitstempel": "23.04.2026, 12:23",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -28394,7 +28394,7 @@
     },
     "20260430": {
      "datum": "Donnerstag, 30. April 2026",
-     "zeitstempel": "22.04.2026, 13:35",
+     "zeitstempel": "23.04.2026, 12:23",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -28444,11 +28444,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Ph",
+         "klasse": "11A-11D",
+         "raum": "201",
+         "info": "PH 11/12 LK; PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ph",
+         "klasse": "11A-11D",
+         "raum": "201",
+         "info": "PH 11/12 LK; PH1 12A-12E fällt aus",
          "geaendert": true
         }
        ],
