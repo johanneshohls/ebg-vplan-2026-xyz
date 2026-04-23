@@ -1,29 +1,5 @@
 [
  {
-  "timestamp": "2026-04-16T06:07:13.332930",
-  "lehrer": "Bir",
-  "datum": "Donnerstag, 16. April 2026",
-  "date_key": "20260416",
-  "changes": [
-   "Std 7 (13:40): für Mu Bir, Klassenkonzert, Aula",
-   "Std 8 (14:25): für Mu Bir, Klassenkonzert, Aula"
-  ],
-  "zeitstempel": "16.04.2026, 07:19"
- },
- {
-  "timestamp": "2026-04-16T06:07:13.332930",
-  "lehrer": "Ost",
-  "datum": "Mittwoch, 22. April 2026",
-  "date_key": "20260422",
-  "changes": [
-   "Std 1 (07:40): De 9B statt Do (23.04.) St.3, Verlegung aufgrund einer Hospitation",
-   "Std 2 (08:25): De 9B statt Do (23.04.) St.4, Verlegung aufgrund einer Hospitation",
-   "Std 3 (09:40): Bio 9B verlegt nach Fr (24.04.) St.5, Verlegung aufgrund Tutorenstunde 12",
-   "Std 4 (10:25): Bio 9B verlegt nach Fr (24.04.) St.6, Verlegung aufgrund Tutorenstunde 12"
-  ],
-  "zeitstempel": "16.04.2026, 07:25"
- },
- {
   "timestamp": "2026-04-16T08:07:15.479047",
   "lehrer": "Gor",
   "datum": "Donnerstag, 16. April 2026",
