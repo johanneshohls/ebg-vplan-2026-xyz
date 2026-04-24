@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "24.04.2026, 07:02 Uhr",
- "last_changed": "2026-04-24T08:00:00",
+ "generiert": "24.04.2026, 09:05 Uhr",
+ "last_changed": "2026-04-24T09:49:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -19410,7 +19410,7 @@
     },
     "20260424": {
      "datum": "Freitag, 24. April 2026",
-     "zeitstempel": "24.04.2026, 08:00",
+     "zeitstempel": "24.04.2026, 09:05",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -19508,17 +19508,17 @@
          "stunde": "3",
          "fach": "Mu",
          "klasse": "8D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Mu Bir, Klassenkonzert",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Mu",
          "klasse": "8D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Mu Bir, Klassenkonzert",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -21108,7 +21108,7 @@
          "stunde": "3",
          "fach": "Ge",
          "klasse": "7D",
-         "raum": "Aula",
+         "raum": "008",
          "info": "Ge 7D statt Di (21.04.) St.3; Ge 9B gehalten am Do (23.04.) St.3, Verlegung aufgrund einer Hospitation",
          "geaendert": true
         },
@@ -21124,7 +21124,7 @@
          "stunde": "4",
          "fach": "Ge",
          "klasse": "7D",
-         "raum": "Aula",
+         "raum": "008",
          "info": "Ge 7D statt Di (21.04.) St.4; Ge 9B gehalten am Do (23.04.) St.4, Verlegung aufgrund einer Hospitation",
          "geaendert": true
         },
@@ -21493,7 +21493,7 @@
    "tage": {
     "20260427": {
      "datum": "Montag, 27. April 2026",
-     "zeitstempel": "23.04.2026, 12:23",
+     "zeitstempel": "24.04.2026, 09:49",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -21509,17 +21509,17 @@
          "stunde": "1",
          "fach": "Mu",
          "klasse": "10A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Mu Bir",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Mu",
          "klasse": "10A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Mu Bir",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -22544,15 +22544,15 @@
          "stunde": "1",
          "fach": "ILZ",
          "klasse": "8C",
-         "raum": "Aula",
-         "info": "für ILZ Jur",
+         "raum": "107",
+         "info": "für ILZ Jur, Raumtausch wegen Klassenkonzert",
          "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "KL",
          "klasse": "8C",
-         "raum": "Aula",
+         "raum": "107",
          "info": "für KL Jur",
          "geaendert": true
         },
