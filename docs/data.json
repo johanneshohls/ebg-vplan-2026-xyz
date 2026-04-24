@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "23.04.2026, 18:44 Uhr",
- "last_changed": "2026-04-23T12:23:00",
+ "generiert": "24.04.2026, 07:02 Uhr",
+ "last_changed": "2026-04-24T08:00:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -19410,7 +19410,7 @@
     },
     "20260424": {
      "datum": "Freitag, 24. April 2026",
-     "zeitstempel": "23.04.2026, 12:23",
+     "zeitstempel": "24.04.2026, 08:00",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -19557,43 +19557,27 @@
       "Bod": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "GE2",
-         "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "für Ge Gor, Klausuraufsicht",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "GE2",
-         "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "für Ge Gor, Klausuraufsicht",
-         "geaendert": true
-        },
-        {
          "stunde": "3",
-         "fach": "Sk",
-         "klasse": "10B",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10B selbst. (a), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Sk",
-         "klasse": "10B",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10B selbst. (a), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "5",
          "fach": "Sp",
          "klasse": "8B",
          "raum": "Tu3",
-         "info": "",
+         "info": "für Sp Bod, Sport Mädchen findet statt, Sport Jungen fällt aus!",
          "geaendert": false
         },
         {
@@ -19601,7 +19585,7 @@
          "fach": "Sp",
          "klasse": "8B",
          "raum": "Tu3",
-         "info": "",
+         "info": "für Sp Bod, Sport Mädchen findet statt, Sport Jungen fällt aus!",
          "geaendert": false
         }
        ],
@@ -19916,7 +19900,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 11A-11D Bod, Klausuraufsicht",
+         "info": "Ge 11A-11D See, Klausur, Aula",
          "geaendert": true
         },
         {
@@ -19924,7 +19908,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 11A-11D Bod, Klausuraufsicht",
+         "info": "Ge 11A-11D See, Klausur, Aula",
          "geaendert": true
         },
         {
@@ -20726,7 +20710,7 @@
          "fach": "Sp",
          "klasse": "8A",
          "raum": "Tu1",
-         "info": "",
+         "info": "für Sp Mue, Sport Mädchen findet statt, Sport Jungen fällt aus!",
          "geaendert": false
         },
         {
@@ -20734,7 +20718,7 @@
          "fach": "Sp",
          "klasse": "8A",
          "raum": "Tu1",
-         "info": "",
+         "info": "für Sp Mue, Sport Mädchen findet statt, Sport Jungen fällt aus!",
          "geaendert": false
         }
        ],
@@ -21173,6 +21157,22 @@
       "See": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "GE2",
+         "klasse": "11A-11D",
+         "raum": "Aula",
+         "info": "für Ge Gor, Klausur, Aula",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "GE2",
+         "klasse": "11A-11D",
+         "raum": "Aula",
+         "info": "für Ge Gor, Klausur, Aula",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "Bio",
          "klasse": "10A",
@@ -21218,6 +21218,22 @@
          "klasse": "",
          "raum": "003 004",
          "info": "Tutorenstunde 12, A 001, B 002, C/E 003, D 004; Bio 10D gehalten am Mi (22.04.) St.2 (See)",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Nachschriften",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Nachschriften",
          "geaendert": true
         }
        ],
