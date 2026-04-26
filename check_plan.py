@@ -39,11 +39,13 @@ PLAN_PASS = os.environ.get("PLAN_PASS", "")
 NTFY_TOPIC_PREFIX = os.environ.get("NTFY_TOPIC", "") or "ebg-vplan"  # Fallback wenn Secret leer
 STATE_FILE = os.environ.get("STATE_FILE", "state.json")
 HISTORY_FILE = os.environ.get("HISTORY_FILE", "docs/history.json")
+FILTER_CONFIG_FILE = os.environ.get("FILTER_CONFIG_FILE", "filter_config.json")
 AUTH = (PLAN_USER, PLAN_PASS)
 HEADERS = {"User-Agent": "Vertretungsplan-Notify/2.0"}
 STUNDEN_ZEITEN = {
     "1": "07:40", "2": "08:25", "3": "09:40", "4": "10:25",
     "5": "11:40", "6": "12:25", "7": "13:40", "8": "14:25",
+    "9": "15:40", "10": "16:25",
 }
 # Nach wie vielen aufeinanderfolgenden Fehlschlägen eine Monitoring-Warnung gesendet wird
 FETCH_FAIL_ALERT_THRESHOLD = 6  # ~30 min bei 5-min-Intervall
@@ -181,11 +183,52 @@ def parse_daily_plan(date_str: str) -> tuple[dict, str, str]:
     return result, datum, zeitstempel
 
 
-def format_notification(kurz: str, datum: str, data: dict) -> tuple[str, str]:
-    """Formatiert Titel und Nachricht für die Push-Notification."""
-    changes = data["changes"]
-    entries = data["entries"]
+def load_filter_config() -> dict:
+    """Lädt optionale Kurs-/Fach-Filter aus filter_config.json."""
+    path = Path(FILTER_CONFIG_FILE)
+    if not path.exists():
+        return {}
+    try:
+        data = json.loads(path.read_text())
+        # Interne Kommentar-Keys entfernen
+        return {k: v for k, v in data.items() if not k.startswith("_")}
+    except Exception as e:
+        log.warning("filter_config.json konnte nicht gelesen werden: %s", e)
+        return {}
 
+
+def apply_filter(entries: list[dict], filter_cfg: dict | None) -> list[dict]:
+    """
+    Gibt gefilterte Einträge zurück.
+    filter_cfg: {"faecher": [...], "klassen": [...]}  — beide optional.
+    Ohne Konfiguration werden alle Einträge zurückgegeben.
+    Ein Eintrag bleibt erhalten wenn Fach ODER Klasse auf einen Filter-Wert passt
+    (case-insensitive Teilstring-Match).
+    """
+    if not filter_cfg:
+        return entries
+
+    faecher = [f.lower() for f in filter_cfg.get("faecher", [])]
+    klassen = [k.lower() for k in filter_cfg.get("klassen", [])]
+
+    if not faecher and not klassen:
+        return entries
+
+    result = []
+    for e in entries:
+        fach_match = any(f in (e.get("fach") or "").lower() for f in faecher) if faecher else False
+        kl_match = any(k in (e.get("klasse") or "").lower() for k in klassen) if klassen else False
+        if fach_match or kl_match:
+            result.append(e)
+    return result
+
+
+def format_notification(kurz: str, datum: str, data: dict, filter_cfg: dict | None = None) -> tuple[str, str]:
+    """Formatiert Titel und Nachricht für die Push-Notification."""
+    entries = apply_filter(data["entries"], filter_cfg)
+    changes = [e for e in apply_filter(data["changes"], filter_cfg)]
+
+    filtered = filter_cfg is not None and (filter_cfg.get("faecher") or filter_cfg.get("klassen"))
     title = f"Plan geändert: {datum}"
 
     lines = []
@@ -201,9 +244,10 @@ def format_notification(kurz: str, datum: str, data: dict) -> tuple[str, str]:
                 detail = " ".join(p for p in parts if p and p != "---")
                 lines.append(f"⚠️ Std {c['stunde']} ({zeit}): {detail} geändert")
 
-    # Vollständiger Tagesplan
+    # Vollständiger (ggf. gefilterter) Tagesplan
     lines.append("")
-    lines.append(f"Dein Plan ({datum}):")
+    label = "Dein gefilterter Plan" if filtered else "Dein Plan"
+    lines.append(f"{label} ({datum}):")
     for e in entries:
         zeit = STUNDEN_ZEITEN.get(e["stunde"], "")
         marker = "▸" if e["geaendert"] else " "
@@ -296,6 +340,8 @@ def main():
 
     state = load_state()
     history = load_history()
+    filter_config = load_filter_config()
+    log.info("Filter-Konfiguration geladen: %d Einträge", len(filter_config))
     changed_total = 0
     notification_failures = []
     consecutive_failures = state.get("_consecutive_fetch_failures", 0)
@@ -373,7 +419,15 @@ def main():
 
             log.info("ÄNDERUNG erkannt: %s am %s (%d markierte Änderungen)",
                      kurz, date_str, len(data["changes"]))
-            title, message = format_notification(kurz, datum, data)
+            teacher_filter = filter_config.get(kurz.upper()) or filter_config.get(kurz)
+            # Mit Filter: nur senden wenn noch relevante Änderungen übrig bleiben
+            if teacher_filter:
+                filtered_changes = apply_filter(data["changes"], teacher_filter)
+                if not filtered_changes and data["changes"]:
+                    log.info("Änderungen für %s am %s durch Filter ausgeblendet — keine Notification",
+                             kurz, date_str)
+                    continue
+            title, message = format_notification(kurz, datum, data, teacher_filter)
 
             # Änderung in History aufnehmen
             change_summary = []
