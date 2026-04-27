@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "27.04.2026, 16:59 Uhr",
- "last_changed": "2026-04-27T09:31:00",
+ "generiert": "27.04.2026, 18:03 Uhr",
+ "last_changed": "2026-04-27T20:03:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -20784,7 +20784,7 @@
    "tage": {
     "20260504": {
      "datum": "Montag, 04. Mai 2026",
-     "zeitstempel": "27.04.2026, 09:31",
+     "zeitstempel": "27.04.2026, 20:03",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -20796,6 +20796,22 @@
       },
       "Bir": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "ILZ",
+         "klasse": "10A",
+         "raum": "005",
+         "info": "für ILZ Hol, Aufsicht: Präventionsprojekt",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "ILZ",
+         "klasse": "10A",
+         "raum": "005",
+         "info": "für ILZ Hol, Aufsicht: ILZ",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "Mu",
@@ -21671,7 +21687,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "ILZ 10A verlegt nach Di (05.05.) St.1 (Lan)",
+         "info": "ILZ 10A Bir, Aufsicht: Präventionsprojekt",
          "geaendert": true
         },
         {
@@ -21679,7 +21695,7 @@
          "fach": "En",
          "klasse": "",
          "raum": "101",
-         "info": "Kompetenzprüfungen Englisch 11; ILZ 10A verlegt nach Di (05.05.) St.1 (Lan)",
+         "info": "Kompetenzprüfungen Englisch 11; ILZ 10A Bir, Aufsicht: Präventionsprojekt",
          "geaendert": true
         },
         {
@@ -21687,7 +21703,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "ILZ 10A verlegt nach Di (05.05.) St.2 (Lan)",
+         "info": "ILZ 10A Bir, Aufsicht: ILZ",
          "geaendert": true
         },
         {
@@ -21695,7 +21711,7 @@
          "fach": "En",
          "klasse": "",
          "raum": "101",
-         "info": "Kompetenzprüfungen Englisch 11; ILZ 10A verlegt nach Di (05.05.) St.2 (Lan)",
+         "info": "Kompetenzprüfungen Englisch 11; ILZ 10A Bir, Aufsicht: ILZ",
          "geaendert": true
         },
         {
@@ -22162,7 +22178,7 @@
          "fach": "ILZ",
          "klasse": "10B",
          "raum": "207",
-         "info": "für ILZ Leu",
+         "info": "für ILZ Leu, Präventionsprojekt",
          "geaendert": true
         },
         {
@@ -22717,7 +22733,7 @@
          "fach": "ILZ",
          "klasse": "9B",
          "raum": "102",
-         "info": "",
+         "info": "für ILZ Schud, Präventionsprojekt",
          "geaendert": false
         },
         {
@@ -22757,22 +22773,6 @@
       },
       "See": {
        "entries": [
-        {
-         "stunde": "3",
-         "fach": "Bio",
-         "klasse": "10A",
-         "raum": "205",
-         "info": "Bio 10A statt Di (05.05.) St.1",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Bio",
-         "klasse": "10A",
-         "raum": "205",
-         "info": "Bio 10A statt Di (05.05.) St.2",
-         "geaendert": true
-        },
         {
          "stunde": "5",
          "fach": "Bio",
@@ -23223,7 +23223,7 @@
     },
     "20260505": {
      "datum": "Dienstag, 05. Mai 2026",
-     "zeitstempel": "27.04.2026, 09:31",
+     "zeitstempel": "27.04.2026, 20:03",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -24043,6 +24043,22 @@
          "raum": "Co1 Co2",
          "info": "ILZ 7B statt Fr (08.05.) St.6, Toleranztraining mit Frau Jacobs, Aufsicht",
          "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Phil",
+         "klasse": "9D",
+         "raum": "003",
+         "info": "Phil 9D statt Do (07.05.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Phil",
+         "klasse": "9D",
+         "raum": "003",
+         "info": "Phil 9D statt Do (07.05.) St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -24163,20 +24179,36 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
+         "stunde": "3",
          "fach": "ILZ",
          "klasse": "10C",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "raum": "007",
+         "info": "ILZ 10C verlegt von St.5, Präventionsprojekt",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "ILZ",
+         "klasse": "10C",
+         "raum": "007",
+         "info": "ILZ 10C verlegt von St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10C verlegt nach St.3, Präventionsprojekt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "ILZ",
-         "klasse": "10C",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10C verlegt nach St.4",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -24277,18 +24309,34 @@
         },
         {
          "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9D verlegt nach Do (07.05.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
          "fach": "En",
-         "klasse": "9D",
-         "raum": "003",
-         "info": "für En Isb",
+         "klasse": "10C",
+         "raum": "004 101",
+         "info": "En 10C statt Do (07.05.) St.5; En 9D verlegt nach Do (07.05.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9D verlegt nach Do (07.05.) St.4",
          "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "En",
-         "klasse": "9D",
-         "raum": "003",
-         "info": "für En Isb",
+         "klasse": "10C",
+         "raum": "004 101",
+         "info": "En 10C statt Do (07.05.) St.6; En 9D verlegt nach Do (07.05.) St.4",
          "geaendert": true
         },
         {
@@ -24507,27 +24555,11 @@
          "geaendert": true
         },
         {
-         "stunde": "1",
-         "fach": "ILZ",
-         "klasse": "10A",
-         "raum": "004",
-         "info": "statt Mo (04.05.) St.3 (ILZ Hol); w1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "w1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "ILZ",
-         "klasse": "10A",
-         "raum": "004",
-         "info": "statt Mo (04.05.) St.4 (ILZ Hol); w1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -24616,35 +24648,19 @@
          "geaendert": false
         },
         {
-         "stunde": "3",
-         "fach": "En",
-         "klasse": "",
-         "raum": "101",
-         "info": "Englisch-Prüfungen 9b",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "En",
-         "klasse": "",
-         "raum": "101",
-         "info": "Englisch-Prüfungen 9b",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
          "fach": "En",
-         "klasse": "",
-         "raum": "101",
-         "info": "Englisch-Prüfungen 9b",
+         "klasse": "10C",
+         "raum": "004 101",
+         "info": "En 10C statt Do (07.05.) St.5",
          "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "En",
-         "klasse": "",
-         "raum": "101",
-         "info": "Englisch-Prüfungen 9b",
+         "klasse": "10C",
+         "raum": "004 101",
+         "info": "En 10C statt Do (07.05.) St.6",
          "geaendert": true
         }
        ],
@@ -24715,19 +24731,19 @@
         },
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "10C",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10C verlegt nach Do (07.05.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
-         "klasse": "10C",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10C verlegt nach Do (07.05.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -24819,43 +24835,11 @@
          "geaendert": true
         },
         {
-         "stunde": "3",
-         "fach": "En",
-         "klasse": "",
-         "raum": "101",
-         "info": "Englisch-Prüfungen 9b; EN1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "EN1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "En",
-         "klasse": "",
-         "raum": "101",
-         "info": "Englisch-Prüfungen 9b; EN1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "En",
-         "klasse": "",
-         "raum": "101",
-         "info": "Englisch-Prüfungen 9b",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "En",
-         "klasse": "",
-         "raum": "101",
-         "info": "Englisch-Prüfungen 9b",
          "geaendert": true
         }
        ],
@@ -25205,19 +25189,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Bio 10A gehalten am Mo (04.05.) St.3",
-         "geaendert": true
+         "fach": "Bio",
+         "klasse": "10A",
+         "raum": "204",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "2",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Bio 10A gehalten am Mo (04.05.) St.4",
-         "geaendert": true
+         "fach": "Bio",
+         "klasse": "10A",
+         "raum": "204",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "3",
@@ -25490,19 +25474,35 @@
         },
         {
          "stunde": "3",
-         "fach": "Fr",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 9A verlegt nach Fr (08.05.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "ILZ",
          "klasse": "9A",
          "raum": "104",
-         "info": "",
-         "geaendert": false
+         "info": "ILZ 9A statt Fr (08.05.) St.3; Fr 9A verlegt nach Fr (08.05.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Fr",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 9A verlegt nach Fr (08.05.) St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "ILZ",
          "klasse": "9A",
          "raum": "104",
-         "info": "",
-         "geaendert": false
+         "info": "ILZ 9A statt Fr (08.05.) St.4, Präventionsprojekt; Fr 9A verlegt nach Fr (08.05.) St.4",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -25527,7 +25527,7 @@
     },
     "20260506": {
      "datum": "Mittwoch, 06. Mai 2026",
-     "zeitstempel": "27.04.2026, 09:31",
+     "zeitstempel": "27.04.2026, 20:03",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -25537,19 +25537,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ph",
-         "klasse": "9B",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 9B verlegt nach St.3",
+         "geaendert": true
         },
         {
          "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 9B verlegt nach St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
          "fach": "Ph",
          "klasse": "9B",
          "raum": "205",
-         "info": "",
-         "geaendert": false
+         "info": "Ph 9B verlegt von St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ph",
+         "klasse": "9B",
+         "raum": "205",
+         "info": "Ph 9B verlegt von St.2",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -26445,18 +26461,34 @@
         },
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "10A",
-         "raum": "205",
-         "info": "für En Hol",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10A verlegt nach St.7",
          "geaendert": true
         },
         {
          "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10A verlegt nach St.8",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
          "fach": "En",
          "klasse": "10A",
-         "raum": "205",
-         "info": "für En Hol",
+         "raum": "006",
+         "info": "En 10A verlegt von St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "En",
+         "klasse": "10A",
+         "raum": "006",
+         "info": "En 10A verlegt von St.6",
          "geaendert": true
         }
        ],
@@ -26700,6 +26732,22 @@
       "Kno": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "Ch",
+         "klasse": "9B",
+         "raum": "K07",
+         "info": "Ch 9B verlegt von St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ch",
+         "klasse": "9B",
+         "raum": "K07",
+         "info": "Ch 9B verlegt von St.8",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "w1",
          "klasse": "11A-11D",
@@ -26736,7 +26784,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ch 9B verlegt nach Fr (08.05.) St.5",
+         "info": "Ch 9B verlegt nach St.1",
          "geaendert": true
         },
         {
@@ -26744,7 +26792,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ch 9B verlegt nach Fr (08.05.) St.6",
+         "info": "Ch 9B verlegt nach St.2",
          "geaendert": true
         }
        ],
@@ -27299,52 +27347,36 @@
       "Pri": {
        "entries": [
         {
-         "stunde": "3",
-         "fach": "En",
-         "klasse": "9B",
-         "raum": "008",
-         "info": "En 9B statt Fr (08.05.) St.5",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "En",
-         "klasse": "9B",
-         "raum": "008",
-         "info": "En 9B statt Fr (08.05.) St.6",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
-         "fach": "Ge",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 7E Schud",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ge",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 7E Schud",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Ge",
-         "klasse": "10A",
-         "raum": "008",
-         "info": "für Ge Pri, Klausur",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10A verlegt nach St.3 (See)",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ge",
-         "klasse": "10A",
-         "raum": "008",
-         "info": "für Ge Pri, Klausur",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10A verlegt nach St.4 (See)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -27421,7 +27453,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 10C See (für Ma)",
+         "info": "Ma 10C fällt aus",
          "geaendert": true
         },
         {
@@ -27429,7 +27461,7 @@
          "fach": "Ma",
          "klasse": "12A-12E",
          "raum": "Aula",
-         "info": "Abitur Mathematik; Bio 10C See (für Ma)",
+         "info": "Abitur Mathematik; Ma 10C fällt aus",
          "geaendert": true
         },
         {
@@ -27437,7 +27469,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 10C See (für Ma)",
+         "info": "Ma 10C fällt aus",
          "geaendert": true
         },
         {
@@ -27445,7 +27477,7 @@
          "fach": "Ma",
          "klasse": "12A-12E",
          "raum": "Aula",
-         "info": "Abitur Mathematik; Bio 10C See (für Ma)",
+         "info": "Abitur Mathematik; Ma 10C fällt aus",
          "geaendert": true
         },
         {
@@ -27642,6 +27674,22 @@
          "raum": "006",
          "info": "Ge 8C statt Mo (04.05.) St.8; ku1 12A-12E fällt aus",
          "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Ge",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "für Ge Pri",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ge",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "für Ge Pri",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -27659,33 +27707,49 @@
          "stunde": "1",
          "fach": "Bio",
          "klasse": "10C",
-         "raum": "105",
-         "info": "für Ma Roh",
+         "raum": "205",
+         "info": "Bio 10C verlegt von St.7",
          "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Bio",
          "klasse": "10C",
-         "raum": "105",
-         "info": "für Ma Roh",
+         "raum": "205",
+         "info": "Bio 10C verlegt von St.8",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "10A",
+         "raum": "204",
+         "info": "verlegt von St.7 (Ge Pri)",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Bio",
+         "klasse": "10A",
+         "raum": "204",
+         "info": "verlegt von St.8 (Ge Pri)",
          "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Bio",
-         "klasse": "10C",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10C verlegt nach St.1",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Bio",
-         "klasse": "10C",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10C verlegt nach St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -27714,19 +27778,35 @@
         },
         {
          "stunde": "3",
-         "fach": "Inf",
-         "klasse": "10A",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10A verlegt nach St.5",
+         "geaendert": true
         },
         {
          "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10A verlegt nach St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
          "fach": "Inf",
          "klasse": "10A",
          "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "info": "Inf 10A verlegt von St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Inf",
+         "klasse": "10A",
+         "raum": "K10",
+         "info": "Inf 10A verlegt von St.4",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -27970,7 +28050,7 @@
     },
     "20260507": {
      "datum": "Donnerstag, 07. Mai 2026",
-     "zeitstempel": "27.04.2026, 09:31",
+     "zeitstempel": "27.04.2026, 20:03",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -28047,7 +28127,7 @@
          "stunde": "5",
          "fach": "Ma",
          "klasse": "7B",
-         "raum": "007",
+         "raum": "105",
          "info": "Ma 7B statt Fr (08.05.) St.1",
          "geaendert": true
         },
@@ -28055,7 +28135,7 @@
          "stunde": "6",
          "fach": "Ma",
          "klasse": "7B",
-         "raum": "007",
+         "raum": "105",
          "info": "Ma 7B statt Fr (08.05.) St.2",
          "geaendert": true
         },
@@ -28694,18 +28774,18 @@
         },
         {
          "stunde": "3",
-         "fach": "Phil",
-         "klasse": "9D",
-         "raum": "K07",
-         "info": "für Phil Hofm",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phil 9D gehalten am Di (05.05.) St.5",
          "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Phil",
-         "klasse": "9D",
-         "raum": "K07",
-         "info": "für Phil Hofm",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phil 9D gehalten am Di (05.05.) St.6",
          "geaendert": true
         },
         {
@@ -29050,19 +29130,27 @@
       "Isb": {
        "entries": [
         {
-         "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 10C Mar, ganze Klasse zu Mar",
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "9D",
+         "raum": "K07",
+         "info": "En 9D statt Di (05.05.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "9D",
+         "raum": "K07",
+         "info": "En 9D statt Di (05.05.) St.6",
          "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "En",
+         "fach": "---",
          "klasse": "",
-         "raum": "102",
-         "info": "Englisch-Prüfungen 9b; En 10C Mar, ganze Klasse zu Mar",
+         "raum": "",
+         "info": "En 10C gehalten am Di (05.05.) St.5",
          "geaendert": true
         },
         {
@@ -29070,15 +29158,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 10C Mar, ganze Klasse zu Mar",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "En",
-         "klasse": "",
-         "raum": "102",
-         "info": "Englisch-Prüfungen 9b; En 10C Mar, ganze Klasse zu Mar",
+         "info": "En 10C gehalten am Di (05.05.) St.6",
          "geaendert": true
         },
         {
@@ -29090,27 +29170,11 @@
          "geaendert": true
         },
         {
-         "stunde": "7",
-         "fach": "En",
-         "klasse": "",
-         "raum": "102",
-         "info": "Englisch-Prüfungen 9b; En 9D verlegt nach Fr (08.05.) St.3 (Isb), Hospitation",
-         "geaendert": true
-        },
-        {
          "stunde": "8",
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 9D verlegt nach Fr (08.05.) St.4 (Hol), Aufsicht nach Hospitation",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "En",
-         "klasse": "",
-         "raum": "102",
-         "info": "Englisch-Prüfungen 9b; En 9D verlegt nach Fr (08.05.) St.4 (Hol), Aufsicht nach Hospitation",
+         "info": "En 9D verlegt nach Fr (08.05.) St.4 (Sta), Aufsicht nach Hospitation",
          "geaendert": true
         }
        ],
@@ -29424,18 +29488,18 @@
         },
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "10C",
-         "raum": "105",
-         "info": "für En Isb, ganze Klasse zu Mar",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10C gehalten am Di (05.05.) St.5",
          "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "10C",
-         "raum": "105",
-         "info": "für En Isb, ganze Klasse zu Mar",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10C gehalten am Di (05.05.) St.6",
          "geaendert": true
         }
        ],
@@ -29535,6 +29599,22 @@
          "raum": "007",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Span",
+         "klasse": "10C",
+         "raum": "007",
+         "info": "Span 10C statt Di (05.05.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Span",
+         "klasse": "10C",
+         "raum": "007",
+         "info": "Span 10C statt Di (05.05.) St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -29603,19 +29683,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Ge",
-         "klasse": "10B",
-         "raum": "004",
-         "info": "für Ge Pri, Klausur",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ge",
-         "klasse": "10B",
-         "raum": "004",
-         "info": "für Ge Pri, Klausur",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -29626,43 +29706,11 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
-         "fach": "En",
-         "klasse": "",
-         "raum": "102",
-         "info": "Englisch-Prüfungen 9b; EN1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "EN1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "En",
-         "klasse": "",
-         "raum": "102",
-         "info": "Englisch-Prüfungen 9b; EN1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "7",
-         "fach": "En",
-         "klasse": "",
-         "raum": "102",
-         "info": "Englisch-Prüfungen 9b",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "En",
-         "klasse": "",
-         "raum": "102",
-         "info": "Englisch-Prüfungen 9b",
          "geaendert": true
         }
        ],
@@ -29918,6 +29966,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "10B",
+         "raum": "004",
+         "info": "Bio 10B verlegt von St.7; BIO1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -29926,20 +29982,28 @@
          "geaendert": true
         },
         {
-         "stunde": "7",
+         "stunde": "4",
          "fach": "Bio",
          "klasse": "10B",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "004",
+         "info": "Bio 10B verlegt von St.8; BIO1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10B verlegt nach St.3",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Bio",
-         "klasse": "10B",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10B verlegt nach St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -30311,7 +30375,7 @@
     },
     "20260508": {
      "datum": "Freitag, 08. Mai 2026",
-     "zeitstempel": "27.04.2026, 09:31",
+     "zeitstempel": "27.04.2026, 20:03",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -30329,22 +30393,6 @@
          "klasse": "11A-11D",
          "raum": "Aula",
          "info": "für Inf Bar, Klausur, Aula",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "310",
-         "info": "Entwicklungsgespräch Isb",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "310",
-         "info": "Entwicklungsgespräch Isb",
          "geaendert": true
         }
        ],
@@ -30821,27 +30869,11 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "310",
-         "info": "Entwicklungsgespräch Isb; sk2 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "sk2 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "310",
-         "info": "Entwicklungsgespräch Isb; sk2 12A-12E fällt aus",
          "geaendert": true
         }
        ],
@@ -31064,14 +31096,6 @@
          "geaendert": false
         },
         {
-         "stunde": "4",
-         "fach": "En",
-         "klasse": "9D",
-         "raum": "105",
-         "info": "statt Do (07.05.) St.8 (En Isb), Aufsicht nach Hospitation",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -31173,43 +31197,11 @@
       "Isb": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "En",
-         "klasse": "",
-         "raum": "101",
-         "info": "Englisch-Prüfungen 9b",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "En",
-         "klasse": "",
-         "raum": "101",
-         "info": "Englisch-Prüfungen 9b",
-         "geaendert": true
-        },
-        {
          "stunde": "3",
          "fach": "En",
          "klasse": "9D",
          "raum": "105",
          "info": "En 9D statt Do (07.05.) St.7, Hospitation",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "310",
-         "info": "Entwicklungsgespräch Isb",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "310",
-         "info": "Entwicklungsgespräch Isb",
          "geaendert": true
         }
        ],
@@ -31320,27 +31312,11 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
-         "fach": "Ch",
-         "klasse": "9B",
-         "raum": "K12",
-         "info": "Ch 9B statt Mi (06.05.) St.7; Ch 9A gehalten am Mo (04.05.) St.5",
-         "geaendert": true
-        },
-        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ch 9A gehalten am Mo (04.05.) St.6",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Ch",
-         "klasse": "9B",
-         "raum": "K12",
-         "info": "Ch 9B statt Mi (06.05.) St.8; Ch 9A gehalten am Mo (04.05.) St.6",
          "geaendert": true
         },
         {
@@ -31581,7 +31557,7 @@
          "stunde": "5",
          "fach": "En",
          "klasse": "7C",
-         "raum": "102",
+         "raum": "004",
          "info": "für En Mar",
          "geaendert": true
         },
@@ -31589,7 +31565,7 @@
          "stunde": "6",
          "fach": "En",
          "klasse": "7C",
-         "raum": "102",
+         "raum": "004",
          "info": "für En Mar",
          "geaendert": true
         }
@@ -31766,51 +31742,11 @@
       "Pri": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "En",
-         "klasse": "",
-         "raum": "101",
-         "info": "Englisch-Prüfungen 9b",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "En",
-         "klasse": "",
-         "raum": "101",
-         "info": "Englisch-Prüfungen 9b",
-         "geaendert": true
-        },
-        {
-         "stunde": "3",
-         "fach": "En",
-         "klasse": "",
-         "raum": "",
-         "info": "Hospitation und Auswertung Isb 105 En 9d",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "En",
-         "klasse": "",
-         "raum": "",
-         "info": "Hospitation und Auswertung Isb 105 En 9d",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 9B gehalten am Mi (06.05.) St.3",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "310",
-         "info": "Entwicklungsgespräch Isb; En 9B gehalten am Mi (06.05.) St.3 (Pri)",
+         "info": "En 9B Wag",
          "geaendert": true
         },
         {
@@ -31818,48 +31754,40 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 9B gehalten am Mi (06.05.) St.4",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "310",
-         "info": "Entwicklungsgespräch Isb; En 9B gehalten am Mi (06.05.) St.4 (Pri)",
+         "info": "En 9B Wag",
          "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "GS15",
-         "klasse": "7A-7E,8A-8D",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "GS15 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS15",
-         "klasse": "7A-7E,8A-8D",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "GS15 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "9",
-         "fach": "GS15",
-         "klasse": "7A-7E,8A-8D",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "GS15 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "10",
-         "fach": "GS15",
-         "klasse": "7A-7E,8A-8D",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "GS15 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -32171,6 +32099,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "9D",
+         "raum": "105",
+         "info": "statt Do (07.05.) St.8 (En Isb), Aufsicht nach Hospitation; Inf 10C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Ma",
          "klasse": "9D",
@@ -32319,19 +32255,51 @@
         },
         {
          "stunde": "3",
-         "fach": "ILZ",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 9A gehalten am Di (05.05.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "Fr",
          "klasse": "9A",
          "raum": "104",
-         "info": "",
-         "geaendert": false
+         "info": "Fr 9A statt Di (05.05.) St.3; ILZ 9A gehalten am Di (05.05.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "ILZ",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 9A gehalten am Di (05.05.) St.4, Präventionsprojekt",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Fr",
          "klasse": "9A",
          "raum": "104",
-         "info": "",
-         "geaendert": false
+         "info": "Fr 9A statt Di (05.05.) St.4; ILZ 9A gehalten am Di (05.05.) St.4, Präventionsprojekt",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "für En Pri",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "für En Pri",
+         "geaendert": true
         },
         {
          "stunde": "7",
