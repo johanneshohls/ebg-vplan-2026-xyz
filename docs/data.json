@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "27.04.2026, 05:37 Uhr",
- "last_changed": "2026-04-27T06:55:00",
+ "generiert": "27.04.2026, 07:56 Uhr",
+ "last_changed": "2026-04-27T09:31:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -11075,7 +11075,7 @@
    "tage": {
     "20260427": {
      "datum": "Montag, 27. April 2026",
-     "zeitstempel": "27.04.2026, 06:55",
+     "zeitstempel": "27.04.2026, 08:34",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -13367,7 +13367,7 @@
     },
     "20260428": {
      "datum": "Dienstag, 28. April 2026",
-     "zeitstempel": "26.04.2026, 20:19",
+     "zeitstempel": "27.04.2026, 08:34",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -14091,22 +14091,6 @@
          "klasse": "7A",
          "raum": "002",
          "info": "für AWT Her",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "De",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "für De Ost",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "De",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "für De Ost",
          "geaendert": true
         }
        ],
@@ -15013,51 +14997,51 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "De 8B Stu",
-         "geaendert": true
+         "fach": "De",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "4",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "De 8B Stu",
-         "geaendert": true
+         "fach": "De",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "De 9B Hin",
-         "geaendert": true
+         "fach": "De",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "De 9B Hin",
-         "geaendert": true
+         "fach": "De",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "7",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Bio 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
-         "geaendert": true
+         "fach": "bio2",
+         "klasse": "11A-11D",
+         "raum": "105",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "8",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Bio 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
-         "geaendert": true
+         "fach": "bio2",
+         "klasse": "11A-11D",
+         "raum": "105",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": [
@@ -15600,22 +15584,6 @@
          "raum": "Tu1",
          "info": "für Sp Her",
          "geaendert": true
-        },
-        {
-         "stunde": "3",
-         "fach": "De",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "für De Ost",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "De",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "für De Ost",
-         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15861,7 +15829,7 @@
     },
     "20260429": {
      "datum": "Mittwoch, 29. April 2026",
-     "zeitstempel": "26.04.2026, 20:19",
+     "zeitstempel": "27.04.2026, 08:34",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -20816,7 +20784,7 @@
    "tage": {
     "20260504": {
      "datum": "Montag, 04. Mai 2026",
-     "zeitstempel": "26.04.2026, 17:11",
+     "zeitstempel": "27.04.2026, 09:31",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -21051,7 +21019,7 @@
          "stunde": "5",
          "fach": "Ma",
          "klasse": "10D",
-         "raum": "Co2",
+         "raum": "Co3",
          "info": "Ma 10D statt Di (05.05.) St.3",
          "geaendert": true
         },
@@ -21059,7 +21027,7 @@
          "stunde": "6",
          "fach": "Ma",
          "klasse": "10D",
-         "raum": "Co2",
+         "raum": "Co3",
          "info": "Ma 10D statt Di (05.05.) St.4",
          "geaendert": true
         }
@@ -21794,17 +21762,17 @@
          "stunde": "5",
          "fach": "De",
          "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "005",
+         "info": "für De Hön",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "De",
          "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "005",
+         "info": "für De Hön",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -22036,19 +22004,19 @@
         },
         {
          "stunde": "3",
-         "fach": "AWT",
+         "fach": "ILZ",
          "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für AWT Kno, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "AWT",
+         "fach": "ILZ",
          "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für AWT Kno, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -22121,19 +22089,19 @@
         },
         {
          "stunde": "5",
-         "fach": "Span",
+         "fach": "ILZ",
          "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für Span Köh, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
+         "fach": "ILZ",
          "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für Span Köh, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -22185,33 +22153,33 @@
          "stunde": "1",
          "fach": "ILZ",
          "klasse": "10B",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "207",
+         "info": "für ILZ Leu",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "ILZ",
          "klasse": "10B",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "207",
+         "info": "für ILZ Leu",
+         "geaendert": true
         },
         {
          "stunde": "3",
          "fach": "Ma",
          "klasse": "10B",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für Ma Leu",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Ma",
          "klasse": "10B",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für Ma Leu",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -22546,7 +22514,7 @@
          "stunde": "3",
          "fach": "Ma",
          "klasse": "10C",
-         "raum": "Co2",
+         "raum": "107",
          "info": "Ma 10C statt Do (07.05.) St.7; ph1 12A-12E fällt aus",
          "geaendert": true
         },
@@ -22562,7 +22530,7 @@
          "stunde": "4",
          "fach": "Ma",
          "klasse": "10C",
-         "raum": "Co2",
+         "raum": "107",
          "info": "Ma 10C statt Do (07.05.) St.8; ph1 12A-12E fällt aus",
          "geaendert": true
         },
@@ -22855,19 +22823,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Inf",
+         "fach": "ILZ",
          "klasse": "7E",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für Inf Sta, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Inf",
+         "fach": "ILZ",
          "klasse": "7E",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für Inf Sta, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -23255,7 +23223,7 @@
     },
     "20260505": {
      "datum": "Dienstag, 05. Mai 2026",
-     "zeitstempel": "26.04.2026, 17:11",
+     "zeitstempel": "27.04.2026, 09:31",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23508,17 +23476,17 @@
          "stunde": "1",
          "fach": "MA1",
          "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Ma Bri",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "MA1",
          "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Ma Bri",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -23540,17 +23508,17 @@
          "stunde": "5",
          "fach": "ma1",
          "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Ma Bri",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "ma1",
          "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Ma Bri",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23641,17 +23609,17 @@
          "stunde": "5",
          "fach": "De",
          "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für De Eul, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "De",
          "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für De Eul, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -24064,16 +24032,16 @@
          "stunde": "3",
          "fach": "ILZ",
          "klasse": "7B",
-         "raum": "008",
-         "info": "ILZ 7B statt Fr (08.05.) St.5",
+         "raum": "Co1 Co2",
+         "info": "ILZ 7B statt Fr (08.05.) St.5, Toleranztraining mit Frau Jacobs, Aufsicht",
          "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "ILZ",
          "klasse": "7B",
-         "raum": "008",
-         "info": "ILZ 7B statt Fr (08.05.) St.6",
+         "raum": "Co1 Co2",
+         "info": "ILZ 7B statt Fr (08.05.) St.6, Toleranztraining mit Frau Jacobs, Aufsicht",
          "geaendert": true
         }
        ],
@@ -24311,17 +24279,17 @@
          "stunde": "5",
          "fach": "En",
          "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "003",
+         "info": "für En Isb",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "En",
          "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "003",
+         "info": "für En Isb",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -24415,19 +24383,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ch",
+         "fach": "ILZ",
          "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für Ch Kno, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ch",
+         "fach": "ILZ",
          "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für Ch Kno, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -24915,17 +24883,17 @@
          "stunde": "3",
          "fach": "ILZ",
          "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für ILZ Puk",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "ILZ",
          "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für ILZ Puk",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -25508,17 +25476,17 @@
          "stunde": "1",
          "fach": "EN1",
          "klasse": "11A-11D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "003",
+         "info": "für En Wag",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "EN1",
          "klasse": "11A-11D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "003",
+         "info": "für En Wag",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -25559,7 +25527,7 @@
     },
     "20260506": {
      "datum": "Mittwoch, 06. Mai 2026",
-     "zeitstempel": "25.04.2026, 20:46",
+     "zeitstempel": "27.04.2026, 09:31",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -25682,19 +25650,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "En",
+         "fach": "ILZ",
          "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für En Bis, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "En",
+         "fach": "ILZ",
          "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für En Bis, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -26447,17 +26415,17 @@
          "stunde": "1",
          "fach": "EN2",
          "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "006",
+         "info": "für En Hol",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "EN2",
          "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "006",
+         "info": "für En Hol",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -26479,17 +26447,17 @@
          "stunde": "5",
          "fach": "En",
          "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "205",
+         "info": "für En Hol",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "En",
          "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "205",
+         "info": "für En Hol",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -26605,7 +26573,24 @@
        "aufsichten": []
       },
       "Jac": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "ILZ",
+         "klasse": "7D",
+         "raum": "Co1 Co2",
+         "info": "für Geo Mue, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "ILZ",
+         "klasse": "7D",
+         "raum": "Co1 Co2",
+         "info": "für Geo Mue, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Jur": {
@@ -26670,22 +26655,6 @@
       },
       "Kar": {
        "entries": [
-        {
-         "stunde": "3",
-         "fach": "Mu",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "für Geo Mue",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Mu",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "für Geo Mue",
-         "geaendert": true
-        },
         {
          "stunde": "5",
          "fach": "pro31",
@@ -27184,7 +27153,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Mu 7D Kar (für Geo)",
+         "info": "ILZ 7D Jac (für Geo), Toleranztraining mit Frau Jacobs, Aufsicht",
          "geaendert": true
         },
         {
@@ -27192,7 +27161,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Mu 7D Kar (für Geo)",
+         "info": "ILZ 7D Jac (für Geo), Toleranztraining mit Frau Jacobs, Aufsicht",
          "geaendert": true
         },
         {
@@ -27402,17 +27371,17 @@
          "stunde": "5",
          "fach": "Span",
          "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "106",
+         "info": "für Span Puk",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Span",
          "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "106",
+         "info": "für Span Puk",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -27911,19 +27880,19 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "De",
+         "fach": "ILZ",
          "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für De Tuh, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "De",
+         "fach": "ILZ",
          "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für De Tuh, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -27966,7 +27935,7 @@
          "stunde": "3",
          "fach": "En",
          "klasse": "9A",
-         "raum": "Co2",
+         "raum": "106",
          "info": "En 9A statt Mo (04.05.) St.5",
          "geaendert": true
         },
@@ -27974,7 +27943,7 @@
          "stunde": "4",
          "fach": "En",
          "klasse": "9A",
-         "raum": "Co2",
+         "raum": "106",
          "info": "En 9A statt Mo (04.05.) St.6",
          "geaendert": true
         },
@@ -28001,7 +27970,7 @@
     },
     "20260507": {
      "datum": "Donnerstag, 07. Mai 2026",
-     "zeitstempel": "25.04.2026, 20:46",
+     "zeitstempel": "27.04.2026, 09:31",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -28078,7 +28047,7 @@
          "stunde": "5",
          "fach": "Ma",
          "klasse": "7B",
-         "raum": "Co1",
+         "raum": "007",
          "info": "Ma 7B statt Fr (08.05.) St.1",
          "geaendert": true
         },
@@ -28086,7 +28055,7 @@
          "stunde": "6",
          "fach": "Ma",
          "klasse": "7B",
-         "raum": "Co1",
+         "raum": "007",
          "info": "Ma 7B statt Fr (08.05.) St.2",
          "geaendert": true
         },
@@ -28292,33 +28261,33 @@
          "stunde": "3",
          "fach": "ma1",
          "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Ma Bri",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "ma1",
          "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Ma Bri",
+         "geaendert": true
         },
         {
          "stunde": "5",
          "fach": "MA1",
          "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Ma Bri",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "MA1",
          "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Ma Bri",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -28474,16 +28443,16 @@
          "stunde": "5",
          "fach": "ILZ",
          "klasse": "7C",
-         "raum": "007",
-         "info": "für ILZ Fla",
+         "raum": "Co1 Co2",
+         "info": "für ILZ Fla, Toleranztraining mit Frau Jacobs, Aufsicht",
          "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "ILZ",
          "klasse": "7C",
-         "raum": "007",
-         "info": "für ILZ Fla",
+         "raum": "Co1 Co2",
+         "info": "für ILZ Fla, Toleranztraining mit Frau Jacobs, Aufsicht",
          "geaendert": true
         },
         {
@@ -28509,19 +28478,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Ge",
+         "fach": "ILZ",
          "klasse": "7C",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für Ge Gol, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ge",
+         "fach": "ILZ",
          "klasse": "7C",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für Ge Gol, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -28727,17 +28696,17 @@
          "stunde": "3",
          "fach": "Phil",
          "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "K07",
+         "info": "für Phil Hofm",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Phil",
          "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "K07",
+         "info": "für Phil Hofm",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -29157,17 +29126,17 @@
          "stunde": "1",
          "fach": "De",
          "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "102",
+         "info": "für De Jur",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "De",
          "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "102",
+         "info": "für De Jur",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -29281,18 +29250,18 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
+         "fach": "ILZ",
          "klasse": "7C",
-         "raum": "102",
-         "info": "für Span Köh",
+         "raum": "Co1 Co2",
+         "info": "für Span Köh, Toleranztraining mit Frau Jacobs, Aufsicht",
          "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
+         "fach": "ILZ",
          "klasse": "7C",
-         "raum": "102",
-         "info": "für Span Köh",
+         "raum": "Co1 Co2",
+         "info": "für Span Köh, Toleranztraining mit Frau Jacobs, Aufsicht",
          "geaendert": true
         },
         {
@@ -30342,7 +30311,7 @@
     },
     "20260508": {
      "datum": "Freitag, 08. Mai 2026",
-     "zeitstempel": "25.04.2026, 20:46",
+     "zeitstempel": "27.04.2026, 09:31",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -30882,19 +30851,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Fr",
+         "fach": "ILZ",
          "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für Fr Hei, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Fr",
+         "fach": "ILZ",
          "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für Fr Hei, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -30921,33 +30890,33 @@
          "stunde": "3",
          "fach": "ILZ",
          "klasse": "7A",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für ILZ Her, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "ILZ",
          "klasse": "7A",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für ILZ Her, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "AWT",
+         "fach": "ILZ",
          "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für AWT Her, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "AWT",
+         "fach": "ILZ",
          "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1 Co2",
+         "info": "für AWT Her, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -31002,7 +30971,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "ILZ 7B gehalten am Di (05.05.) St.3",
+         "info": "ILZ 7B gehalten am Di (05.05.) St.3, Toleranztraining mit Frau Jacobs, Aufsicht",
          "geaendert": true
         },
         {
@@ -31010,7 +30979,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "ILZ 7B gehalten am Di (05.05.) St.4",
+         "info": "ILZ 7B gehalten am Di (05.05.) St.4, Toleranztraining mit Frau Jacobs, Aufsicht",
          "geaendert": true
         }
        ],
@@ -31901,17 +31870,17 @@
          "stunde": "1",
          "fach": "Span",
          "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "103",
+         "info": "für Span Puk",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Span",
          "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "103",
+         "info": "für Span Puk",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -32205,17 +32174,17 @@
          "stunde": "5",
          "fach": "Ma",
          "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für Ma Sta",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Ma",
          "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für Ma Sta",
+         "geaendert": true
         }
        ],
        "aufsichten": [

@@ -1910,5 +1910,41 @@
    "Std 4 (10:25): BIO1 12A-12E fällt aus"
   ],
   "zeitstempel": "26.04.2026, 20:19"
+ },
+ {
+  "timestamp": "2026-04-27T07:56:05.456301",
+  "lehrer": "Hin",
+  "datum": "Dienstag, 28. April 2026",
+  "date_key": "20260428",
+  "changes": [
+   "Std 1 (07:40): B VK2 fällt aus",
+   "Std 1 (07:40): für Ma Sei",
+   "Std 2 (08:25): B VK2 fällt aus",
+   "Std 2 (08:25): für Ma Sei",
+   "Std 3 (09:40): für AWT Her",
+   "Std 4 (10:25): für AWT Her"
+  ],
+  "zeitstempel": "27.04.2026, 08:34"
+ },
+ {
+  "timestamp": "2026-04-27T07:56:05.456301",
+  "lehrer": "Ost",
+  "datum": "Dienstag, 28. April 2026",
+  "date_key": "20260428",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "27.04.2026, 08:34"
+ },
+ {
+  "timestamp": "2026-04-27T07:56:05.456301",
+  "lehrer": "Stu",
+  "datum": "Dienstag, 28. April 2026",
+  "date_key": "20260428",
+  "changes": [
+   "Std 1 (07:40): für Sp Her",
+   "Std 2 (08:25): für Sp Her"
+  ],
+  "zeitstempel": "27.04.2026, 08:34"
  }
 ]
