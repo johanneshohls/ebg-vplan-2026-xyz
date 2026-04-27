@@ -12,6 +12,11 @@ permissions:
   contents: write
   pages: write
 
+# Verhindert parallele Runs — neuer Run wartet, bis vorheriger fertig ist.
+concurrency:
+  group: vplan-check
+  cancel-in-progress: false
+
 jobs:
   check:
     runs-on: ubuntu-latest
