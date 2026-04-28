@@ -1,128 +1,5 @@
 [
  {
-  "timestamp": "2026-04-21T08:26:53.447520",
-  "lehrer": "Hol",
-  "datum": "Montag, 27. April 2026",
-  "date_key": "20260427",
-  "changes": [
-   "Std 3 (09:40): en2 12A-12E fällt aus",
-   "Std 3 (09:40): Kompetenzprüfungen Englisch 9d; en2 12A-12E fällt aus",
-   "Std 4 (10:25): en2 12A-12E fällt aus",
-   "Std 4 (10:25): Kompetenzprüfungen Englisch 9d; en2 12A-12E fällt aus",
-   "Std 5 (11:40): En 9C verlegt nach Di (28.04.) St.5, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
-   "Std 5 (11:40): Kompetenzprüfungen Englisch 9d; En 9C verlegt nach Di (28.04.) St.5 (Hol), Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
-   "Std 6 (12:25): En 9C verlegt nach Di (28.04.) St.6, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
-   "Std 6 (12:25): Kompetenzprüfungen Englisch 9d; En 9C verlegt nach Di (28.04.) St.6 (Hol), Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
-   "Std 7 (13:40): Kompetenzprüfungen Englisch 9d",
-   "Std 8 (14:25): Kompetenzprüfungen Englisch 9d"
-  ],
-  "zeitstempel": "21.04.2026, 10:19"
- },
- {
-  "timestamp": "2026-04-21T08:26:53.447520",
-  "lehrer": "Isb",
-  "datum": "Montag, 27. April 2026",
-  "date_key": "20260427",
-  "changes": [
-   "Std 3 (09:40): Kompetenzprüfungen Englisch 9d",
-   "Std 4 (10:25): Kompetenzprüfungen Englisch 9d",
-   "Std 5 (11:40): Kompetenzprüfungen Englisch 9d",
-   "Std 6 (12:25): Kompetenzprüfungen Englisch 9d",
-   "Std 7 (13:40): Ge 8A verlegt nach Do (30.04.) St.5",
-   "Std 7 (13:40): Kompetenzprüfungen Englisch 9d; Ge 8A verlegt nach Do (30.04.) St.5 (Isb)",
-   "Std 8 (14:25): Ge 8A verlegt nach Do (30.04.) St.6",
-   "Std 8 (14:25): Kompetenzprüfungen Englisch 9d; Ge 8A verlegt nach Do (30.04.) St.6 (Isb)"
-  ],
-  "zeitstempel": "21.04.2026, 10:19"
- },
- {
-  "timestamp": "2026-04-21T08:26:53.447520",
-  "lehrer": "Köh",
-  "datum": "Montag, 27. April 2026",
-  "date_key": "20260427",
-  "changes": [
-   "Std 7 (13:40): für Span Köh",
-   "Std 8 (14:25): für Span Köh"
-  ],
-  "zeitstempel": "21.04.2026, 10:19"
- },
- {
-  "timestamp": "2026-04-21T08:26:53.447520",
-  "lehrer": "Lan",
-  "datum": "Montag, 27. April 2026",
-  "date_key": "20260427",
-  "changes": [
-   "Std 1 (07:40): für Sk Lan",
-   "Std 2 (08:25): für Sk Lan"
-  ],
-  "zeitstempel": "21.04.2026, 10:19"
- },
- {
-  "timestamp": "2026-04-21T08:26:53.447520",
-  "lehrer": "Ost",
-  "datum": "Montag, 27. April 2026",
-  "date_key": "20260427",
-  "changes": [
-   "Std 3 (09:40): Aufsicht über Vorbereitung der Kompetenzprüfung Englisch 9d",
-   "Std 4 (10:25): Aufsicht über Vorbereitung der Kompetenzprüfung Englisch 9d",
-   "Std 7 (13:40): de3 12A-12E fällt aus",
-   "Std 8 (14:25): de3 12A-12E fällt aus"
-  ],
-  "zeitstempel": "21.04.2026, 10:19"
- },
- {
-  "timestamp": "2026-04-21T08:26:53.447520",
-  "lehrer": "Pri",
-  "datum": "Montag, 27. April 2026",
-  "date_key": "20260427",
-  "changes": [
-   "Std 5 (11:40): für En Pri",
-   "Std 6 (12:25): für En Pri"
-  ],
-  "zeitstempel": "21.04.2026, 10:19"
- },
- {
-  "timestamp": "2026-04-21T08:26:53.447520",
-  "lehrer": "Rat",
-  "datum": "Montag, 27. April 2026",
-  "date_key": "20260427",
-  "changes": [
-   "Std 5 (11:40): für eRe Rat, Klausur, Aula",
-   "Std 6 (12:25): für eRe Rat, Klausur, Aula",
-   "Std 7 (13:40): Aufsicht über Vorbereitung der Kompetenzprüfung Englisch 9d",
-   "Std 8 (14:25): Aufsicht über Vorbereitung der Kompetenzprüfung Englisch 9d"
-  ],
-  "zeitstempel": "21.04.2026, 10:19"
- },
- {
-  "timestamp": "2026-04-21T08:26:53.447520",
-  "lehrer": "Schud",
-  "datum": "Montag, 27. April 2026",
-  "date_key": "20260427",
-  "changes": [
-   "Std 1 (07:40): ku2 12A-12E fällt aus",
-   "Std 2 (08:25): ku2 12A-12E fällt aus",
-   "Std 3 (09:40): für ILZ Schud",
-   "Std 4 (10:25): für KL Schud",
-   "Std 5 (11:40): Aufsicht über Vorbereitung der Kompetenzprüfungen 9d",
-   "Std 6 (12:25): Aufsicht über Vorbereitung der Kompetenzprüfungen 9d",
-   "Std 7 (13:40): für Ge Schud",
-   "Std 8 (14:25): für Ge Schud"
-  ],
-  "zeitstempel": "21.04.2026, 10:19"
- },
- {
-  "timestamp": "2026-04-21T08:26:53.447520",
-  "lehrer": "Tuh",
-  "datum": "Montag, 27. April 2026",
-  "date_key": "20260427",
-  "changes": [
-   "Std 5 (11:40): De 9C statt Di (28.04.) St.5, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch",
-   "Std 6 (12:25): De 9C statt Di (28.04.) St.6, Stundenverlegung aufgrund von Kompetenzprüfungen Englisch"
-  ],
-  "zeitstempel": "21.04.2026, 10:19"
- },
- {
   "timestamp": "2026-04-21T13:27:03.972553",
   "lehrer": "Eul",
   "datum": "Mittwoch, 22. April 2026",
@@ -1674,5 +1551,116 @@
    "Std 2 (08:25): für Sp Her"
   ],
   "zeitstempel": "27.04.2026, 08:34"
+ },
+ {
+  "timestamp": "2026-04-28T09:41:34.835001",
+  "lehrer": "Bob",
+  "datum": "Dienstag, 28. April 2026",
+  "date_key": "20260428",
+  "changes": [
+   "Std 1 (07:40): Bio 9A verlegt nach Do (30.04.) St.1 (Ter), Bitte mit Fr. Ostendorf abstimmen.",
+   "Std 2 (08:25): Bio 9A verlegt nach Do (30.04.) St.2 (Ter), Bitte mit Fr. Ostendorf abstimmen.",
+   "Std 3 (09:40): Ch 10A See",
+   "Std 4 (10:25): Ch 10A See",
+   "Std 5 (11:40): Ch 7C verlegt nach St.1 (Hun)",
+   "Std 6 (12:25): Ch 7C verlegt nach St.2 (Hun)"
+  ],
+  "zeitstempel": "28.04.2026, 10:27"
+ },
+ {
+  "timestamp": "2026-04-28T09:41:34.835001",
+  "lehrer": "See",
+  "datum": "Dienstag, 28. April 2026",
+  "date_key": "20260428",
+  "changes": [
+   "Std 3 (09:40): für Ch Bob",
+   "Std 4 (10:25): für Ch Bob",
+   "Std 5 (11:40): BIO1 12A-12E fällt aus",
+   "Std 6 (12:25): BIO1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "28.04.2026, 10:27"
+ },
+ {
+  "timestamp": "2026-04-28T09:41:34.835001",
+  "lehrer": "Bir",
+  "datum": "Montag, 04. Mai 2026",
+  "date_key": "20260504",
+  "changes": [
+   "Std 7 (13:40): mue1 12A-12E fällt aus",
+   "Std 8 (14:25): mue1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "28.04.2026, 11:12"
+ },
+ {
+  "timestamp": "2026-04-28T09:41:34.835001",
+  "lehrer": "Gor",
+  "datum": "Montag, 04. Mai 2026",
+  "date_key": "20260504",
+  "changes": [
+   "Std 1 (07:40): Ge 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 1 (07:40): Abitur Geschichte; Ge 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 2 (08:25): Ge 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 2 (08:25): Abitur Geschichte; Ge 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 3 (09:40): ILZ 9C Stu (für AWT), Aufsicht über Präventionsprojekt",
+   "Std 3 (09:40): Abitur Geschichte; ILZ 9C Stu (für AWT), Aufsicht über Präventionsprojekt",
+   "Std 4 (10:25): De 9C Stu (für AWT)",
+   "Std 4 (10:25): Abitur Geschichte; De 9C Stu (für AWT)",
+   "Std 5 (11:40): Abitur Geschichte",
+   "Std 6 (12:25): Abitur Geschichte",
+   "Std 7 (13:40): Abitur Geschichte",
+   "Std 8 (14:25): Abitur Geschichte"
+  ],
+  "zeitstempel": "28.04.2026, 11:12"
+ },
+ {
+  "timestamp": "2026-04-28T09:41:34.835001",
+  "lehrer": "Hol",
+  "datum": "Montag, 04. Mai 2026",
+  "date_key": "20260504",
+  "changes": [
+   "Std 1 (07:40): En 11A-11D selbst. (v), Selbststudium, Kompetenzprüfungen über den Tag verteilt",
+   "Std 1 (07:40): Kompetenzprüfungen Englisch 11; En 11A-11D selbst. (v), Selbststudium, Kompetenzprüfungen über den Tag verteilt",
+   "Std 2 (08:25): En 11A-11D selbst. (v), Selbststudium, Kompetenzprüfungen über den Tag verteilt",
+   "Std 2 (08:25): Kompetenzprüfungen Englisch 11; En 11A-11D selbst. (v), Selbststudium, Kompetenzprüfungen über den Tag verteilt",
+   "Std 3 (09:40): ILZ 10A verlegt nach Di (05.05.) St.1 (Lan)",
+   "Std 3 (09:40): Kompetenzprüfungen Englisch 11; ILZ 10A verlegt nach Di (05.05.) St.1 (Lan)",
+   "Std 4 (10:25): ILZ 10A verlegt nach Di (05.05.) St.2 (Lan), Aufsicht: Präventionsprojekt",
+   "Std 4 (10:25): Kompetenzprüfungen Englisch 11; ILZ 10A verlegt nach Di (05.05.) St.2 (Lan), Aufsicht: Präventionsprojekt",
+   "Std 5 (11:40): Kompetenzprüfungen Englisch 11",
+   "Std 6 (12:25): Kompetenzprüfungen Englisch 11",
+   "Std 7 (13:40): En 9C fällt aus",
+   "Std 7 (13:40): Kompetenzprüfungen Englisch 11; En 9C fällt aus",
+   "Std 8 (14:25): En 9C fällt aus",
+   "Std 8 (14:25): Kompetenzprüfungen Englisch 11; En 9C fällt aus"
+  ],
+  "zeitstempel": "28.04.2026, 11:12"
+ },
+ {
+  "timestamp": "2026-04-28T09:41:34.835001",
+  "lehrer": "See",
+  "datum": "Montag, 04. Mai 2026",
+  "date_key": "20260504",
+  "changes": [
+   "Std 3 (09:40): Bio 10A statt Di (05.05.) St.1",
+   "Std 4 (10:25): Bio 10A statt Di (05.05.) St.2",
+   "Std 5 (11:40): verlegt von St.3 (Ch Bob)",
+   "Std 6 (12:25): verlegt von St.4 (Ch Bob)",
+   "Std 7 (13:40): Bio 10D statt Fr (08.05.) St.5",
+   "Std 8 (14:25): Bio 10D statt Fr (08.05.) St.6"
+  ],
+  "zeitstempel": "28.04.2026, 11:12"
+ },
+ {
+  "timestamp": "2026-04-28T09:41:34.835001",
+  "lehrer": "Stu",
+  "datum": "Montag, 04. Mai 2026",
+  "date_key": "20260504",
+  "changes": [
+   "Std 3 (09:40): B VK fällt aus",
+   "Std 3 (09:40): für AWT Gor, Aufsicht über Präventionsprojekt",
+   "Std 4 (10:25): B VK fällt aus",
+   "Std 4 (10:25): für AWT Gor"
+  ],
+  "zeitstempel": "28.04.2026, 11:12"
  }
 ]

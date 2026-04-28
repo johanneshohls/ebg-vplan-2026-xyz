@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "28.04.2026, 07:29 Uhr",
- "last_changed": "2026-04-27T20:03:00",
+ "generiert": "28.04.2026, 09:41 Uhr",
+ "last_changed": "2026-04-28T11:12:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -13367,7 +13367,7 @@
     },
     "20260428": {
      "datum": "Dienstag, 28. April 2026",
-     "zeitstempel": "27.04.2026, 08:34",
+     "zeitstempel": "28.04.2026, 10:27",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -13515,7 +13515,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 10A See (für Ch)",
+         "info": "Ch 10A See",
          "geaendert": true
         },
         {
@@ -13523,7 +13523,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 10A See (für Ch)",
+         "info": "Ch 10A See",
          "geaendert": true
         },
         {
@@ -15453,7 +15453,7 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Bio",
+         "fach": "Ch",
          "klasse": "10A",
          "raum": "204",
          "info": "für Ch Bob",
@@ -15461,7 +15461,7 @@
         },
         {
          "stunde": "4",
-         "fach": "Bio",
+         "fach": "Ch",
          "klasse": "10A",
          "raum": "204",
          "info": "für Ch Bob",
@@ -15829,7 +15829,7 @@
     },
     "20260429": {
      "datum": "Mittwoch, 29. April 2026",
-     "zeitstempel": "27.04.2026, 08:34",
+     "zeitstempel": "28.04.2026, 10:27",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -18390,7 +18390,7 @@
     },
     "20260430": {
      "datum": "Donnerstag, 30. April 2026",
-     "zeitstempel": "26.04.2026, 20:19",
+     "zeitstempel": "28.04.2026, 10:27",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -20784,7 +20784,7 @@
    "tage": {
     "20260504": {
      "datum": "Montag, 04. Mai 2026",
-     "zeitstempel": "27.04.2026, 20:03",
+     "zeitstempel": "28.04.2026, 11:12",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -20796,22 +20796,6 @@
       },
       "Bir": {
        "entries": [
-        {
-         "stunde": "3",
-         "fach": "ILZ",
-         "klasse": "10A",
-         "raum": "005",
-         "info": "für ILZ Hol, Aufsicht: Präventionsprojekt",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "ILZ",
-         "klasse": "10A",
-         "raum": "005",
-         "info": "für ILZ Hol, Aufsicht: ILZ",
-         "geaendert": true
-        },
         {
          "stunde": "5",
          "fach": "Mu",
@@ -21316,7 +21300,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 9C Stu (für AWT)",
+         "info": "ILZ 9C Stu (für AWT), Aufsicht über Präventionsprojekt",
          "geaendert": true
         },
         {
@@ -21324,7 +21308,7 @@
          "fach": "Ge",
          "klasse": "12A-12E",
          "raum": "Aula",
-         "info": "Abitur Geschichte; De 9C Stu (für AWT)",
+         "info": "Abitur Geschichte; ILZ 9C Stu (für AWT), Aufsicht über Präventionsprojekt",
          "geaendert": true
         },
         {
@@ -21687,7 +21671,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "ILZ 10A Bir, Aufsicht: Präventionsprojekt",
+         "info": "ILZ 10A verlegt nach Di (05.05.) St.1 (Lan)",
          "geaendert": true
         },
         {
@@ -21695,7 +21679,7 @@
          "fach": "En",
          "klasse": "",
          "raum": "101",
-         "info": "Kompetenzprüfungen Englisch 11; ILZ 10A Bir, Aufsicht: Präventionsprojekt",
+         "info": "Kompetenzprüfungen Englisch 11; ILZ 10A verlegt nach Di (05.05.) St.1 (Lan)",
          "geaendert": true
         },
         {
@@ -21703,7 +21687,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "ILZ 10A Bir, Aufsicht: ILZ",
+         "info": "ILZ 10A verlegt nach Di (05.05.) St.2 (Lan), Aufsicht: Präventionsprojekt",
          "geaendert": true
         },
         {
@@ -21711,7 +21695,7 @@
          "fach": "En",
          "klasse": "",
          "raum": "101",
-         "info": "Kompetenzprüfungen Englisch 11; ILZ 10A Bir, Aufsicht: ILZ",
+         "info": "Kompetenzprüfungen Englisch 11; ILZ 10A verlegt nach Di (05.05.) St.2 (Lan), Aufsicht: Präventionsprojekt",
          "geaendert": true
         },
         {
@@ -22774,6 +22758,22 @@
       "See": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "10A",
+         "raum": "205",
+         "info": "Bio 10A statt Di (05.05.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Bio",
+         "klasse": "10A",
+         "raum": "205",
+         "info": "Bio 10A statt Di (05.05.) St.2",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Bio",
          "klasse": "10C",
@@ -22916,10 +22916,10 @@
         },
         {
          "stunde": "3",
-         "fach": "De",
+         "fach": "ILZ",
          "klasse": "9C",
          "raum": "004",
-         "info": "für AWT Gor",
+         "info": "für AWT Gor, Aufsicht über Präventionsprojekt",
          "geaendert": true
         },
         {
@@ -23223,7 +23223,7 @@
     },
     "20260505": {
      "datum": "Dienstag, 05. Mai 2026",
-     "zeitstempel": "27.04.2026, 20:03",
+     "zeitstempel": "28.04.2026, 11:12",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -24555,11 +24555,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "ILZ",
+         "klasse": "10A",
+         "raum": "004",
+         "info": "statt Mo (04.05.) St.3 (ILZ Hol); w1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "w1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "ILZ",
+         "klasse": "10A",
+         "raum": "004",
+         "info": "statt Mo (04.05.) St.4 (ILZ Hol), Aufsicht: Präventionsprojekt; w1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -25189,19 +25205,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Bio",
-         "klasse": "10A",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10A gehalten am Mo (04.05.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Bio",
-         "klasse": "10A",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10A gehalten am Mo (04.05.) St.4",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -25527,7 +25543,7 @@
     },
     "20260506": {
      "datum": "Mittwoch, 06. Mai 2026",
-     "zeitstempel": "27.04.2026, 20:03",
+     "zeitstempel": "28.04.2026, 11:12",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -26321,7 +26337,7 @@
          "fach": "Geo",
          "klasse": "7C",
          "raum": "101",
-         "info": "für Geo Mue, Bitte mit Fr. Müchler absprechen.",
+         "info": "für Geo Mue",
          "geaendert": true
         },
         {
@@ -27217,7 +27233,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Geo 7C Hei, Bitte mit Fr. Müchler absprechen.",
+         "info": "Geo 7C Hei",
          "geaendert": true
         },
         {
@@ -28050,7 +28066,7 @@
     },
     "20260507": {
      "datum": "Donnerstag, 07. Mai 2026",
-     "zeitstempel": "27.04.2026, 20:03",
+     "zeitstempel": "28.04.2026, 11:12",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -28440,18 +28456,18 @@
         },
         {
          "stunde": "5",
-         "fach": "eRe",
-         "klasse": "9B",
-         "raum": "104",
-         "info": "für eRe Eul",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 9B Tuh, Aufsicht während Berichtsverlesung, Fr. Eulenberger kommt zu Beginn dazu",
          "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "eRe",
-         "klasse": "9B",
-         "raum": "104",
-         "info": "für eRe Eul",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 9B Tuh, Aufsicht während Berichtsverlesung, Fr. Eulenberger kommt hinterher hinzu",
          "geaendert": true
         }
        ],
@@ -30243,6 +30259,22 @@
          "raum": "008",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "eRe",
+         "klasse": "9B",
+         "raum": "104",
+         "info": "für eRe Eul, Aufsicht während Berichtsverlesung, Fr. Eulenberger kommt zu Beginn dazu",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "eRe",
+         "klasse": "9B",
+         "raum": "104",
+         "info": "für eRe Eul, Aufsicht während Berichtsverlesung, Fr. Eulenberger kommt hinterher hinzu",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -30375,7 +30407,7 @@
     },
     "20260508": {
      "datum": "Freitag, 08. Mai 2026",
-     "zeitstempel": "27.04.2026, 20:03",
+     "zeitstempel": "28.04.2026, 11:12",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -30393,6 +30425,22 @@
          "klasse": "11A-11D",
          "raum": "Aula",
          "info": "für Inf Bar, Klausur, Aula",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "310",
+         "info": "Entwicklungsgespräch Fr. Isbrandt",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "310",
+         "info": "Entwicklungsgespräch Fr. Isbrandt",
          "geaendert": true
         }
        ],
@@ -30869,11 +30917,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "310",
+         "info": "Entwicklungsgespräch Fr. Isbrandt; sk2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "sk2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "310",
+         "info": "Entwicklungsgespräch Fr. Isbrandt; sk2 12A-12E fällt aus",
          "geaendert": true
         }
        ],
@@ -31096,6 +31160,22 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Hospitation Fr. Isbrandt 9d En 105 mit Auswertung in R310",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Hospitation Fr. Isbrandt 9d En 105 mit Auswertung in R310",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -31202,6 +31282,30 @@
          "klasse": "9D",
          "raum": "105",
          "info": "En 9D statt Do (07.05.) St.7, Hospitation",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "",
+         "raum": "310",
+         "info": "Auswertung Hospitation in R310 mit Hr. Pohla",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "310",
+         "info": "Entwicklungsgespräch Fr. Isbrandt",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "310",
+         "info": "Entwicklungsgespräch Fr. Isbrandt",
          "geaendert": true
         }
        ],
