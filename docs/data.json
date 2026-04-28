@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "28.04.2026, 09:41 Uhr",
- "last_changed": "2026-04-28T11:12:00",
+ "generiert": "28.04.2026, 11:26 Uhr",
+ "last_changed": "2026-04-28T11:53:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -20784,7 +20784,7 @@
    "tage": {
     "20260504": {
      "datum": "Montag, 04. Mai 2026",
-     "zeitstempel": "28.04.2026, 11:12",
+     "zeitstempel": "28.04.2026, 11:53",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -21868,7 +21868,7 @@
          "stunde": "1",
          "fach": "En",
          "klasse": "10C",
-         "raum": "004 005",
+         "raum": "207 005",
          "info": "für En Isb",
          "geaendert": true
         },
@@ -21876,7 +21876,7 @@
          "stunde": "2",
          "fach": "En",
          "klasse": "10C",
-         "raum": "004 005",
+         "raum": "207 005",
          "info": "für En Isb",
          "geaendert": true
         }
@@ -22075,17 +22075,17 @@
          "stunde": "3",
          "fach": "Span",
          "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "raum": "102",
+         "info": "für Span Köh",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Span",
          "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "raum": "102",
+         "info": "für Span Köh",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -22153,7 +22153,7 @@
          "stunde": "1",
          "fach": "ILZ",
          "klasse": "10B",
-         "raum": "207",
+         "raum": "004",
          "info": "für ILZ Leu",
          "geaendert": true
         },
@@ -22161,7 +22161,7 @@
          "stunde": "2",
          "fach": "ILZ",
          "klasse": "10B",
-         "raum": "207",
+         "raum": "004",
          "info": "für ILZ Leu, Präventionsprojekt",
          "geaendert": true
         },
@@ -22217,7 +22217,7 @@
          "stunde": "1",
          "fach": "En",
          "klasse": "10C",
-         "raum": "004 005",
+         "raum": "207 005",
          "info": "für En Isb",
          "geaendert": true
         },
@@ -22225,7 +22225,7 @@
          "stunde": "2",
          "fach": "En",
          "klasse": "10C",
-         "raum": "004 005",
+         "raum": "207 005",
          "info": "für En Isb",
          "geaendert": true
         },
@@ -22708,17 +22708,17 @@
          "stunde": "3",
          "fach": "ILZ",
          "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "003",
+         "info": "für ILZ Schud",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "ILZ",
          "klasse": "9B",
-         "raum": "102",
+         "raum": "003",
          "info": "für ILZ Schud, Präventionsprojekt",
-         "geaendert": false
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -23223,7 +23223,7 @@
     },
     "20260505": {
      "datum": "Dienstag, 05. Mai 2026",
-     "zeitstempel": "28.04.2026, 11:12",
+     "zeitstempel": "28.04.2026, 11:53",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23898,17 +23898,17 @@
          "stunde": "3",
          "fach": "Fr",
          "klasse": "10A",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "raum": "104",
+         "info": "für Fr Hei",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Fr",
          "klasse": "10A",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "raum": "104",
+         "info": "für Fr Hei",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -24182,7 +24182,7 @@
          "stunde": "3",
          "fach": "ILZ",
          "klasse": "10C",
-         "raum": "007",
+         "raum": "004",
          "info": "ILZ 10C verlegt von St.5, Präventionsprojekt",
          "geaendert": true
         },
@@ -24190,7 +24190,7 @@
          "stunde": "4",
          "fach": "ILZ",
          "klasse": "10C",
-         "raum": "007",
+         "raum": "004",
          "info": "ILZ 10C verlegt von St.6",
          "geaendert": true
         },
@@ -24295,7 +24295,7 @@
          "stunde": "3",
          "fach": "Ge",
          "klasse": "8A",
-         "raum": "004",
+         "raum": "007",
          "info": "Ge 8A verlegt von St.7",
          "geaendert": true
         },
@@ -24303,7 +24303,7 @@
          "stunde": "4",
          "fach": "Ge",
          "klasse": "8A",
-         "raum": "004",
+         "raum": "007",
          "info": "Ge 8A verlegt von St.8",
          "geaendert": true
         },
@@ -25500,7 +25500,7 @@
          "stunde": "3",
          "fach": "ILZ",
          "klasse": "9A",
-         "raum": "104",
+         "raum": "003",
          "info": "ILZ 9A statt Fr (08.05.) St.3; Fr 9A verlegt nach Fr (08.05.) St.3",
          "geaendert": true
         },
@@ -25516,7 +25516,7 @@
          "stunde": "4",
          "fach": "ILZ",
          "klasse": "9A",
-         "raum": "104",
+         "raum": "003",
          "info": "ILZ 9A statt Fr (08.05.) St.4, Präventionsprojekt; Fr 9A verlegt nach Fr (08.05.) St.4",
          "geaendert": true
         },
@@ -25543,7 +25543,7 @@
     },
     "20260506": {
      "datum": "Mittwoch, 06. Mai 2026",
-     "zeitstempel": "28.04.2026, 11:12",
+     "zeitstempel": "28.04.2026, 11:53",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -28066,7 +28066,7 @@
     },
     "20260507": {
      "datum": "Donnerstag, 07. Mai 2026",
-     "zeitstempel": "28.04.2026, 11:12",
+     "zeitstempel": "28.04.2026, 11:53",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -30407,7 +30407,7 @@
     },
     "20260508": {
      "datum": "Freitag, 08. Mai 2026",
-     "zeitstempel": "28.04.2026, 11:12",
+     "zeitstempel": "28.04.2026, 11:53",
      "lehrer": {
       "Bar": {
        "entries": [
