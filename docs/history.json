@@ -1,18 +1,5 @@
 [
  {
-  "timestamp": "2026-04-21T06:07:14.367249",
-  "lehrer": "Hön",
-  "datum": "Dienstag, 21. April 2026",
-  "date_key": "20260421",
-  "changes": [
-   "Std 3 (09:40): De 9D statt Mo (20.04.) St.5",
-   "Std 4 (10:25): De 9D statt Mo (20.04.) St.6",
-   "Std 5 (11:40): für ILZ Hön",
-   "Std 6 (12:25): für ILZ Hön"
-  ],
-  "zeitstempel": "21.04.2026, 07:32"
- },
- {
   "timestamp": "2026-04-21T08:26:53.447520",
   "lehrer": "Hol",
   "datum": "Montag, 27. April 2026",
