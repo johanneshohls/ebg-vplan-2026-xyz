@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "29.04.2026, 09:29 Uhr",
- "last_changed": "2026-04-29T11:28:00",
+ "generiert": "29.04.2026, 11:14 Uhr",
+ "last_changed": "2026-04-29T12:47:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -15829,7 +15829,7 @@
     },
     "20260429": {
      "datum": "Mittwoch, 29. April 2026",
-     "zeitstempel": "29.04.2026, 11:28",
+     "zeitstempel": "29.04.2026, 12:47",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -18390,7 +18390,7 @@
     },
     "20260430": {
      "datum": "Donnerstag, 30. April 2026",
-     "zeitstempel": "28.04.2026, 10:27",
+     "zeitstempel": "29.04.2026, 12:47",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -20784,7 +20784,7 @@
    "tage": {
     "20260504": {
      "datum": "Montag, 04. Mai 2026",
-     "zeitstempel": "28.04.2026, 11:53",
+     "zeitstempel": "29.04.2026, 12:47",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -22169,17 +22169,17 @@
          "stunde": "3",
          "fach": "Ma",
          "klasse": "10B",
-         "raum": "002",
-         "info": "für Ma Leu",
-         "geaendert": true
+         "raum": "Co1",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "4",
          "fach": "Ma",
          "klasse": "10B",
-         "raum": "002",
-         "info": "für Ma Leu",
-         "geaendert": true
+         "raum": "Co1",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "5",
@@ -23223,7 +23223,7 @@
     },
     "20260505": {
      "datum": "Dienstag, 05. Mai 2026",
-     "zeitstempel": "28.04.2026, 11:53",
+     "zeitstempel": "29.04.2026, 12:47",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -25220,22 +25220,6 @@
          "geaendert": true
         },
         {
-         "stunde": "3",
-         "fach": "Bio",
-         "klasse": "10B",
-         "raum": "204",
-         "info": "für De Tuh",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Bio",
-         "klasse": "10B",
-         "raum": "204",
-         "info": "für De Tuh",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -25302,11 +25286,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Inf",
+         "klasse": "10B",
+         "raum": "K09",
+         "info": "Inf 10B statt Do (07.05.) St.5; Inf 7B verlegt nach Fr (08.05.) St.1",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Inf 7B verlegt nach Fr (08.05.) St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Inf",
+         "klasse": "10B",
+         "raum": "K09",
+         "info": "Inf 10B statt Do (07.05.) St.6; Inf 7B verlegt nach Fr (08.05.) St.2",
          "geaendert": true
         }
        ],
@@ -25424,7 +25424,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 10B See (für De)",
+         "info": "Bio 10B verlegt nach Mi (06.05.) St.5 (See)",
          "geaendert": true
         },
         {
@@ -25432,7 +25432,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 10B See (für De)",
+         "info": "Bio 10B verlegt nach Mi (06.05.) St.6 (See)",
          "geaendert": true
         },
         {
@@ -25543,7 +25543,7 @@
     },
     "20260506": {
      "datum": "Mittwoch, 06. Mai 2026",
-     "zeitstempel": "29.04.2026, 09:35",
+     "zeitstempel": "29.04.2026, 12:47",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -28082,7 +28082,7 @@
     },
     "20260507": {
      "datum": "Donnerstag, 07. Mai 2026",
-     "zeitstempel": "28.04.2026, 11:53",
+     "zeitstempel": "29.04.2026, 12:47",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -29781,6 +29781,22 @@
          "raum": "103",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Span",
+         "klasse": "10B",
+         "raum": "102",
+         "info": "Span 10B statt Mi (06.05.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Span",
+         "klasse": "10B",
+         "raum": "102",
+         "info": "Span 10B statt Mi (06.05.) St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -30081,19 +30097,19 @@
         },
         {
          "stunde": "5",
-         "fach": "Inf",
-         "klasse": "10B",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10B gehalten am Di (05.05.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Inf",
-         "klasse": "10B",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10B gehalten am Di (05.05.) St.4",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -30423,7 +30439,7 @@
     },
     "20260508": {
      "datum": "Freitag, 08. Mai 2026",
-     "zeitstempel": "28.04.2026, 11:53",
+     "zeitstempel": "29.04.2026, 12:47",
      "lehrer": {
       "Bar": {
        "entries": [

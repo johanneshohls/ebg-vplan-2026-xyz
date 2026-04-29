@@ -1731,5 +1731,59 @@
    "Std 6 (12:25): für Inf Sta"
   ],
   "zeitstempel": "29.04.2026, 11:28"
+ },
+ {
+  "timestamp": "2026-04-29T11:14:10.919979",
+  "lehrer": "Leu",
+  "datum": "Montag, 04. Mai 2026",
+  "date_key": "20260504",
+  "changes": [
+   "Std 1 (07:40): für ILZ Leu",
+   "Std 2 (08:25): für ILZ Leu, Präventionsprojekt",
+   "Std 5 (11:40): für Ma Leu",
+   "Std 6 (12:25): für Ma Leu"
+  ],
+  "zeitstempel": "29.04.2026, 12:47"
+ },
+ {
+  "timestamp": "2026-04-29T11:14:10.919979",
+  "lehrer": "See",
+  "datum": "Dienstag, 05. Mai 2026",
+  "date_key": "20260505",
+  "changes": [
+   "Std 1 (07:40): Bio 10A gehalten am Mo (04.05.) St.3",
+   "Std 2 (08:25): Bio 10A gehalten am Mo (04.05.) St.4",
+   "Std 5 (11:40): BIO1 12A-12E fällt aus",
+   "Std 6 (12:25): BIO1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "29.04.2026, 12:47"
+ },
+ {
+  "timestamp": "2026-04-29T11:14:10.919979",
+  "lehrer": "Sta",
+  "datum": "Dienstag, 05. Mai 2026",
+  "date_key": "20260505",
+  "changes": [
+   "Std 3 (09:40): Inf 7B verlegt nach Fr (08.05.) St.1",
+   "Std 3 (09:40): Inf 10B statt Do (07.05.) St.5; Inf 7B verlegt nach Fr (08.05.) St.1",
+   "Std 4 (10:25): Inf 7B verlegt nach Fr (08.05.) St.2",
+   "Std 4 (10:25): Inf 10B statt Do (07.05.) St.6; Inf 7B verlegt nach Fr (08.05.) St.2"
+  ],
+  "zeitstempel": "29.04.2026, 12:47"
+ },
+ {
+  "timestamp": "2026-04-29T11:14:10.919979",
+  "lehrer": "Tuh",
+  "datum": "Dienstag, 05. Mai 2026",
+  "date_key": "20260505",
+  "changes": [
+   "Std 3 (09:40): Bio 10B verlegt nach Mi (06.05.) St.5 (See)",
+   "Std 4 (10:25): Bio 10B verlegt nach Mi (06.05.) St.6 (See)",
+   "Std 5 (11:40): De 9C fällt aus",
+   "Std 6 (12:25): De 9C fällt aus",
+   "Std 7 (13:40): Club4 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club4 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "29.04.2026, 12:47"
  }
 ]
