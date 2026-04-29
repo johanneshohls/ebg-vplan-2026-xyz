@@ -1221,5 +1221,48 @@
    "Std 4 (10:25): Geo 10B statt Di (28.04.) St.2; Span 10B gehalten am Di (28.04.) St.2"
   ],
   "zeitstempel": "29.04.2026, 16:32"
+ },
+ {
+  "timestamp": "2026-04-29T18:03:44.686492",
+  "lehrer": "Bar",
+  "datum": "Donnerstag, 30. April 2026",
+  "date_key": "20260430",
+  "changes": [
+   "Std 3 (09:40): inf3 11A-11D fällt aus",
+   "Std 3 (09:40): für Ph Hoh, Test schreiben",
+   "Std 4 (10:25): inf3 11A-11D fällt aus",
+   "Std 4 (10:25): für Ph Hoh, Test schreiben",
+   "Std 5 (11:40): Verlesung der Mentorenberichte Eul",
+   "Std 6 (12:25): Verlesung der Mentorenberichte Eul"
+  ],
+  "zeitstempel": "29.04.2026, 19:05"
+ },
+ {
+  "timestamp": "2026-04-29T18:03:44.686492",
+  "lehrer": "Gol",
+  "datum": "Donnerstag, 30. April 2026",
+  "date_key": "20260430",
+  "changes": [
+   "Std 5 (11:40): für Ma Hoh, Aufsicht, Aufgaben durch Herrn Hohls bereitsgestellt",
+   "Std 6 (12:25): für Ma Hoh, Aufsicht, Aufgaben durch Herrn Hohls bereitsgestellt",
+   "Std 7 (13:40): ge2 12A-12E fällt aus",
+   "Std 8 (14:25): ge2 12A-12E fällt aus"
+  ],
+  "zeitstempel": "29.04.2026, 19:05"
+ },
+ {
+  "timestamp": "2026-04-29T18:03:44.686492",
+  "lehrer": "Hoh",
+  "datum": "Donnerstag, 30. April 2026",
+  "date_key": "20260430",
+  "changes": [
+   "Std 1 (07:40): für Ma Hoh, Aufteilung laut Plan!",
+   "Std 2 (08:25): für Ma Hoh, Aufteilung laut Plan!",
+   "Std 3 (09:40): Ph 8B Bar, Test schreiben",
+   "Std 4 (10:25): Ph 8B Bar, Test schreiben",
+   "Std 5 (11:40): Ma 7D Gol, Aufsicht, Aufgaben durch Herrn Hohls bereitsgestellt",
+   "Std 6 (12:25): Ma 7D Gol, Aufsicht, Aufgaben durch Herrn Hohls bereitsgestellt"
+  ],
+  "zeitstempel": "29.04.2026, 19:05"
  }
 ]

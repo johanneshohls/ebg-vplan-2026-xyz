@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "29.04.2026, 16:42 Uhr",
- "last_changed": "2026-04-29T16:32:00",
+ "generiert": "29.04.2026, 18:03 Uhr",
+ "last_changed": "2026-04-29T19:05:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -18390,7 +18390,7 @@
     },
     "20260430": {
      "datum": "Donnerstag, 30. April 2026",
-     "zeitstempel": "29.04.2026, 16:32",
+     "zeitstempel": "29.04.2026, 19:05",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -18403,11 +18403,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Ph",
+         "klasse": "8B",
+         "raum": "205",
+         "info": "für Ph Hoh, Test schreiben",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "inf3 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ph",
+         "klasse": "8B",
+         "raum": "205",
+         "info": "für Ph Hoh, Test schreiben",
          "geaendert": true
         },
         {
@@ -18913,6 +18929,22 @@
          "geaendert": false
         },
         {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für Ma Hoh, Aufsicht, Aufgaben durch Herrn Hohls bereitsgestellt",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für Ma Hoh, Aufsicht, Aufgaben durch Herrn Hohls bereitsgestellt",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "---",
          "klasse": "",
@@ -19206,49 +19238,49 @@
          "stunde": "1",
          "fach": "Ma",
          "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für Ma Hoh, Aufteilung laut Plan!",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Ma",
          "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für Ma Hoh, Aufteilung laut Plan!",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Ph",
-         "klasse": "8B",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8B Bar, Test schreiben",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ph",
-         "klasse": "8B",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8B Bar, Test schreiben",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Ma",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7D Gol, Aufsicht, Aufgaben durch Herrn Hohls bereitsgestellt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ma",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7D Gol, Aufsicht, Aufgaben durch Herrn Hohls bereitsgestellt",
+         "geaendert": true
         }
        ],
        "aufsichten": [
