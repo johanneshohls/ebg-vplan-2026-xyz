@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "29.04.2026, 07:21 Uhr",
- "last_changed": "2026-04-28T11:53:00",
+ "generiert": "29.04.2026, 09:29 Uhr",
+ "last_changed": "2026-04-29T11:28:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -15829,7 +15829,7 @@
     },
     "20260429": {
      "datum": "Mittwoch, 29. April 2026",
-     "zeitstempel": "28.04.2026, 10:27",
+     "zeitstempel": "29.04.2026, 11:28",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -15902,17 +15902,17 @@
          "stunde": "5",
          "fach": "Mu",
          "klasse": "7C",
-         "raum": "Aula",
+         "raum": "107",
          "info": "für Mu Bir, Klassenkonzert",
-         "geaendert": true
+         "geaendert": false
         },
         {
          "stunde": "6",
          "fach": "Mu",
          "klasse": "7C",
-         "raum": "Aula",
+         "raum": "107",
          "info": "für Mu Bir, Klassenkonzert",
-         "geaendert": true
+         "geaendert": false
         },
         {
          "stunde": "7",
@@ -16174,7 +16174,7 @@
          "stunde": "1",
          "fach": "Inf",
          "klasse": "12A-12E",
-         "raum": "K09",
+         "raum": "K10",
          "info": "Abitur Informatik",
          "geaendert": true
         },
@@ -16182,7 +16182,7 @@
          "stunde": "2",
          "fach": "Inf",
          "klasse": "12A-12E",
-         "raum": "K09",
+         "raum": "K10",
          "info": "Abitur Informatik",
          "geaendert": true
         },
@@ -16190,7 +16190,7 @@
          "stunde": "3",
          "fach": "Inf",
          "klasse": "12A-12E",
-         "raum": "K09",
+         "raum": "K10",
          "info": "Abitur Informatik",
          "geaendert": true
         },
@@ -16198,7 +16198,7 @@
          "stunde": "4",
          "fach": "Inf",
          "klasse": "12A-12E",
-         "raum": "K09",
+         "raum": "K10",
          "info": "Abitur Informatik",
          "geaendert": true
         },
@@ -16206,7 +16206,7 @@
          "stunde": "5",
          "fach": "Inf",
          "klasse": "12A-12E",
-         "raum": "K09",
+         "raum": "K10",
          "info": "Abitur Informatik",
          "geaendert": true
         },
@@ -16214,7 +16214,7 @@
          "stunde": "6",
          "fach": "Inf",
          "klasse": "12A-12E",
-         "raum": "K09",
+         "raum": "K10",
          "info": "Abitur Informatik",
          "geaendert": true
         },
@@ -16230,7 +16230,7 @@
          "stunde": "7",
          "fach": "Inf",
          "klasse": "12A-12E",
-         "raum": "K09",
+         "raum": "K10",
          "info": "Abitur Informatik; Ma 9C fällt aus",
          "geaendert": true
         },
@@ -16246,7 +16246,7 @@
          "stunde": "8",
          "fach": "Inf",
          "klasse": "12A-12E",
-         "raum": "K09",
+         "raum": "K10",
          "info": "Abitur Informatik; Ma 9C fällt aus",
          "geaendert": true
         }
@@ -16962,17 +16962,17 @@
          "stunde": "7",
          "fach": "mu1",
          "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "106",
+         "info": "für Mu Kar",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "mu1",
          "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "106",
+         "info": "für Mu Kar",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -16990,7 +16990,7 @@
          "stunde": "1",
          "fach": "Ch",
          "klasse": "9C",
-         "raum": "K07",
+         "raum": "204",
          "info": "für Ch Bob",
          "geaendert": true
         },
@@ -16998,7 +16998,7 @@
          "stunde": "2",
          "fach": "Ch",
          "klasse": "9C",
-         "raum": "K07",
+         "raum": "204",
          "info": "für Ch Bob",
          "geaendert": true
         },
@@ -17715,7 +17715,7 @@
          "stunde": "1",
          "fach": "Inf",
          "klasse": "12A-12E",
-         "raum": "K09",
+         "raum": "K10",
          "info": "Abitur Informatik; Ma 10C gehalten am Di (28.04.) St.7 (Roh)",
          "geaendert": true
         },
@@ -17731,7 +17731,7 @@
          "stunde": "2",
          "fach": "Inf",
          "klasse": "12A-12E",
-         "raum": "K09",
+         "raum": "K10",
          "info": "Abitur Informatik; Ma 10C gehalten am Di (28.04.) St.8 (Roh)",
          "geaendert": true
         },
@@ -17747,7 +17747,7 @@
          "stunde": "3",
          "fach": "Inf",
          "klasse": "12A-12E",
-         "raum": "K09",
+         "raum": "K10",
          "info": "Abitur Informatik; Ph 8C gehalten am Di (28.04.) St.3 (Roh)",
          "geaendert": true
         },
@@ -17763,7 +17763,7 @@
          "stunde": "4",
          "fach": "Inf",
          "klasse": "12A-12E",
-         "raum": "K09",
+         "raum": "K10",
          "info": "Abitur Informatik; Ph 8C gehalten am Di (28.04.) St.4 (Roh)",
          "geaendert": true
         },
@@ -17771,7 +17771,7 @@
          "stunde": "5",
          "fach": "Inf",
          "klasse": "12A-12E",
-         "raum": "K09",
+         "raum": "K10",
          "info": "Abitur Informatik",
          "geaendert": true
         },
@@ -17779,7 +17779,7 @@
          "stunde": "6",
          "fach": "Inf",
          "klasse": "12A-12E",
-         "raum": "K09",
+         "raum": "K10",
          "info": "Abitur Informatik",
          "geaendert": true
         },
@@ -17795,7 +17795,7 @@
          "stunde": "7",
          "fach": "Inf",
          "klasse": "12A-12E",
-         "raum": "K09",
+         "raum": "K10",
          "info": "Abitur Informatik; Ma 9B gehalten am Mo (27.04.) St.5 (Roh)",
          "geaendert": true
         },
@@ -17811,7 +17811,7 @@
          "stunde": "8",
          "fach": "Inf",
          "klasse": "12A-12E",
-         "raum": "K09",
+         "raum": "K10",
          "info": "Abitur Informatik; Ma 9B gehalten am Mo (27.04.) St.6 (Roh)",
          "geaendert": true
         }
@@ -18080,7 +18080,7 @@
          "stunde": "1",
          "fach": "Inf",
          "klasse": "10C",
-         "raum": "K10",
+         "raum": "K09",
          "info": "Inf 10C statt Mo (27.04.) St.3; Inf 8C verlegt nach St.3",
          "geaendert": true
         },
@@ -18096,7 +18096,7 @@
          "stunde": "2",
          "fach": "Inf",
          "klasse": "10C",
-         "raum": "K10",
+         "raum": "K09",
          "info": "Inf 10C statt Mo (27.04.) St.4; Inf 8C verlegt nach St.4",
          "geaendert": true
         },
@@ -18104,7 +18104,7 @@
          "stunde": "3",
          "fach": "Inf",
          "klasse": "8C",
-         "raum": "K10",
+         "raum": "K09",
          "info": "Inf 8C verlegt von St.1",
          "geaendert": true
         },
@@ -18112,7 +18112,7 @@
          "stunde": "4",
          "fach": "Inf",
          "klasse": "8C",
-         "raum": "K10",
+         "raum": "K09",
          "info": "Inf 8C verlegt von St.2",
          "geaendert": true
         },
@@ -18120,17 +18120,17 @@
          "stunde": "5",
          "fach": "Inf",
          "klasse": "8A",
-         "raum": "K10",
+         "raum": "K09",
          "info": "für Inf Sta",
-         "geaendert": true
+         "geaendert": false
         },
         {
          "stunde": "6",
          "fach": "Inf",
          "klasse": "8A",
-         "raum": "K10",
+         "raum": "K09",
          "info": "für Inf Sta",
-         "geaendert": true
+         "geaendert": false
         },
         {
          "stunde": "7",
@@ -25543,7 +25543,7 @@
     },
     "20260506": {
      "datum": "Mittwoch, 06. Mai 2026",
-     "zeitstempel": "28.04.2026, 11:53",
+     "zeitstempel": "29.04.2026, 09:35",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -25754,7 +25754,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ch 10B Lan",
+         "info": "Ch 10B verlegt nach St.3 (Lan)",
          "geaendert": true
         },
         {
@@ -25762,7 +25762,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ch 10B Lan",
+         "info": "Ch 10B verlegt nach St.4 (Lan)",
          "geaendert": true
         },
         {
@@ -26938,6 +26938,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Ch",
+         "klasse": "10B",
+         "raum": "007",
+         "info": "verlegt von St.5 (Ch Bob); w2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -26946,19 +26954,11 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
+         "stunde": "4",
          "fach": "Ch",
          "klasse": "10B",
-         "raum": "107",
-         "info": "für Ch Bob",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Ch",
-         "klasse": "10B",
-         "raum": "107",
-         "info": "für Ch Bob",
+         "raum": "007",
+         "info": "verlegt von St.6 (Ch Bob); w2 12A-12E fällt aus",
          "geaendert": true
         }
        ],
@@ -27367,7 +27367,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 7E Schud",
+         "info": "De 7E Ter (für Ge)",
          "geaendert": true
         },
         {
@@ -27375,7 +27375,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 7E Schud",
+         "info": "De 7E Ter (für Ge)",
          "geaendert": true
         },
         {
@@ -27401,19 +27401,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "10B",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10B verlegt nach Do (07.05.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
-         "klasse": "10B",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10B verlegt nach Do (07.05.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -27690,22 +27690,6 @@
          "raum": "006",
          "info": "Ge 8C statt Mo (04.05.) St.8; ku1 12A-12E fällt aus",
          "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "Ge",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "für Ge Pri",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Ge",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "für Ge Pri",
-         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -27749,6 +27733,22 @@
          "klasse": "10A",
          "raum": "204",
          "info": "verlegt von St.8 (Ge Pri)",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Bio",
+         "klasse": "10B",
+         "raum": "204",
+         "info": "statt Di (05.05.) St.3 (De Tuh)",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Bio",
+         "klasse": "10B",
+         "raum": "204",
+         "info": "statt Di (05.05.) St.4 (De Tuh)",
          "geaendert": true
         },
         {
@@ -27900,6 +27900,22 @@
          "klasse": "11A-11D",
          "raum": "104",
          "info": "für DSp Ter, Raumtausch wegen Klassenkonzert",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "für Ge Pri",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "für Ge Pri",
          "geaendert": true
         }
        ],

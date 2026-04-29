@@ -1635,5 +1635,101 @@
    "Std 8 (14:25): Ge 8C verlegt nach Mi (06.05.) St.4"
   ],
   "zeitstempel": "28.04.2026, 11:53"
+ },
+ {
+  "timestamp": "2026-04-29T09:29:07.075419",
+  "lehrer": "Bir",
+  "datum": "Mittwoch, 29. April 2026",
+  "date_key": "20260429",
+  "changes": [
+   "Std 5 (11:40): für Mu Bir, Klassenkonzert",
+   "Std 6 (12:25): für Mu Bir, Klassenkonzert",
+   "Std 9 (15:40): mue1 12A-12E fällt aus",
+   "Std 10 (16:25): mue1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "29.04.2026, 11:28"
+ },
+ {
+  "timestamp": "2026-04-29T09:29:07.075419",
+  "lehrer": "Con",
+  "datum": "Mittwoch, 29. April 2026",
+  "date_key": "20260429",
+  "changes": [
+   "Std 1 (07:40): Abitur Informatik",
+   "Std 2 (08:25): Abitur Informatik",
+   "Std 3 (09:40): Abitur Informatik",
+   "Std 4 (10:25): Abitur Informatik",
+   "Std 5 (11:40): Abitur Informatik",
+   "Std 6 (12:25): Abitur Informatik",
+   "Std 7 (13:40): Ma 9C fällt aus",
+   "Std 7 (13:40): Abitur Informatik; Ma 9C fällt aus",
+   "Std 8 (14:25): Ma 9C fällt aus",
+   "Std 8 (14:25): Abitur Informatik; Ma 9C fällt aus"
+  ],
+  "zeitstempel": "29.04.2026, 11:28"
+ },
+ {
+  "timestamp": "2026-04-29T09:29:07.075419",
+  "lehrer": "Kar",
+  "datum": "Mittwoch, 29. April 2026",
+  "date_key": "20260429",
+  "changes": [
+   "Std 7 (13:40): für Mu Kar",
+   "Std 8 (14:25): für Mu Kar"
+  ],
+  "zeitstempel": "29.04.2026, 11:28"
+ },
+ {
+  "timestamp": "2026-04-29T09:29:07.075419",
+  "lehrer": "Kno",
+  "datum": "Mittwoch, 29. April 2026",
+  "date_key": "20260429",
+  "changes": [
+   "Std 1 (07:40): für Ch Bob",
+   "Std 2 (08:25): für Ch Bob",
+   "Std 3 (09:40): für W Kno",
+   "Std 4 (10:25): für W Kno"
+  ],
+  "zeitstempel": "29.04.2026, 11:28"
+ },
+ {
+  "timestamp": "2026-04-29T09:29:07.075419",
+  "lehrer": "Roh",
+  "datum": "Mittwoch, 29. April 2026",
+  "date_key": "20260429",
+  "changes": [
+   "Std 1 (07:40): Ma 10C gehalten am Di (28.04.) St.7",
+   "Std 1 (07:40): Abitur Informatik; Ma 10C gehalten am Di (28.04.) St.7 (Roh)",
+   "Std 2 (08:25): Ma 10C gehalten am Di (28.04.) St.8",
+   "Std 2 (08:25): Abitur Informatik; Ma 10C gehalten am Di (28.04.) St.8 (Roh)",
+   "Std 3 (09:40): Ph 8C gehalten am Di (28.04.) St.3",
+   "Std 3 (09:40): Abitur Informatik; Ph 8C gehalten am Di (28.04.) St.3 (Roh)",
+   "Std 4 (10:25): Ph 8C gehalten am Di (28.04.) St.4",
+   "Std 4 (10:25): Abitur Informatik; Ph 8C gehalten am Di (28.04.) St.4 (Roh)",
+   "Std 5 (11:40): Abitur Informatik",
+   "Std 6 (12:25): Abitur Informatik",
+   "Std 7 (13:40): Ma 9B gehalten am Mo (27.04.) St.5",
+   "Std 7 (13:40): Abitur Informatik; Ma 9B gehalten am Mo (27.04.) St.5 (Roh)",
+   "Std 8 (14:25): Ma 9B gehalten am Mo (27.04.) St.6",
+   "Std 8 (14:25): Abitur Informatik; Ma 9B gehalten am Mo (27.04.) St.6 (Roh)"
+  ],
+  "zeitstempel": "29.04.2026, 11:28"
+ },
+ {
+  "timestamp": "2026-04-29T09:29:07.075419",
+  "lehrer": "Sta",
+  "datum": "Mittwoch, 29. April 2026",
+  "date_key": "20260429",
+  "changes": [
+   "Std 1 (07:40): Inf 8C verlegt nach St.3",
+   "Std 1 (07:40): Inf 10C statt Mo (27.04.) St.3; Inf 8C verlegt nach St.3",
+   "Std 2 (08:25): Inf 8C verlegt nach St.4",
+   "Std 2 (08:25): Inf 10C statt Mo (27.04.) St.4; Inf 8C verlegt nach St.4",
+   "Std 3 (09:40): Inf 8C verlegt von St.1",
+   "Std 4 (10:25): Inf 8C verlegt von St.2",
+   "Std 5 (11:40): für Inf Sta",
+   "Std 6 (12:25): für Inf Sta"
+  ],
+  "zeitstempel": "29.04.2026, 11:28"
  }
 ]
