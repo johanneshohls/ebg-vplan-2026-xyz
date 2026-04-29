@@ -1193,5 +1193,33 @@
    "Std 8 (14:25): Club4 10A-10D,9A-9D fällt aus"
   ],
   "zeitstempel": "29.04.2026, 12:47"
+ },
+ {
+  "timestamp": "2026-04-29T15:00:30.586162",
+  "lehrer": "Hun",
+  "datum": "Donnerstag, 30. April 2026",
+  "date_key": "20260430",
+  "changes": [
+   "Std 1 (07:40): ch2 11A-11D fällt aus",
+   "Std 1 (07:40): As 9B statt Di (28.04.) St.7; ch2 11A-11D fällt aus",
+   "Std 2 (08:25): ch2 11A-11D fällt aus",
+   "Std 2 (08:25): As 9B statt Di (28.04.) St.8; ch2 11A-11D fällt aus",
+   "Std 3 (09:40): verlegt von St.5 (Ch Bob), Test schreiben lassen",
+   "Std 4 (10:25): verlegt von St.6 (Ch Bob)"
+  ],
+  "zeitstempel": "29.04.2026, 16:32"
+ },
+ {
+  "timestamp": "2026-04-29T15:00:30.586162",
+  "lehrer": "Puk",
+  "datum": "Donnerstag, 30. April 2026",
+  "date_key": "20260430",
+  "changes": [
+   "Std 3 (09:40): Span 10B gehalten am Di (28.04.) St.1",
+   "Std 3 (09:40): Geo 10B statt Di (28.04.) St.1; Span 10B gehalten am Di (28.04.) St.1",
+   "Std 4 (10:25): Span 10B gehalten am Di (28.04.) St.2",
+   "Std 4 (10:25): Geo 10B statt Di (28.04.) St.2; Span 10B gehalten am Di (28.04.) St.2"
+  ],
+  "zeitstempel": "29.04.2026, 16:32"
  }
 ]

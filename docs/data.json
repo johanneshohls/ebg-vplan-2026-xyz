@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "29.04.2026, 12:54 Uhr",
- "last_changed": "2026-04-29T12:47:00",
+ "generiert": "29.04.2026, 15:00 Uhr",
+ "last_changed": "2026-04-29T16:32:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -18390,7 +18390,7 @@
     },
     "20260430": {
      "datum": "Donnerstag, 30. April 2026",
-     "zeitstempel": "29.04.2026, 12:47",
+     "zeitstempel": "29.04.2026, 16:32",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -19475,7 +19475,7 @@
          "stunde": "3",
          "fach": "Ch",
          "klasse": "8D",
-         "raum": "105",
+         "raum": "007",
          "info": "verlegt von St.5 (Ch Bob), Test schreiben lassen",
          "geaendert": true
         },
@@ -19483,7 +19483,7 @@
          "stunde": "4",
          "fach": "Ch",
          "klasse": "8D",
-         "raum": "105",
+         "raum": "007",
          "info": "verlegt von St.6 (Ch Bob)",
          "geaendert": true
         },
@@ -20123,7 +20123,7 @@
          "stunde": "3",
          "fach": "Geo",
          "klasse": "10B",
-         "raum": "102",
+         "raum": "105",
          "info": "Geo 10B statt Di (28.04.) St.1; Span 10B gehalten am Di (28.04.) St.1",
          "geaendert": true
         },
@@ -20139,7 +20139,7 @@
          "stunde": "4",
          "fach": "Geo",
          "klasse": "10B",
-         "raum": "102",
+         "raum": "105",
          "info": "Geo 10B statt Di (28.04.) St.2; Span 10B gehalten am Di (28.04.) St.2",
          "geaendert": true
         }
