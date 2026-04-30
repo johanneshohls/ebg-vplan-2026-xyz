@@ -1264,5 +1264,42 @@
    "Std 6 (12:25): Ma 7D Gol, Aufsicht, Aufgaben durch Herrn Hohls bereitsgestellt"
   ],
   "zeitstempel": "29.04.2026, 19:05"
+ },
+ {
+  "timestamp": "2026-04-30T09:32:48.821472",
+  "lehrer": "Eul",
+  "datum": "Donnerstag, 30. April 2026",
+  "date_key": "20260430",
+  "changes": [
+   "Std 5 (11:40): eRe 9B Leu",
+   "Std 6 (12:25): eRe 9B Leu"
+  ],
+  "zeitstempel": "30.04.2026, 11:24"
+ },
+ {
+  "timestamp": "2026-04-30T09:32:48.821472",
+  "lehrer": "Leu",
+  "datum": "Donnerstag, 30. April 2026",
+  "date_key": "20260430",
+  "changes": [
+   "Std 5 (11:40): für eRe Eul",
+   "Std 6 (12:25): für eRe Eul"
+  ],
+  "zeitstempel": "30.04.2026, 11:24"
+ },
+ {
+  "timestamp": "2026-04-30T09:32:48.821472",
+  "lehrer": "Bes",
+  "datum": "Dienstag, 05. Mai 2026",
+  "date_key": "20260505",
+  "changes": [
+   "Std 5 (11:40): PH1 12A-12E fällt aus",
+   "Std 5 (11:40): PH 11/12 LK; PH1 12A-12E fällt aus",
+   "Std 6 (12:25): PH1 12A-12E fällt aus",
+   "Std 6 (12:25): PH 11/12 LK; PH1 12A-12E fällt aus",
+   "Std 7 (13:40): für Ph Bes, Klausur",
+   "Std 8 (14:25): für Ph Bes, Klausur"
+  ],
+  "zeitstempel": "30.04.2026, 09:37"
  }
 ]

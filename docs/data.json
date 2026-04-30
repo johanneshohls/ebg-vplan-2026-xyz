@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "30.04.2026, 07:26 Uhr",
- "last_changed": "2026-04-29T19:05:00",
+ "generiert": "30.04.2026, 09:32 Uhr",
+ "last_changed": "2026-04-30T11:24:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -18390,7 +18390,7 @@
     },
     "20260430": {
      "datum": "Donnerstag, 30. April 2026",
-     "zeitstempel": "29.04.2026, 19:05",
+     "zeitstempel": "30.04.2026, 11:24",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -18803,19 +18803,19 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "eRe",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 9B Leu",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "eRe",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 9B Leu",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -19846,6 +19846,22 @@
          "raum": "004",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "eRe",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "für eRe Eul",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "eRe",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "für eRe Eul",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23255,7 +23271,7 @@
     },
     "20260505": {
      "datum": "Dienstag, 05. Mai 2026",
-     "zeitstempel": "29.04.2026, 12:47",
+     "zeitstempel": "30.04.2026, 09:37",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23316,17 +23332,17 @@
          "stunde": "7",
          "fach": "ph1",
          "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "für Ph Bes, Klausur, Aula",
-         "geaendert": true
+         "raum": "205",
+         "info": "für Ph Bes, Klausur",
+         "geaendert": false
         },
         {
          "stunde": "8",
          "fach": "ph1",
          "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "für Ph Bes, Klausur, Aula",
-         "geaendert": true
+         "raum": "205",
+         "info": "für Ph Bes, Klausur",
+         "geaendert": false
         }
        ],
        "aufsichten": []
