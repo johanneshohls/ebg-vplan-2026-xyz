@@ -1,55 +1,5 @@
 [
  {
-  "timestamp": "2026-04-24T09:05:01.479417",
-  "lehrer": "Bir",
-  "datum": "Freitag, 24. April 2026",
-  "date_key": "20260424",
-  "changes": [
-   "Std 3 (09:40): für Mu Bir, Klassenkonzert",
-   "Std 4 (10:25): für Mu Bir, Klassenkonzert"
-  ],
-  "zeitstempel": "24.04.2026, 09:05"
- },
- {
-  "timestamp": "2026-04-24T09:05:01.479417",
-  "lehrer": "Schud",
-  "datum": "Freitag, 24. April 2026",
-  "date_key": "20260424",
-  "changes": [
-   "Std 3 (09:40): Ge 9B gehalten am Do (23.04.) St.3, Verlegung aufgrund einer Hospitation",
-   "Std 3 (09:40): Ge 7D statt Di (21.04.) St.3; Ge 9B gehalten am Do (23.04.) St.3, Verlegung aufgrund einer Hospitation",
-   "Std 4 (10:25): Ge 9B gehalten am Do (23.04.) St.4, Verlegung aufgrund einer Hospitation",
-   "Std 4 (10:25): Ge 7D statt Di (21.04.) St.4; Ge 9B gehalten am Do (23.04.) St.4, Verlegung aufgrund einer Hospitation"
-  ],
-  "zeitstempel": "24.04.2026, 09:05"
- },
- {
-  "timestamp": "2026-04-24T09:05:01.479417",
-  "lehrer": "Bir",
-  "datum": "Montag, 27. April 2026",
-  "date_key": "20260427",
-  "changes": [
-   "Std 1 (07:40): für Mu Bir",
-   "Std 2 (08:25): für Mu Bir",
-   "Std 3 (09:40): für Mu Bir, Klassenkonzert",
-   "Std 4 (10:25): für Mu Bir, Klassenkonzert",
-   "Std 5 (11:40): für Mu Bir",
-   "Std 6 (12:25): für Mu Bir"
-  ],
-  "zeitstempel": "24.04.2026, 09:49"
- },
- {
-  "timestamp": "2026-04-24T09:05:01.479417",
-  "lehrer": "Jur",
-  "datum": "Montag, 27. April 2026",
-  "date_key": "20260427",
-  "changes": [
-   "Std 1 (07:40): für ILZ Jur, Raumtausch wegen Klassenkonzert",
-   "Std 2 (08:25): für KL Jur"
-  ],
-  "zeitstempel": "24.04.2026, 09:49"
- },
- {
   "timestamp": "2026-04-27T05:34:18.459969",
   "lehrer": "Bir",
   "datum": "Montag, 27. April 2026",
