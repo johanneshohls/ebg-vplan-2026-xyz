@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "03.05.2026, 12:09 Uhr",
- "last_changed": "2026-04-30T11:24:00",
+ "generiert": "03.05.2026, 13:45 Uhr",
+ "last_changed": "2026-05-03T15:43:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -20832,7 +20832,7 @@
    "tage": {
     "20260504": {
      "datum": "Montag, 04. Mai 2026",
-     "zeitstempel": "29.04.2026, 12:47",
+     "zeitstempel": "03.05.2026, 15:43",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -20915,19 +20915,19 @@
         },
         {
          "stunde": "7",
-         "fach": "En",
-         "klasse": "10B",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "En",
-         "klasse": "10B",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10B fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -23271,7 +23271,7 @@
     },
     "20260505": {
      "datum": "Dienstag, 05. Mai 2026",
-     "zeitstempel": "30.04.2026, 09:37",
+     "zeitstempel": "03.05.2026, 15:43",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -25591,7 +25591,7 @@
     },
     "20260506": {
      "datum": "Mittwoch, 06. Mai 2026",
-     "zeitstempel": "29.04.2026, 12:47",
+     "zeitstempel": "03.05.2026, 15:43",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -28130,7 +28130,7 @@
     },
     "20260507": {
      "datum": "Donnerstag, 07. Mai 2026",
-     "zeitstempel": "29.04.2026, 12:47",
+     "zeitstempel": "03.05.2026, 15:43",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -30487,7 +30487,7 @@
     },
     "20260508": {
      "datum": "Freitag, 08. Mai 2026",
-     "zeitstempel": "29.04.2026, 12:47",
+     "zeitstempel": "03.05.2026, 15:43",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -31533,18 +31533,18 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
-         "klasse": "9B",
-         "raum": "007 003",
-         "info": "für Span OLop",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9B fällt aus, FZA für Exkursion",
          "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
-         "klasse": "9B",
-         "raum": "007 003",
-         "info": "für Span OLop",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9B fällt aus, FZA für Exkursion",
          "geaendert": true
         },
         {
@@ -31821,18 +31821,18 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
-         "klasse": "9B",
-         "raum": "007 003",
-         "info": "für Span OLop",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9B fällt aus, FZA für Exkursion",
          "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
-         "klasse": "9B",
-         "raum": "007 003",
-         "info": "für Span OLop",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9B fällt aus, FZA für Exkursion",
          "geaendert": true
         },
         {

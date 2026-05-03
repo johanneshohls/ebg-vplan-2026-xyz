@@ -1131,5 +1131,44 @@
    "Std 8 (14:25): für Ph Bes, Klausur"
   ],
   "zeitstempel": "30.04.2026, 09:37"
+ },
+ {
+  "timestamp": "2026-05-03T13:45:31.174240",
+  "lehrer": "Bis",
+  "datum": "Montag, 04. Mai 2026",
+  "date_key": "20260504",
+  "changes": [
+   "Std 7 (13:40): En 10B fällt aus",
+   "Std 8 (14:25): En 10B fällt aus"
+  ],
+  "zeitstempel": "03.05.2026, 15:43"
+ },
+ {
+  "timestamp": "2026-05-03T13:45:31.174240",
+  "lehrer": "Köh",
+  "datum": "Freitag, 08. Mai 2026",
+  "date_key": "20260508",
+  "changes": [
+   "Std 1 (07:40): Span 9B fällt aus, FZA für Exkursion",
+   "Std 2 (08:25): Span 9B fällt aus, FZA für Exkursion",
+   "Std 5 (11:40): Span 7D gehalten am Di (05.05.) St.1",
+   "Std 6 (12:25): Span 7D gehalten am Di (05.05.) St.2"
+  ],
+  "zeitstempel": "03.05.2026, 15:43"
+ },
+ {
+  "timestamp": "2026-05-03T13:45:31.174240",
+  "lehrer": "OLop",
+  "datum": "Freitag, 08. Mai 2026",
+  "date_key": "20260508",
+  "changes": [
+   "Std 1 (07:40): Span 9B fällt aus, FZA für Exkursion",
+   "Std 2 (08:25): Span 9B fällt aus, FZA für Exkursion",
+   "Std 3 (09:40): Span 10D fällt aus",
+   "Std 4 (10:25): Span 10D fällt aus",
+   "Std 5 (11:40): Span 10C fällt aus",
+   "Std 6 (12:25): Span 10C fällt aus"
+  ],
+  "zeitstempel": "03.05.2026, 15:43"
  }
 ]
