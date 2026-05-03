@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "03.05.2026, 14:34 Uhr",
- "last_changed": "2026-05-03T15:43:00",
+ "generiert": "03.05.2026, 15:24 Uhr",
+ "last_changed": "2026-05-03T17:21:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -20832,7 +20832,7 @@
    "tage": {
     "20260504": {
      "datum": "Montag, 04. Mai 2026",
-     "zeitstempel": "03.05.2026, 15:43",
+     "zeitstempel": "03.05.2026, 17:21",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -20935,7 +20935,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Con"
         }
        ]
       },
@@ -21044,19 +21044,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Sp",
-         "klasse": "7E",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7E Mue",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Sp",
-         "klasse": "7E",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7E Mue",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -21067,7 +21067,7 @@
          "stunde": "5",
          "fach": "Ma",
          "klasse": "10D",
-         "raum": "Co3",
+         "raum": "005",
          "info": "Ma 10D statt Di (05.05.) St.3",
          "geaendert": true
         },
@@ -21075,7 +21075,7 @@
          "stunde": "6",
          "fach": "Ma",
          "klasse": "10D",
-         "raum": "Co3",
+         "raum": "005",
          "info": "Ma 10D statt Di (05.05.) St.4",
          "geaendert": true
         }
@@ -21117,7 +21117,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Bis"
+        }
+       ]
       },
       "Epp": {
        "entries": [],
@@ -21810,7 +21817,7 @@
          "stunde": "5",
          "fach": "De",
          "klasse": "9D",
-         "raum": "005",
+         "raum": "Co3",
          "info": "für De Hön",
          "geaendert": true
         },
@@ -21818,7 +21825,7 @@
          "stunde": "6",
          "fach": "De",
          "klasse": "9D",
-         "raum": "005",
+         "raum": "Co3",
          "info": "für De Hön",
          "geaendert": true
         },
@@ -21847,17 +21854,17 @@
          "stunde": "1",
          "fach": "As",
          "klasse": "9D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für As Hun",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "As",
          "klasse": "9D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für As Hun",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -22217,17 +22224,17 @@
          "stunde": "3",
          "fach": "Ma",
          "klasse": "10B",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für Ma Leu",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Ma",
          "klasse": "10B",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für Ma Leu",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -22352,6 +22359,22 @@
          "raum": "006",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "Sp",
+         "klasse": "7E",
+         "raum": "Tu2",
+         "info": "für Sp Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Sp",
+         "klasse": "7E",
+         "raum": "Tu2",
+         "info": "für Sp Bod",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23015,17 +23038,17 @@
          "stunde": "3",
          "fach": "Bio",
          "klasse": "9D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Bio Ter",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Bio",
          "klasse": "9D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Bio Ter",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -23089,11 +23112,27 @@
          "geaendert": true
         },
         {
+         "stunde": "7",
+         "fach": "De",
+         "klasse": "9A",
+         "raum": "002",
+         "info": "De 9A statt Di (05.05.) St.5; Ge 8D verlegt nach Di (05.05.) St.3",
+         "geaendert": true
+        },
+        {
          "stunde": "8",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ge 8D verlegt nach Di (05.05.) St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "De",
+         "klasse": "9A",
+         "raum": "002",
+         "info": "De 9A statt Di (05.05.) St.6; Ge 8D verlegt nach Di (05.05.) St.4",
          "geaendert": true
         }
        ],
@@ -23271,7 +23310,7 @@
     },
     "20260505": {
      "datum": "Dienstag, 05. Mai 2026",
-     "zeitstempel": "03.05.2026, 15:43",
+     "zeitstempel": "03.05.2026, 17:21",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23524,7 +23563,7 @@
          "stunde": "1",
          "fach": "MA1",
          "klasse": "11A-11D",
-         "raum": "Co3",
+         "raum": "105",
          "info": "für Ma Bri",
          "geaendert": true
         },
@@ -23532,7 +23571,7 @@
          "stunde": "2",
          "fach": "MA1",
          "klasse": "11A-11D",
-         "raum": "Co3",
+         "raum": "105",
          "info": "für Ma Bri",
          "geaendert": true
         },
@@ -23556,7 +23595,7 @@
          "stunde": "5",
          "fach": "ma1",
          "klasse": "11A-11D",
-         "raum": "Co3",
+         "raum": "003",
          "info": "für Ma Bri",
          "geaendert": true
         },
@@ -23564,7 +23603,7 @@
          "stunde": "6",
          "fach": "ma1",
          "klasse": "11A-11D",
-         "raum": "Co3",
+         "raum": "003",
          "info": "für Ma Bri",
          "geaendert": true
         }
@@ -23700,19 +23739,19 @@
        "entries": [
         {
          "stunde": "7",
-         "fach": "Club1",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club1 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club1",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club1 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -24096,7 +24135,7 @@
          "stunde": "5",
          "fach": "Phil",
          "klasse": "9D",
-         "raum": "003",
+         "raum": "Co3",
          "info": "Phil 9D statt Do (07.05.) St.3",
          "geaendert": true
         },
@@ -24104,7 +24143,7 @@
          "stunde": "6",
          "fach": "Phil",
          "klasse": "9D",
-         "raum": "003",
+         "raum": "Co3",
          "info": "Phil 9D statt Do (07.05.) St.4",
          "geaendert": true
         }
@@ -24915,23 +24954,23 @@
          "stunde": "1",
          "fach": "Geo",
          "klasse": "9D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Geo Puk",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Geo",
          "klasse": "9D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Geo Puk",
+         "geaendert": true
         },
         {
          "stunde": "3",
          "fach": "ILZ",
          "klasse": "9D",
-         "raum": "008",
+         "raum": "Co3",
          "info": "für ILZ Puk",
          "geaendert": true
         },
@@ -24939,7 +24978,7 @@
          "stunde": "4",
          "fach": "ILZ",
          "klasse": "9D",
-         "raum": "008",
+         "raum": "Co3",
          "info": "für ILZ Puk",
          "geaendert": true
         },
@@ -25435,7 +25474,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 9A verlegt nach Mi (06.05.) St.7",
+         "info": "De 9A gehalten am Mo (04.05.) St.7",
          "geaendert": true
         },
         {
@@ -25443,7 +25482,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 9A verlegt nach Mi (06.05.) St.8",
+         "info": "De 9A gehalten am Mo (04.05.) St.8",
          "geaendert": true
         },
         {
@@ -25591,7 +25630,7 @@
     },
     "20260506": {
      "datum": "Mittwoch, 06. Mai 2026",
-     "zeitstempel": "03.05.2026, 15:43",
+     "zeitstempel": "03.05.2026, 17:21",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -26091,19 +26130,19 @@
        "entries": [
         {
          "stunde": "7",
-         "fach": "GS01",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS01 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS01",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS01 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -26799,7 +26838,7 @@
          "stunde": "1",
          "fach": "Ch",
          "klasse": "9B",
-         "raum": "K07",
+         "raum": "007",
          "info": "Ch 9B verlegt von St.7",
          "geaendert": true
         },
@@ -26807,7 +26846,7 @@
          "stunde": "2",
          "fach": "Ch",
          "klasse": "9B",
-         "raum": "K07",
+         "raum": "007",
          "info": "Ch 9B verlegt von St.8",
          "geaendert": true
         },
@@ -26957,7 +26996,7 @@
          "stunde": "1",
          "fach": "AWT",
          "klasse": "9D",
-         "raum": "102",
+         "raum": "K07",
          "info": "AWT 9D statt Fr (08.05.) St.3; phil1 12A-12E fällt aus",
          "geaendert": true
         },
@@ -26973,7 +27012,7 @@
          "stunde": "2",
          "fach": "AWT",
          "klasse": "9D",
-         "raum": "102",
+         "raum": "K07",
          "info": "AWT 9D statt Fr (08.05.) St.4; phil1 12A-12E fällt aus",
          "geaendert": true
         },
@@ -27467,7 +27506,7 @@
          "stunde": "5",
          "fach": "Span",
          "klasse": "9D",
-         "raum": "106",
+         "raum": "Co3",
          "info": "für Span Puk",
          "geaendert": true
         },
@@ -27475,7 +27514,7 @@
          "stunde": "6",
          "fach": "Span",
          "klasse": "9D",
-         "raum": "106",
+         "raum": "Co3",
          "info": "für Span Puk",
          "geaendert": true
         }
@@ -28009,22 +28048,6 @@
          "raum": "103",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "De",
-         "klasse": "9A",
-         "raum": "002",
-         "info": "De 9A statt Di (05.05.) St.5",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "De",
-         "klasse": "9A",
-         "raum": "002",
-         "info": "De 9A statt Di (05.05.) St.6",
-         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -28130,7 +28153,7 @@
     },
     "20260507": {
      "datum": "Donnerstag, 07. Mai 2026",
-     "zeitstempel": "03.05.2026, 15:43",
+     "zeitstempel": "03.05.2026, 17:21",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -28159,17 +28182,17 @@
          "stunde": "1",
          "fach": "Ph",
          "klasse": "9D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Ph Bes",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Ph",
          "klasse": "9D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Ph Bes",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -28520,19 +28543,19 @@
         },
         {
          "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "eRe 9B Tuh, Aufsicht während Berichtsverlesung, Fr. Eulenberger kommt zu Beginn dazu",
-         "geaendert": true
+         "fach": "eRe",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "eRe 9B Tuh, Aufsicht während Berichtsverlesung, Fr. Eulenberger kommt hinterher hinzu",
-         "geaendert": true
+         "fach": "eRe",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": []
@@ -30339,22 +30362,6 @@
          "raum": "008",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "eRe",
-         "klasse": "9B",
-         "raum": "104",
-         "info": "für eRe Eul, Aufsicht während Berichtsverlesung, Fr. Eulenberger kommt zu Beginn dazu",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "eRe",
-         "klasse": "9B",
-         "raum": "104",
-         "info": "für eRe Eul, Aufsicht während Berichtsverlesung, Fr. Eulenberger kommt hinterher hinzu",
-         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -30487,7 +30494,7 @@
     },
     "20260508": {
      "datum": "Freitag, 08. Mai 2026",
-     "zeitstempel": "03.05.2026, 15:43",
+     "zeitstempel": "03.05.2026, 17:21",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -30505,22 +30512,6 @@
          "klasse": "11A-11D",
          "raum": "Aula",
          "info": "für Inf Bar, Klausur, Aula",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "310",
-         "info": "Entwicklungsgespräch Fr. Isbrandt",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "310",
-         "info": "Entwicklungsgespräch Fr. Isbrandt",
          "geaendert": true
         }
        ],
@@ -30569,17 +30560,17 @@
          "stunde": "1",
          "fach": "Mu",
          "klasse": "7E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Mu Bir, Klassenkonzert",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Mu",
          "klasse": "7E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Mu Bir, Klassenkonzert",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -30759,17 +30750,17 @@
          "stunde": "1",
          "fach": "DE2",
          "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "für De Schil, Raumtausch wegen Klassenkonzert",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "DE2",
          "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "für De Schil, Raumtausch wegen Klassenkonzert",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -30950,6 +30941,22 @@
          "raum": "003",
          "info": "Ge 7B statt Do (07.05.) St.6",
          "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Nachschriften",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Nachschriften",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -30997,27 +31004,11 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "310",
-         "info": "Entwicklungsgespräch Fr. Isbrandt; sk2 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "sk2 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "310",
-         "info": "Entwicklungsgespräch Fr. Isbrandt; sk2 12A-12E fällt aus",
          "geaendert": true
         }
        ],
@@ -31360,7 +31351,7 @@
          "stunde": "3",
          "fach": "En",
          "klasse": "9D",
-         "raum": "105",
+         "raum": "002",
          "info": "En 9D statt Do (07.05.) St.7, Hospitation",
          "geaendert": true
         },
@@ -31370,22 +31361,6 @@
          "klasse": "",
          "raum": "310",
          "info": "Auswertung Hospitation in R310 mit Hr. Pohla",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "310",
-         "info": "Entwicklungsgespräch Fr. Isbrandt",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "310",
-         "info": "Entwicklungsgespräch Fr. Isbrandt",
          "geaendert": true
         }
        ],
@@ -31982,7 +31957,7 @@
          "stunde": "1",
          "fach": "Span",
          "klasse": "9D",
-         "raum": "103",
+         "raum": "Co3",
          "info": "für Span Puk",
          "geaendert": true
         },
@@ -31990,7 +31965,7 @@
          "stunde": "2",
          "fach": "Span",
          "klasse": "9D",
-         "raum": "103",
+         "raum": "Co3",
          "info": "für Span Puk",
          "geaendert": true
         }
@@ -32072,17 +32047,17 @@
          "stunde": "1",
          "fach": "DE2",
          "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "für De Schil, Raumtausch wegen Klassenkonzert",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "DE2",
          "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "für De Schil, Raumtausch wegen Klassenkonzert",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -32196,6 +32171,22 @@
          "raum": "207",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Nachschriften",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Nachschriften",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -32286,7 +32277,7 @@
          "stunde": "4",
          "fach": "En",
          "klasse": "9D",
-         "raum": "105",
+         "raum": "002",
          "info": "statt Do (07.05.) St.8 (En Isb), Aufsicht nach Hospitation; Inf 10C fällt aus",
          "geaendert": true
         },
