@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "04.05.2026, 11:53 Uhr",
- "last_changed": "2026-05-04T13:44:00",
+ "generiert": "04.05.2026, 13:14 Uhr",
+ "last_changed": "2026-05-04T14:22:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -9829,7 +9829,7 @@
    "tage": {
     "20260504": {
      "datum": "Montag, 04. Mai 2026",
-     "zeitstempel": "03.05.2026, 17:21",
+     "zeitstempel": "04.05.2026, 14:22",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -12307,7 +12307,7 @@
     },
     "20260505": {
      "datum": "Dienstag, 05. Mai 2026",
-     "zeitstempel": "04.05.2026, 13:35",
+     "zeitstempel": "04.05.2026, 14:22",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -13185,7 +13185,7 @@
          "stunde": "5",
          "fach": "Ma",
          "klasse": "7D",
-         "raum": "106",
+         "raum": "Aula",
          "info": "Ma 7D verlegt von St.1",
          "geaendert": true
         },
@@ -13193,7 +13193,7 @@
          "stunde": "6",
          "fach": "Ma",
          "klasse": "7D",
-         "raum": "106",
+         "raum": "Aula",
          "info": "Ma 7D verlegt von St.2",
          "geaendert": true
         },
@@ -14643,7 +14643,7 @@
     },
     "20260506": {
      "datum": "Mittwoch, 06. Mai 2026",
-     "zeitstempel": "04.05.2026, 13:44",
+     "zeitstempel": "04.05.2026, 14:22",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -17166,7 +17166,7 @@
     },
     "20260507": {
      "datum": "Donnerstag, 07. Mai 2026",
-     "zeitstempel": "04.05.2026, 13:35",
+     "zeitstempel": "04.05.2026, 14:22",
      "lehrer": {
       "Bar": {
        "entries": [

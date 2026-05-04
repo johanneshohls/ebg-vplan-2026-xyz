@@ -1088,5 +1088,18 @@
    "Std 4 (10:25): B VK2 statt Di (05.05.) St.4"
   ],
   "zeitstempel": "04.05.2026, 13:35"
+ },
+ {
+  "timestamp": "2026-05-04T13:14:18.887271",
+  "lehrer": "Hoh",
+  "datum": "Dienstag, 05. Mai 2026",
+  "date_key": "20260505",
+  "changes": [
+   "Std 1 (07:40): Ma 7D verlegt nach St.5",
+   "Std 2 (08:25): Ma 7D verlegt nach St.6",
+   "Std 5 (11:40): Ma 7D verlegt von St.1",
+   "Std 6 (12:25): Ma 7D verlegt von St.2"
+  ],
+  "zeitstempel": "04.05.2026, 14:22"
  }
 ]
