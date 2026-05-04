@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "04.05.2026, 13:14 Uhr",
- "last_changed": "2026-05-04T14:22:00",
+ "generiert": "04.05.2026, 15:21 Uhr",
+ "last_changed": "2026-05-04T15:35:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12307,7 +12307,7 @@
     },
     "20260505": {
      "datum": "Dienstag, 05. Mai 2026",
-     "zeitstempel": "04.05.2026, 14:22",
+     "zeitstempel": "04.05.2026, 15:35",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -12418,6 +12418,22 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Mu",
+         "klasse": "8B-8D",
+         "raum": "107",
+         "info": "Teilungsgruppe Span8 aus 8b/c/d, Bitte Musizieren",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Mu",
+         "klasse": "8B-8D",
+         "raum": "107",
+         "info": "Teilungsgruppe Span8 aus 8b/c/d, Bitte Musizieren",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "Club6",
          "klasse": "10A-10D,9A-9D",
@@ -12440,19 +12456,19 @@
        "entries": [
         {
          "stunde": "7",
-         "fach": "Club8",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club8 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club8",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club8 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12792,7 +12808,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 8B Köh, Teilgruppe Fel zu Pri 002 Englisch.",
+         "info": "Span 8B Köh, Teilgruppe Fel zu Bir Musik 107",
          "geaendert": true
         },
         {
@@ -12800,7 +12816,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 8B Köh, Teilgruppe Fel zur Pri 002 Englisch",
+         "info": "Span 8B Köh, Teilgruppe Fel zu Bir Musik 107",
          "geaendert": true
         }
        ],
@@ -13594,7 +13610,7 @@
          "fach": "Span",
          "klasse": "8B",
          "raum": "006",
-         "info": "für Span Köh, Teilgruppe Fel zu Pri 002 Englisch.",
+         "info": "für Span Köh, Teilgruppe Fel zu Bir Musik 107",
          "geaendert": false
         },
         {
@@ -13602,7 +13618,7 @@
          "fach": "Span",
          "klasse": "8B",
          "raum": "006",
-         "info": "für Span Köh, Teilgruppe Fel zur Pri 002 Englisch",
+         "info": "für Span Köh, Teilgruppe Fel zu Bir Musik 107",
          "geaendert": false
         },
         {
@@ -13850,7 +13866,7 @@
          "fach": "Span",
          "klasse": "8C",
          "raum": "007",
-         "info": "für Span OLop, Teilgruppe Fel zur Pri 002 Englisch",
+         "info": "für Span OLop, Teilgruppe Fel zu Bir Musik 107",
          "geaendert": false
         },
         {
@@ -13858,7 +13874,7 @@
          "fach": "Span",
          "klasse": "8C",
          "raum": "007",
-         "info": "für Span OLop, Teilgruppe Fel zur Pri 002 Englisch",
+         "info": "für Span OLop, Teilgruppe Fel zu Bir Musik 107",
          "geaendert": false
         }
        ],
@@ -13984,7 +14000,7 @@
          "fach": "Span",
          "klasse": "8D",
          "raum": "103",
-         "info": "für Span Puk, Teilgruppe Fel zur Pri 002 Englisch",
+         "info": "für Span Puk, Teilgruppe Fel zu Bir Musik 107",
          "geaendert": false
         },
         {
@@ -13992,7 +14008,7 @@
          "fach": "Span",
          "klasse": "8D",
          "raum": "103",
-         "info": "für Span Puk, Teilgruppe Fel zur Pri 002 Englisch",
+         "info": "für Span Puk, Teilgruppe Fel zu Bir Musik 107",
          "geaendert": false
         }
        ],
@@ -14643,7 +14659,7 @@
     },
     "20260506": {
      "datum": "Mittwoch, 06. Mai 2026",
-     "zeitstempel": "04.05.2026, 14:22",
+     "zeitstempel": "04.05.2026, 15:32",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -14782,51 +14798,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "ILZ",
-         "klasse": "7D",
-         "raum": "Co1 Co2",
-         "info": "für En Bis, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7D Lie (für En), Teamtraining mit Frau Jacobs",
          "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "ILZ",
-         "klasse": "7D",
-         "raum": "Co1 Co2",
-         "info": "für En Bis, Toleranztraining mit Frau Jacobs, Aufsicht",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7D Lie (für En), Teamtraining mit Frau Jacobs",
          "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7A Mar",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7A Mar",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "En",
-         "klasse": "10B",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10B selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "En",
-         "klasse": "10B",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10B selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16192,11 +16208,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "ILZ",
+         "klasse": "7D",
+         "raum": "Co1 Co2",
+         "info": "für En Bis, Teamtraining mit Frau Jacobs",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Sk 8B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "ILZ",
+         "klasse": "7D",
+         "raum": "Co1 Co2",
+         "info": "für En Bis, Teamtraining mit Frau Jacobs",
          "geaendert": true
         },
         {
@@ -16277,11 +16309,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für En Bis",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ge 8B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für En Bis",
          "geaendert": true
         }
        ],
@@ -17166,7 +17214,7 @@
     },
     "20260507": {
      "datum": "Donnerstag, 07. Mai 2026",
-     "zeitstempel": "04.05.2026, 14:22",
+     "zeitstempel": "04.05.2026, 15:32",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17434,19 +17482,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Sp",
-         "klasse": "7B",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7B Mue",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Sp",
-         "klasse": "7B",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7B Mue",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -18322,17 +18370,17 @@
          "stunde": "1",
          "fach": "De",
          "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "102",
+         "info": "für De Jur",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "De",
          "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "102",
+         "info": "für De Jur",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -18699,16 +18747,16 @@
          "fach": "Sp",
          "klasse": "7B",
          "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "info": "für Sp Bod",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "Sp",
          "klasse": "7B",
          "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "info": "für Sp Bod",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -19546,7 +19594,7 @@
     },
     "20260508": {
      "datum": "Freitag, 08. Mai 2026",
-     "zeitstempel": "04.05.2026, 13:35",
+     "zeitstempel": "04.05.2026, 15:32",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -21598,7 +21646,7 @@
    "tage": {
     "20260511": {
      "datum": "Montag, 11. Mai 2026",
-     "zeitstempel": "04.05.2026, 13:37",
+     "zeitstempel": "04.05.2026, 15:32",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23843,7 +23891,7 @@
     },
     "20260512": {
      "datum": "Dienstag, 12. Mai 2026",
-     "zeitstempel": "04.05.2026, 13:37",
+     "zeitstempel": "04.05.2026, 15:32",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -26749,7 +26797,7 @@
     },
     "20260513": {
      "datum": "Mittwoch, 13. Mai 2026",
-     "zeitstempel": "04.05.2026, 13:37",
+     "zeitstempel": "04.05.2026, 15:32",
      "lehrer": {
       "Bar": {
        "entries": [],
