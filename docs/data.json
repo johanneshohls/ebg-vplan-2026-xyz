@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "04.05.2026, 10:01 Uhr",
- "last_changed": "2026-05-03T17:21:00",
+ "generiert": "04.05.2026, 11:53 Uhr",
+ "last_changed": "2026-05-04T13:44:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12307,7 +12307,7 @@
     },
     "20260505": {
      "datum": "Dienstag, 05. Mai 2026",
-     "zeitstempel": "03.05.2026, 17:21",
+     "zeitstempel": "04.05.2026, 13:35",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -12521,35 +12521,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "Sk",
-         "klasse": "10A",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 10A verlegt nach Mi (06.05.) St.5 (Lan)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Sk",
-         "klasse": "10A",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 10A verlegt nach Mi (06.05.) St.6 (Lan)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Club3",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club3 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club3",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club3 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13061,35 +13061,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "B",
-         "klasse": "VK2",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK2 verlegt nach Fr (08.05.) St.1",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "B",
-         "klasse": "VK2",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK2 verlegt nach Fr (08.05.) St.2",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "B",
-         "klasse": "VK2",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK2 verlegt nach Fr (08.05.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "B",
-         "klasse": "VK2",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK2 verlegt nach Fr (08.05.) St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14392,6 +14392,22 @@
          "raum": "K09",
          "info": "Inf 10B statt Do (07.05.) St.6; Inf 7B verlegt nach Fr (08.05.) St.2",
          "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Inf",
+         "klasse": "10A",
+         "raum": "K10",
+         "info": "Inf 10A statt Mi (06.05.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Inf",
+         "klasse": "10A",
+         "raum": "K10",
+         "info": "Inf 10A statt Mi (06.05.) St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14627,7 +14643,7 @@
     },
     "20260506": {
      "datum": "Mittwoch, 06. Mai 2026",
-     "zeitstempel": "03.05.2026, 17:21",
+     "zeitstempel": "04.05.2026, 13:44",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -14871,22 +14887,6 @@
       "Bod": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "Sp",
-         "klasse": "10A",
-         "raum": "Tu2",
-         "info": "für Sp Mue",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "Sp",
-         "klasse": "10A",
-         "raum": "Tu2",
-         "info": "für Sp Mue",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -14904,19 +14904,19 @@
         },
         {
          "stunde": "7",
-         "fach": "sp1",
-         "klasse": "11A-11D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "sp1",
-         "klasse": "11A-11D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15245,7 +15245,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 9D verlegt nach St.3",
+         "info": "Ge 9D verlegt nach St.7",
          "geaendert": true
         },
         {
@@ -15253,7 +15253,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 9D verlegt nach St.4",
+         "info": "Ge 9D verlegt nach St.8",
          "geaendert": true
         },
         {
@@ -15265,27 +15265,11 @@
          "geaendert": true
         },
         {
-         "stunde": "3",
-         "fach": "Ge",
-         "klasse": "9D",
-         "raum": "K07",
-         "info": "Ge 9D verlegt von St.1; Ge 9A verlegt nach Do (07.05.) St.7",
-         "geaendert": true
-        },
-        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ge 9A verlegt nach Do (07.05.) St.8",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Ge",
-         "klasse": "9D",
-         "raum": "K07",
-         "info": "Ge 9D verlegt von St.2; Ge 9A verlegt nach Do (07.05.) St.8",
          "geaendert": true
         },
         {
@@ -15303,6 +15287,22 @@
          "raum": "K07",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "Ge",
+         "klasse": "9D",
+         "raum": "K07",
+         "info": "Ge 9D verlegt von St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Ge",
+         "klasse": "9D",
+         "raum": "K07",
+         "info": "Ge 9D verlegt von St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -15564,7 +15564,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 10A verlegt nach St.7",
+         "info": "En 10A verlegt nach St.7, Bitte Aufgaben für En Donnerstag 1. Block aufgeben",
          "geaendert": true
         },
         {
@@ -15572,7 +15572,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 10A verlegt nach St.8",
+         "info": "En 10A verlegt nach St.8, Bitte Aufgaben für En Donnerstag 1. Block aufgeben",
          "geaendert": true
         },
         {
@@ -15580,7 +15580,7 @@
          "fach": "En",
          "klasse": "10A",
          "raum": "006",
-         "info": "En 10A verlegt von St.5",
+         "info": "En 10A verlegt von St.5, Bitte Aufgaben für En Donnerstag 1. Block aufgeben",
          "geaendert": true
         },
         {
@@ -15588,7 +15588,7 @@
          "fach": "En",
          "klasse": "10A",
          "raum": "006",
-         "info": "En 10A verlegt von St.6",
+         "info": "En 10A verlegt von St.6, Bitte Aufgaben für En Donnerstag 1. Block aufgeben",
          "geaendert": true
         }
        ],
@@ -16044,6 +16044,22 @@
          "raum": "007",
          "info": "verlegt von St.6 (Ch Bob); w2 12A-12E fällt aus",
          "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Sk",
+         "klasse": "10A",
+         "raum": "106",
+         "info": "statt Di (05.05.) St.5 (Sk Bod)",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Sk",
+         "klasse": "10A",
+         "raum": "106",
+         "info": "statt Di (05.05.) St.6 (Sk Bod)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16285,7 +16301,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sp 10A Bod",
+         "info": "Sp 10A fällt aus",
          "geaendert": true
         },
         {
@@ -16293,7 +16309,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sp 10A Bod",
+         "info": "Sp 10A fällt aus",
          "geaendert": true
         },
         {
@@ -16881,7 +16897,15 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Inf 10A verlegt nach St.5",
+         "info": "Inf 10A gehalten am Di (05.05.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "9D",
+         "raum": "008",
+         "info": "Ma 9D verlegt von St.7; Inf 10A gehalten am Di (05.05.) St.5",
          "geaendert": true
         },
         {
@@ -16889,40 +16913,32 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Inf 10A verlegt nach St.6",
+         "info": "Inf 10A gehalten am Di (05.05.) St.6",
          "geaendert": true
         },
         {
-         "stunde": "5",
-         "fach": "Inf",
-         "klasse": "10A",
-         "raum": "K10",
-         "info": "Inf 10A verlegt von St.3",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Inf",
-         "klasse": "10A",
-         "raum": "K10",
-         "info": "Inf 10A verlegt von St.4",
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "9D",
+         "raum": "008",
+         "info": "Ma 9D verlegt von St.8; Inf 10A gehalten am Di (05.05.) St.6",
          "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Ma",
-         "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9D verlegt nach St.3",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9D verlegt nach St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -17150,7 +17166,7 @@
     },
     "20260507": {
      "datum": "Donnerstag, 07. Mai 2026",
-     "zeitstempel": "03.05.2026, 17:21",
+     "zeitstempel": "04.05.2026, 13:35",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17386,35 +17402,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Sp",
-         "klasse": "8D",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8D Her",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Sp",
-         "klasse": "8D",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8D Her",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Sp",
-         "klasse": "9A",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 9A Mue",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Sp",
-         "klasse": "9A",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 9A Mue",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -17799,6 +17815,22 @@
       },
       "Her": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Sp",
+         "klasse": "8D",
+         "raum": "Tu3",
+         "info": "für Sp Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Sp",
+         "klasse": "8D",
+         "raum": "Tu3",
+         "info": "für Sp Bod",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "bo2",
@@ -18290,17 +18322,17 @@
          "stunde": "1",
          "fach": "De",
          "klasse": "10A",
-         "raum": "102",
-         "info": "für De Jur",
-         "geaendert": true
+         "raum": "Co2",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "2",
          "fach": "De",
          "klasse": "10A",
-         "raum": "102",
-         "info": "für De Jur",
-         "geaendert": true
+         "raum": "Co2",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "3",
@@ -18461,7 +18493,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Sta"
+        }
+       ]
       },
       "Lam": {
        "entries": [],
@@ -18638,6 +18677,22 @@
          "raum": "105",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Sp",
+         "klasse": "9A",
+         "raum": "Tu3",
+         "info": "für Sp Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Sp",
+         "klasse": "9A",
+         "raum": "Tu3",
+         "info": "für Sp Bod",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -18854,7 +18909,7 @@
          "stunde": "5",
          "fach": "Span",
          "klasse": "10B",
-         "raum": "102",
+         "raum": "104",
          "info": "Span 10B statt Mi (06.05.) St.3",
          "geaendert": true
         },
@@ -18862,7 +18917,7 @@
          "stunde": "6",
          "fach": "Span",
          "klasse": "10B",
-         "raum": "102",
+         "raum": "104",
          "info": "Span 10B statt Mi (06.05.) St.4",
          "geaendert": true
         }
@@ -19151,7 +19206,7 @@
          "stunde": "3",
          "fach": "Ph",
          "klasse": "10A",
-         "raum": "207",
+         "raum": "Aula",
          "info": "Ph 10A statt Fr (08.05.) St.1",
          "geaendert": true
         },
@@ -19159,7 +19214,7 @@
          "stunde": "4",
          "fach": "Ph",
          "klasse": "10A",
-         "raum": "207",
+         "raum": "Aula",
          "info": "Ph 10A statt Fr (08.05.) St.2",
          "geaendert": true
         },
@@ -19201,7 +19256,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Köh"
         }
        ]
       },
@@ -19491,7 +19546,7 @@
     },
     "20260508": {
      "datum": "Freitag, 08. Mai 2026",
-     "zeitstempel": "03.05.2026, 17:21",
+     "zeitstempel": "04.05.2026, 13:35",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -20093,7 +20148,40 @@
        ]
       },
       "Hin": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "B",
+         "klasse": "VK2",
+         "raum": "",
+         "info": "B VK2 statt Di (05.05.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "B",
+         "klasse": "VK2",
+         "raum": "",
+         "info": "B VK2 statt Di (05.05.) St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "B",
+         "klasse": "VK2",
+         "raum": "",
+         "info": "B VK2 statt Di (05.05.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "B",
+         "klasse": "VK2",
+         "raum": "",
+         "info": "B VK2 statt Di (05.05.) St.4",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Hofm": {
@@ -21510,7 +21598,7 @@
    "tage": {
     "20260511": {
      "datum": "Montag, 11. Mai 2026",
-     "zeitstempel": "03.05.2026, 17:21",
+     "zeitstempel": "04.05.2026, 13:37",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -22353,11 +22441,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "ILZ",
+         "klasse": "10A",
+         "raum": "Co2",
+         "info": "ILZ 10A statt Mi (13.05.) St.3; en2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "en2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "KL",
+         "klasse": "10A",
+         "raum": "Co2",
+         "info": "KL 10A statt Mi (13.05.) St.4; en2 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -23052,19 +23156,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Ge",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10A verlegt nach Mi (13.05.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ge",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10A verlegt nach Mi (13.05.) St.4",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -23739,7 +23843,7 @@
     },
     "20260512": {
      "datum": "Dienstag, 12. Mai 2026",
-     "zeitstempel": "03.05.2026, 17:21",
+     "zeitstempel": "04.05.2026, 13:37",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -26645,7 +26749,7 @@
     },
     "20260513": {
      "datum": "Mittwoch, 13. Mai 2026",
-     "zeitstempel": "03.05.2026, 17:21",
+     "zeitstempel": "04.05.2026, 13:37",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -27605,19 +27709,19 @@
         },
         {
          "stunde": "3",
-         "fach": "ILZ",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10A gehalten am Mo (11.05.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "KL",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 10A gehalten am Mo (11.05.) St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -28369,6 +28473,22 @@
       },
       "Pri": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "Ge",
+         "klasse": "10A",
+         "raum": "005",
+         "info": "Ge 10A statt Mo (11.05.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ge",
+         "klasse": "10A",
+         "raum": "005",
+         "info": "Ge 10A statt Mo (11.05.) St.4",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "---",

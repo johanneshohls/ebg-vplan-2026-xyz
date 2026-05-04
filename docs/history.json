@@ -868,5 +868,225 @@
    "Std 6 (12:25): für Ma Sta"
   ],
   "zeitstempel": "03.05.2026, 17:21"
+ },
+ {
+  "timestamp": "2026-05-04T11:53:29.311929",
+  "lehrer": "Bod",
+  "datum": "Dienstag, 05. Mai 2026",
+  "date_key": "20260505",
+  "changes": [
+   "Std 5 (11:40): Sk 10A verlegt nach Mi (06.05.) St.5 (Lan)",
+   "Std 6 (12:25): Sk 10A verlegt nach Mi (06.05.) St.6 (Lan)",
+   "Std 7 (13:40): Club3 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club3 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "04.05.2026, 13:35"
+ },
+ {
+  "timestamp": "2026-05-04T11:53:29.311929",
+  "lehrer": "Hin",
+  "datum": "Dienstag, 05. Mai 2026",
+  "date_key": "20260505",
+  "changes": [
+   "Std 1 (07:40): B VK2 verlegt nach Fr (08.05.) St.1",
+   "Std 2 (08:25): B VK2 verlegt nach Fr (08.05.) St.2",
+   "Std 3 (09:40): B VK2 verlegt nach Fr (08.05.) St.3",
+   "Std 4 (10:25): B VK2 verlegt nach Fr (08.05.) St.4"
+  ],
+  "zeitstempel": "04.05.2026, 13:35"
+ },
+ {
+  "timestamp": "2026-05-04T11:53:29.311929",
+  "lehrer": "Sta",
+  "datum": "Dienstag, 05. Mai 2026",
+  "date_key": "20260505",
+  "changes": [
+   "Std 3 (09:40): Inf 7B verlegt nach Fr (08.05.) St.1",
+   "Std 3 (09:40): Inf 10B statt Do (07.05.) St.5; Inf 7B verlegt nach Fr (08.05.) St.1",
+   "Std 4 (10:25): Inf 7B verlegt nach Fr (08.05.) St.2",
+   "Std 4 (10:25): Inf 10B statt Do (07.05.) St.6; Inf 7B verlegt nach Fr (08.05.) St.2",
+   "Std 5 (11:40): Inf 10A statt Mi (06.05.) St.3",
+   "Std 6 (12:25): Inf 10A statt Mi (06.05.) St.4"
+  ],
+  "zeitstempel": "04.05.2026, 13:35"
+ },
+ {
+  "timestamp": "2026-05-04T11:53:29.311929",
+  "lehrer": "Bod",
+  "datum": "Mittwoch, 06. Mai 2026",
+  "date_key": "20260506",
+  "changes": [
+   "Std 5 (11:40): sp2 12A-12E fällt aus",
+   "Std 6 (12:25): sp2 12A-12E fällt aus",
+   "Std 7 (13:40): Sp 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 8 (14:25): Sp 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "04.05.2026, 13:44"
+ },
+ {
+  "timestamp": "2026-05-04T11:53:29.311929",
+  "lehrer": "Gol",
+  "datum": "Mittwoch, 06. Mai 2026",
+  "date_key": "20260506",
+  "changes": [
+   "Std 1 (07:40): Ge 9D verlegt nach St.7",
+   "Std 2 (08:25): Ge 9D verlegt nach St.8",
+   "Std 3 (09:40): Ge 9A verlegt nach Do (07.05.) St.7",
+   "Std 4 (10:25): Ge 9A verlegt nach Do (07.05.) St.8",
+   "Std 7 (13:40): Ge 9D verlegt von St.1",
+   "Std 8 (14:25): Ge 9D verlegt von St.2"
+  ],
+  "zeitstempel": "04.05.2026, 13:44"
+ },
+ {
+  "timestamp": "2026-05-04T11:53:29.311929",
+  "lehrer": "Hol",
+  "datum": "Mittwoch, 06. Mai 2026",
+  "date_key": "20260506",
+  "changes": [
+   "Std 1 (07:40): für En Hol",
+   "Std 2 (08:25): für En Hol",
+   "Std 5 (11:40): En 10A verlegt nach St.7, Bitte Aufgaben für En Donnerstag 1. Block aufgeben",
+   "Std 6 (12:25): En 10A verlegt nach St.8, Bitte Aufgaben für En Donnerstag 1. Block aufgeben",
+   "Std 7 (13:40): En 10A verlegt von St.5, Bitte Aufgaben für En Donnerstag 1. Block aufgeben",
+   "Std 8 (14:25): En 10A verlegt von St.6, Bitte Aufgaben für En Donnerstag 1. Block aufgeben"
+  ],
+  "zeitstempel": "04.05.2026, 13:44"
+ },
+ {
+  "timestamp": "2026-05-04T11:53:29.311929",
+  "lehrer": "Lan",
+  "datum": "Mittwoch, 06. Mai 2026",
+  "date_key": "20260506",
+  "changes": [
+   "Std 1 (07:40): phil1 12A-12E fällt aus",
+   "Std 1 (07:40): AWT 9D statt Fr (08.05.) St.3; phil1 12A-12E fällt aus",
+   "Std 2 (08:25): phil1 12A-12E fällt aus",
+   "Std 2 (08:25): AWT 9D statt Fr (08.05.) St.4; phil1 12A-12E fällt aus",
+   "Std 3 (09:40): w2 12A-12E fällt aus",
+   "Std 3 (09:40): verlegt von St.5 (Ch Bob); w2 12A-12E fällt aus",
+   "Std 4 (10:25): w2 12A-12E fällt aus",
+   "Std 4 (10:25): verlegt von St.6 (Ch Bob); w2 12A-12E fällt aus",
+   "Std 5 (11:40): statt Di (05.05.) St.5 (Sk Bod)",
+   "Std 6 (12:25): statt Di (05.05.) St.6 (Sk Bod)"
+  ],
+  "zeitstempel": "04.05.2026, 13:44"
+ },
+ {
+  "timestamp": "2026-05-04T11:53:29.311929",
+  "lehrer": "Mue",
+  "datum": "Mittwoch, 06. Mai 2026",
+  "date_key": "20260506",
+  "changes": [
+   "Std 1 (07:40): Sp 10A fällt aus",
+   "Std 2 (08:25): Sp 10A fällt aus",
+   "Std 3 (09:40): ILZ 7D Jac (für Geo), Toleranztraining mit Frau Jacobs, Aufsicht",
+   "Std 4 (10:25): ILZ 7D Jac (für Geo), Toleranztraining mit Frau Jacobs, Aufsicht",
+   "Std 5 (11:40): Geo 7C Hei",
+   "Std 6 (12:25): Geo 7C Hei, Bitte mit Fr. Müchler absprechen."
+  ],
+  "zeitstempel": "04.05.2026, 13:44"
+ },
+ {
+  "timestamp": "2026-05-04T11:53:29.311929",
+  "lehrer": "Sta",
+  "datum": "Mittwoch, 06. Mai 2026",
+  "date_key": "20260506",
+  "changes": [
+   "Std 3 (09:40): Inf 10A gehalten am Di (05.05.) St.5",
+   "Std 3 (09:40): Ma 9D verlegt von St.7; Inf 10A gehalten am Di (05.05.) St.5",
+   "Std 4 (10:25): Inf 10A gehalten am Di (05.05.) St.6",
+   "Std 4 (10:25): Ma 9D verlegt von St.8; Inf 10A gehalten am Di (05.05.) St.6",
+   "Std 7 (13:40): Ma 9D verlegt nach St.3",
+   "Std 8 (14:25): Ma 9D verlegt nach St.4"
+  ],
+  "zeitstempel": "04.05.2026, 13:44"
+ },
+ {
+  "timestamp": "2026-05-04T11:53:29.311929",
+  "lehrer": "Bod",
+  "datum": "Donnerstag, 07. Mai 2026",
+  "date_key": "20260507",
+  "changes": [
+   "Std 1 (07:40): Sp 8D Her",
+   "Std 2 (08:25): Sp 8D Her",
+   "Std 5 (11:40): Sp 9A Mue",
+   "Std 6 (12:25): Sp 9A Mue"
+  ],
+  "zeitstempel": "04.05.2026, 13:35"
+ },
+ {
+  "timestamp": "2026-05-04T11:53:29.311929",
+  "lehrer": "Her",
+  "datum": "Donnerstag, 07. Mai 2026",
+  "date_key": "20260507",
+  "changes": [
+   "Std 1 (07:40): für Sp Bod",
+   "Std 2 (08:25): für Sp Bod",
+   "Std 3 (09:40): für BO Her",
+   "Std 4 (10:25): für BO Her"
+  ],
+  "zeitstempel": "04.05.2026, 13:35"
+ },
+ {
+  "timestamp": "2026-05-04T11:53:29.311929",
+  "lehrer": "Jur",
+  "datum": "Donnerstag, 07. Mai 2026",
+  "date_key": "20260507",
+  "changes": [
+   "Std 3 (09:40): DE2 12A-12E fällt aus",
+   "Std 4 (10:25): DE2 12A-12E fällt aus",
+   "Std 7 (13:40): Phil 10C statt Mo (04.05.) St.5",
+   "Std 8 (14:25): Phil 10C statt Mo (04.05.) St.6"
+  ],
+  "zeitstempel": "04.05.2026, 13:35"
+ },
+ {
+  "timestamp": "2026-05-04T11:53:29.311929",
+  "lehrer": "Mue",
+  "datum": "Donnerstag, 07. Mai 2026",
+  "date_key": "20260507",
+  "changes": [
+   "Std 5 (11:40): für Sp Bod",
+   "Std 6 (12:25): für Sp Bod"
+  ],
+  "zeitstempel": "04.05.2026, 13:35"
+ },
+ {
+  "timestamp": "2026-05-04T11:53:29.311929",
+  "lehrer": "Puk",
+  "datum": "Donnerstag, 07. Mai 2026",
+  "date_key": "20260507",
+  "changes": [
+   "Std 5 (11:40): Span 10B statt Mi (06.05.) St.3",
+   "Std 6 (12:25): Span 10B statt Mi (06.05.) St.4"
+  ],
+  "zeitstempel": "04.05.2026, 13:35"
+ },
+ {
+  "timestamp": "2026-05-04T11:53:29.311929",
+  "lehrer": "Sta",
+  "datum": "Donnerstag, 07. Mai 2026",
+  "date_key": "20260507",
+  "changes": [
+   "Std 3 (09:40): Ph 10A statt Fr (08.05.) St.1",
+   "Std 4 (10:25): Ph 10A statt Fr (08.05.) St.2",
+   "Std 5 (11:40): Inf 10B gehalten am Di (05.05.) St.3",
+   "Std 6 (12:25): Inf 10B gehalten am Di (05.05.) St.4"
+  ],
+  "zeitstempel": "04.05.2026, 13:35"
+ },
+ {
+  "timestamp": "2026-05-04T11:53:29.311929",
+  "lehrer": "Hin",
+  "datum": "Freitag, 08. Mai 2026",
+  "date_key": "20260508",
+  "changes": [
+   "Std 1 (07:40): B VK2 statt Di (05.05.) St.1",
+   "Std 2 (08:25): B VK2 statt Di (05.05.) St.2",
+   "Std 3 (09:40): B VK2 statt Di (05.05.) St.3",
+   "Std 4 (10:25): B VK2 statt Di (05.05.) St.4"
+  ],
+  "zeitstempel": "04.05.2026, 13:35"
  }
 ]
