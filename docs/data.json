@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "05.05.2026, 11:54 Uhr",
- "last_changed": "2026-05-05T09:42:00",
+ "generiert": "05.05.2026, 13:03 Uhr",
+ "last_changed": "2026-05-05T15:01:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14659,7 +14659,7 @@
     },
     "20260506": {
      "datum": "Mittwoch, 06. Mai 2026",
-     "zeitstempel": "04.05.2026, 15:32",
+     "zeitstempel": "05.05.2026, 15:01",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -14745,19 +14745,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -14801,7 +14801,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "ILZ 7D Lie (für En), Teamtraining mit Frau Jacobs",
+         "info": "ILZ 7D Jac (für En)",
          "geaendert": true
         },
         {
@@ -14809,7 +14809,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "ILZ 7D Lie (für En), Teamtraining mit Frau Jacobs",
+         "info": "ILZ 7D Jac (für En)",
          "geaendert": true
         },
         {
@@ -15537,6 +15537,22 @@
          "raum": "001",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "8D",
+         "raum": "103",
+         "info": "Ma 8D statt Do (07.05.) St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "8D",
+         "raum": "103",
+         "info": "Ma 8D statt Do (07.05.) St.8",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15722,6 +15738,22 @@
       },
       "Jac": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "ILZ",
+         "klasse": "7D",
+         "raum": "Co1 Co2",
+         "info": "für En Bis",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "ILZ",
+         "klasse": "7D",
+         "raum": "Co1 Co2",
+         "info": "für En Bis",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "ILZ",
@@ -16208,14 +16240,6 @@
          "geaendert": true
         },
         {
-         "stunde": "1",
-         "fach": "ILZ",
-         "klasse": "7D",
-         "raum": "Co1 Co2",
-         "info": "für En Bis, Teamtraining mit Frau Jacobs",
-         "geaendert": true
-        },
-        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -16224,44 +16248,36 @@
          "geaendert": true
         },
         {
-         "stunde": "2",
-         "fach": "ILZ",
-         "klasse": "7D",
-         "raum": "Co1 Co2",
-         "info": "für En Bis, Teamtraining mit Frau Jacobs",
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 8D fällt aus",
          "geaendert": true
         },
         {
-         "stunde": "3",
-         "fach": "Sk",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
-        },
-        {
          "stunde": "4",
-         "fach": "Sk",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Sk",
-         "klasse": "10D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 10D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Sk",
-         "klasse": "10D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 10D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16973,6 +16989,22 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Inf",
+         "klasse": "10D",
+         "raum": "K10",
+         "info": "Inf 10D statt Do (07.05.) St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Inf",
+         "klasse": "10D",
+         "raum": "K10",
+         "info": "Inf 10D statt Do (07.05.) St.8",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "---",
          "klasse": "",
@@ -17214,7 +17246,7 @@
     },
     "20260507": {
      "datum": "Donnerstag, 07. Mai 2026",
-     "zeitstempel": "04.05.2026, 15:32",
+     "zeitstempel": "05.05.2026, 15:01",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -18030,19 +18062,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Ma",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8D gehalten am Mi (06.05.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8D gehalten am Mi (06.05.) St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -19284,19 +19316,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Inf",
-         "klasse": "10D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10D gehalten am Mi (06.05.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Inf",
-         "klasse": "10D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10D gehalten am Mi (06.05.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -19594,7 +19626,7 @@
     },
     "20260508": {
      "datum": "Freitag, 08. Mai 2026",
-     "zeitstempel": "04.05.2026, 15:32",
+     "zeitstempel": "05.05.2026, 15:01",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -21646,7 +21678,7 @@
    "tage": {
     "20260511": {
      "datum": "Montag, 11. Mai 2026",
-     "zeitstempel": "04.05.2026, 15:32",
+     "zeitstempel": "05.05.2026, 15:01",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -21916,7 +21948,24 @@
        ]
       },
       "Bri": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Hospitation Hohls 8d 103",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "310",
+         "info": "Auswertung der Hospitation",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Con": {
@@ -21935,6 +21984,14 @@
          "klasse": "",
          "raum": "",
          "info": "inf1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "8D",
+         "raum": "103",
+         "info": "für Ma Hoh, Aufsicht nach Hospitation, Hr. Hohls erteilt Aufgaben",
          "geaendert": true
         },
         {
@@ -22432,16 +22489,24 @@
          "fach": "Ma",
          "klasse": "8D",
          "raum": "103",
-         "info": "",
+         "info": "für Ma Hoh, Hospitation",
          "geaendert": false
         },
         {
          "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8D Con, Aufsicht nach Hospitation, Hr. Hohls erteilt Aufgaben",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
          "fach": "Ma",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "klasse": "",
+         "raum": "310",
+         "info": "Auswertung der Hospitation; Ma 8D Con, Aufsicht nach Hospitation, Hr. Hohls erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -22893,19 +22958,19 @@
         },
         {
          "stunde": "3",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "AWT 10B verlegt nach Di (12.05.) St.3",
-         "geaendert": true
+         "fach": "AWT",
+         "klasse": "10B",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "4",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "AWT 10B verlegt nach Di (12.05.) St.4",
-         "geaendert": true
+         "fach": "AWT",
+         "klasse": "10B",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": [
@@ -22936,27 +23001,11 @@
          "geaendert": false
         },
         {
-         "stunde": "3",
-         "fach": "Ma",
-         "klasse": "10B",
-         "raum": "003",
-         "info": "Ma 10B verlegt von St.5",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Ma",
-         "klasse": "10B",
-         "raum": "003",
-         "info": "Ma 10B verlegt von St.6",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 10B verlegt nach St.3",
+         "info": "Ma 10B verlegt nach Di (12.05.) St.3",
          "geaendert": true
         },
         {
@@ -22964,7 +23013,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 10B verlegt nach St.4",
+         "info": "Ma 10B verlegt nach Di (12.05.) St.4",
          "geaendert": true
         },
         {
@@ -23891,7 +23940,7 @@
     },
     "20260512": {
      "datum": "Dienstag, 12. Mai 2026",
-     "zeitstempel": "04.05.2026, 15:32",
+     "zeitstempel": "05.05.2026, 15:01",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -25550,22 +25599,6 @@
          "geaendert": true
         },
         {
-         "stunde": "3",
-         "fach": "AWT",
-         "klasse": "10B",
-         "raum": "005",
-         "info": "AWT 10B statt Mo (11.05.) St.3",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "AWT",
-         "klasse": "10B",
-         "raum": "005",
-         "info": "AWT 10B statt Mo (11.05.) St.4",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
          "fach": "AWT",
          "klasse": "8A",
@@ -25611,18 +25644,18 @@
         },
         {
          "stunde": "3",
-         "fach": "Ph",
-         "klasse": "7C",
-         "raum": "107",
-         "info": "für En Mar",
+         "fach": "Ma",
+         "klasse": "10B",
+         "raum": "005",
+         "info": "Ma 10B statt Mo (11.05.) St.5",
          "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ph",
-         "klasse": "7C",
-         "raum": "107",
-         "info": "für En Mar",
+         "fach": "Ma",
+         "klasse": "10B",
+         "raum": "005",
+         "info": "Ma 10B statt Mo (11.05.) St.6",
          "geaendert": true
         },
         {
@@ -25687,7 +25720,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ph 7C Leu (für En)",
+         "info": "Ku 7C Rat (für En)",
          "geaendert": true
         },
         {
@@ -25695,7 +25728,7 @@
          "fach": "En",
          "klasse": "",
          "raum": "103",
-         "info": "Kompetenzprüfungen 10c; Ph 7C Leu (für En)",
+         "info": "Kompetenzprüfungen 10c; Ku 7C Rat (für En)",
          "geaendert": true
         },
         {
@@ -25703,7 +25736,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ph 7C Leu (für En)",
+         "info": "Ku 7C Rat (für En)",
          "geaendert": true
         },
         {
@@ -25711,7 +25744,7 @@
          "fach": "En",
          "klasse": "",
          "raum": "103",
-         "info": "Kompetenzprüfungen 10c; Ph 7C Leu (für En)",
+         "info": "Kompetenzprüfungen 10c; Ku 7C Rat (für En)",
          "geaendert": true
         },
         {
@@ -26150,11 +26183,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Ku",
+         "klasse": "7C",
+         "raum": "104",
+         "info": "für En Mar",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ku 8C gehalten am Mo (11.05.) St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ku",
+         "klasse": "7C",
+         "raum": "104",
+         "info": "für En Mar",
          "geaendert": true
         },
         {
@@ -26797,10 +26846,27 @@
     },
     "20260513": {
      "datum": "Mittwoch, 13. Mai 2026",
-     "zeitstempel": "04.05.2026, 15:32",
+     "zeitstempel": "05.05.2026, 15:01",
      "lehrer": {
       "Bar": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Digitalgespräch Ibrahim, Convent, Barth",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Digitalgespräch Ibrahim, Convent, Barth",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Bes": {
@@ -27167,6 +27233,22 @@
          "klasse": "8C",
          "raum": "K10",
          "info": "für Inf Sta",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Digitalgespräch Ibrahim, Convent, Barth",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Digitalgespräch Ibrahim, Convent, Barth",
          "geaendert": true
         },
         {
