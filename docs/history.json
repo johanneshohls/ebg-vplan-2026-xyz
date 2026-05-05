@@ -1290,5 +1290,44 @@
    "Std 8 (14:25): Ma 10A verlegt nach Di (12.05.) St.2"
   ],
   "zeitstempel": "05.05.2026, 15:01"
+ },
+ {
+  "timestamp": "2026-05-05T20:46:03.536343",
+  "lehrer": "Pri",
+  "datum": "Montag, 11. Mai 2026",
+  "date_key": "20260511",
+  "changes": [
+   "Std 3 (09:40): Ge 10A verlegt nach Mi (13.05.) St.3, Klausur",
+   "Std 4 (10:25): Ge 10A verlegt nach Mi (13.05.) St.4, Klausur",
+   "Std 5 (11:40): für En Pri",
+   "Std 6 (12:25): für En Pri"
+  ],
+  "zeitstempel": "05.05.2026, 21:56"
+ },
+ {
+  "timestamp": "2026-05-05T20:46:03.536343",
+  "lehrer": "See",
+  "datum": "Montag, 11. Mai 2026",
+  "date_key": "20260511",
+  "changes": [
+   "Std 5 (11:40): Bio 10C verlegt von St.7",
+   "Std 6 (12:25): Bio 10C verlegt von St.8",
+   "Std 7 (13:40): Bio 10C verlegt nach St.5",
+   "Std 7 (13:40): Bio 10A statt Mi (13.05.) St.7; Bio 10C verlegt nach St.5",
+   "Std 8 (14:25): Bio 10C verlegt nach St.6",
+   "Std 8 (14:25): Bio 10A statt Mi (13.05.) St.8; Bio 10C verlegt nach St.6"
+  ],
+  "zeitstempel": "05.05.2026, 21:56"
+ },
+ {
+  "timestamp": "2026-05-05T20:46:03.536343",
+  "lehrer": "Sta",
+  "datum": "Montag, 11. Mai 2026",
+  "date_key": "20260511",
+  "changes": [
+   "Std 5 (11:40): für Ph Sta",
+   "Std 6 (12:25): für Ph Sta"
+  ],
+  "zeitstempel": "05.05.2026, 21:56"
  }
 ]

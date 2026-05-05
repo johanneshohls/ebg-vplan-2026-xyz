@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "05.05.2026, 19:49 Uhr",
- "last_changed": "2026-05-05T15:16:00",
+ "generiert": "05.05.2026, 20:46 Uhr",
+ "last_changed": "2026-05-05T21:56:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21678,7 +21678,7 @@
    "tage": {
     "20260511": {
      "datum": "Montag, 11. Mai 2026",
-     "zeitstempel": "05.05.2026, 15:16",
+     "zeitstempel": "05.05.2026, 21:56",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -22084,7 +22084,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof 1, WC, Container",
+         "info": ""
+        }
+       ]
       },
       "Ext 4": {
        "entries": [],
@@ -23256,7 +23263,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 10A verlegt nach Mi (13.05.) St.3",
+         "info": "Ge 10A verlegt nach Mi (13.05.) St.3, Klausur",
          "geaendert": true
         },
         {
@@ -23264,7 +23271,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 10A verlegt nach Mi (13.05.) St.4",
+         "info": "Ge 10A verlegt nach Mi (13.05.) St.4, Klausur",
          "geaendert": true
         },
         {
@@ -23337,14 +23344,7 @@
          "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Hof 1, WC, Container",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Rat": {
        "entries": [
@@ -23556,7 +23556,7 @@
          "stunde": "5",
          "fach": "Bio",
          "klasse": "10C",
-         "raum": "107",
+         "raum": "Co2",
          "info": "Bio 10C verlegt von St.7",
          "geaendert": true
         },
@@ -23564,7 +23564,7 @@
          "stunde": "6",
          "fach": "Bio",
          "klasse": "10C",
-         "raum": "107",
+         "raum": "Co2",
          "info": "Bio 10C verlegt von St.8",
          "geaendert": true
         },
@@ -23580,7 +23580,7 @@
          "stunde": "7",
          "fach": "Bio",
          "klasse": "10A",
-         "raum": "204",
+         "raum": "Aula",
          "info": "Bio 10A statt Mi (13.05.) St.7; Bio 10C verlegt nach St.5",
          "geaendert": true
         },
@@ -23596,7 +23596,7 @@
          "stunde": "8",
          "fach": "Bio",
          "klasse": "10A",
-         "raum": "204",
+         "raum": "Aula",
          "info": "Bio 10A statt Mi (13.05.) St.8; Bio 10C verlegt nach St.6",
          "geaendert": true
         }
@@ -23629,17 +23629,17 @@
          "stunde": "5",
          "fach": "Ph",
          "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "für Ph Sta",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Ph",
          "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "für Ph Sta",
+         "geaendert": true
         },
         {
          "stunde": "7",
