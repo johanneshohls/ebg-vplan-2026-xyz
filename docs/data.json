@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "05.05.2026, 07:14 Uhr",
- "last_changed": "2026-05-04T15:35:00",
+ "generiert": "05.05.2026, 09:20 Uhr",
+ "last_changed": "2026-05-05T09:42:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12307,7 +12307,7 @@
     },
     "20260505": {
      "datum": "Dienstag, 05. Mai 2026",
-     "zeitstempel": "04.05.2026, 15:35",
+     "zeitstempel": "05.05.2026, 09:42",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -13623,19 +13623,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Club9",
-         "klasse": "10A-10D,9A-9D",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "Club9 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club9",
-         "klasse": "10A-10D,9A-9D",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "Club9 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13698,17 +13698,17 @@
          "stunde": "5",
          "fach": "AWT",
          "klasse": "10B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für AWT Lan",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "AWT",
          "klasse": "10B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für AWT Lan",
+         "geaendert": true
         }
        ],
        "aufsichten": [

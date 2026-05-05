@@ -1269,5 +1269,35 @@
    "Std 8 (14:25): für Sp Bod"
   ],
   "zeitstempel": "04.05.2026, 15:32"
+ },
+ {
+  "timestamp": "2026-05-05T09:20:16.798090",
+  "lehrer": "Köh",
+  "datum": "Dienstag, 05. Mai 2026",
+  "date_key": "20260505",
+  "changes": [
+   "Std 1 (07:40): Span 7D statt Fr (08.05.) St.5",
+   "Std 2 (08:25): Span 7D statt Fr (08.05.) St.6",
+   "Std 5 (11:40): für Span Köh, Teilgruppe Fel zu Bir Musik 107",
+   "Std 6 (12:25): für Span Köh, Teilgruppe Fel zu Bir Musik 107",
+   "Std 7 (13:40): Club9 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club9 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "05.05.2026, 09:42"
+ },
+ {
+  "timestamp": "2026-05-05T09:20:16.798090",
+  "lehrer": "Lan",
+  "datum": "Dienstag, 05. Mai 2026",
+  "date_key": "20260505",
+  "changes": [
+   "Std 1 (07:40): w1 12A-12E fällt aus",
+   "Std 1 (07:40): statt Mo (04.05.) St.3 (ILZ Hol); w1 12A-12E fällt aus",
+   "Std 2 (08:25): w1 12A-12E fällt aus",
+   "Std 2 (08:25): statt Mo (04.05.) St.4 (ILZ Hol), Aufsicht: Präventionsprojekt; w1 12A-12E fällt aus",
+   "Std 5 (11:40): für AWT Lan",
+   "Std 6 (12:25): für AWT Lan"
+  ],
+  "zeitstempel": "05.05.2026, 09:42"
  }
 ]
