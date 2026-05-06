@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "06.05.2026, 17:08 Uhr",
- "last_changed": "2026-05-05T21:56:00",
+ "generiert": "06.05.2026, 18:54 Uhr",
+ "last_changed": "2026-05-06T19:28:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -17246,7 +17246,7 @@
     },
     "20260507": {
      "datum": "Donnerstag, 07. Mai 2026",
-     "zeitstempel": "05.05.2026, 15:16",
+     "zeitstempel": "06.05.2026, 19:28",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17826,7 +17826,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 10D See (für AWT)",
+         "info": "Bio 10D selbst. (a), Arbeitsblatt Gendrift herunterladen und bearbeiten, kann zu Hause erledigt werden",
          "geaendert": true
         },
         {
@@ -17834,7 +17834,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 10D See (für AWT)",
+         "info": "Bio 10D selbst. (a), Arbeitsblatt Gendrift herunterladen und bearbeiten, kann zu Hause erledigt werden",
          "geaendert": true
         },
         {
@@ -19193,22 +19193,6 @@
       "See": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "Bio",
-         "klasse": "10D",
-         "raum": "201",
-         "info": "für AWT Gor",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "Bio",
-         "klasse": "10D",
-         "raum": "201",
-         "info": "für AWT Gor",
-         "geaendert": true
-        },
-        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -19217,27 +19201,11 @@
          "geaendert": true
         },
         {
-         "stunde": "3",
-         "fach": "Bio",
-         "klasse": "10B",
-         "raum": "004",
-         "info": "Bio 10B verlegt von St.7; BIO1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "BIO1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Bio",
-         "klasse": "10B",
-         "raum": "004",
-         "info": "Bio 10B verlegt von St.8; BIO1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -19245,7 +19213,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 10B verlegt nach St.3",
+         "info": "Bio 10B verlegt nach St.3 (), Arbeitsblatt Gendrift herunterladen und bearbeiten",
          "geaendert": true
         },
         {
@@ -19253,7 +19221,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 10B verlegt nach St.4",
+         "info": "Bio 10B verlegt nach St.4 (), Arbeitsblatt Gendrift herunterladen und bearbeiten",
          "geaendert": true
         }
        ],
