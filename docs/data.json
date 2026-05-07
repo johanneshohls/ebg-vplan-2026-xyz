@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "07.05.2026, 12:00 Uhr",
- "last_changed": "2026-05-06T19:28:00",
+ "generiert": "07.05.2026, 14:16 Uhr",
+ "last_changed": "2026-05-07T14:37:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -19594,7 +19594,7 @@
     },
     "20260508": {
      "datum": "Freitag, 08. Mai 2026",
-     "zeitstempel": "05.05.2026, 15:16",
+     "zeitstempel": "07.05.2026, 14:37",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -19879,14 +19879,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Hof 1, WC, Container",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Ext 4": {
        "entries": [],
@@ -20412,7 +20405,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof 1, WC, Container",
+         "info": ""
+        }
+       ]
       },
       "Hön": {
        "entries": [
@@ -21646,7 +21646,7 @@
    "tage": {
     "20260511": {
      "datum": "Montag, 11. Mai 2026",
-     "zeitstempel": "05.05.2026, 21:56",
+     "zeitstempel": "07.05.2026, 14:37",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -22288,17 +22288,17 @@
          "stunde": "3",
          "fach": "sp2",
          "klasse": "11A-11D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Sp Her, Klausur, Aula",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "sp2",
          "klasse": "11A-11D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Sp Her, Klausur, Aula",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -23908,7 +23908,7 @@
     },
     "20260512": {
      "datum": "Dienstag, 12. Mai 2026",
-     "zeitstempel": "05.05.2026, 15:16",
+     "zeitstempel": "07.05.2026, 14:37",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -24265,7 +24265,7 @@
          "fach": "ma1",
          "klasse": "11A-11D",
          "raum": "Co2",
-         "info": "",
+         "info": "für Ma Bri, Klausur, Aula nicht verfügbar",
          "geaendert": false
         },
         {
@@ -24273,7 +24273,7 @@
          "fach": "ma1",
          "klasse": "11A-11D",
          "raum": "Co2",
-         "info": "",
+         "info": "für Ma Bri, Klausur, Aula nicht verfügbar",
          "geaendert": false
         }
        ],
@@ -25554,7 +25554,7 @@
          "stunde": "1",
          "fach": "Sk",
          "klasse": "9B",
-         "raum": "007",
+         "raum": "005",
          "info": "für Sk Lan",
          "geaendert": true
         },
@@ -25562,7 +25562,7 @@
          "stunde": "2",
          "fach": "Sk",
          "klasse": "9B",
-         "raum": "007",
+         "raum": "005",
          "info": "für Sk Lan",
          "geaendert": true
         },
@@ -25630,17 +25630,17 @@
          "stunde": "5",
          "fach": "ILZ",
          "klasse": "10B",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "K09",
+         "info": "für ILZ Leu",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "KL",
          "klasse": "10B",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "K09",
+         "info": "für KL Leu",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -25819,8 +25819,8 @@
        ],
        "aufsichten": [
         {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
          "ort": "Haus, WCs, Caféteria",
          "info": ""
         }
@@ -25846,9 +25846,9 @@
         },
         {
          "stunde": "1",
-         "fach": "Span",
+         "fach": "De",
          "klasse": "7E",
-         "raum": "005",
+         "raum": "007",
          "info": "für De Ter",
          "geaendert": true
         },
@@ -25864,7 +25864,7 @@
          "stunde": "2",
          "fach": "Span",
          "klasse": "7E",
-         "raum": "005",
+         "raum": "007",
          "info": "für De Ter",
          "geaendert": true
         },
@@ -26018,14 +26018,7 @@
          "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Haus, WCs, Caféteria",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Pri": {
        "entries": [
@@ -26122,7 +26115,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": ""
+        }
+       ]
       },
       "Rat": {
        "entries": [
@@ -26154,7 +26154,7 @@
          "stunde": "3",
          "fach": "Ku",
          "klasse": "7C",
-         "raum": "104",
+         "raum": "107",
          "info": "für En Mar",
          "geaendert": true
         },
@@ -26170,7 +26170,7 @@
          "stunde": "4",
          "fach": "Ku",
          "klasse": "7C",
-         "raum": "104",
+         "raum": "107",
          "info": "für En Mar",
          "geaendert": true
         },
@@ -26559,7 +26559,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 7E OLop (für De)",
+         "info": "De 7E OLop",
          "geaendert": true
         },
         {
@@ -26567,7 +26567,7 @@
          "fach": "Bio",
          "klasse": "12A-12E",
          "raum": "Aula K12",
-         "info": "Abitur Biologie; Span 7E OLop (für De)",
+         "info": "Abitur Biologie; De 7E OLop",
          "geaendert": true
         },
         {
@@ -26814,7 +26814,7 @@
     },
     "20260513": {
      "datum": "Mittwoch, 13. Mai 2026",
-     "zeitstempel": "05.05.2026, 15:16",
+     "zeitstempel": "07.05.2026, 14:37",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -27315,19 +27315,19 @@
        "entries": [
         {
          "stunde": "7",
-         "fach": "GS01",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS01 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS01",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS01 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -27630,17 +27630,17 @@
          "stunde": "5",
          "fach": "sp3",
          "klasse": "11A-11D",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Sp Her, Klausur, Aula",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "sp3",
          "klasse": "11A-11D",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Sp Her, Klausur, Aula",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -28032,7 +28032,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "W 11A-11D selbst. (v), Selbststudium",
+         "info": "W 11A-11D Schil, Klausur, Aula, Aufsicht",
          "geaendert": true
         },
         {
@@ -28040,7 +28040,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "W 11A-11D selbst. (v), Selbststudium",
+         "info": "W 11A-11D Schil, Klausur, Aula, Aufsicht",
          "geaendert": true
         }
        ],
@@ -28576,7 +28576,7 @@
          "fach": "Ge",
          "klasse": "10A",
          "raum": "005",
-         "info": "Ge 10A statt Mo (11.05.) St.3",
+         "info": "Ge 10A statt Mo (11.05.) St.3, Klausur",
          "geaendert": true
         },
         {
@@ -28584,7 +28584,7 @@
          "fach": "Ge",
          "klasse": "10A",
          "raum": "005",
-         "info": "Ge 10A statt Mo (11.05.) St.4",
+         "info": "Ge 10A statt Mo (11.05.) St.4, Klausur",
          "geaendert": true
         },
         {
@@ -28896,11 +28896,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "w2",
+         "klasse": "11A-11D",
+         "raum": "102",
+         "info": "für W Kno, Klausur, Aula, Aufsicht",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "dsp2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "w2",
+         "klasse": "11A-11D",
+         "raum": "102",
+         "info": "für W Kno, Klausur, Aula, Aufsicht",
          "geaendert": true
         }
        ],
