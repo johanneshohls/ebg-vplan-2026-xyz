@@ -1272,5 +1272,68 @@
    "Std 8 (14:25): En 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden"
   ],
   "zeitstempel": "07.05.2026, 18:34"
+ },
+ {
+  "timestamp": "2026-05-10T14:41:18.801979",
+  "lehrer": "Eul",
+  "datum": "Montag, 11. Mai 2026",
+  "date_key": "20260511",
+  "changes": [
+   "Std 1 (07:40): für De Schil",
+   "Std 2 (08:25): für De Schil",
+   "Std 3 (09:40): für De Schil, Präventionsprojekt"
+  ],
+  "zeitstempel": "10.05.2026, 15:59"
+ },
+ {
+  "timestamp": "2026-05-10T14:41:18.801979",
+  "lehrer": "Hol",
+  "datum": "Montag, 11. Mai 2026",
+  "date_key": "20260511",
+  "changes": [
+   "Std 3 (09:40): en2 12A-12E fällt aus",
+   "Std 3 (09:40): ILZ 10A statt Mi (13.05.) St.3; en2 12A-12E fällt aus",
+   "Std 4 (10:25): en2 12A-12E fällt aus",
+   "Std 4 (10:25): KL 10A statt Mi (13.05.) St.4; en2 12A-12E fällt aus",
+   "Std 5 (11:40): für En Hol",
+   "Std 6 (12:25): für En Hol"
+  ],
+  "zeitstempel": "10.05.2026, 15:59"
+ },
+ {
+  "timestamp": "2026-05-10T14:41:18.801979",
+  "lehrer": "Puk",
+  "datum": "Montag, 11. Mai 2026",
+  "date_key": "20260511",
+  "changes": [
+   "Std 1 (07:40): für Geo Puk",
+   "Std 2 (08:25): für Geo Puk",
+   "Std 3 (09:40): für ILZ Puk",
+   "Std 4 (10:25): für KL Puk, Präventionsprojekt"
+  ],
+  "zeitstempel": "10.05.2026, 15:59"
+ },
+ {
+  "timestamp": "2026-05-10T14:41:18.801979",
+  "lehrer": "Schil",
+  "datum": "Montag, 11. Mai 2026",
+  "date_key": "20260511",
+  "changes": [
+   "Std 1 (07:40): für De Schil",
+   "Std 2 (08:25): für De Schil",
+   "Std 3 (09:40): für De Schil, Präventionsprojekt"
+  ],
+  "zeitstempel": "10.05.2026, 15:59"
+ },
+ {
+  "timestamp": "2026-05-10T14:41:18.801979",
+  "lehrer": "Ter",
+  "datum": "Montag, 11. Mai 2026",
+  "date_key": "20260511",
+  "changes": [
+   "Std 5 (11:40): für Bio Ter",
+   "Std 6 (12:25): für Bio Ter"
+  ],
+  "zeitstempel": "10.05.2026, 15:59"
  }
 ]

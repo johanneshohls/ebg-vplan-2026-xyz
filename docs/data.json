@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "10.05.2026, 13:51 Uhr",
- "last_changed": "2026-05-10T11:14:00",
+ "generiert": "10.05.2026, 14:41 Uhr",
+ "last_changed": "2026-05-10T15:59:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21614,7 +21614,7 @@
    "tage": {
     "20260511": {
      "datum": "Montag, 11. Mai 2026",
-     "zeitstempel": "10.05.2026, 11:14",
+     "zeitstempel": "10.05.2026, 15:59",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -21975,17 +21975,17 @@
          "stunde": "1",
          "fach": "DE2",
          "klasse": "11A-11D",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "105",
+         "info": "für De Schil",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "DE2",
          "klasse": "11A-11D",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "105",
+         "info": "für De Schil",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -22524,17 +22524,17 @@
          "stunde": "5",
          "fach": "En",
          "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "007",
+         "info": "für En Hol",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "En",
          "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "007",
+         "info": "für En Hol",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -23251,17 +23251,17 @@
          "stunde": "1",
          "fach": "Geo",
          "klasse": "9D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "004",
+         "info": "für Geo Puk",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Geo",
          "klasse": "9D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "004",
+         "info": "für Geo Puk",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -23382,17 +23382,17 @@
          "stunde": "1",
          "fach": "DE2",
          "klasse": "11A-11D",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "105",
+         "info": "für De Schil",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "DE2",
          "klasse": "11A-11D",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "105",
+         "info": "für De Schil",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -23659,17 +23659,17 @@
          "stunde": "5",
          "fach": "Bio",
          "klasse": "9D",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "raum": "004",
+         "info": "für Bio Ter",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Bio",
          "klasse": "9D",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "raum": "004",
+         "info": "für Bio Ter",
+         "geaendert": true
         },
         {
          "stunde": "7",
