@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "10.05.2026, 09:10 Uhr",
- "last_changed": "2026-05-07T18:34:00",
+ "generiert": "10.05.2026, 10:23 Uhr",
+ "last_changed": "2026-05-10T11:14:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21614,7 +21614,7 @@
    "tage": {
     "20260511": {
      "datum": "Montag, 11. Mai 2026",
-     "zeitstempel": "07.05.2026, 14:37",
+     "zeitstempel": "10.05.2026, 11:14",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23876,7 +23876,7 @@
     },
     "20260512": {
      "datum": "Dienstag, 12. Mai 2026",
-     "zeitstempel": "07.05.2026, 14:37",
+     "zeitstempel": "10.05.2026, 11:14",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -26782,7 +26782,7 @@
     },
     "20260513": {
      "datum": "Mittwoch, 13. Mai 2026",
-     "zeitstempel": "07.05.2026, 14:37",
+     "zeitstempel": "10.05.2026, 11:14",
      "lehrer": {
       "Bar": {
        "entries": [
