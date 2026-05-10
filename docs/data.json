@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "10.05.2026, 17:30 Uhr",
- "last_changed": "2026-05-10T15:59:00",
+ "generiert": "10.05.2026, 18:31 Uhr",
+ "last_changed": "2026-05-10T20:04:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21614,7 +21614,7 @@
    "tage": {
     "20260511": {
      "datum": "Montag, 11. Mai 2026",
-     "zeitstempel": "10.05.2026, 15:59",
+     "zeitstempel": "10.05.2026, 20:04",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -21698,35 +21698,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 7A Lan (für En)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 7A Lan (für En)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "En",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "En",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -21734,7 +21734,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Roh"
         }
        ]
       },
@@ -21789,41 +21789,48 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Abwesenheiten der Oberstufe einpflegen",
+         "info": "für Bod"
+        }
+       ]
       },
       "Bod": {
        "entries": [
         {
          "stunde": "1",
-         "fach": "Sp",
-         "klasse": "9B",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 9B Hin",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Sp",
-         "klasse": "9B",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 9B Hin",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "sk3",
-         "klasse": "11A-11D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 11A-11D selbst. (v), Selbststudium, Hr. Bode stellt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "sk3",
-         "klasse": "11A-11D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 11A-11D selbst. (v), Selbststudium, Hr. Bode stellt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -21834,44 +21841,28 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
-         "fach": "Sk",
-         "klasse": "10B",
-         "raum": "Co1",
-         "info": "statt Di (12.05.) St.7 (En Bis); sp1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "sp1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Sk",
-         "klasse": "10B",
-         "raum": "Co1",
-         "info": "statt Di (12.05.) St.8 (En Bis); sp1 12A-12E fällt aus",
          "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Sp",
-         "klasse": "7E",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7E Stu",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Sp",
-         "klasse": "7E",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7E Stu",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -21879,7 +21870,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Abwesenheiten der Oberstufe einpflegen",
-         "info": ""
+         "info": "entfällt, V: Bob"
         }
        ]
       },
@@ -22241,7 +22232,7 @@
          "fach": "AWT",
          "klasse": "7A",
          "raum": "002",
-         "info": "für ILZ Her",
+         "info": "für ILZ Her, Bitte Aufgaben für Block 3 (AWT Lan) aufgeben.",
          "geaendert": true
         },
         {
@@ -22249,7 +22240,7 @@
          "fach": "AWT",
          "klasse": "7A",
          "raum": "002",
-         "info": "für KL Her",
+         "info": "für KL Her, Bitte Aufgaben für Block 3 (AWT Lan) aufgeben.",
          "geaendert": true
         },
         {
@@ -22291,19 +22282,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "B",
-         "klasse": "VK2",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK2 fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "Sp",
+         "klasse": "9B",
+         "raum": "Tu1",
+         "info": "für Sp Bod",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "B",
-         "klasse": "VK2",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK2 fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Sp",
+         "klasse": "9B",
+         "raum": "Tu1",
+         "info": "für Sp Bod",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -22791,11 +22798,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Sk",
+         "klasse": "10B",
+         "raum": "Co1",
+         "info": "statt Di (12.05.) St.7 (En Bis), Aufsicht, Hr. Bode erteilt Aufgaben; ch2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "ch2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Sk",
+         "klasse": "10B",
+         "raum": "Co1",
+         "info": "statt Di (12.05.) St.8 (En Bis), Aufsicht: Hr. Bode erteilt Aufgaben; ch2 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -22914,6 +22937,22 @@
          "raum": "003",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "AWT",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für En Bis",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "AWT",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für En Bis",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -23370,7 +23409,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Bis"
+        }
+       ]
       },
       "Scheu": {
        "entries": [],
@@ -23629,6 +23675,22 @@
          "raum": "",
          "info": "B VK fällt aus",
          "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Sp",
+         "klasse": "7E",
+         "raum": "Tu2",
+         "info": "für Sp Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Sp",
+         "klasse": "7E",
+         "raum": "Tu2",
+         "info": "für Sp Bod",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23876,7 +23938,7 @@
     },
     "20260512": {
      "datum": "Dienstag, 12. Mai 2026",
-     "zeitstempel": "10.05.2026, 11:14",
+     "zeitstempel": "10.05.2026, 20:04",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23939,7 +24001,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Hof2 und grünes Klassenzimmer",
-         "info": "entfällt, V: Fla"
+         "info": "entfällt, V: Hei"
         }
        ]
       },
@@ -23983,67 +24045,11 @@
       "Bis": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b",
-         "geaendert": true
-        },
-        {
-         "stunde": "3",
-         "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b",
-         "geaendert": true
-        },
-        {
          "stunde": "7",
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sk 10B gehalten am Mo (11.05.) St.5 (Bod)",
-         "geaendert": true
-        },
-        {
-         "stunde": "7",
-         "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b; Sk 10B gehalten am Mo (11.05.) St.5 (Bod)",
+         "info": "Sk 10B gehalten am Mo (11.05.) St.5 (Kno), Aufsicht, Hr. Bode erteilt Aufgaben",
          "geaendert": true
         },
         {
@@ -24051,15 +24057,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sk 10B gehalten am Mo (11.05.) St.6 (Bod)",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b; Sk 10B gehalten am Mo (11.05.) St.6 (Bod)",
+         "info": "Sk 10B gehalten am Mo (11.05.) St.6 (Kno), Aufsicht: Hr. Bode erteilt Aufgaben",
          "geaendert": true
         }
        ],
@@ -24125,7 +24123,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sk 10A verlegt nach St.8",
+         "info": "Sk 10A verlegt nach St.8 (), Selbststudium, Herr Bode erteilt Aufgaben, kann zu Hause erledigt werden",
          "geaendert": true
         },
         {
@@ -24133,55 +24131,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sk 10A verlegt nach St.7",
-         "geaendert": true
-        },
-        {
-         "stunde": "3",
-         "fach": "Bio",
-         "klasse": "",
-         "raum": "K12",
-         "info": "Aufsicht: Abitur Biologie Praxis",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Bio",
-         "klasse": "",
-         "raum": "K12",
-         "info": "Aufsicht: Abitur Biologie Praxis",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "Bio",
-         "klasse": "",
-         "raum": "K12",
-         "info": "Aufsicht: Abitur Biologie Praxis",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Bio",
-         "klasse": "",
-         "raum": "K12",
-         "info": "Aufsicht: Abitur Biologie Praxis",
-         "geaendert": true
-        },
-        {
-         "stunde": "7",
-         "fach": "Sk",
-         "klasse": "10A",
-         "raum": "005",
-         "info": "Sk 10A verlegt von St.2",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Sk",
-         "klasse": "10A",
-         "raum": "005",
-         "info": "Sk 10A verlegt von St.1",
+         "info": "Sk 10A verlegt nach St.7 (), Selbststudium, Herr Bode erteilt Aufgaben, kann zu Hause erledigt werden",
          "geaendert": true
         }
        ],
@@ -24589,14 +24539,7 @@
          "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Hof2 und grünes Klassenzimmer",
-         "info": "für Bes"
-        }
-       ]
+       "aufsichten": []
       },
       "Gol": {
        "entries": [
@@ -24678,15 +24621,38 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "9A",
+         "raum": "Co3",
+         "info": "für En Wag, Aufsicht, Aufgaben durch Frau Wagner erteilt",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "GE2 12A-12E fällt aus",
          "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "9A",
+         "raum": "Co3",
+         "info": "für En Wag, Aufsicht, Aufgaben durch Frau Wagner erteilt",
+         "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "erst Haus, dann Hof2+GKLZ",
+         "info": "für Wag"
+        }
+       ]
       },
       "Hei": {
        "entries": [
@@ -24739,7 +24705,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": "für Bes"
+        }
+       ]
       },
       "Her": {
        "entries": [
@@ -25343,11 +25316,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Fr",
+         "klasse": "9A",
+         "raum": "K07",
+         "info": "für Fr Wag, Aufgaben durch Frau Wagner erteilt. Aufsicht",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "DE2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Fr",
+         "klasse": "9A",
+         "raum": "K07",
+         "info": "für Fr Wag, Aufgaben durch Frau Wagner erteilt, Aufsicht",
          "geaendert": true
         },
         {
@@ -26274,6 +26263,22 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "K12",
+         "info": "Aufsicht: Abitur Biologie Praxis",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "K12",
+         "info": "Aufsicht: Abitur Biologie Praxis",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -26468,6 +26473,22 @@
          "raum": "K09",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "K12",
+         "info": "Aufsicht: Abitur Biologie Praxis",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "K12",
+         "info": "Aufsicht: Abitur Biologie Praxis",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -26722,50 +26743,114 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "EN1",
-         "klasse": "11A-11D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11A-11D selbst. (v), Selbststudium, Frau Wagner erteilt Aufgaben",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "En",
+         "klasse": "",
+         "raum": "104",
+         "info": "Kompetenzprüfungen 10b; En 11A-11D selbst. (v), Selbststudium, Frau Wagner erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "EN1",
-         "klasse": "11A-11D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11A-11D selbst. (v), Selbststudium, Frau Wagner erteilt Aufgaben",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "En",
+         "klasse": "",
+         "raum": "104",
+         "info": "Kompetenzprüfungen 10b; En 11A-11D selbst. (v), Selbststudium, Frau Wagner erteilt Aufgaben",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9A Gor, Aufsicht, Aufgaben durch Frau Wagner erteilt",
+         "geaendert": true
         },
         {
          "stunde": "3",
          "fach": "En",
-         "klasse": "9A",
-         "raum": "Co3",
-         "info": "für En Wag",
+         "klasse": "",
+         "raum": "104",
+         "info": "Kompetenzprüfungen 10b; En 9A Gor, Aufsicht, Aufgaben durch Frau Wagner erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9A Gor, Aufsicht, Aufgaben durch Frau Wagner erteilt",
          "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "En",
-         "klasse": "9A",
-         "raum": "Co3",
-         "info": "für En Wag",
+         "klasse": "",
+         "raum": "104",
+         "info": "Kompetenzprüfungen 10b; En 9A Gor, Aufsicht, Aufgaben durch Frau Wagner erteilt",
          "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Fr",
-         "klasse": "9A",
-         "raum": "K07",
-         "info": "für Fr Wag",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 9A Jur, Aufgaben durch Frau Wagner erteilt. Aufsicht",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "",
+         "raum": "104",
+         "info": "Kompetenzprüfungen 10b; Fr 9A Jur, Aufgaben durch Frau Wagner erteilt. Aufsicht",
          "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Fr",
-         "klasse": "9A",
-         "raum": "K07",
-         "info": "für Fr Wag",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 9A Jur, Aufgaben durch Frau Wagner erteilt, Aufsicht",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "",
+         "raum": "104",
+         "info": "Kompetenzprüfungen 10b; Fr 9A Jur, Aufgaben durch Frau Wagner erteilt, Aufsicht",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "En",
+         "klasse": "",
+         "raum": "104",
+         "info": "Kompetenzprüfungen 10b",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "En",
+         "klasse": "",
+         "raum": "104",
+         "info": "Kompetenzprüfungen 10b",
          "geaendert": true
         }
        ],
@@ -26774,7 +26859,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "erst Haus, dann Hof2+GKLZ",
-         "info": ""
+         "info": "entfällt, V: Gor"
         }
        ]
       }
@@ -26782,7 +26867,7 @@
     },
     "20260513": {
      "datum": "Mittwoch, 13. Mai 2026",
-     "zeitstempel": "10.05.2026, 11:14",
+     "zeitstempel": "10.05.2026, 20:04",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -26977,51 +27062,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "En",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7D Köh (für En)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "En",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7D Köh (für En)",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 7A Hei (für En)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 7A Hei (für En)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "En",
-         "klasse": "10B",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "En",
-         "klasse": "10B",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10B fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -27099,19 +27184,19 @@
         },
         {
          "stunde": "7",
-         "fach": "sp1",
-         "klasse": "11A-11D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "sp1",
-         "klasse": "11A-11D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -27550,11 +27635,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Fr",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für En Bis",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "geo1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Fr",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für En Bis",
          "geaendert": true
         }
        ],
@@ -28025,11 +28126,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "Span",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für En Bis",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Span 7C gehalten am Di (12.05.) St.8",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Span",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für En Bis",
          "geaendert": true
         },
         {

@@ -942,5 +942,268 @@
    "Std 6 (12:25): für Bio Ter"
   ],
   "zeitstempel": "10.05.2026, 15:59"
+ },
+ {
+  "timestamp": "2026-05-10T18:31:13.935417",
+  "lehrer": "Bis",
+  "datum": "Montag, 11. Mai 2026",
+  "date_key": "20260511",
+  "changes": [
+   "Std 5 (11:40): AWT 7A Lan (für En)",
+   "Std 6 (12:25): AWT 7A Lan (für En)",
+   "Std 7 (13:40): En 7D fällt aus",
+   "Std 8 (14:25): En 7D fällt aus"
+  ],
+  "zeitstempel": "10.05.2026, 20:04"
+ },
+ {
+  "timestamp": "2026-05-10T18:31:13.935417",
+  "lehrer": "Bod",
+  "datum": "Montag, 11. Mai 2026",
+  "date_key": "20260511",
+  "changes": [
+   "Std 1 (07:40): Sp 9B Hin",
+   "Std 2 (08:25): Sp 9B Hin",
+   "Std 3 (09:40): Sk 11A-11D selbst. (v), Selbststudium, Hr. Bode stellt Aufgaben",
+   "Std 4 (10:25): Sk 11A-11D selbst. (v), Selbststudium, Hr. Bode stellt Aufgaben",
+   "Std 5 (11:40): sp1 12A-12E fällt aus",
+   "Std 6 (12:25): sp1 12A-12E fällt aus",
+   "Std 7 (13:40): Sp 7E Stu",
+   "Std 8 (14:25): Sp 7E Stu"
+  ],
+  "zeitstempel": "10.05.2026, 20:04"
+ },
+ {
+  "timestamp": "2026-05-10T18:31:13.935417",
+  "lehrer": "Her",
+  "datum": "Montag, 11. Mai 2026",
+  "date_key": "20260511",
+  "changes": [
+   "Std 1 (07:40): für ILZ Her, Bitte Aufgaben für Block 3 (AWT Lan) aufgeben.",
+   "Std 2 (08:25): für KL Her, Bitte Aufgaben für Block 3 (AWT Lan) aufgeben.",
+   "Std 3 (09:40): für Sp Her, Klausur, Aula",
+   "Std 4 (10:25): für Sp Her, Klausur, Aula",
+   "Std 7 (13:40): für Sp Her, Hospitation zur Dienstlichen Einschätzung"
+  ],
+  "zeitstempel": "10.05.2026, 20:04"
+ },
+ {
+  "timestamp": "2026-05-10T18:31:13.935417",
+  "lehrer": "Hin",
+  "datum": "Montag, 11. Mai 2026",
+  "date_key": "20260511",
+  "changes": [
+   "Std 1 (07:40): B VK2 fällt aus",
+   "Std 1 (07:40): für Sp Bod",
+   "Std 2 (08:25): B VK2 fällt aus",
+   "Std 2 (08:25): für Sp Bod",
+   "Std 3 (09:40): B VK2 fällt aus",
+   "Std 4 (10:25): B VK2 fällt aus"
+  ],
+  "zeitstempel": "10.05.2026, 20:04"
+ },
+ {
+  "timestamp": "2026-05-10T18:31:13.935417",
+  "lehrer": "Kno",
+  "datum": "Montag, 11. Mai 2026",
+  "date_key": "20260511",
+  "changes": [
+   "Std 3 (09:40): ch1 12A-12E fällt aus",
+   "Std 3 (09:40): Aufsicht über Prüfungsvorbereitung 10d En ; ch1 12A-12E fällt aus",
+   "Std 4 (10:25): ch1 12A-12E fällt aus",
+   "Std 4 (10:25): Aufsicht über Prüfungsvorbereitung 10d En ; ch1 12A-12E fällt aus",
+   "Std 5 (11:40): ch2 12A-12E fällt aus",
+   "Std 5 (11:40): statt Di (12.05.) St.7 (En Bis), Aufsicht, Hr. Bode erteilt Aufgaben; ch2 12A-12E fällt aus",
+   "Std 6 (12:25): ch2 12A-12E fällt aus",
+   "Std 6 (12:25): statt Di (12.05.) St.8 (En Bis), Aufsicht: Hr. Bode erteilt Aufgaben; ch2 12A-12E fällt aus"
+  ],
+  "zeitstempel": "10.05.2026, 20:04"
+ },
+ {
+  "timestamp": "2026-05-10T18:31:13.935417",
+  "lehrer": "Lan",
+  "datum": "Montag, 11. Mai 2026",
+  "date_key": "20260511",
+  "changes": [
+   "Std 1 (07:40): für Sk Lan",
+   "Std 2 (08:25): für Sk Lan",
+   "Std 5 (11:40): für En Bis",
+   "Std 6 (12:25): für En Bis"
+  ],
+  "zeitstempel": "10.05.2026, 20:04"
+ },
+ {
+  "timestamp": "2026-05-10T18:31:13.935417",
+  "lehrer": "Stu",
+  "datum": "Montag, 11. Mai 2026",
+  "date_key": "20260511",
+  "changes": [
+   "Std 1 (07:40): B VK fällt aus",
+   "Std 2 (08:25): B VK fällt aus",
+   "Std 3 (09:40): B VK fällt aus",
+   "Std 4 (10:25): B VK fällt aus",
+   "Std 7 (13:40): für Sp Bod",
+   "Std 8 (14:25): für Sp Bod"
+  ],
+  "zeitstempel": "10.05.2026, 20:04"
+ },
+ {
+  "timestamp": "2026-05-10T18:31:13.935417",
+  "lehrer": "Bis",
+  "datum": "Dienstag, 12. Mai 2026",
+  "date_key": "20260512",
+  "changes": [
+   "Std 7 (13:40): Sk 10B gehalten am Mo (11.05.) St.5 (Kno), Aufsicht, Hr. Bode erteilt Aufgaben",
+   "Std 8 (14:25): Sk 10B gehalten am Mo (11.05.) St.6 (Kno), Aufsicht: Hr. Bode erteilt Aufgaben"
+  ],
+  "zeitstempel": "10.05.2026, 20:04"
+ },
+ {
+  "timestamp": "2026-05-10T18:31:13.935417",
+  "lehrer": "Bod",
+  "datum": "Dienstag, 12. Mai 2026",
+  "date_key": "20260512",
+  "changes": [
+   "Std 1 (07:40): Sk 10A verlegt nach St.8 (), Selbststudium, Herr Bode erteilt Aufgaben, kann zu Hause erledigt werden",
+   "Std 2 (08:25): Sk 10A verlegt nach St.7 (), Selbststudium, Herr Bode erteilt Aufgaben, kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "10.05.2026, 20:04"
+ },
+ {
+  "timestamp": "2026-05-10T18:31:13.935417",
+  "lehrer": "Gor",
+  "datum": "Dienstag, 12. Mai 2026",
+  "date_key": "20260512",
+  "changes": [
+   "Std 3 (09:40): GE2 12A-12E fällt aus",
+   "Std 3 (09:40): für En Wag, Aufsicht, Aufgaben durch Frau Wagner erteilt",
+   "Std 4 (10:25): GE2 12A-12E fällt aus",
+   "Std 4 (10:25): für En Wag, Aufsicht, Aufgaben durch Frau Wagner erteilt"
+  ],
+  "zeitstempel": "10.05.2026, 20:04"
+ },
+ {
+  "timestamp": "2026-05-10T18:31:13.935417",
+  "lehrer": "Jur",
+  "datum": "Dienstag, 12. Mai 2026",
+  "date_key": "20260512",
+  "changes": [
+   "Std 3 (09:40): für Phil Jur",
+   "Std 4 (10:25): für Phil Jur",
+   "Std 5 (11:40): DE2 12A-12E fällt aus",
+   "Std 5 (11:40): für Fr Wag, Aufgaben durch Frau Wagner erteilt. Aufsicht",
+   "Std 6 (12:25): DE2 12A-12E fällt aus",
+   "Std 6 (12:25): für Fr Wag, Aufgaben durch Frau Wagner erteilt, Aufsicht",
+   "Std 7 (13:40): für Phil Jur",
+   "Std 8 (14:25): für Phil Jur"
+  ],
+  "zeitstempel": "10.05.2026, 20:04"
+ },
+ {
+  "timestamp": "2026-05-10T18:31:13.935417",
+  "lehrer": "Schuc",
+  "datum": "Dienstag, 12. Mai 2026",
+  "date_key": "20260512",
+  "changes": [
+   "Std 3 (09:40): Aufsicht: Abitur Biologie Praxis",
+   "Std 4 (10:25): Aufsicht: Abitur Biologie Praxis",
+   "Std 5 (11:40): GE1 12A-12E fällt aus",
+   "Std 6 (12:25): GE1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "10.05.2026, 20:04"
+ },
+ {
+  "timestamp": "2026-05-10T18:31:13.935417",
+  "lehrer": "Sta",
+  "datum": "Dienstag, 12. Mai 2026",
+  "date_key": "20260512",
+  "changes": [
+   "Std 1 (07:40): für Ma Sta",
+   "Std 2 (08:25): für Ma Sta",
+   "Std 5 (11:40): Aufsicht: Abitur Biologie Praxis",
+   "Std 6 (12:25): Aufsicht: Abitur Biologie Praxis"
+  ],
+  "zeitstempel": "10.05.2026, 20:04"
+ },
+ {
+  "timestamp": "2026-05-10T18:31:13.935417",
+  "lehrer": "Wag",
+  "datum": "Dienstag, 12. Mai 2026",
+  "date_key": "20260512",
+  "changes": [
+   "Std 1 (07:40): En 11A-11D selbst. (v), Selbststudium, Frau Wagner erteilt Aufgaben",
+   "Std 1 (07:40): Kompetenzprüfungen 10b; En 11A-11D selbst. (v), Selbststudium, Frau Wagner erteilt Aufgaben",
+   "Std 2 (08:25): En 11A-11D selbst. (v), Selbststudium, Frau Wagner erteilt Aufgaben",
+   "Std 2 (08:25): Kompetenzprüfungen 10b; En 11A-11D selbst. (v), Selbststudium, Frau Wagner erteilt Aufgaben",
+   "Std 3 (09:40): En 9A Gor, Aufsicht, Aufgaben durch Frau Wagner erteilt",
+   "Std 3 (09:40): Kompetenzprüfungen 10b; En 9A Gor, Aufsicht, Aufgaben durch Frau Wagner erteilt",
+   "Std 4 (10:25): En 9A Gor, Aufsicht, Aufgaben durch Frau Wagner erteilt",
+   "Std 4 (10:25): Kompetenzprüfungen 10b; En 9A Gor, Aufsicht, Aufgaben durch Frau Wagner erteilt",
+   "Std 5 (11:40): Fr 9A Jur, Aufgaben durch Frau Wagner erteilt. Aufsicht",
+   "Std 5 (11:40): Kompetenzprüfungen 10b; Fr 9A Jur, Aufgaben durch Frau Wagner erteilt. Aufsicht",
+   "Std 6 (12:25): Fr 9A Jur, Aufgaben durch Frau Wagner erteilt, Aufsicht",
+   "Std 6 (12:25): Kompetenzprüfungen 10b; Fr 9A Jur, Aufgaben durch Frau Wagner erteilt, Aufsicht",
+   "Std 7 (13:40): Kompetenzprüfungen 10b",
+   "Std 8 (14:25): Kompetenzprüfungen 10b"
+  ],
+  "zeitstempel": "10.05.2026, 20:04"
+ },
+ {
+  "timestamp": "2026-05-10T18:31:13.935417",
+  "lehrer": "Bis",
+  "datum": "Mittwoch, 13. Mai 2026",
+  "date_key": "20260513",
+  "changes": [
+   "Std 1 (07:40): Span 7D Köh (für En)",
+   "Std 2 (08:25): Span 7D Köh (für En)",
+   "Std 5 (11:40): Fr 7A Hei (für En)",
+   "Std 6 (12:25): Fr 7A Hei (für En)",
+   "Std 7 (13:40): En 10B fällt aus",
+   "Std 8 (14:25): En 10B fällt aus"
+  ],
+  "zeitstempel": "10.05.2026, 20:04"
+ },
+ {
+  "timestamp": "2026-05-10T18:31:13.935417",
+  "lehrer": "Bod",
+  "datum": "Mittwoch, 13. Mai 2026",
+  "date_key": "20260513",
+  "changes": [
+   "Std 5 (11:40): sp2 12A-12E fällt aus",
+   "Std 6 (12:25): sp2 12A-12E fällt aus",
+   "Std 7 (13:40): Sp 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 8 (14:25): Sp 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "10.05.2026, 20:04"
+ },
+ {
+  "timestamp": "2026-05-10T18:31:13.935417",
+  "lehrer": "Hei",
+  "datum": "Mittwoch, 13. Mai 2026",
+  "date_key": "20260513",
+  "changes": [
+   "Std 5 (11:40): geo1 12A-12E fällt aus",
+   "Std 5 (11:40): für En Bis",
+   "Std 6 (12:25): geo1 12A-12E fällt aus",
+   "Std 6 (12:25): für En Bis"
+  ],
+  "zeitstempel": "10.05.2026, 20:04"
+ },
+ {
+  "timestamp": "2026-05-10T18:31:13.935417",
+  "lehrer": "Köh",
+  "datum": "Mittwoch, 13. Mai 2026",
+  "date_key": "20260513",
+  "changes": [
+   "Std 1 (07:40): Span 7C gehalten am Di (12.05.) St.7",
+   "Std 1 (07:40): für En Bis",
+   "Std 2 (08:25): Span 7C gehalten am Di (12.05.) St.8",
+   "Std 2 (08:25): für En Bis",
+   "Std 5 (11:40): Span 9B fällt aus",
+   "Std 5 (11:40): für Ge Pri",
+   "Std 6 (12:25): Span 9B fällt aus",
+   "Std 6 (12:25): für Ge Pri"
+  ],
+  "zeitstempel": "10.05.2026, 20:04"
  }
 ]
