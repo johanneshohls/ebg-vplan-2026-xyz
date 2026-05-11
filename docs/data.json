@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "11.05.2026, 11:39 Uhr",
- "last_changed": "2026-05-11T10:39:00",
+ "generiert": "11.05.2026, 14:06 Uhr",
+ "last_changed": "2026-05-11T14:16:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -11857,7 +11857,7 @@
    "tage": {
     "20260511": {
      "datum": "Montag, 11. Mai 2026",
-     "zeitstempel": "10.05.2026, 20:04",
+     "zeitstempel": "11.05.2026, 14:16",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -12254,14 +12254,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Hof 1, WC, Container",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Ext 4": {
        "entries": [],
@@ -12525,22 +12518,14 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "B VK2 fällt aus",
+         "fach": "Sp",
+         "klasse": "9B",
+         "raum": "Tu1",
+         "info": "für Sp Bod",
          "geaendert": true
         },
         {
          "stunde": "1",
-         "fach": "Sp",
-         "klasse": "9B",
-         "raum": "Tu1",
-         "info": "für Sp Bod",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
@@ -12553,6 +12538,14 @@
          "klasse": "9B",
          "raum": "Tu1",
          "info": "für Sp Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "B VK2 fällt aus",
          "geaendert": true
         },
         {
@@ -13472,7 +13465,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof 1, WC, Container",
+         "info": ""
+        }
+       ]
       },
       "Pri": {
        "entries": [
@@ -14181,7 +14181,7 @@
     },
     "20260512": {
      "datum": "Dienstag, 12. Mai 2026",
-     "zeitstempel": "11.05.2026, 10:39",
+     "zeitstempel": "11.05.2026, 14:16",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -16917,7 +16917,7 @@
     },
     "20260513": {
      "datum": "Mittwoch, 13. Mai 2026",
-     "zeitstempel": "10.05.2026, 20:04",
+     "zeitstempel": "11.05.2026, 14:16",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17115,7 +17115,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 7D Köh (für En)",
+         "info": "Ma 7D Hoh (für En)",
          "geaendert": true
         },
         {
@@ -17123,7 +17123,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 7D Köh (für En)",
+         "info": "Ma 7D Hoh (für En)",
          "geaendert": true
         },
         {
@@ -17486,7 +17486,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Essenraum und Keller",
+         "info": "für Köh"
+        }
+       ]
       },
       "Fer": {
        "entries": [],
@@ -17873,18 +17880,34 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ph",
-         "klasse": "7E",
-         "raum": "207",
-         "info": "für Ph Hoh",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 7E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "Ma",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für En Bis",
          "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ph",
-         "klasse": "7E",
-         "raum": "207",
-         "info": "für Ph Hoh",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 7E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ma",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für En Bis",
          "geaendert": true
         },
         {
@@ -18071,22 +18094,6 @@
       "Kar": {
        "entries": [
         {
-         "stunde": "3",
-         "fach": "Mu",
-         "klasse": "7E",
-         "raum": "106",
-         "info": "für En Mar",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Mu",
-         "klasse": "7E",
-         "raum": "106",
-         "info": "für En Mar",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
          "fach": "pro31",
          "klasse": "11A-11D",
@@ -18176,14 +18183,6 @@
          "geaendert": true
         },
         {
-         "stunde": "1",
-         "fach": "Span",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "für En Bis",
-         "geaendert": true
-        },
-        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -18192,14 +18191,6 @@
          "geaendert": true
         },
         {
-         "stunde": "2",
-         "fach": "Span",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "für En Bis",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -18208,27 +18199,11 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
-         "fach": "Span",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "für Ge Pri",
-         "geaendert": true
-        },
-        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Span 9B fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Span",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "für Ge Pri",
          "geaendert": true
         },
         {
@@ -18253,7 +18228,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Essenraum und Keller",
-         "info": ""
+         "info": "entfällt, V: Fel"
         }
        ]
       },
@@ -18476,7 +18451,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Mu 7E Kar (für En)",
+         "info": "En 7E fällt aus",
          "geaendert": true
         },
         {
@@ -18484,7 +18459,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Mu 7E Kar (für En)",
+         "info": "En 7E fällt aus",
          "geaendert": true
         }
        ],
@@ -18727,7 +18702,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 7E Köh (für Ge)",
+         "info": "Ge 7E fällt aus",
          "geaendert": true
         },
         {
@@ -18735,7 +18710,7 @@
          "fach": "En",
          "klasse": "",
          "raum": "101",
-         "info": "Kompetenzprüfungen En 9a; Span 7E Köh (für Ge)",
+         "info": "Kompetenzprüfungen En 9a; Ge 7E fällt aus",
          "geaendert": true
         },
         {
@@ -18743,7 +18718,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 7E Köh (für Ge)",
+         "info": "Ge 7E fällt aus",
          "geaendert": true
         },
         {
@@ -18751,7 +18726,7 @@
          "fach": "En",
          "klasse": "",
          "raum": "101",
-         "info": "Kompetenzprüfungen En 9a; Span 7E Köh (für Ge)",
+         "info": "Kompetenzprüfungen En 9a; Ge 7E fällt aus",
          "geaendert": true
         },
         {
@@ -19494,7 +19469,7 @@
    "tage": {
     "20260518": {
      "datum": "Montag, 18. Mai 2026",
-     "zeitstempel": "10.05.2026, 11:14",
+     "zeitstempel": "11.05.2026, 14:16",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -19697,27 +19672,11 @@
          "geaendert": true
         },
         {
-         "stunde": "3",
-         "fach": "Sk",
-         "klasse": "",
-         "raum": "Aula",
-         "info": "Klausur Sozialkunde 10a/10b; Sk 11A-11D Bod, Klausur, Aula",
-         "geaendert": true
-        },
-        {
          "stunde": "4",
          "fach": "sk3",
          "klasse": "11A-11D",
          "raum": "Aula",
          "info": "für Sk Bod, Klausur, Aula",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Sk",
-         "klasse": "",
-         "raum": "Aula",
-         "info": "Klausur Sozialkunde 10a/10b; Sk 11A-11D Bod, Klausur, Aula",
          "geaendert": true
         },
         {
@@ -19858,14 +19817,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Hof 1, WC, Container",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Ext 4": {
        "entries": [],
@@ -20248,17 +20200,17 @@
          "stunde": "3",
          "fach": "ILZ",
          "klasse": "10A",
-         "raum": "Aula",
-         "info": "für ILZ Hol, Klausur Sozialkunde in der Aula",
-         "geaendert": true
+         "raum": "Co2",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "4",
          "fach": "ILZ",
          "klasse": "10A",
-         "raum": "Aula",
-         "info": "für ILZ Hol, Klausur Sozialkunde in der Aula",
-         "geaendert": true
+         "raum": "Co2",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "7",
@@ -20633,67 +20585,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "ILZ 10B verlegt nach St.3, Klausur Sozialkunde in der Aula",
-         "geaendert": true
-        },
-        {
-         "stunde": "1",
-         "fach": "Ma",
+         "fach": "ILZ",
          "klasse": "10B",
          "raum": "Co1",
-         "info": "Ma 10B verlegt von St.3; ILZ 10B verlegt nach St.3, Klausur Sozialkunde in der Aula",
-         "geaendert": true
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "2",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "ILZ 10B verlegt nach St.4, Klausur Sozialkunde in der Aula",
-         "geaendert": true
+         "fach": "ILZ",
+         "klasse": "10B",
+         "raum": "Co1",
+         "info": "",
+         "geaendert": false
         },
         {
-         "stunde": "2",
+         "stunde": "3",
          "fach": "Ma",
          "klasse": "10B",
          "raum": "Co1",
-         "info": "Ma 10B verlegt von St.4; ILZ 10B verlegt nach St.4, Klausur Sozialkunde in der Aula",
-         "geaendert": true
-        },
-        {
-         "stunde": "3",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Ma 10B verlegt nach St.1",
-         "geaendert": true
-        },
-        {
-         "stunde": "3",
-         "fach": "ILZ",
-         "klasse": "10B",
-         "raum": "Aula",
-         "info": "ILZ 10B verlegt von St.1, Klausur Sozialkunde in der Aula; Ma 10B verlegt nach St.1",
-         "geaendert": true
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "4",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Ma 10B verlegt nach St.2",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "ILZ",
+         "fach": "Ma",
          "klasse": "10B",
-         "raum": "Aula",
-         "info": "ILZ 10B verlegt von St.2, Klausur Sozialkunde in der Aula; Ma 10B verlegt nach St.2",
-         "geaendert": true
+         "raum": "Co1",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "5",
@@ -20885,7 +20805,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof 1, WC, Container",
+         "info": ""
+        }
+       ]
       },
       "Pri": {
        "entries": [
@@ -21534,7 +21461,7 @@
     },
     "20260519": {
      "datum": "Dienstag, 19. Mai 2026",
-     "zeitstempel": "10.05.2026, 11:14",
+     "zeitstempel": "11.05.2026, 14:16",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23546,7 +23473,7 @@
     },
     "20260520": {
      "datum": "Mittwoch, 20. Mai 2026",
-     "zeitstempel": "10.05.2026, 11:14",
+     "zeitstempel": "11.05.2026, 14:16",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -25795,7 +25722,7 @@
     },
     "20260521": {
      "datum": "Donnerstag, 21. Mai 2026",
-     "zeitstempel": "10.05.2026, 11:14",
+     "zeitstempel": "11.05.2026, 14:16",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -26168,7 +26095,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof 1, WC, Container",
+         "info": ""
+        }
+       ]
       },
       "Ext 4": {
        "entries": [],
@@ -27319,14 +27253,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Hof 1, WC, Container",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Pri": {
        "entries": [
