@@ -1232,5 +1232,118 @@
    "Planänderung (Details nicht spezifiziert)"
   ],
   "zeitstempel": "11.05.2026, 08:59"
+ },
+ {
+  "timestamp": "2026-05-11T11:39:36.181332",
+  "lehrer": "Bir",
+  "datum": "Dienstag, 12. Mai 2026",
+  "date_key": "20260512",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "11.05.2026, 10:39"
+ },
+ {
+  "timestamp": "2026-05-11T11:39:36.181332",
+  "lehrer": "Fel",
+  "datum": "Dienstag, 12. Mai 2026",
+  "date_key": "20260512",
+  "changes": [
+   "Std 3 (09:40): für Span Fel",
+   "Std 4 (10:25): für Span Fel",
+   "Std 5 (11:40): für Span Köh",
+   "Std 6 (12:25): für Span Köh"
+  ],
+  "zeitstempel": "11.05.2026, 10:39"
+ },
+ {
+  "timestamp": "2026-05-11T11:39:36.181332",
+  "lehrer": "Gor",
+  "datum": "Dienstag, 12. Mai 2026",
+  "date_key": "20260512",
+  "changes": [
+   "Std 3 (09:40): GE2 12A-12E fällt aus",
+   "Std 4 (10:25): GE2 12A-12E fällt aus"
+  ],
+  "zeitstempel": "11.05.2026, 10:39"
+ },
+ {
+  "timestamp": "2026-05-11T11:39:36.181332",
+  "lehrer": "Hin",
+  "datum": "Dienstag, 12. Mai 2026",
+  "date_key": "20260512",
+  "changes": [
+   "Std 1 (07:40): B VK2 fällt aus",
+   "Std 2 (08:25): B VK2 fällt aus",
+   "Std 3 (09:40): für En Hofm",
+   "Std 4 (10:25): für En Hofm"
+  ],
+  "zeitstempel": "11.05.2026, 10:39"
+ },
+ {
+  "timestamp": "2026-05-11T11:39:36.181332",
+  "lehrer": "Jur",
+  "datum": "Dienstag, 12. Mai 2026",
+  "date_key": "20260512",
+  "changes": [
+   "Std 3 (09:40): für Phil Jur",
+   "Std 4 (10:25): für Phil Jur",
+   "Std 5 (11:40): DE2 12A-12E fällt aus",
+   "Std 6 (12:25): DE2 12A-12E fällt aus",
+   "Std 7 (13:40): für Phil Jur",
+   "Std 8 (14:25): für Phil Jur"
+  ],
+  "zeitstempel": "11.05.2026, 10:39"
+ },
+ {
+  "timestamp": "2026-05-11T11:39:36.181332",
+  "lehrer": "Köh",
+  "datum": "Dienstag, 12. Mai 2026",
+  "date_key": "20260512",
+  "changes": [
+   "Std 5 (11:40): für Span Köh",
+   "Std 6 (12:25): für Span Köh",
+   "Std 7 (13:40): Span 7C statt Mi (13.05.) St.1",
+   "Std 8 (14:25): Span 7C statt Mi (13.05.) St.2"
+  ],
+  "zeitstempel": "11.05.2026, 10:39"
+ },
+ {
+  "timestamp": "2026-05-11T11:39:36.181332",
+  "lehrer": "OLop",
+  "datum": "Dienstag, 12. Mai 2026",
+  "date_key": "20260512",
+  "changes": [
+   "Std 1 (07:40): span1 12A-12E fällt aus",
+   "Std 1 (07:40): für De Ter",
+   "Std 2 (08:25): span1 12A-12E fällt aus",
+   "Std 2 (08:25): für De Ter",
+   "Std 3 (09:40): Aufsicht über Vorbereitung der Kompetenzprüfungen",
+   "Std 4 (10:25): Aufsicht über Vorbereitung der Kompetenzprüfungen",
+   "Std 5 (11:40): für Span OLop",
+   "Std 6 (12:25): für Span OLop"
+  ],
+  "zeitstempel": "11.05.2026, 10:39"
+ },
+ {
+  "timestamp": "2026-05-11T11:39:36.181332",
+  "lehrer": "Puk",
+  "datum": "Dienstag, 12. Mai 2026",
+  "date_key": "20260512",
+  "changes": [
+   "Std 5 (11:40): für Span Puk",
+   "Std 6 (12:25): für Span Puk"
+  ],
+  "zeitstempel": "11.05.2026, 10:39"
+ },
+ {
+  "timestamp": "2026-05-11T11:39:36.181332",
+  "lehrer": "Wag",
+  "datum": "Dienstag, 12. Mai 2026",
+  "date_key": "20260512",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "11.05.2026, 10:39"
  }
 ]

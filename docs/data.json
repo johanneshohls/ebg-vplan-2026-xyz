@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "11.05.2026, 08:22 Uhr",
- "last_changed": "2026-05-11T08:59:00",
+ "generiert": "11.05.2026, 11:39 Uhr",
+ "last_changed": "2026-05-11T10:39:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14181,7 +14181,7 @@
     },
     "20260512": {
      "datum": "Dienstag, 12. Mai 2026",
-     "zeitstempel": "11.05.2026, 08:59",
+     "zeitstempel": "11.05.2026, 10:39",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -14250,22 +14250,6 @@
       },
       "Bir": {
        "entries": [
-        {
-         "stunde": "5",
-         "fach": "Mu",
-         "klasse": "",
-         "raum": "107",
-         "info": "Musizieren mit Teilungsgruppe Span8 ",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Mu",
-         "klasse": "",
-         "raum": "107",
-         "info": "Musizieren mit Teilungsgruppe Span8 ",
-         "geaendert": true
-        },
         {
          "stunde": "7",
          "fach": "Mu",
@@ -14399,7 +14383,7 @@
          "vor_stunde": "1",
          "uhrzeit": "07:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": "entfällt, V: Hin"
+         "info": "entfällt, V: Kno"
         }
        ]
       },
@@ -14582,114 +14566,50 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 8B Hin",
-         "geaendert": true
-        },
-        {
-         "stunde": "1",
          "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b; En 8B Hin",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 8B Hin",
-         "geaendert": true
+         "klasse": "8B",
+         "raum": "006",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "2",
          "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b; En 8B Hin",
-         "geaendert": true
+         "klasse": "8B",
+         "raum": "006",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "3",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Span 11A-11D selbst. (v), Selbststudium",
-         "geaendert": true
-        },
-        {
-         "stunde": "3",
-         "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b; Span 11A-11D selbst. (v), Selbststudium",
+         "fach": "span1",
+         "klasse": "11A-11D",
+         "raum": "Co3",
+         "info": "für Span Fel",
          "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Span 11A-11D selbst. (v), Selbststudium",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b; Span 11A-11D selbst. (v), Selbststudium",
+         "fach": "span1",
+         "klasse": "11A-11D",
+         "raum": "Co3",
+         "info": "für Span Fel",
          "geaendert": true
         },
         {
          "stunde": "5",
          "fach": "Span",
          "klasse": "8B",
-         "raum": "006",
-         "info": "für Span Köh, Teilungsgruppe von Fel zu Bir 107 Mu",
-         "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b; Span 8B Köh, Teilungsgruppe von Fel zu Bir 107 Mu",
+         "raum": "006 K07",
+         "info": "für Span Köh",
          "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Span",
          "klasse": "8B",
-         "raum": "006",
-         "info": "für Span Köh, Teilungsgruppe von Fel zu Bir 107 Mu",
-         "geaendert": false
-        },
-        {
-         "stunde": "6",
-         "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b; Span 8B Köh, Teilungsgruppe von Fel zu Bir 107 Mu",
-         "geaendert": true
-        },
-        {
-         "stunde": "7",
-         "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b",
+         "raum": "006 K07",
+         "info": "für Span Köh",
          "geaendert": true
         }
        ],
@@ -14880,27 +14800,11 @@
          "geaendert": true
         },
         {
-         "stunde": "3",
-         "fach": "En",
-         "klasse": "9A",
-         "raum": "Co3",
-         "info": "für En Wag, Aufsicht, Aufgaben durch Frau Wagner erteilt",
-         "geaendert": true
-        },
-        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "GE2 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "En",
-         "klasse": "9A",
-         "raum": "Co3",
-         "info": "für En Wag, Aufsicht, Aufgaben durch Frau Wagner erteilt",
          "geaendert": true
         }
        ],
@@ -15060,27 +14964,11 @@
          "geaendert": true
         },
         {
-         "stunde": "1",
-         "fach": "En",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "für En Fel",
-         "geaendert": true
-        },
-        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "B VK2 fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "En",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "für En Fel",
          "geaendert": true
         },
         {
@@ -15100,14 +14988,7 @@
          "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "1",
-         "uhrzeit": "07:10",
-         "ort": "Haus, WCs, Caféteria",
-         "info": "für Bod"
-        }
-       ]
+       "aufsichten": []
       },
       "Hofm": {
        "entries": [
@@ -15575,27 +15456,11 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
-         "fach": "Fr",
-         "klasse": "9A",
-         "raum": "K07",
-         "info": "für Fr Wag, Aufgaben durch Frau Wagner erteilt. Aufsicht",
-         "geaendert": true
-        },
-        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "DE2 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Fr",
-         "klasse": "9A",
-         "raum": "K07",
-         "info": "für Fr Wag, Aufgaben durch Frau Wagner erteilt, Aufsicht",
          "geaendert": true
         },
         {
@@ -15688,7 +15553,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "1",
+         "uhrzeit": "07:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Bod"
+        }
+       ]
       },
       "Köh": {
        "entries": [
@@ -15712,17 +15584,17 @@
          "stunde": "5",
          "fach": "Span",
          "klasse": "8B",
-         "raum": "006",
-         "info": "für Span Köh, Teilungsgruppe von Fel zu Bir 107 Mu",
-         "geaendert": false
+         "raum": "006 K07",
+         "info": "für Span Köh",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Span",
          "klasse": "8B",
-         "raum": "006",
-         "info": "für Span Köh, Teilungsgruppe von Fel zu Bir 107 Mu",
-         "geaendert": false
+         "raum": "006 K07",
+         "info": "für Span Köh",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -16088,7 +15960,7 @@
          "fach": "Span",
          "klasse": "8C",
          "raum": "007",
-         "info": "für Span OLop, Teilungsgruppe von Fel zu Bir 107 Mu",
+         "info": "für Span OLop",
          "geaendert": false
         },
         {
@@ -16096,7 +15968,7 @@
          "fach": "Span",
          "klasse": "8C",
          "raum": "007",
-         "info": "für Span OLop, Teilungsgruppe von Fel zu Bir 107 Mu",
+         "info": "für Span OLop",
          "geaendert": false
         }
        ],
@@ -16302,7 +16174,7 @@
          "fach": "Span",
          "klasse": "8D",
          "raum": "Co3",
-         "info": "für Span Puk, Teilungsgruppe von Fel zu Bir 107 Mu",
+         "info": "für Span Puk",
          "geaendert": true
         },
         {
@@ -16310,7 +16182,7 @@
          "fach": "Span",
          "klasse": "8D",
          "raum": "Co3",
-         "info": "für Span Puk, Teilungsgruppe von Fel zu Bir 107 Mu",
+         "info": "für Span Puk",
          "geaendert": true
         }
        ],
@@ -16985,115 +16857,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 11A-11D selbst. (v), Selbststudium, Frau Wagner erteilt Aufgaben",
-         "geaendert": true
-        },
-        {
-         "stunde": "1",
-         "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b; En 11A-11D selbst. (v), Selbststudium, Frau Wagner erteilt Aufgaben",
-         "geaendert": true
+         "fach": "EN1",
+         "klasse": "11A-11D",
+         "raum": "Co1",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "2",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 11A-11D selbst. (v), Selbststudium, Frau Wagner erteilt Aufgaben",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b; En 11A-11D selbst. (v), Selbststudium, Frau Wagner erteilt Aufgaben",
-         "geaendert": true
-        },
-        {
-         "stunde": "3",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 9A Gor, Aufsicht, Aufgaben durch Frau Wagner erteilt",
-         "geaendert": true
+         "fach": "EN1",
+         "klasse": "11A-11D",
+         "raum": "Co1",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "3",
          "fach": "En",
-         "klasse": "",
+         "klasse": "9A",
          "raum": "104",
-         "info": "Kompetenzprüfungen 10b; En 9A Gor, Aufsicht, Aufgaben durch Frau Wagner erteilt",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 9A Gor, Aufsicht, Aufgaben durch Frau Wagner erteilt",
-         "geaendert": true
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "4",
          "fach": "En",
-         "klasse": "",
+         "klasse": "9A",
          "raum": "104",
-         "info": "Kompetenzprüfungen 10b; En 9A Gor, Aufsicht, Aufgaben durch Frau Wagner erteilt",
-         "geaendert": true
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Fr 9A Jur, Aufgaben durch Frau Wagner erteilt. Aufsicht",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "En",
-         "klasse": "",
+         "fach": "Fr",
+         "klasse": "9A",
          "raum": "104",
-         "info": "Kompetenzprüfungen 10b; Fr 9A Jur, Aufgaben durch Frau Wagner erteilt. Aufsicht",
-         "geaendert": true
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Fr 9A Jur, Aufgaben durch Frau Wagner erteilt, Aufsicht",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "En",
-         "klasse": "",
+         "fach": "Fr",
+         "klasse": "9A",
          "raum": "104",
-         "info": "Kompetenzprüfungen 10b; Fr 9A Jur, Aufgaben durch Frau Wagner erteilt, Aufsicht",
-         "geaendert": true
-        },
-        {
-         "stunde": "7",
-         "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "En",
-         "klasse": "",
-         "raum": "104",
-         "info": "Kompetenzprüfungen 10b",
-         "geaendert": true
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": [
