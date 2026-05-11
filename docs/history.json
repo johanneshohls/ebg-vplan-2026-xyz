@@ -1205,5 +1205,32 @@
    "Std 6 (12:25): für Ge Pri"
   ],
   "zeitstempel": "10.05.2026, 20:04"
+ },
+ {
+  "timestamp": "2026-05-11T08:22:29.702505",
+  "lehrer": "Bob",
+  "datum": "Dienstag, 12. Mai 2026",
+  "date_key": "20260512",
+  "changes": [
+   "Std 1 (07:40): für Ph Bob",
+   "Std 2 (08:25): für Ph Bob",
+   "Std 3 (09:40): für Ch Bob",
+   "Std 4 (10:25): für Ch Bob",
+   "Std 5 (11:40): für Ch Bob",
+   "Std 6 (12:25): für Ch Bob",
+   "Std 7 (13:40): Aufsicht über Vorbereitung der Kompetenzprüfungen",
+   "Std 8 (14:25): Aufsicht über Vorbereitung der Kompetenzprüfungen"
+  ],
+  "zeitstempel": "11.05.2026, 08:59"
+ },
+ {
+  "timestamp": "2026-05-11T08:22:29.702505",
+  "lehrer": "Kar",
+  "datum": "Dienstag, 12. Mai 2026",
+  "date_key": "20260512",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "11.05.2026, 08:59"
  }
 ]
