@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "12.05.2026, 12:16 Uhr",
- "last_changed": "2026-05-12T10:31:00",
+ "generiert": "12.05.2026, 15:09 Uhr",
+ "last_changed": "2026-05-12T14:32:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16901,7 +16901,7 @@
     },
     "20260513": {
      "datum": "Mittwoch, 13. Mai 2026",
-     "zeitstempel": "12.05.2026, 10:31",
+     "zeitstempel": "12.05.2026, 14:32",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17036,35 +17036,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "Mu",
-         "klasse": "7C",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7C Köh (für Mu)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Mu",
-         "klasse": "7C",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7C Köh (für Mu)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "GS06",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS06 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS06",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS06 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "9",
@@ -17088,7 +17088,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Köh"
         }
        ]
       },
@@ -17423,19 +17423,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "En",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8D Jur, Aufsicht, Fr. Feldhusen erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "En",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8D Jur, Aufsicht, Fr. Feldhusen erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -17447,21 +17447,14 @@
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9C OLop, Aufsicht: Arbeit an Projekt",
+         "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Essenraum und Keller",
-         "info": "für Köh"
-        }
-       ]
+       "aufsichten": []
       },
       "Fer": {
        "entries": [],
@@ -17901,19 +17894,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "EN2",
-         "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11A-11D selbst. (v), Selbststudium, Fr. Hollatz erteilt Aufgaben, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "EN2",
-         "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11A-11D selbst. (v), Selbststudium, Fr. Hollatz erteilt Aufgaben, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -18016,6 +18009,22 @@
          "raum": "002",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "8D",
+         "raum": "103",
+         "info": "für En Fel, Aufsicht, Fr. Feldhusen erteilt Aufgaben",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "8D",
+         "raum": "103",
+         "info": "für En Fel, Aufsicht, Fr. Feldhusen erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -18167,11 +18176,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Span",
+         "klasse": "7C",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Span 9B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Span",
+         "klasse": "7C",
+         "raum": "107",
+         "info": "für Mu Bir",
          "geaendert": true
         },
         {
@@ -18196,7 +18221,13 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Essenraum und Keller",
-         "info": "entfällt, V: Fel"
+         "info": "entfällt, V: Schil"
+        },
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Bir"
         }
        ]
       },
@@ -18574,6 +18605,14 @@
          "klasse": "",
          "raum": "",
          "info": "Span 9B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Span",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "für Span Fel, Aufsicht: Arbeit an Projekt",
          "geaendert": true
         },
         {
@@ -19012,6 +19051,12 @@
          "uhrzeit": "09:10",
          "ort": "Hof 1, WC, Container",
          "info": "entfällt, V: Wag"
+        },
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Essenraum und Keller",
+         "info": "für Köh"
         }
        ]
       },
