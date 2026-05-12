@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "11.05.2026, 22:36 Uhr",
- "last_changed": "2026-05-11T14:16:00",
+ "generiert": "12.05.2026, 07:40 Uhr",
+ "last_changed": "2026-05-12T08:26:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14181,7 +14181,7 @@
     },
     "20260512": {
      "datum": "Dienstag, 12. Mai 2026",
-     "zeitstempel": "11.05.2026, 14:16",
+     "zeitstempel": "12.05.2026, 08:26",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -14925,22 +14925,6 @@
          "klasse": "7A",
          "raum": "105",
          "info": "für Bio Fla",
-         "geaendert": true
-        },
-        {
-         "stunde": "7",
-         "fach": "Bio",
-         "klasse": "",
-         "raum": "K12",
-         "info": "Aufsicht: Abitur Biologie Praxis",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Bio",
-         "klasse": "",
-         "raum": "K12",
-         "info": "Aufsicht: Abitur Biologie Praxis",
          "geaendert": true
         }
        ],
@@ -16917,7 +16901,7 @@
     },
     "20260513": {
      "datum": "Mittwoch, 13. Mai 2026",
-     "zeitstempel": "11.05.2026, 14:16",
+     "zeitstempel": "12.05.2026, 08:26",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -19035,7 +19019,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Hof 1, WC, Container",
-         "info": ""
+         "info": "entfällt, V: Wag"
         }
        ]
       },
@@ -19456,7 +19440,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof 1, WC, Container",
+         "info": "für Schil"
+        }
+       ]
       }
      }
     }
