@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "12.05.2026, 15:09 Uhr",
- "last_changed": "2026-05-12T14:32:00",
+ "generiert": "12.05.2026, 17:20 Uhr",
+ "last_changed": "2026-05-12T17:24:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16901,7 +16901,7 @@
     },
     "20260513": {
      "datum": "Mittwoch, 13. Mai 2026",
-     "zeitstempel": "12.05.2026, 14:32",
+     "zeitstempel": "12.05.2026, 17:24",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17775,7 +17775,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 9D Puk (für Phil)",
+         "info": "Phil 9D Lan, Aufsicht: Stundenarbit von Fr. Hofmann auf Note + Nachschreiber Geo von Fr. Schilling",
          "geaendert": true
         },
         {
@@ -17783,7 +17783,7 @@
          "fach": "En",
          "klasse": "",
          "raum": "101",
-         "info": "Kompetenzprüfungen En 9a; Span 9D Puk (für Phil)",
+         "info": "Kompetenzprüfungen En 9a; Phil 9D Lan, Aufsicht: Stundenarbit von Fr. Hofmann auf Note + Nachschreiber Geo von Fr. Schilling",
          "geaendert": true
         },
         {
@@ -17791,7 +17791,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 9D Puk (für Phil)",
+         "info": "Phil 9D Lan, Aufsicht: Stundenarbit von Fr. Hofmann auf Note + Nachschreiber Geo von Fr. Schilling",
          "geaendert": true
         },
         {
@@ -17799,7 +17799,7 @@
          "fach": "En",
          "klasse": "",
          "raum": "101",
-         "info": "Kompetenzprüfungen En 9a; Span 9D Puk (für Phil)",
+         "info": "Kompetenzprüfungen En 9a; Phil 9D Lan, Aufsicht: Stundenarbit von Fr. Hofmann auf Note + Nachschreiber Geo von Fr. Schilling",
          "geaendert": true
         },
         {
@@ -17885,6 +17885,22 @@
          "klasse": "7D",
          "raum": "204",
          "info": "für Ph Hoh",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Span",
+         "klasse": "9D",
+         "raum": "Co1",
+         "info": "für Span Puk, Aufsicht: Stundenarbeit von Fr. Pukrop",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Span",
+         "klasse": "9D",
+         "raum": "Co1",
+         "info": "für Span Puk, Aufsicht: Stundenarbeit von Fr. Pukrop",
          "geaendert": true
         }
        ],
@@ -18279,11 +18295,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Phil",
+         "klasse": "9D",
+         "raum": "Co1",
+         "info": "für Phil Hofm, Aufsicht: Stundenarbit von Fr. Hofmann auf Note + Nachschreiber Geo von Fr. Schilling",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "w2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Phil",
+         "klasse": "9D",
+         "raum": "Co1",
+         "info": "für Phil Hofm, Aufsicht: Stundenarbit von Fr. Hofmann auf Note + Nachschreiber Geo von Fr. Schilling",
          "geaendert": true
         },
         {
@@ -18766,36 +18798,20 @@
       "Puk": {
        "entries": [
         {
-         "stunde": "3",
-         "fach": "Span",
-         "klasse": "9D",
-         "raum": "Co1",
-         "info": "für Phil Hofm",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Span",
-         "klasse": "9D",
-         "raum": "Co1",
-         "info": "für Phil Hofm",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9D Hoh, Aufsicht: Stundenarbeit von Fr. Pukrop",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9D Hoh, Aufsicht: Stundenarbeit von Fr. Pukrop",
+         "geaendert": true
         }
        ],
        "aufsichten": []
