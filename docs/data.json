@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "12.05.2026, 07:40 Uhr",
- "last_changed": "2026-05-12T08:26:00",
+ "generiert": "12.05.2026, 10:13 Uhr",
+ "last_changed": "2026-05-12T10:31:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16901,7 +16901,7 @@
     },
     "20260513": {
      "datum": "Mittwoch, 13. Mai 2026",
-     "zeitstempel": "12.05.2026, 08:26",
+     "zeitstempel": "12.05.2026, 10:31",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17422,22 +17422,6 @@
       "Fel": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "En",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "für En Hofm",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "En",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "für En Hofm",
-         "geaendert": true
-        },
-        {
          "stunde": "3",
          "fach": "En",
          "klasse": "8D",
@@ -17455,11 +17439,11 @@
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9C OLop, Aufsicht: Arbeit an Projekt",
+         "geaendert": true
         },
         {
          "stunde": "6",
@@ -17766,7 +17750,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 7B Fel",
+         "info": "En 7B Schuc, Test von Frau Hofmann schreiben lassen, Aufsicht",
          "geaendert": true
         },
         {
@@ -17774,7 +17758,7 @@
          "fach": "En",
          "klasse": "",
          "raum": "101",
-         "info": "Kompetenzprüfungen En 9a; En 7B Fel",
+         "info": "Kompetenzprüfungen En 9a; En 7B Schuc, Test von Frau Hofmann schreiben lassen, Aufsicht",
          "geaendert": true
         },
         {
@@ -17782,7 +17766,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 7B Fel",
+         "info": "En 7B Schuc, Test von Frau Hofmann schreiben lassen, Aufsicht",
          "geaendert": true
         },
         {
@@ -17790,7 +17774,7 @@
          "fach": "En",
          "klasse": "",
          "raum": "101",
-         "info": "Kompetenzprüfungen En 9a; En 7B Fel",
+         "info": "Kompetenzprüfungen En 9a; En 7B Schuc, Test von Frau Hofmann schreiben lassen, Aufsicht",
          "geaendert": true
         },
         {
@@ -18577,6 +18561,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Span",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "für Span Fel, Aufsicht: Arbeit an Projekt",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -19034,11 +19026,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "En",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für En Hofm, Test von Frau Hofmann schreiben lassen, Aufsicht",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "phil2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "En",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für En Hofm, Test von Frau Hofmann schreiben lassen, Aufsicht",
          "geaendert": true
         },
         {
