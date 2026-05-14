@@ -1,48 +1,5 @@
 [
  {
-  "timestamp": "2026-05-07T17:59:15.851955",
-  "lehrer": "Hin",
-  "datum": "Freitag, 08. Mai 2026",
-  "date_key": "20260508",
-  "changes": [
-   "Std 3 (09:40): statt Di (05.05.) St.3 (Fr Wag)",
-   "Std 4 (10:25): statt Di (05.05.) St.4 (Fr Wag)",
-   "Std 5 (11:40): für En Pri",
-   "Std 6 (12:25): für En Pri"
-  ],
-  "zeitstempel": "07.05.2026, 18:34"
- },
- {
-  "timestamp": "2026-05-07T17:59:15.851955",
-  "lehrer": "Pri",
-  "datum": "Freitag, 08. Mai 2026",
-  "date_key": "20260508",
-  "changes": [
-   "Std 5 (11:40): De 9B Hin (für En)",
-   "Std 6 (12:25): De 9B Hin (für En)",
-   "Std 7 (13:40): GS15 7A-7E,8A-8D fällt aus",
-   "Std 8 (14:25): GS15 7A-7E,8A-8D fällt aus",
-   "Std 9 (15:40): GS15 7A-7E,8A-8D fällt aus",
-   "Std 10 (16:25): GS15 7A-7E,8A-8D fällt aus"
-  ],
-  "zeitstempel": "07.05.2026, 18:34"
- },
- {
-  "timestamp": "2026-05-07T17:59:15.851955",
-  "lehrer": "Wag",
-  "datum": "Freitag, 08. Mai 2026",
-  "date_key": "20260508",
-  "changes": [
-   "Std 1 (07:40): en1 12A-12E fällt aus",
-   "Std 2 (08:25): en1 12A-12E fällt aus",
-   "Std 3 (09:40): ILZ 9A gehalten am Di (05.05.) St.3",
-   "Std 4 (10:25): ILZ 9A gehalten am Di (05.05.) St.4, Präventionsprojekt",
-   "Std 7 (13:40): En 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
-   "Std 8 (14:25): En 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden"
-  ],
-  "zeitstempel": "07.05.2026, 18:34"
- },
- {
   "timestamp": "2026-05-10T14:41:18.801979",
   "lehrer": "Eul",
   "datum": "Montag, 11. Mai 2026",
