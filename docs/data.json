@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "17.05.2026, 16:10 Uhr",
- "last_changed": "2026-05-16T23:26:00",
+ "generiert": "17.05.2026, 17:11 Uhr",
+ "last_changed": "2026-05-17T18:51:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -19529,7 +19529,7 @@
    "tage": {
     "20260518": {
      "datum": "Montag, 18. Mai 2026",
-     "zeitstempel": "16.05.2026, 23:26",
+     "zeitstempel": "17.05.2026, 18:51",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -19582,11 +19582,27 @@
          "geaendert": true
         },
         {
+         "stunde": "7",
+         "fach": "Ma",
+         "klasse": "10B",
+         "raum": "Co1",
+         "info": "verlegt von St.3 (Ma Leu), Aufsicht: Herr Leußner erteilt Aufgaben.; mue1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "8",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "mue1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Ma",
+         "klasse": "10B",
+         "raum": "Co1",
+         "info": "verlegt von St.4 (Ma Leu), Aufsicht: Herr Leußner erteilt Aufgaben.; mue1 12A-12E fällt aus",
          "geaendert": true
         }
        ],
@@ -20073,17 +20089,17 @@
          "stunde": "5",
          "fach": "bo3",
          "klasse": "11A-11D",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "raum": "K07 K09",
+         "info": "für BO Her, ebenfalls frei: K10, 003",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "bo3",
          "klasse": "11A-11D",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "raum": "K07 K09",
+         "info": "für BO Her, ebenfalls frei: K10, 003",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -20419,17 +20435,17 @@
          "stunde": "1",
          "fach": "En",
          "klasse": "10C",
-         "raum": "004",
+         "raum": "004 002",
          "info": "für En Isb",
-         "geaendert": false
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "En",
          "klasse": "10C",
-         "raum": "004",
+         "raum": "004 002",
          "info": "für En Isb",
-         "geaendert": false
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20476,17 +20492,17 @@
          "stunde": "5",
          "fach": "Phil",
          "klasse": "10C",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1",
+         "info": "für Phil Jur",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Phil",
          "klasse": "10C",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1",
+         "info": "für Phil Jur",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -20687,32 +20703,39 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "erst Haus, dann Hof2+GKLZ",
+         "info": "für Leu"
+        }
+       ]
       },
       "Leu": {
        "entries": [
         {
          "stunde": "1",
-         "fach": "ILZ",
-         "klasse": "10B",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10B selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "ILZ",
-         "klasse": "10B",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10B selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 10B verlegt nach St.7",
+         "info": "Ma 10B verlegt nach St.7 (Bir), Aufsicht: Herr Leußner erteilt Aufgaben.",
          "geaendert": true
         },
         {
@@ -20720,39 +20743,23 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 10B verlegt nach St.8",
+         "info": "Ma 10B verlegt nach St.8 (Bir), Aufsicht: Herr Leußner erteilt Aufgaben.",
          "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Ma",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "6",
-         "fach": "Ma",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "Ma",
-         "klasse": "10B",
-         "raum": "Co1",
-         "info": "Ma 10B verlegt von St.3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10A Sta, Herr Leußner erteilt Aufgaben.",
          "geaendert": true
         },
         {
-         "stunde": "8",
-         "fach": "Ma",
-         "klasse": "10B",
-         "raum": "Co1",
-         "info": "Ma 10B verlegt von St.4",
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10A Sta, Herr Leußner erteilt Aufgaben",
          "geaendert": true
         }
        ],
@@ -20761,7 +20768,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "erst Haus, dann Hof2+GKLZ",
-         "info": ""
+         "info": "entfällt, V: Lan"
         }
        ]
       },
@@ -20773,18 +20780,18 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 10C Isb",
+         "fach": "En",
+         "klasse": "10C",
+         "raum": "004 002",
+         "info": "für En Isb",
          "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 10C Isb",
+         "fach": "En",
+         "klasse": "10C",
+         "raum": "004 002",
+         "info": "für En Isb",
          "geaendert": true
         },
         {
@@ -21328,6 +21335,22 @@
          "geaendert": false
         },
         {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "10A",
+         "raum": "Co2",
+         "info": "für Ma Leu, Herr Leußner erteilt Aufgaben.",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "10A",
+         "raum": "Co2",
+         "info": "für Ma Leu, Herr Leußner erteilt Aufgaben",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "Ma",
          "klasse": "7C",
@@ -21655,7 +21678,7 @@
     },
     "20260519": {
      "datum": "Dienstag, 19. Mai 2026",
-     "zeitstempel": "16.05.2026, 23:26",
+     "zeitstempel": "17.05.2026, 18:51",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23667,7 +23690,7 @@
     },
     "20260520": {
      "datum": "Mittwoch, 20. Mai 2026",
-     "zeitstempel": "16.05.2026, 23:26",
+     "zeitstempel": "17.05.2026, 18:51",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -25997,7 +26020,7 @@
     },
     "20260521": {
      "datum": "Donnerstag, 21. Mai 2026",
-     "zeitstempel": "16.05.2026, 23:26",
+     "zeitstempel": "17.05.2026, 18:51",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -26617,7 +26640,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Essenraum und Keller",
+         "info": "für Hön"
+        }
+       ]
       },
       "Her": {
        "entries": [
@@ -26625,17 +26655,17 @@
          "stunde": "3",
          "fach": "bo2",
          "klasse": "11A-11D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "raum": "104 102",
+         "info": "für BO Her, ebenfalls frei: 103, 106",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "bo2",
          "klasse": "11A-11D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "raum": "104 102",
+         "info": "für BO Her, ebenfalls frei: 103, 106",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -26775,17 +26805,17 @@
          "stunde": "3",
          "fach": "Ma",
          "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Ma Hoh",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Ma",
          "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Ma Hoh",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -26970,7 +27000,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Essenraum und Keller",
-         "info": ""
+         "info": "entfällt, V: Hei"
         }
        ]
       },
@@ -27500,11 +27530,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Span",
+         "klasse": "",
+         "raum": "007",
+         "info": "Spanisch Teilung Kl. 8 (8c fehlt); Span 8C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Span 8C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Span",
+         "klasse": "",
+         "raum": "007",
+         "info": "Spanisch Teilung Kl. 8 (8c fehlt); Span 8C fällt aus",
          "geaendert": true
         }
        ],
@@ -27702,17 +27748,17 @@
          "stunde": "3",
          "fach": "Span",
          "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Span Puk",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Span",
          "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Span Puk",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -27881,7 +27927,7 @@
          "stunde": "3",
          "fach": "ILZ",
          "klasse": "9B",
-         "raum": "102",
+         "raum": "207",
          "info": "ILZ 9B statt Mo (18.05.) St.3",
          "geaendert": true
         },
@@ -27889,7 +27935,7 @@
          "stunde": "4",
          "fach": "ILZ",
          "klasse": "9B",
-         "raum": "102",
+         "raum": "207",
          "info": "ILZ 9B statt Mo (18.05.) St.4",
          "geaendert": true
         },
