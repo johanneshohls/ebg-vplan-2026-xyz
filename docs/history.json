@@ -1,32 +1,5 @@
 [
  {
-  "timestamp": "2026-05-11T08:22:29.702505",
-  "lehrer": "Bob",
-  "datum": "Dienstag, 12. Mai 2026",
-  "date_key": "20260512",
-  "changes": [
-   "Std 1 (07:40): für Ph Bob",
-   "Std 2 (08:25): für Ph Bob",
-   "Std 3 (09:40): für Ch Bob",
-   "Std 4 (10:25): für Ch Bob",
-   "Std 5 (11:40): für Ch Bob",
-   "Std 6 (12:25): für Ch Bob",
-   "Std 7 (13:40): Aufsicht über Vorbereitung der Kompetenzprüfungen",
-   "Std 8 (14:25): Aufsicht über Vorbereitung der Kompetenzprüfungen"
-  ],
-  "zeitstempel": "11.05.2026, 08:59"
- },
- {
-  "timestamp": "2026-05-11T08:22:29.702505",
-  "lehrer": "Kar",
-  "datum": "Dienstag, 12. Mai 2026",
-  "date_key": "20260512",
-  "changes": [
-   "Planänderung (Details nicht spezifiziert)"
-  ],
-  "zeitstempel": "11.05.2026, 08:59"
- },
- {
   "timestamp": "2026-05-11T11:39:36.181332",
   "lehrer": "Bir",
   "datum": "Dienstag, 12. Mai 2026",
@@ -1104,5 +1077,47 @@
    "Std 4 (10:25): ILZ 9B statt Mo (18.05.) St.4"
   ],
   "zeitstempel": "17.05.2026, 18:51"
+ },
+ {
+  "timestamp": "2026-05-18T08:42:07.683846",
+  "lehrer": "Bar",
+  "datum": "Montag, 18. Mai 2026",
+  "date_key": "20260518",
+  "changes": [
+   "Std 1 (07:40): für Span Köh"
+  ],
+  "zeitstempel": "18.05.2026, 09:18"
+ },
+ {
+  "timestamp": "2026-05-18T08:42:07.683846",
+  "lehrer": "Köh",
+  "datum": "Montag, 18. Mai 2026",
+  "date_key": "20260518",
+  "changes": [
+   "Std 1 (07:40): Span 7C Bar"
+  ],
+  "zeitstempel": "18.05.2026, 09:18"
+ },
+ {
+  "timestamp": "2026-05-18T08:42:07.683846",
+  "lehrer": "Ost",
+  "datum": "Montag, 18. Mai 2026",
+  "date_key": "20260518",
+  "changes": [
+   "Std 3 (09:40): für De Tie",
+   "Std 4 (10:25): für De Tie"
+  ],
+  "zeitstempel": "18.05.2026, 09:18"
+ },
+ {
+  "timestamp": "2026-05-18T08:42:07.683846",
+  "lehrer": "Tie",
+  "datum": "Montag, 18. Mai 2026",
+  "date_key": "20260518",
+  "changes": [
+   "Std 3 (09:40): De 9A Ost",
+   "Std 4 (10:25): De 9A Ost"
+  ],
+  "zeitstempel": "18.05.2026, 09:18"
  }
 ]
