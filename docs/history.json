@@ -927,5 +927,63 @@
    "Planänderung (Details nicht spezifiziert)"
   ],
   "zeitstempel": "19.05.2026, 12:47"
+ },
+ {
+  "timestamp": "2026-05-19T14:13:21.682299",
+  "lehrer": "Bar",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 1 (07:40): UV, wir machen unser Ding",
+   "Std 2 (08:25): UV, wir machen unser Ding"
+  ],
+  "zeitstempel": "19.05.2026, 15:09"
+ },
+ {
+  "timestamp": "2026-05-19T14:13:21.682299",
+  "lehrer": "Bri",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 1 (07:40): UV, wir machen unser Ding",
+   "Std 2 (08:25): UV, wir machen unser Ding",
+   "Std 5 (11:40): für Ma Bri, Klausur, Aula",
+   "Std 6 (12:25): für Ma Bri, Klausur, Aula"
+  ],
+  "zeitstempel": "19.05.2026, 15:09"
+ },
+ {
+  "timestamp": "2026-05-19T14:13:21.682299",
+  "lehrer": "Isb",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "19.05.2026, 15:09"
+ },
+ {
+  "timestamp": "2026-05-19T14:13:21.682299",
+  "lehrer": "Mar",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 1 (07:40): En 7C statt Mi (20.05.) St.1",
+   "Std 2 (08:25): En 7C statt Mi (20.05.) St.2"
+  ],
+  "zeitstempel": "19.05.2026, 15:09"
+ },
+ {
+  "timestamp": "2026-05-19T14:13:21.682299",
+  "lehrer": "See",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 1 (07:40): UV, wir machen unser Ding",
+   "Std 2 (08:25): UV, wir machen unser Ding",
+   "Std 3 (09:40): BIO1 12A-12E fällt aus",
+   "Std 4 (10:25): BIO1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "19.05.2026, 15:09"
  }
 ]
