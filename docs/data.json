@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "19.05.2026, 08:24 Uhr",
- "last_changed": "2026-05-19T10:07:00",
+ "generiert": "19.05.2026, 11:35 Uhr",
+ "last_changed": "2026-05-19T12:47:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -11930,7 +11930,7 @@
     },
     "20260520": {
      "datum": "Mittwoch, 20. Mai 2026",
-     "zeitstempel": "19.05.2026, 10:07",
+     "zeitstempel": "19.05.2026, 12:47",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -12243,6 +12243,22 @@
       },
       "Bri": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Nachschrift",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Nachschrift",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "---",
@@ -13178,7 +13194,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Hof 1, WC, Container",
-         "info": "entfällt, V: Schil"
+         "info": ""
         }
        ]
       },
@@ -13860,14 +13876,7 @@
          "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Hof 1, WC, Container",
-         "info": "für Köh"
-        }
-       ]
+       "aufsichten": []
       },
       "Schuc": {
        "entries": [
@@ -14260,7 +14269,7 @@
     },
     "20260521": {
      "datum": "Donnerstag, 21. Mai 2026",
-     "zeitstempel": "19.05.2026, 10:07",
+     "zeitstempel": "19.05.2026, 12:47",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -14279,22 +14288,6 @@
          "raum": "K10",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Hospitation Fr. Müchler",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Hospitation Fr. Müchler",
-         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16608,7 +16601,7 @@
    "tage": {
     "20260527": {
      "datum": "Mittwoch, 27. Mai 2026",
-     "zeitstempel": "19.05.2026, 10:07",
+     "zeitstempel": "19.05.2026, 12:47",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -18932,7 +18925,7 @@
     },
     "20260528": {
      "datum": "Donnerstag, 28. Mai 2026",
-     "zeitstempel": "19.05.2026, 10:07",
+     "zeitstempel": "19.05.2026, 12:47",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -21085,7 +21078,7 @@
     },
     "20260529": {
      "datum": "Freitag, 29. Mai 2026",
-     "zeitstempel": "19.05.2026, 10:07",
+     "zeitstempel": "19.05.2026, 12:47",
      "lehrer": {
       "Bar": {
        "entries": [
