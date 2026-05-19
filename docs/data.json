@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "18.05.2026, 22:44 Uhr",
- "last_changed": "2026-05-18T16:59:00",
+ "generiert": "19.05.2026, 08:24 Uhr",
+ "last_changed": "2026-05-19T10:07:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -9918,7 +9918,7 @@
     },
     "20260519": {
      "datum": "Dienstag, 19. Mai 2026",
-     "zeitstempel": "18.05.2026, 16:59",
+     "zeitstempel": "19.05.2026, 10:07",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -11930,7 +11930,7 @@
     },
     "20260520": {
      "datum": "Mittwoch, 20. Mai 2026",
-     "zeitstempel": "18.05.2026, 16:31",
+     "zeitstempel": "19.05.2026, 10:07",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -14260,7 +14260,7 @@
     },
     "20260521": {
      "datum": "Donnerstag, 21. Mai 2026",
-     "zeitstempel": "18.05.2026, 16:31",
+     "zeitstempel": "19.05.2026, 10:07",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -14285,7 +14285,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Hospitation Bode 7b Sp TU",
+         "info": "Hospitation Fr. Müchler",
          "geaendert": true
         },
         {
@@ -14293,7 +14293,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Hospitation Bode 7b Sp TU",
+         "info": "Hospitation Fr. Müchler",
          "geaendert": true
         }
        ],
@@ -14467,7 +14467,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sp 8D Hin",
+         "info": "Sp 8D Stu",
          "geaendert": true
         },
         {
@@ -14475,7 +14475,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sp 8D Hin",
+         "info": "Sp 8D Stu",
          "geaendert": true
         },
         {
@@ -14499,7 +14499,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sp 7B Stu, Hospitation Fr. Müchler",
+         "info": "Sp 7B Hin",
          "geaendert": true
         },
         {
@@ -14507,7 +14507,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sp 7B Stu, Hospitation Fr. Müchler",
+         "info": "Sp 7B Hin",
          "geaendert": true
         }
        ],
@@ -14945,22 +14945,6 @@
       "Hin": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "Sp",
-         "klasse": "8D",
-         "raum": "Tu3",
-         "info": "für Sp Bod",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "Sp",
-         "klasse": "8D",
-         "raum": "Tu3",
-         "info": "für Sp Bod",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
          "fach": "Sp",
          "klasse": "9A",
@@ -14973,6 +14957,22 @@
          "fach": "Sp",
          "klasse": "9A",
          "raum": "Tu3",
+         "info": "für Sp Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Sp",
+         "klasse": "7B",
+         "raum": "Tu2",
+         "info": "für Sp Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Sp",
+         "klasse": "7B",
+         "raum": "Tu2",
          "info": "für Sp Bod",
          "geaendert": true
         }
@@ -15737,7 +15737,7 @@
          "fach": "Sp",
          "klasse": "7B",
          "raum": "Tu2",
-         "info": "für Sp Bod, Hospitation Fr. Müchler",
+         "info": "für Sp Bod",
          "geaendert": true
         },
         {
@@ -15745,7 +15745,7 @@
          "fach": "Sp",
          "klasse": "7B",
          "raum": "Tu2",
-         "info": "für Sp Bod, Hospitation Fr. Müchler",
+         "info": "für Sp Bod",
          "geaendert": true
         }
        ],
@@ -16326,19 +16326,19 @@
       "Stu": {
        "entries": [
         {
-         "stunde": "7",
+         "stunde": "1",
          "fach": "Sp",
-         "klasse": "7B",
-         "raum": "Tu2",
-         "info": "für Sp Bod, Hospitation Fr. Müchler",
+         "klasse": "8D",
+         "raum": "Tu3",
+         "info": "für Sp Bod",
          "geaendert": true
         },
         {
-         "stunde": "8",
+         "stunde": "2",
          "fach": "Sp",
-         "klasse": "7B",
-         "raum": "Tu2",
-         "info": "für Sp Bod, Hospitation Fr. Müchler",
+         "klasse": "8D",
+         "raum": "Tu3",
+         "info": "für Sp Bod",
          "geaendert": true
         }
        ],
@@ -16608,7 +16608,7 @@
    "tage": {
     "20260527": {
      "datum": "Mittwoch, 27. Mai 2026",
-     "zeitstempel": "18.05.2026, 16:31",
+     "zeitstempel": "19.05.2026, 10:07",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -18932,7 +18932,7 @@
     },
     "20260528": {
      "datum": "Donnerstag, 28. Mai 2026",
-     "zeitstempel": "18.05.2026, 16:31",
+     "zeitstempel": "19.05.2026, 10:07",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -21085,7 +21085,7 @@
     },
     "20260529": {
      "datum": "Freitag, 29. Mai 2026",
-     "zeitstempel": "18.05.2026, 16:31",
+     "zeitstempel": "19.05.2026, 10:07",
      "lehrer": {
       "Bar": {
        "entries": [

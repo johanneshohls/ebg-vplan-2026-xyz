@@ -1,16 +1,5 @@
 [
  {
-  "timestamp": "2026-05-12T07:40:41.338802",
-  "lehrer": "Her",
-  "datum": "Dienstag, 12. Mai 2026",
-  "date_key": "20260512",
-  "changes": [
-   "Std 5 (11:40): für Bio Fla",
-   "Std 6 (12:25): für Bio Fla"
-  ],
-  "zeitstempel": "12.05.2026, 08:26"
- },
- {
   "timestamp": "2026-05-12T10:13:11.179937",
   "lehrer": "Fel",
   "datum": "Mittwoch, 13. Mai 2026",
@@ -908,5 +897,66 @@
    "Std 4 (10:25): De 9A Ost"
   ],
   "zeitstempel": "18.05.2026, 09:18"
+ },
+ {
+  "timestamp": "2026-05-19T08:24:51.465976",
+  "lehrer": "Bar",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 7 (13:40): Hospitation Fr. Müchler",
+   "Std 8 (14:25): Hospitation Fr. Müchler"
+  ],
+  "zeitstempel": "19.05.2026, 10:07"
+ },
+ {
+  "timestamp": "2026-05-19T08:24:51.465976",
+  "lehrer": "Bod",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 1 (07:40): Sp 8D Stu",
+   "Std 2 (08:25): Sp 8D Stu",
+   "Std 5 (11:40): Sp 9A Hin",
+   "Std 6 (12:25): Sp 9A Hin",
+   "Std 7 (13:40): Sp 7B Hin",
+   "Std 8 (14:25): Sp 7B Hin"
+  ],
+  "zeitstempel": "19.05.2026, 10:07"
+ },
+ {
+  "timestamp": "2026-05-19T08:24:51.465976",
+  "lehrer": "Hin",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 5 (11:40): für Sp Bod",
+   "Std 6 (12:25): für Sp Bod",
+   "Std 7 (13:40): für Sp Bod",
+   "Std 8 (14:25): für Sp Bod"
+  ],
+  "zeitstempel": "19.05.2026, 10:07"
+ },
+ {
+  "timestamp": "2026-05-19T08:24:51.465976",
+  "lehrer": "Mue",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 7 (13:40): für Sp Bod",
+   "Std 8 (14:25): für Sp Bod"
+  ],
+  "zeitstempel": "19.05.2026, 10:07"
+ },
+ {
+  "timestamp": "2026-05-19T08:24:51.465976",
+  "lehrer": "Stu",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 1 (07:40): für Sp Bod",
+   "Std 2 (08:25): für Sp Bod"
+  ],
+  "zeitstempel": "19.05.2026, 10:07"
  }
 ]
