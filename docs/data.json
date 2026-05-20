@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "20.05.2026, 11:23 Uhr",
- "last_changed": "2026-05-20T10:12:00",
+ "generiert": "20.05.2026, 14:01 Uhr",
+ "last_changed": "2026-05-20T15:28:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16681,7 +16681,7 @@
    "tage": {
     "20260527": {
      "datum": "Mittwoch, 27. Mai 2026",
-     "zeitstempel": "20.05.2026, 07:29",
+     "zeitstempel": "20.05.2026, 15:28",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -16827,19 +16827,19 @@
         },
         {
          "stunde": "7",
-         "fach": "En",
-         "klasse": "10B",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10B verlegt nach St.5 (Mar)",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "En",
-         "klasse": "10B",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10B verlegt nach St.6 (Mar)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16887,11 +16887,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Ph",
+         "klasse": "8A",
+         "raum": "204",
+         "info": "Ph 8A statt Do (28.05.) St.7; Ch 10B verlegt nach St.3",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ch 10B verlegt nach St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ph",
+         "klasse": "8A",
+         "raum": "204",
+         "info": "Ph 8A statt Do (28.05.) St.8; Ch 10B verlegt nach St.4",
          "geaendert": true
         },
         {
@@ -16924,27 +16940,11 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
-         "fach": "Sk",
-         "klasse": "10B",
-         "raum": "Aula",
-         "info": "Sk 10B statt Fr (29.05.) St.3; sp2 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "sp2 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Sk",
-         "klasse": "10B",
-         "raum": "Aula",
-         "info": "Sk 10B statt Fr (29.05.) St.4, Klausur; sp2 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -16956,12 +16956,28 @@
          "geaendert": false
         },
         {
+         "stunde": "7",
+         "fach": "Sk",
+         "klasse": "10B",
+         "raum": "Aula",
+         "info": "Sk 10B statt Fr (29.05.) St.3, Klausur",
+         "geaendert": true
+        },
+        {
          "stunde": "8",
          "fach": "sp1",
          "klasse": "11A-11D",
          "raum": "Tu1",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "8",
+         "fach": "Sk",
+         "klasse": "10B",
+         "raum": "Aula",
+         "info": "Sk 10B statt Fr (29.05.) St.4, Klausur",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -17407,19 +17423,19 @@
         },
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8C verlegt nach Do (28.05.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8C verlegt nach Do (28.05.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -17663,18 +17679,34 @@
         },
         {
          "stunde": "5",
-         "fach": "Sk",
-         "klasse": "10A",
-         "raum": "Aula",
-         "info": "für De Jur, Klausur",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 10A verlegt nach St.7, Klausur",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "8C",
+         "raum": "008",
+         "info": "De 8C statt Do (28.05.) St.5; Sk 10A verlegt nach St.7, Klausur",
          "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Sk",
-         "klasse": "10A",
-         "raum": "Aula",
-         "info": "für De Jur, Klausur",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 10A verlegt nach St.8, Klausur",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "8C",
+         "raum": "008",
+         "info": "De 8C statt Do (28.05.) St.6; Sk 10A verlegt nach St.8, Klausur",
          "geaendert": true
         },
         {
@@ -17686,11 +17718,27 @@
          "geaendert": true
         },
         {
+         "stunde": "7",
+         "fach": "Sk",
+         "klasse": "10A",
+         "raum": "Aula",
+         "info": "Sk 10A verlegt von St.5, Klausur; de1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "8",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "de1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Sk",
+         "klasse": "10A",
+         "raum": "Aula",
+         "info": "Sk 10A verlegt von St.6, Klausur; de1 12A-12E fällt aus",
          "geaendert": true
         }
        ],
@@ -17725,17 +17773,17 @@
          "stunde": "7",
          "fach": "mu1",
          "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "104",
+         "info": "für Mu Kar",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "mu1",
          "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "104",
+         "info": "für Mu Kar",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -17855,6 +17903,14 @@
          "klasse": "",
          "raum": "",
          "info": "Span 9B OLop, ganze Klasse 9b bei OLop",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Inf",
+         "klasse": "10A",
+         "raum": "K09",
+         "info": "statt Do (28.05.) St.8 (Inf Sta), Aufsicht nach Hospitation, Herr Staudte erteilt Aufgaben; Span 9B OLop, ganze Klasse 9b bei OLop",
          "geaendert": true
         },
         {
@@ -18128,6 +18184,22 @@
          "raum": "005",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "10B",
+         "raum": "005",
+         "info": "verlegt von St.7 (En Bis)",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "10B",
+         "raum": "005",
+         "info": "verlegt von St.8 (En Bis)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -18708,19 +18780,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Bio",
-         "klasse": "10A",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10A verlegt nach Do (28.05.) St.7",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Bio",
-         "klasse": "10A",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10A verlegt nach Do (28.05.) St.8",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -18749,19 +18821,27 @@
         },
         {
          "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 8A verlegt nach Do (28.05.) St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
          "fach": "Inf",
-         "klasse": "8A",
+         "klasse": "10A",
          "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "info": "Inf 10A statt Do (28.05.) St.7, Hospitation; Inf 8A verlegt nach Do (28.05.) St.7",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Inf",
-         "klasse": "8A",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 8A verlegt nach Do (28.05.) St.8",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -19005,7 +19085,7 @@
     },
     "20260528": {
      "datum": "Donnerstag, 28. Mai 2026",
-     "zeitstempel": "20.05.2026, 07:29",
+     "zeitstempel": "20.05.2026, 15:28",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -19181,19 +19261,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Ph",
-         "klasse": "8A",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8A gehalten am Mi (27.05.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ph",
-         "klasse": "8A",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8A gehalten am Mi (27.05.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -19702,19 +19782,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -19731,6 +19811,22 @@
          "raum": "003",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "8C",
+         "raum": "008",
+         "info": "En 8C statt Mi (27.05.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "8C",
+         "raum": "008",
+         "info": "En 8C statt Mi (27.05.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -20054,19 +20150,19 @@
         },
         {
          "stunde": "5",
-         "fach": "De",
-         "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8C gehalten am Mi (27.05.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "De",
-         "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8C gehalten am Mi (27.05.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20829,11 +20925,27 @@
          "geaendert": true
         },
         {
+         "stunde": "7",
+         "fach": "Bio",
+         "klasse": "10A",
+         "raum": "204",
+         "info": "Bio 10A statt Mi (27.05.) St.7; Bio 10D gehalten am Mi (27.05.) St.1",
+         "geaendert": true
+        },
+        {
          "stunde": "8",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Bio 10D gehalten am Mi (27.05.) St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Bio",
+         "klasse": "10A",
+         "raum": "204",
+         "info": "Bio 10A statt Mi (27.05.) St.8; Bio 10D gehalten am Mi (27.05.) St.2",
          "geaendert": true
         }
        ],
@@ -20880,19 +20992,35 @@
         },
         {
          "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10A gehalten am Mi (27.05.) St.5, Hospitation",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
          "fach": "Inf",
-         "klasse": "10A",
+         "klasse": "8A",
          "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "info": "Inf 8A statt Mi (27.05.) St.5; Inf 10A gehalten am Mi (27.05.) St.5, Hospitation",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10A gehalten am Mi (27.05.) St.6 (Köh), Aufsicht nach Hospitation, Herr Staudte erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "Inf",
-         "klasse": "10A",
+         "klasse": "8A",
          "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "info": "Inf 8A statt Mi (27.05.) St.6; Inf 10A gehalten am Mi (27.05.) St.6 (Köh), Aufsicht nach Hospitation, Herr Staudte erteilt Aufgaben",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -21158,7 +21286,7 @@
     },
     "20260529": {
      "datum": "Freitag, 29. Mai 2026",
-     "zeitstempel": "20.05.2026, 07:29",
+     "zeitstempel": "20.05.2026, 15:28",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -21302,7 +21430,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sk 10B gehalten am Mi (27.05.) St.5",
+         "info": "Sk 10B gehalten am Mi (27.05.) St.7, Klausur",
          "geaendert": true
         },
         {
@@ -21310,7 +21438,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sk 10B gehalten am Mi (27.05.) St.6, Klausur",
+         "info": "Sk 10B gehalten am Mi (27.05.) St.8, Klausur",
          "geaendert": true
         },
         {
