@@ -880,5 +880,123 @@
    "Std 4 (10:25): Spanisch Teilung Kl. 8 (8c fehlt); Span 8C fällt aus"
   ],
   "zeitstempel": "20.05.2026, 07:29"
+ },
+ {
+  "timestamp": "2026-05-20T19:13:14.281569",
+  "lehrer": "Bes",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 3 (09:40): PH1 12A-12E fällt aus",
+   "Std 3 (09:40): PH LK 11; PH1 12A-12E fällt aus",
+   "Std 4 (10:25): PH1 12A-12E fällt aus",
+   "Std 4 (10:25): PH LK 11; PH1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "20.05.2026, 20:32"
+ },
+ {
+  "timestamp": "2026-05-20T19:13:14.281569",
+  "lehrer": "Bod",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 1 (07:40): Sp 8D Stu",
+   "Std 2 (08:25): Sp 8D Stu",
+   "Std 5 (11:40): Sp 9A Hin",
+   "Std 6 (12:25): Sp 9A Hin",
+   "Std 7 (13:40): Sp 7B fällt aus",
+   "Std 8 (14:25): Sp 7B fällt aus"
+  ],
+  "zeitstempel": "20.05.2026, 20:32"
+ },
+ {
+  "timestamp": "2026-05-20T19:13:14.281569",
+  "lehrer": "Con",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 1 (07:40): inf1 12A-12E fällt aus",
+   "Std 2 (08:25): inf1 12A-12E fällt aus",
+   "Std 5 (11:40): für ILZ Fla, Aufsicht",
+   "Std 6 (12:25): für ILZ Fla, Aufsicht"
+  ],
+  "zeitstempel": "20.05.2026, 20:32"
+ },
+ {
+  "timestamp": "2026-05-20T19:13:14.281569",
+  "lehrer": "Fla",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 5 (11:40): ILZ 7C Con, Aufsicht",
+   "Std 6 (12:25): ILZ 7C Con, Aufsicht",
+   "Std 7 (13:40): bio1 12A-12E fällt aus",
+   "Std 8 (14:25): bio1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "20.05.2026, 20:32"
+ },
+ {
+  "timestamp": "2026-05-20T19:13:14.281569",
+  "lehrer": "Hei",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "20.05.2026, 20:32"
+ },
+ {
+  "timestamp": "2026-05-20T19:13:14.281569",
+  "lehrer": "Her",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 3 (09:40): für BO Her, Vorträge der Referenten, Anwesenheitspflicht",
+   "Std 4 (10:25): für BO Her, Vorträge der Referenten, Anwesenheitspflicht",
+   "Std 5 (11:40): Sp 9D Mue",
+   "Std 6 (12:25): Sp 9D Mue",
+   "Std 7 (13:40): Sp 7D fällt aus",
+   "Std 8 (14:25): Sp 7D fällt aus"
+  ],
+  "zeitstempel": "20.05.2026, 20:32"
+ },
+ {
+  "timestamp": "2026-05-20T19:13:14.281569",
+  "lehrer": "Hin",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 5 (11:40): für Sp Bod",
+   "Std 6 (12:25): für Sp Bod"
+  ],
+  "zeitstempel": "20.05.2026, 20:32"
+ },
+ {
+  "timestamp": "2026-05-20T19:13:14.281569",
+  "lehrer": "Mue",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 5 (11:40): für Sp Her",
+   "Std 6 (12:25): für Sp Her",
+   "Std 7 (13:40): Sp 7B fällt aus",
+   "Std 8 (14:25): Sp 7B fällt aus"
+  ],
+  "zeitstempel": "20.05.2026, 20:32"
+ },
+ {
+  "timestamp": "2026-05-20T19:13:14.281569",
+  "lehrer": "Roh",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 1 (07:40): Ma 9B gehalten am Mo (18.05.) St.7",
+   "Std 2 (08:25): Ma 9B gehalten am Mo (18.05.) St.8",
+   "Std 5 (11:40): MA1 12A-12E fällt aus",
+   "Std 6 (12:25): MA1 12A-12E fällt aus",
+   "Std 7 (13:40): Ma 10C selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 8 (14:25): Ma 10C selbst. (v), Selbststudium, kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "20.05.2026, 20:32"
  }
 ]

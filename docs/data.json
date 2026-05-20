@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "20.05.2026, 16:55 Uhr",
- "last_changed": "2026-05-20T15:28:00",
+ "generiert": "20.05.2026, 19:13 Uhr",
+ "last_changed": "2026-05-20T20:32:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14269,7 +14269,7 @@
     },
     "20260521": {
      "datum": "Donnerstag, 21. Mai 2026",
-     "zeitstempel": "20.05.2026, 07:29",
+     "zeitstempel": "20.05.2026, 20:32",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -14335,6 +14335,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Ph",
+         "klasse": "",
+         "raum": "107",
+         "info": "PH LK 11; PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -14343,19 +14351,11 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
-         "fach": "ILZ",
-         "klasse": "7C",
+         "stunde": "4",
+         "fach": "Ph",
+         "klasse": "",
          "raum": "107",
-         "info": "für ILZ Fla, Aufsicht",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "ILZ",
-         "klasse": "7C",
-         "raum": "107",
-         "info": "für ILZ Fla, Aufsicht",
+         "info": "PH LK 11; PH1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -14508,7 +14508,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sp 7B Hin",
+         "info": "Sp 7B fällt aus",
          "geaendert": true
         },
         {
@@ -14516,7 +14516,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sp 7B Hin",
+         "info": "Sp 7B fällt aus",
          "geaendert": true
         }
        ],
@@ -14591,6 +14591,22 @@
          "klasse": "",
          "raum": "",
          "info": "inf1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "7C",
+         "raum": "107",
+         "info": "für ILZ Fla, Aufsicht",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "7C",
+         "raum": "107",
+         "info": "für ILZ Fla, Aufsicht",
          "geaendert": true
         },
         {
@@ -14734,7 +14750,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "ILZ 7C Bes, Aufsicht",
+         "info": "ILZ 7C Con, Aufsicht",
          "geaendert": true
         },
         {
@@ -14742,7 +14758,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "ILZ 7C Bes, Aufsicht",
+         "info": "ILZ 7C Con, Aufsicht",
          "geaendert": true
         },
         {
@@ -14892,17 +14908,17 @@
          "stunde": "3",
          "fach": "Geo",
          "klasse": "7A",
-         "raum": "107",
-         "info": "für Geo Hei",
-         "geaendert": true
+         "raum": "101",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "4",
          "fach": "Geo",
          "klasse": "7A",
-         "raum": "107",
-         "info": "für Geo Hei",
-         "geaendert": true
+         "raum": "101",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": [
@@ -14921,7 +14937,7 @@
          "fach": "bo2",
          "klasse": "11A-11D",
          "raum": "104 102",
-         "info": "für BO Her, ebenfalls frei: 103, 106",
+         "info": "für BO Her, Vorträge der Referenten, Anwesenheitspflicht",
          "geaendert": true
         },
         {
@@ -14929,40 +14945,40 @@
          "fach": "bo2",
          "klasse": "11A-11D",
          "raum": "104 102",
-         "info": "für BO Her, ebenfalls frei: 103, 106",
+         "info": "für BO Her, Vorträge der Referenten, Anwesenheitspflicht",
          "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Sp",
-         "klasse": "9D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 9D Mue",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Sp",
-         "klasse": "9D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 9D Mue",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Sp",
-         "klasse": "7D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Sp",
-         "klasse": "7D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14982,22 +14998,6 @@
          "fach": "Sp",
          "klasse": "9A",
          "raum": "Tu3",
-         "info": "für Sp Bod",
-         "geaendert": true
-        },
-        {
-         "stunde": "7",
-         "fach": "Sp",
-         "klasse": "7B",
-         "raum": "Tu2",
-         "info": "für Sp Bod",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Sp",
-         "klasse": "7B",
-         "raum": "Tu2",
          "info": "für Sp Bod",
          "geaendert": true
         }
@@ -15774,19 +15774,35 @@
          "geaendert": false
         },
         {
-         "stunde": "7",
+         "stunde": "5",
          "fach": "Sp",
-         "klasse": "7B",
-         "raum": "Tu2",
-         "info": "für Sp Bod",
+         "klasse": "9D",
+         "raum": "Tu1",
+         "info": "für Sp Her",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Sp",
+         "klasse": "9D",
+         "raum": "Tu1",
+         "info": "für Sp Her",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7B fällt aus",
          "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Sp",
-         "klasse": "7B",
-         "raum": "Tu2",
-         "info": "für Sp Bod",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7B fällt aus",
          "geaendert": true
         }
        ],
@@ -16116,19 +16132,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Ma",
-         "klasse": "10C",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10C selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "10C",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10C selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -16681,7 +16697,7 @@
    "tage": {
     "20260527": {
      "datum": "Mittwoch, 27. Mai 2026",
-     "zeitstempel": "20.05.2026, 15:28",
+     "zeitstempel": "20.05.2026, 20:32",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -16795,35 +16811,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "En",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7D Fel",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "En",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7D Fel",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7A Hei (für En)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7A Hei (für En)",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -16949,34 +16965,34 @@
         },
         {
          "stunde": "7",
-         "fach": "sp1",
-         "klasse": "11A-11D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 11A-11D Her",
+         "geaendert": true
         },
         {
          "stunde": "7",
          "fach": "Sk",
          "klasse": "10B",
          "raum": "Aula",
-         "info": "Sk 10B statt Fr (29.05.) St.3, Klausur",
+         "info": "Sk 10B statt Fr (29.05.) St.3, Klausur; Sp 11A-11D Her",
          "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "sp1",
-         "klasse": "11A-11D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 11A-11D Her",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "Sk",
          "klasse": "10B",
          "raum": "Aula",
-         "info": "Sk 10B statt Fr (29.05.) St.4, Klausur",
+         "info": "Sk 10B statt Fr (29.05.) St.4, Klausur; Sp 11A-11D Her",
          "geaendert": true
         }
        ],
@@ -17104,6 +17120,22 @@
       },
       "Fel": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "En",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für En Bis",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "En",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "für En Bis",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "En",
@@ -17320,11 +17352,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für En Bis",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "geo1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für En Bis",
          "geaendert": true
         }
        ],
@@ -17379,6 +17427,22 @@
          "raum": "Tu2",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "sp1",
+         "klasse": "11A-11D",
+         "raum": "Tu1",
+         "info": "für Sp Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "sp1",
+         "klasse": "11A-11D",
+         "raum": "Tu1",
+         "info": "für Sp Bod",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -19085,7 +19149,7 @@
     },
     "20260528": {
      "datum": "Donnerstag, 28. Mai 2026",
-     "zeitstempel": "20.05.2026, 15:28",
+     "zeitstempel": "20.05.2026, 20:32",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -19289,51 +19353,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Sp",
-         "klasse": "8D",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8D Stu",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Sp",
-         "klasse": "8D",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8D Stu",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Sp",
-         "klasse": "9A",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 9A Stu",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Sp",
-         "klasse": "9A",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 9A Stu",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Sp",
-         "klasse": "7B",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7B Stu",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Sp",
-         "klasse": "7B",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7B Stu",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20472,16 +20536,16 @@
          "fach": "Sp",
          "klasse": "7B",
          "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "info": "für Sp Bod",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "Sp",
          "klasse": "7B",
          "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "info": "für Sp Bod",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -21033,7 +21097,56 @@
        ]
       },
       "Stu": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Sp",
+         "klasse": "8D",
+         "raum": "Tu3",
+         "info": "für Sp Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Sp",
+         "klasse": "8D",
+         "raum": "Tu3",
+         "info": "für Sp Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Sp",
+         "klasse": "9A",
+         "raum": "Tu3",
+         "info": "für Sp Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Sp",
+         "klasse": "9A",
+         "raum": "Tu3",
+         "info": "für Sp Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Sp",
+         "klasse": "7B",
+         "raum": "Tu2",
+         "info": "für Sp Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Sp",
+         "klasse": "7B",
+         "raum": "Tu2",
+         "info": "für Sp Bod",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Ten": {
@@ -21286,7 +21399,7 @@
     },
     "20260529": {
      "datum": "Freitag, 29. Mai 2026",
-     "zeitstempel": "20.05.2026, 15:28",
+     "zeitstempel": "20.05.2026, 20:32",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -21443,19 +21556,19 @@
         },
         {
          "stunde": "5",
-         "fach": "Sp",
-         "klasse": "8B",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8B Hin",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Sp",
-         "klasse": "8B",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8B Hin",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -21817,7 +21930,56 @@
        "aufsichten": []
       },
       "Hin": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "für De Ost",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "für De Ost",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "für De Ost",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "für De Ost",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Sp",
+         "klasse": "8B",
+         "raum": "Tu3",
+         "info": "für Sp Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Sp",
+         "klasse": "8B",
+         "raum": "Tu3",
+         "info": "für Sp Bod",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Hofm": {
@@ -21863,7 +22025,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof 1, WC, Container",
+         "info": "für Ost"
+        }
+       ]
       },
       "Hoh": {
        "entries": [
@@ -22516,7 +22685,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 8B Stu",
+         "info": "De 8B Hin",
          "geaendert": true
         },
         {
@@ -22524,7 +22693,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 8B Stu",
+         "info": "De 8B Hin",
          "geaendert": true
         },
         {
@@ -22532,7 +22701,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 8A Stu",
+         "info": "De 8A Hin",
          "geaendert": true
         },
         {
@@ -22540,7 +22709,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 8A Stu",
+         "info": "De 8A Hin",
          "geaendert": true
         },
         {
@@ -22557,7 +22726,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Hof 1, WC, Container",
-         "info": "entfällt, V: Stu"
+         "info": "entfällt, V: Hofm"
         }
        ]
       },
@@ -23038,14 +23207,6 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "für De Ost",
-         "geaendert": true
-        },
-        {
-         "stunde": "1",
          "fach": "---",
          "klasse": "",
          "raum": "",
@@ -23054,45 +23215,14 @@
         },
         {
          "stunde": "2",
-         "fach": "De",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "für De Ost",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "B VK2 fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "3",
-         "fach": "De",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "für De Ost",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "De",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "für De Ost",
          "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Hof 1, WC, Container",
-         "info": "für Ost"
-        }
-       ]
+       "aufsichten": []
       },
       "Ten": {
        "entries": [],
