@@ -839,5 +839,46 @@
    "Std 4 (10:25): BIO1 12A-12E fällt aus"
   ],
   "zeitstempel": "19.05.2026, 15:09"
+ },
+ {
+  "timestamp": "2026-05-20T08:23:18.825029",
+  "lehrer": "Ter",
+  "datum": "Mittwoch, 20. Mai 2026",
+  "date_key": "20260520",
+  "changes": [
+   "Std 3 (09:40): für DSp Ter",
+   "Std 4 (10:25): für DSp Ter",
+   "Std 5 (11:40): Besprechung der Projektwoche 108",
+   "Std 6 (12:25): Besprechung der Projektwoche 108"
+  ],
+  "zeitstempel": "20.05.2026, 10:12"
+ },
+ {
+  "timestamp": "2026-05-20T08:23:18.825029",
+  "lehrer": "Jur",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 3 (09:40): DE2 12A-12E fällt aus",
+   "Std 3 (09:40): Testnachschriften; DE2 12A-12E fällt aus",
+   "Std 4 (10:25): DE2 12A-12E fällt aus",
+   "Std 4 (10:25): Testnachschriften; DE2 12A-12E fällt aus"
+  ],
+  "zeitstempel": "20.05.2026, 07:29"
+ },
+ {
+  "timestamp": "2026-05-20T08:23:18.825029",
+  "lehrer": "OLop",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 1 (07:40): Nachschriften",
+   "Std 2 (08:25): Nachschriften",
+   "Std 3 (09:40): Span 8C fällt aus",
+   "Std 3 (09:40): Spanisch Teilung Kl. 8 (8c fehlt); Span 8C fällt aus",
+   "Std 4 (10:25): Span 8C fällt aus",
+   "Std 4 (10:25): Spanisch Teilung Kl. 8 (8c fehlt); Span 8C fällt aus"
+  ],
+  "zeitstempel": "20.05.2026, 07:29"
  }
 ]

@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "19.05.2026, 22:01 Uhr",
- "last_changed": "2026-05-19T15:09:00",
+ "generiert": "20.05.2026, 08:23 Uhr",
+ "last_changed": "2026-05-20T10:12:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -11930,7 +11930,7 @@
     },
     "20260520": {
      "datum": "Mittwoch, 20. Mai 2026",
-     "zeitstempel": "19.05.2026, 15:09",
+     "zeitstempel": "20.05.2026, 10:12",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -14093,17 +14093,17 @@
          "stunde": "3",
          "fach": "dsp1",
          "klasse": "11A-11D",
-         "raum": "107",
+         "raum": "Aula",
          "info": "für DSp Ter",
-         "geaendert": true
+         "geaendert": false
         },
         {
          "stunde": "4",
          "fach": "dsp1",
          "klasse": "11A-11D",
-         "raum": "107",
+         "raum": "Aula",
          "info": "für DSp Ter",
-         "geaendert": true
+         "geaendert": false
         },
         {
          "stunde": "5",
@@ -14269,7 +14269,7 @@
     },
     "20260521": {
      "datum": "Donnerstag, 21. Mai 2026",
-     "zeitstempel": "19.05.2026, 15:09",
+     "zeitstempel": "20.05.2026, 07:29",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -15413,11 +15413,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "201",
+         "info": "Testnachschriften; DE2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "DE2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "201",
+         "info": "Testnachschriften; DE2 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -15786,6 +15802,22 @@
       },
       "OLop": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co1",
+         "info": "Nachschriften",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co1",
+         "info": "Nachschriften",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "---",
@@ -16649,7 +16681,7 @@
    "tage": {
     "20260527": {
      "datum": "Mittwoch, 27. Mai 2026",
-     "zeitstempel": "19.05.2026, 15:09",
+     "zeitstempel": "20.05.2026, 07:29",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -18973,7 +19005,7 @@
     },
     "20260528": {
      "datum": "Donnerstag, 28. Mai 2026",
-     "zeitstempel": "19.05.2026, 15:09",
+     "zeitstempel": "20.05.2026, 07:29",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -21126,7 +21158,7 @@
     },
     "20260529": {
      "datum": "Freitag, 29. Mai 2026",
-     "zeitstempel": "19.05.2026, 15:09",
+     "zeitstempel": "20.05.2026, 07:29",
      "lehrer": {
       "Bar": {
        "entries": [
