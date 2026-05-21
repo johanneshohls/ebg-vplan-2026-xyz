@@ -998,5 +998,16 @@
    "Std 8 (14:25): Ma 10C selbst. (v), Selbststudium, kann zu Hause erledigt werden"
   ],
   "zeitstempel": "20.05.2026, 20:32"
+ },
+ {
+  "timestamp": "2026-05-21T08:30:04.336406",
+  "lehrer": "Jur",
+  "datum": "Donnerstag, 21. Mai 2026",
+  "date_key": "20260521",
+  "changes": [
+   "Std 3 (09:40): DE2 12A-12E fällt aus",
+   "Std 4 (10:25): DE2 12A-12E fällt aus"
+  ],
+  "zeitstempel": "21.05.2026, 09:21"
  }
 ]
