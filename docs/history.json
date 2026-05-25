@@ -1,47 +1,5 @@
 [
  {
-  "timestamp": "2026-05-18T08:42:07.683846",
-  "lehrer": "Bar",
-  "datum": "Montag, 18. Mai 2026",
-  "date_key": "20260518",
-  "changes": [
-   "Std 1 (07:40): für Span Köh"
-  ],
-  "zeitstempel": "18.05.2026, 09:18"
- },
- {
-  "timestamp": "2026-05-18T08:42:07.683846",
-  "lehrer": "Köh",
-  "datum": "Montag, 18. Mai 2026",
-  "date_key": "20260518",
-  "changes": [
-   "Std 1 (07:40): Span 7C Bar"
-  ],
-  "zeitstempel": "18.05.2026, 09:18"
- },
- {
-  "timestamp": "2026-05-18T08:42:07.683846",
-  "lehrer": "Ost",
-  "datum": "Montag, 18. Mai 2026",
-  "date_key": "20260518",
-  "changes": [
-   "Std 3 (09:40): für De Tie",
-   "Std 4 (10:25): für De Tie"
-  ],
-  "zeitstempel": "18.05.2026, 09:18"
- },
- {
-  "timestamp": "2026-05-18T08:42:07.683846",
-  "lehrer": "Tie",
-  "datum": "Montag, 18. Mai 2026",
-  "date_key": "20260518",
-  "changes": [
-   "Std 3 (09:40): De 9A Ost",
-   "Std 4 (10:25): De 9A Ost"
-  ],
-  "zeitstempel": "18.05.2026, 09:18"
- },
- {
   "timestamp": "2026-05-19T08:24:51.465976",
   "lehrer": "Bar",
   "datum": "Donnerstag, 21. Mai 2026",
