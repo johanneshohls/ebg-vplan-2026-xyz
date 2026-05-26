@@ -295,5 +295,18 @@
    "Std 8 (14:25): Ma 9D verlegt nach St.4"
   ],
   "zeitstempel": "26.05.2026, 15:09"
+ },
+ {
+  "timestamp": "2026-05-26T21:14:16.412165",
+  "lehrer": "Sta",
+  "datum": "Donnerstag, 28. Mai 2026",
+  "date_key": "20260528",
+  "changes": [
+   "Std 7 (13:40): Inf 10A gehalten am Mi (27.05.) St.5, Hospitation",
+   "Std 7 (13:40): Inf 8A statt Mi (27.05.) St.5; Inf 10A gehalten am Mi (27.05.) St.5, Hospitation",
+   "Std 8 (14:25): Inf 10A gehalten am Mi (27.05.) St.6 (Schil), Aufsicht nach Hospitation, Herr Staudte erteilt Aufgaben",
+   "Std 8 (14:25): Inf 8A statt Mi (27.05.) St.6; Inf 10A gehalten am Mi (27.05.) St.6 (Schil), Aufsicht nach Hospitation, Herr Staudte erteilt Aufgaben"
+  ],
+  "zeitstempel": "26.05.2026, 21:51"
  }
 ]

@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "26.05.2026, 19:35 Uhr",
- "last_changed": "2026-05-26T15:09:00",
+ "generiert": "26.05.2026, 21:14 Uhr",
+ "last_changed": "2026-05-26T21:51:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -11525,7 +11525,7 @@
     },
     "20260528": {
      "datum": "Donnerstag, 28. Mai 2026",
-     "zeitstempel": "21.05.2026, 11:11",
+     "zeitstempel": "26.05.2026, 21:51",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -13451,7 +13451,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Inf 10A gehalten am Mi (27.05.) St.6 (Köh), Aufsicht nach Hospitation, Herr Staudte erteilt Aufgaben",
+         "info": "Inf 10A gehalten am Mi (27.05.) St.6 (Schil), Aufsicht nach Hospitation, Herr Staudte erteilt Aufgaben",
          "geaendert": true
         },
         {
@@ -13459,7 +13459,7 @@
          "fach": "Inf",
          "klasse": "8A",
          "raum": "K10",
-         "info": "Inf 8A statt Mi (27.05.) St.6; Inf 10A gehalten am Mi (27.05.) St.6 (Köh), Aufsicht nach Hospitation, Herr Staudte erteilt Aufgaben",
+         "info": "Inf 8A statt Mi (27.05.) St.6; Inf 10A gehalten am Mi (27.05.) St.6 (Schil), Aufsicht nach Hospitation, Herr Staudte erteilt Aufgaben",
          "geaendert": true
         }
        ],
@@ -13775,7 +13775,7 @@
     },
     "20260529": {
      "datum": "Freitag, 29. Mai 2026",
-     "zeitstempel": "21.05.2026, 11:11",
+     "zeitstempel": "26.05.2026, 21:51",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -15819,7 +15819,7 @@
    "tage": {
     "20260601": {
      "datum": "Montag, 01. Juni 2026",
-     "zeitstempel": "21.05.2026, 11:11",
+     "zeitstempel": "26.05.2026, 21:51",
      "lehrer": {
       "Bar": {
        "entries": [],
