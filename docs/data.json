@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "26.05.2026, 08:29 Uhr",
- "last_changed": "2026-05-21T11:11:00",
+ "generiert": "26.05.2026, 14:18 Uhr",
+ "last_changed": "2026-05-26T15:09:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -9009,7 +9009,7 @@
    "tage": {
     "20260527": {
      "datum": "Mittwoch, 27. Mai 2026",
-     "zeitstempel": "21.05.2026, 11:11",
+     "zeitstempel": "26.05.2026, 15:09",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -9032,6 +9032,22 @@
          "raum": "003",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "8C",
+         "raum": "008",
+         "info": "für En Hofm, Bitte mit Herrn Rohde absprechen.",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "8C",
+         "raum": "008",
+         "info": "für En Hofm, Bitte mit Herrn Rohde absprechen.",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -9527,7 +9543,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Hof 1, WC, Container",
-         "info": "entfällt, V: Sta"
+         "info": "entfällt, V: Gor"
         }
        ]
       },
@@ -9619,7 +9635,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof 1, WC, Container",
+         "info": "für Fla"
+        }
+       ]
       },
       "Hei": {
        "entries": [
@@ -9717,11 +9740,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Sp",
+         "klasse": "",
+         "raum": "",
+         "info": "Auswertung Sportfest; sp3 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "sp3 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Sp",
+         "klasse": "",
+         "raum": "",
+         "info": "Auswertung Sportfest; sp3 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -9767,67 +9806,67 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "En",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 7B Lan (für En)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "En",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 7B Lan (für En)",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Phil",
-         "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phil 9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Phil",
-         "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phil 9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8C Bes (für En), Bitte mit Herrn Rohde absprechen.",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8C Bes (für En), Bitte mit Herrn Rohde absprechen.",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "GS11",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS11 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS11",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS11 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -10251,26 +10290,18 @@
         },
         {
          "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Span 9B OLop, ganze Klasse 9b bei OLop",
+         "fach": "Span",
+         "klasse": "9B",
+         "raum": "007 105",
+         "info": "für Span OLop",
          "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Span 9B OLop, ganze Klasse 9b bei OLop",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Inf",
-         "klasse": "10A",
-         "raum": "K09",
-         "info": "statt Do (28.05.) St.8 (Inf Sta), Aufsicht nach Hospitation, Herr Staudte erteilt Aufgaben; Span 9B OLop, ganze Klasse 9b bei OLop",
+         "fach": "Span",
+         "klasse": "9B",
+         "raum": "007 105",
+         "info": "für Span OLop",
          "geaendert": true
         },
         {
@@ -10331,11 +10362,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "Sk",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für En Hofm",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "phil1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Sk",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für En Hofm",
          "geaendert": true
         },
         {
@@ -10583,6 +10630,22 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "Sp",
+         "klasse": "",
+         "raum": "",
+         "info": "Auswertung Sportfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Sp",
+         "klasse": "",
+         "raum": "",
+         "info": "Auswertung Sportfest",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Geo",
          "klasse": "9A",
@@ -10671,17 +10734,17 @@
          "stunde": "5",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007",
-         "info": "für Span OLop, ganze Klasse 9b bei OLop",
-         "geaendert": false
+         "raum": "007 105",
+         "info": "für Span OLop",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007",
-         "info": "für Span OLop, ganze Klasse 9b bei OLop",
-         "geaendert": false
+         "raum": "007 105",
+         "info": "für Span OLop",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -11022,6 +11085,14 @@
          "raum": "",
          "info": "dsp2 12A-12E fällt aus",
          "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Inf",
+         "klasse": "10A",
+         "raum": "K09",
+         "info": "statt Do (28.05.) St.8 (Inf Sta), Aufsicht nach Hospitation, Herr Staudte erteilt Aufgaben; dsp2 12A-12E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -11180,6 +11251,22 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "9D",
+         "raum": "Co1",
+         "info": "Ma 9D verlegt von St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "9D",
+         "raum": "Co1",
+         "info": "Ma 9D verlegt von St.8",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -11205,29 +11292,22 @@
         },
         {
          "stunde": "7",
-         "fach": "Ma",
-         "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9D verlegt nach St.3",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "9D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9D verlegt nach St.4",
+         "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Hof 1, WC, Container",
-         "info": "für Fla"
-        }
-       ]
+       "aufsichten": []
       },
       "Stu": {
        "entries": [],
