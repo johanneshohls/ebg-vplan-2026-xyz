@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "27.05.2026, 08:36 Uhr",
- "last_changed": "2026-05-27T10:14:00",
+ "generiert": "27.05.2026, 11:57 Uhr",
+ "last_changed": "2026-05-27T13:42:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -9009,7 +9009,7 @@
    "tage": {
     "20260527": {
      "datum": "Mittwoch, 27. Mai 2026",
-     "zeitstempel": "27.05.2026, 10:14",
+     "zeitstempel": "27.05.2026, 13:42",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -11557,7 +11557,7 @@
     },
     "20260528": {
      "datum": "Donnerstag, 28. Mai 2026",
-     "zeitstempel": "27.05.2026, 10:14",
+     "zeitstempel": "27.05.2026, 13:42",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -11623,11 +11623,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Ph",
+         "klasse": "11A-11D",
+         "raum": "201",
+         "info": "PH LK 11; PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ph",
+         "klasse": "11A-11D",
+         "raum": "201",
+         "info": "PH LK 11; PH1 12A-12E fällt aus",
          "geaendert": true
         }
        ],
@@ -13903,7 +13919,7 @@
     },
     "20260529": {
      "datum": "Freitag, 29. Mai 2026",
-     "zeitstempel": "27.05.2026, 10:14",
+     "zeitstempel": "27.05.2026, 13:42",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -13969,11 +13985,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Ph",
+         "klasse": "11A-11D",
+         "raum": "205",
+         "info": "PH LK 11; PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ph",
+         "klasse": "11A-11D",
+         "raum": "205",
+         "info": "PH LK 11; PH1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -14078,7 +14110,40 @@
        "aufsichten": []
       },
       "Bri": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Planung UV",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Planung UV",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Planung UV",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Planung UV",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Con": {
@@ -15616,6 +15681,22 @@
       "See": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Planung UV",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Planung UV",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -15645,6 +15726,22 @@
          "klasse": "10B",
          "raum": "204",
          "info": "Bio 10B statt Do (28.05.) St.6; BIO1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Planung UV",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Planung UV",
          "geaendert": true
         }
        ],
@@ -15947,7 +16044,7 @@
    "tage": {
     "20260601": {
      "datum": "Montag, 01. Juni 2026",
-     "zeitstempel": "27.05.2026, 10:14",
+     "zeitstempel": "27.05.2026, 13:42",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -16322,7 +16419,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 10D verlegt nach Do (04.06.) St.1",
+         "info": "Ge 10D verlegt nach Mi (03.06.) St.3",
          "geaendert": true
         },
         {
@@ -16330,7 +16427,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 10D verlegt nach Do (04.06.) St.2",
+         "info": "Ge 10D verlegt nach Mi (03.06.) St.4",
          "geaendert": true
         }
        ],
@@ -16987,27 +17084,11 @@
          "geaendert": true
         },
         {
-         "stunde": "3",
-         "fach": "Ch",
-         "klasse": "7B",
-         "raum": "205",
-         "info": "Ch 7B statt Di (02.06.) St.1; AWT 7E verlegt nach Do (04.06.) St.7",
-         "geaendert": true
-        },
-        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "AWT 7E verlegt nach Do (04.06.) St.8",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Ch",
-         "klasse": "7B",
-         "raum": "205",
-         "info": "Ch 7B statt Di (02.06.) St.2; AWT 7E verlegt nach Do (04.06.) St.8",
          "geaendert": true
         },
         {
@@ -17065,19 +17146,19 @@
         },
         {
          "stunde": "3",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Span 7B verlegt nach Di (02.06.) St.1, Verlegung aufgrund der Kompetenzprüfungen 11",
-         "geaendert": true
+         "fach": "Span",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "4",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Span 7B verlegt nach Di (02.06.) St.2, Verlegung aufgrund der Kompetenzprüfungen",
-         "geaendert": true
+         "fach": "Span",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "5",
@@ -18161,7 +18242,7 @@
     },
     "20260602": {
      "datum": "Dienstag, 02. Juni 2026",
-     "zeitstempel": "27.05.2026, 10:14",
+     "zeitstempel": "27.05.2026, 13:42",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -18187,6 +18268,22 @@
       "Bes": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "Ma",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "Ma 7B statt Fr (05.06.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ma",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "Ma 7B statt Fr (05.06.) St.2",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -18195,11 +18292,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Ph",
+         "klasse": "11A-11D",
+         "raum": "201",
+         "info": "PH LK 11; PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ph",
+         "klasse": "11A-11D",
+         "raum": "201",
+         "info": "PH LK 11; PH1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -18535,19 +18648,19 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "De",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7B verlegt nach Do (04.06.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "De",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7B verlegt nach Do (04.06.) St.4",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -19499,7 +19612,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ch 7B gehalten am Mo (01.06.) St.3",
+         "info": "Ch 7B verlegt nach St.5",
          "geaendert": true
         },
         {
@@ -19507,7 +19620,7 @@
          "fach": "Ch",
          "klasse": "8C",
          "raum": "004",
-         "info": "Ch 8C statt Do (04.06.) St.5; Ch 7B gehalten am Mo (01.06.) St.3",
+         "info": "Ch 8C statt Do (04.06.) St.5; Ch 7B verlegt nach St.5",
          "geaendert": true
         },
         {
@@ -19515,7 +19628,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ch 7B gehalten am Mo (01.06.) St.4",
+         "info": "Ch 7B verlegt nach St.6",
          "geaendert": true
         },
         {
@@ -19523,7 +19636,7 @@
          "fach": "Ch",
          "klasse": "8C",
          "raum": "004",
-         "info": "Ch 8C statt Do (04.06.) St.6; Ch 7B gehalten am Mo (01.06.) St.4",
+         "info": "Ch 8C statt Do (04.06.) St.6; Ch 7B verlegt nach St.6",
          "geaendert": true
         },
         {
@@ -19541,6 +19654,22 @@
          "raum": "K12",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ch",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "Ch 7B verlegt von St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ch",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "Ch 7B verlegt von St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -19554,22 +19683,6 @@
       },
       "Köh": {
        "entries": [
-        {
-         "stunde": "1",
-         "fach": "Span",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "Span 7B statt Mo (01.06.) St.3, Verlegung aufgrund der Kompetenzprüfungen 11",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "Span",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "Span 7B statt Mo (01.06.) St.4, Verlegung aufgrund der Kompetenzprüfungen",
-         "geaendert": true
-        },
         {
          "stunde": "3",
          "fach": "Span",
@@ -20675,7 +20788,7 @@
     },
     "20260603": {
      "datum": "Mittwoch, 03. Juni 2026",
-     "zeitstempel": "27.05.2026, 10:14",
+     "zeitstempel": "27.05.2026, 13:42",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -20914,6 +21027,22 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "Ph",
+         "klasse": "9A",
+         "raum": "204",
+         "info": "Ph 9A verlegt von St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ph",
+         "klasse": "9A",
+         "raum": "204",
+         "info": "Ph 9A verlegt von St.8",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Ch",
          "klasse": "10B",
@@ -20931,19 +21060,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Ph",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 9A verlegt nach St.3",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ph",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 9A verlegt nach St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -21058,19 +21187,19 @@
         },
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "10D",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10D verlegt nach Do (04.06.) St.1",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "10D",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10D verlegt nach Do (04.06.) St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -21235,19 +21364,35 @@
         },
         {
          "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 9A verlegt nach St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
          "fach": "Ge",
-         "klasse": "9A",
+         "klasse": "10D",
          "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "info": "Ge 10D statt Mo (01.06.) St.1; Ge 9A verlegt nach St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 9A verlegt nach St.8",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Ge",
-         "klasse": "9A",
+         "klasse": "10D",
          "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "info": "Ge 10D statt Mo (01.06.) St.2; Ge 9A verlegt nach St.8",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -21264,6 +21409,22 @@
          "raum": "K07",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "Ge",
+         "klasse": "9A",
+         "raum": "K07",
+         "info": "Ge 9A verlegt von St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Ge",
+         "klasse": "9A",
+         "raum": "K07",
+         "info": "Ge 9A verlegt von St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -21687,11 +21848,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "310",
+         "info": "Abgleich Abiklausuren; De 7A verlegt nach Do (04.06.) St.3 (Jur), Verlegung aufgrund Gedenkstättenfahrt, Ringtausch - SORRY!",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "De 7A verlegt nach Do (04.06.) St.4, Verlegung aufgrund Gedenkstättenfahrt, Ringtausch - SORRY!",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "310",
+         "info": "Abgleich Abiklausuren; De 7A verlegt nach Do (04.06.) St.4 (Jur), Verlegung aufgrund Gedenkstättenfahrt, Ringtausch - SORRY!",
          "geaendert": true
         },
         {
@@ -22558,19 +22735,19 @@
         },
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "10D",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10D verlegt nach Do (04.06.) St.1",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "10D",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10D verlegt nach Do (04.06.) St.2",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -22843,6 +23020,22 @@
       "Tuh": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "310",
+         "info": "Abgleich Abiklausuren",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "310",
+         "info": "Abgleich Abiklausuren",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "De",
          "klasse": "7D",
@@ -22902,7 +23095,7 @@
     },
     "20260604": {
      "datum": "Donnerstag, 04. Juni 2026",
-     "zeitstempel": "27.05.2026, 10:14",
+     "zeitstempel": "27.05.2026, 13:42",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -22953,10 +23146,10 @@
         },
         {
          "stunde": "3",
-         "fach": "Ma",
-         "klasse": "7B",
-         "raum": "004",
-         "info": "Ma 7B statt Fr (05.06.) St.1, Verlegung aufgrund 2. Staatsprüfung; PH1 12A-12E fällt aus",
+         "fach": "Ph",
+         "klasse": "11A-11D",
+         "raum": "201",
+         "info": "PH LK 11; PH1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -22969,10 +23162,10 @@
         },
         {
          "stunde": "4",
-         "fach": "Ma",
-         "klasse": "7B",
-         "raum": "004",
-         "info": "Ma 7B statt Fr (05.06.) St.2, Verlegung aufgrund 2. Staatsprüfung; PH1 12A-12E fällt aus",
+         "fach": "Ph",
+         "klasse": "11A-11D",
+         "raum": "201",
+         "info": "PH LK 11; PH1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -23231,7 +23424,15 @@
          "fach": "eRe",
          "klasse": "9B",
          "raum": "102",
-         "info": "eRe 9B verlegt von St.5",
+         "info": "eRe 9B verlegt von St.5; De 10D verlegt nach Do (04.06.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "10D",
+         "raum": "107",
+         "info": "De 10D statt Mi (03.06.) St.3; eRe 9B verlegt nach St.1",
          "geaendert": true
         },
         {
@@ -23239,7 +23440,15 @@
          "fach": "eRe",
          "klasse": "9B",
          "raum": "102",
-         "info": "eRe 9B verlegt von St.6",
+         "info": "eRe 9B verlegt von St.6; De 10D verlegt nach Do (04.06.) St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "10D",
+         "raum": "107",
+         "info": "De 10D statt Mi (03.06.) St.4; eRe 9B verlegt nach St.2",
          "geaendert": true
         },
         {
@@ -23251,11 +23460,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "7B",
+         "raum": "004",
+         "info": "De 7B statt Di (02.06.) St.5; De 7B verlegt nach Fr (05.06.) St.1 (Bes), Aufsicht vor 2. Staatsprüfung, Fr. Eulenberger erteilt Aufgaben",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "De 7B verlegt nach Fr (05.06.) St.2, 2. Staatsprüfung - Gib alles!",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "7B",
+         "raum": "004",
+         "info": "De 7B statt Di (02.06.) St.6; De 7B verlegt nach Fr (05.06.) St.2, 2. Staatsprüfung - Gib alles!",
          "geaendert": true
         },
         {
@@ -23398,22 +23623,6 @@
       },
       "Gol": {
        "entries": [
-        {
-         "stunde": "1",
-         "fach": "Ge",
-         "klasse": "10D",
-         "raum": "K07",
-         "info": "Ge 10D statt Mo (01.06.) St.1",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "Ge",
-         "klasse": "10D",
-         "raum": "K07",
-         "info": "Ge 10D statt Mo (01.06.) St.2",
-         "geaendert": true
-        },
         {
          "stunde": "3",
          "fach": "Ge",
@@ -24656,6 +24865,22 @@
       "Schil": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "10D",
+         "raum": "107",
+         "info": "De 10D statt Mi (03.06.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "10D",
+         "raum": "107",
+         "info": "De 10D statt Mi (03.06.) St.4",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -25079,7 +25304,7 @@
     },
     "20260605": {
      "datum": "Freitag, 05. Juni 2026",
-     "zeitstempel": "27.05.2026, 10:14",
+     "zeitstempel": "27.05.2026, 13:42",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -25133,7 +25358,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 7B gehalten am Do (04.06.) St.3, Verlegung aufgrund 2. Staatsprüfung",
+         "info": "Ma 7B gehalten am Di (02.06.) St.1",
          "geaendert": true
         },
         {
@@ -25141,7 +25366,7 @@
          "fach": "De",
          "klasse": "7B",
          "raum": "105",
-         "info": "statt Do (04.06.) St.3 (De Eul), Aufsicht vor 2. Staatsprüfung, Fr. Eulenberger erteilt Aufgaben; Ma 7B gehalten am Do (04.06.) St.3, Verlegung aufgrund 2. Staatsprüfung",
+         "info": "statt Do (04.06.) St.3 (De Eul), Aufsicht vor 2. Staatsprüfung, Fr. Eulenberger erteilt Aufgaben; Ma 7B gehalten am Di (02.06.) St.1",
          "geaendert": true
         },
         {
@@ -25149,7 +25374,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 7B gehalten am Do (04.06.) St.4, Verlegung aufgrund 2. Staatsprüfung",
+         "info": "Ma 7B gehalten am Di (02.06.) St.2",
          "geaendert": true
         },
         {

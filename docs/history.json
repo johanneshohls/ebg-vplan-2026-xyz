@@ -423,5 +423,154 @@
    "Std 6 (12:25): Bio 9C verlegt von St.4; BIO2 12A-12E fällt aus"
   ],
   "zeitstempel": "27.05.2026, 10:14"
+ },
+ {
+  "timestamp": "2026-05-27T11:56:56.423644",
+  "lehrer": "Bes",
+  "datum": "Donnerstag, 28. Mai 2026",
+  "date_key": "20260528",
+  "changes": [
+   "Std 3 (09:40): PH1 12A-12E fällt aus",
+   "Std 3 (09:40): PH LK 11; PH1 12A-12E fällt aus",
+   "Std 4 (10:25): PH1 12A-12E fällt aus",
+   "Std 4 (10:25): PH LK 11; PH1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "27.05.2026, 13:42"
+ },
+ {
+  "timestamp": "2026-05-27T11:56:56.423644",
+  "lehrer": "Bes",
+  "datum": "Freitag, 29. Mai 2026",
+  "date_key": "20260529",
+  "changes": [
+   "Std 3 (09:40): PH1 12A-12E fällt aus",
+   "Std 3 (09:40): PH LK 11; PH1 12A-12E fällt aus",
+   "Std 4 (10:25): PH1 12A-12E fällt aus",
+   "Std 4 (10:25): PH LK 11; PH1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "27.05.2026, 13:42"
+ },
+ {
+  "timestamp": "2026-05-27T11:56:56.423644",
+  "lehrer": "Bri",
+  "datum": "Freitag, 29. Mai 2026",
+  "date_key": "20260529",
+  "changes": [
+   "Std 1 (07:40): Planung UV",
+   "Std 2 (08:25): Planung UV",
+   "Std 5 (11:40): Planung UV",
+   "Std 6 (12:25): Planung UV"
+  ],
+  "zeitstempel": "27.05.2026, 13:42"
+ },
+ {
+  "timestamp": "2026-05-27T11:56:56.423644",
+  "lehrer": "See",
+  "datum": "Freitag, 29. Mai 2026",
+  "date_key": "20260529",
+  "changes": [
+   "Std 1 (07:40): Planung UV",
+   "Std 2 (08:25): Planung UV",
+   "Std 3 (09:40): BIO1 12A-12E fällt aus",
+   "Std 3 (09:40): Bio 10B statt Do (28.05.) St.5; BIO1 12A-12E fällt aus",
+   "Std 4 (10:25): BIO1 12A-12E fällt aus",
+   "Std 4 (10:25): Bio 10B statt Do (28.05.) St.6; BIO1 12A-12E fällt aus",
+   "Std 5 (11:40): Planung UV",
+   "Std 6 (12:25): Planung UV"
+  ],
+  "zeitstempel": "27.05.2026, 13:42"
+ },
+ {
+  "timestamp": "2026-05-27T11:56:56.423644",
+  "lehrer": "Gol",
+  "datum": "Montag, 01. Juni 2026",
+  "date_key": "20260601",
+  "changes": [
+   "Std 1 (07:40): Ge 10D verlegt nach Mi (03.06.) St.3",
+   "Std 2 (08:25): Ge 10D verlegt nach Mi (03.06.) St.4"
+  ],
+  "zeitstempel": "27.05.2026, 13:42"
+ },
+ {
+  "timestamp": "2026-05-27T11:56:56.423644",
+  "lehrer": "Kno",
+  "datum": "Montag, 01. Juni 2026",
+  "date_key": "20260601",
+  "changes": [
+   "Std 1 (07:40): AWT 9A verlegt nach St.5",
+   "Std 1 (07:40): ILZ 7E statt Do (04.06.) St.7, Fotograf; AWT 9A verlegt nach St.5",
+   "Std 2 (08:25): AWT 9A verlegt nach St.6",
+   "Std 2 (08:25): ILZ 7E statt Do (04.06.) St.8; AWT 9A verlegt nach St.6",
+   "Std 3 (09:40): AWT 7E verlegt nach Do (04.06.) St.7",
+   "Std 4 (10:25): AWT 7E verlegt nach Do (04.06.) St.8",
+   "Std 5 (11:40): ch2 12A-12E fällt aus",
+   "Std 5 (11:40): AWT 9A verlegt von St.1; ch2 12A-12E fällt aus",
+   "Std 6 (12:25): ch2 12A-12E fällt aus",
+   "Std 6 (12:25): AWT 9A verlegt von St.2; ch2 12A-12E fällt aus"
+  ],
+  "zeitstempel": "27.05.2026, 13:42"
+ },
+ {
+  "timestamp": "2026-05-27T11:56:56.423644",
+  "lehrer": "Köh",
+  "datum": "Montag, 01. Juni 2026",
+  "date_key": "20260601",
+  "changes": [
+   "Std 5 (11:40): Span 7E verlegt nach Fr (05.06.) St.3",
+   "Std 6 (12:25): Span 7E verlegt nach Fr (05.06.) St.4"
+  ],
+  "zeitstempel": "27.05.2026, 13:42"
+ },
+ {
+  "timestamp": "2026-05-27T11:56:56.423644",
+  "lehrer": "Bes",
+  "datum": "Dienstag, 02. Juni 2026",
+  "date_key": "20260602",
+  "changes": [
+   "Std 1 (07:40): Ma 7B statt Fr (05.06.) St.1",
+   "Std 2 (08:25): Ma 7B statt Fr (05.06.) St.2",
+   "Std 5 (11:40): PH1 12A-12E fällt aus",
+   "Std 5 (11:40): PH LK 11; PH1 12A-12E fällt aus",
+   "Std 6 (12:25): PH1 12A-12E fällt aus",
+   "Std 6 (12:25): PH LK 11; PH1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "27.05.2026, 13:42"
+ },
+ {
+  "timestamp": "2026-05-27T11:56:56.423644",
+  "lehrer": "Eul",
+  "datum": "Dienstag, 02. Juni 2026",
+  "date_key": "20260602",
+  "changes": [
+   "Std 5 (11:40): De 7B verlegt nach Do (04.06.) St.3",
+   "Std 6 (12:25): De 7B verlegt nach Do (04.06.) St.4"
+  ],
+  "zeitstempel": "27.05.2026, 13:42"
+ },
+ {
+  "timestamp": "2026-05-27T11:56:56.423644",
+  "lehrer": "Kno",
+  "datum": "Dienstag, 02. Juni 2026",
+  "date_key": "20260602",
+  "changes": [
+   "Std 1 (07:40): Ch 7B verlegt nach St.5",
+   "Std 1 (07:40): Ch 8C statt Do (04.06.) St.5; Ch 7B verlegt nach St.5",
+   "Std 2 (08:25): Ch 7B verlegt nach St.6",
+   "Std 2 (08:25): Ch 8C statt Do (04.06.) St.6; Ch 7B verlegt nach St.6",
+   "Std 5 (11:40): Ch 7B verlegt von St.1",
+   "Std 6 (12:25): Ch 7B verlegt von St.2"
+  ],
+  "zeitstempel": "27.05.2026, 13:42"
+ },
+ {
+  "timestamp": "2026-05-27T11:56:56.423644",
+  "lehrer": "Köh",
+  "datum": "Dienstag, 02. Juni 2026",
+  "date_key": "20260602",
+  "changes": [
+   "Std 5 (11:40): für Span Köh",
+   "Std 6 (12:25): für Span Köh"
+  ],
+  "zeitstempel": "27.05.2026, 13:42"
  }
 ]
