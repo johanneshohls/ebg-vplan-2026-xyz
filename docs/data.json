@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "28.05.2026, 08:40 Uhr",
- "last_changed": "2026-05-27T13:42:00",
+ "generiert": "28.05.2026, 12:03 Uhr",
+ "last_changed": "2026-05-28T12:11:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -11557,7 +11557,7 @@
     },
     "20260528": {
      "datum": "Donnerstag, 28. Mai 2026",
-     "zeitstempel": "27.05.2026, 13:42",
+     "zeitstempel": "28.05.2026, 12:11",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -11655,17 +11655,17 @@
          "stunde": "5",
          "fach": "Mu",
          "klasse": "10C",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Mu Bir",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Mu",
          "klasse": "10C",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Mu Bir",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -13496,7 +13496,7 @@
          "stunde": "7",
          "fach": "Bio",
          "klasse": "10A",
-         "raum": "204",
+         "raum": "205",
          "info": "Bio 10A statt Mi (27.05.) St.7; Bio 10D gehalten am Mi (27.05.) St.1",
          "geaendert": true
         },
@@ -13512,7 +13512,7 @@
          "stunde": "8",
          "fach": "Bio",
          "klasse": "10A",
-         "raum": "204",
+         "raum": "205",
          "info": "Bio 10A statt Mi (27.05.) St.8; Bio 10D gehalten am Mi (27.05.) St.2",
          "geaendert": true
         }
@@ -13727,17 +13727,17 @@
          "stunde": "7",
          "fach": "bio1",
          "klasse": "11A-11D",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Bio Ter",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "bio1",
          "klasse": "11A-11D",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Bio Ter",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13919,7 +13919,7 @@
     },
     "20260529": {
      "datum": "Freitag, 29. Mai 2026",
-     "zeitstempel": "27.05.2026, 13:42",
+     "zeitstempel": "28.05.2026, 12:11",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -14176,17 +14176,17 @@
          "stunde": "3",
          "fach": "De",
          "klasse": "10D",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für De Schil",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "De",
          "klasse": "10D",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für De Schil",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -14257,17 +14257,17 @@
          "stunde": "5",
          "fach": "ILZ",
          "klasse": "9C",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "Co2",
+         "info": "für ILZ Fel",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "KL",
          "klasse": "9C",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "Co2",
+         "info": "für KL Fel",
+         "geaendert": true
         },
         {
          "stunde": "9",
@@ -14811,17 +14811,17 @@
          "stunde": "5",
          "fach": "De",
          "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für De Jur, Klausur",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "De",
          "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für De Jur",
+         "geaendert": true
         },
         {
          "stunde": "9",
@@ -15543,17 +15543,17 @@
          "stunde": "3",
          "fach": "De",
          "klasse": "10D",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für De Schil",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "De",
          "klasse": "10D",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für De Schil",
+         "geaendert": true
         },
         {
          "stunde": "5",
