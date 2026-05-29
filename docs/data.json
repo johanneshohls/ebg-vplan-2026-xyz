@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "29.05.2026, 11:54 Uhr",
- "last_changed": "2026-05-29T09:28:00",
+ "generiert": "29.05.2026, 14:29 Uhr",
+ "last_changed": "2026-05-29T14:58:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16044,7 +16044,7 @@
    "tage": {
     "20260601": {
      "datum": "Montag, 01. Juni 2026",
-     "zeitstempel": "29.05.2026, 01:38",
+     "zeitstempel": "29.05.2026, 14:58",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -17585,19 +17585,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Ku",
-         "klasse": "7B",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 7B verlegt nach Mi (03.06.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ku",
-         "klasse": "7B",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 7B verlegt nach Mi (03.06.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -18274,25 +18274,25 @@
     },
     "20260602": {
      "datum": "Dienstag, 02. Juni 2026",
-     "zeitstempel": "29.05.2026, 01:38",
+     "zeitstempel": "29.05.2026, 14:58",
      "lehrer": {
       "Bar": {
        "entries": [
         {
          "stunde": "3",
-         "fach": "inf1",
-         "klasse": "11A-11D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 11A-11D selbst. (v), Selbststudium, Anwesenheitspflicht",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "inf1",
-         "klasse": "11A-11D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 11A-11D selbst. (v), Selbststudium, Anwesenheitspflicht",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20820,7 +20820,7 @@
     },
     "20260603": {
      "datum": "Mittwoch, 03. Juni 2026",
-     "zeitstempel": "29.05.2026, 09:28",
+     "zeitstempel": "29.05.2026, 14:58",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -20862,19 +20862,19 @@
         },
         {
          "stunde": "5",
-         "fach": "Ma",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7B verlegt nach Fr (05.06.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ma",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7B verlegt nach Fr (05.06.) St.4",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -20954,19 +20954,19 @@
         },
         {
          "stunde": "7",
-         "fach": "GS06",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS06 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS06",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS06 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -22679,6 +22679,22 @@
          "raum": "104",
          "info": "Ku 7C statt Di (02.06.) St.6",
          "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Ku",
+         "klasse": "7B",
+         "raum": "207",
+         "info": "Ku 7B statt Mo (01.06.) St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ku",
+         "klasse": "7B",
+         "raum": "207",
+         "info": "Ku 7B statt Mo (01.06.) St.8",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -23111,7 +23127,7 @@
     },
     "20260604": {
      "datum": "Donnerstag, 04. Juni 2026",
-     "zeitstempel": "29.05.2026, 01:38",
+     "zeitstempel": "29.05.2026, 14:58",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -25353,7 +25369,7 @@
     },
     "20260605": {
      "datum": "Freitag, 05. Juni 2026",
-     "zeitstempel": "29.05.2026, 01:38",
+     "zeitstempel": "29.05.2026, 14:58",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -25435,11 +25451,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "Ma 7B statt Mi (03.06.) St.5; ma2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "ma2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "Ma 7B statt Mi (03.06.) St.6; ma2 12A-12E fällt aus",
          "geaendert": true
         }
        ],
@@ -26042,35 +26074,51 @@
         },
         {
          "stunde": "3",
-         "fach": "En",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7B verlegt nach St.5",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "En",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7B verlegt nach St.6",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "ILZ",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
          "klasse": "7B",
          "raum": "003",
-         "info": "",
-         "geaendert": false
+         "info": "En 7B verlegt von St.3; ILZ 7B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "ILZ",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
          "klasse": "7B",
          "raum": "003",
-         "info": "",
-         "geaendert": false
+         "info": "En 7B verlegt von St.4; ILZ 7B fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
