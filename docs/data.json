@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "31.05.2026, 16:58 Uhr",
- "last_changed": "2026-05-29T14:58:00",
+ "generiert": "31.05.2026, 17:59 Uhr",
+ "last_changed": "2026-05-31T19:37:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16044,7 +16044,7 @@
    "tage": {
     "20260601": {
      "datum": "Montag, 01. Juni 2026",
-     "zeitstempel": "29.05.2026, 14:58",
+     "zeitstempel": "31.05.2026, 19:37",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -17292,7 +17292,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "erst Haus, dann Hof2+GKLZ",
-         "info": "entfällt, V: Roh"
+         "info": "entfällt, V: Tie"
         }
        ]
       },
@@ -17694,10 +17694,10 @@
        ],
        "aufsichten": [
         {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "erst Haus, dann Hof2+GKLZ",
-         "info": "für Leu"
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": "für Tie"
         }
        ]
       },
@@ -18105,7 +18105,13 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Hof2 und grünes Klassenzimmer",
-         "info": ""
+         "info": "entfällt, V: Roh"
+        },
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "erst Haus, dann Hof2+GKLZ",
+         "info": "für Leu"
         }
        ]
       },
