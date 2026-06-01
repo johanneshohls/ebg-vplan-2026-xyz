@@ -126,8 +126,16 @@ jobs:
           fi
           git commit -m "Update plan data [skip ci]"
           for i in 1 2 3 4 5; do
-            git pull --rebase origin main && git push && exit 0
-            echo "Push fehlgeschlagen (Versuch $i) — neu rebasen und retry..."
+            git fetch origin main
+            if ! git merge --no-edit origin/main; then
+              # Konflikte entstehen nur in den generierten Artefakten.
+              # Unsere frisch erzeugten Versionen sind maßgeblich → "ours" gewinnt.
+              git checkout --ours docs/data.json docs/history.json docs/ical/ 2>/dev/null || true
+              git add docs/data.json docs/history.json docs/ical/
+              git commit --no-edit
+            fi
+            git push && exit 0
+            echo "Push fehlgeschlagen (Versuch $i) — neu mergen und retry..."
             sleep $((i * 3))
           done
           echo "Push nach 5 Versuchen weiterhin fehlgeschlagen."
