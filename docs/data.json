@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "01.06.2026, 08:51 Uhr",
- "last_changed": "2026-06-01T09:31:00",
+ "generiert": "01.06.2026, 10:16 Uhr",
+ "last_changed": "2026-06-01T11:31:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -7107,7 +7107,7 @@
    "tage": {
     "20260601": {
      "datum": "Montag, 01. Juni 2026",
-     "zeitstempel": "01.06.2026, 09:31",
+     "zeitstempel": "01.06.2026, 11:31",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -8100,7 +8100,56 @@
        ]
       },
       "Käc": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "Ph",
+         "klasse": "",
+         "raum": "",
+         "info": "Hospitation 7a bei Hun R205",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ph",
+         "klasse": "",
+         "raum": "",
+         "info": "Hospitation 7a bei Hun R205",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "B",
+         "klasse": "VK",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "B",
+         "klasse": "VK",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "B",
+         "klasse": "VK",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "8",
+         "fach": "B",
+         "klasse": "VK",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        }
+       ],
        "aufsichten": []
       },
       "Kar": {
@@ -9347,7 +9396,7 @@
     },
     "20260602": {
      "datum": "Dienstag, 02. Juni 2026",
-     "zeitstempel": "01.06.2026, 09:31",
+     "zeitstempel": "01.06.2026, 11:30",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -10693,10 +10742,26 @@
        "entries": [
         {
          "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
          "fach": "Ma",
          "klasse": "",
          "raum": "",
-         "info": "Hospitation bei Hr. Seidelmann 7a 002",
+         "info": "Hospitation in der 7a 002; B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "B VK fällt aus",
          "geaendert": true
         },
         {
@@ -10704,8 +10769,40 @@
          "fach": "Ma",
          "klasse": "",
          "raum": "",
-         "info": "Hospitation bei Hr. Seidelmann 7a 002",
+         "info": "Hospitation in der 7a 002; B VK fällt aus",
          "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "B",
+         "klasse": "VK",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "B",
+         "klasse": "VK",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "B",
+         "klasse": "VK",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "B",
+         "klasse": "VK",
+         "raum": "",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": []
@@ -11962,7 +12059,7 @@
     },
     "20260603": {
      "datum": "Mittwoch, 03. Juni 2026",
-     "zeitstempel": "01.06.2026, 09:31",
+     "zeitstempel": "01.06.2026, 11:30",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -13091,10 +13188,26 @@
        "entries": [
         {
          "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
          "fach": "Ma",
          "klasse": "",
          "raum": "",
-         "info": "Hospitation bei Hr. Hohls 7d 106",
+         "info": "Hospitation bei Hr. Hohls 7d 106; B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "B VK fällt aus",
          "geaendert": true
         },
         {
@@ -13102,7 +13215,7 @@
          "fach": "Ma",
          "klasse": "",
          "raum": "",
-         "info": "Hospitation bei Hr. Hohls 7d 106",
+         "info": "Hospitation bei Hr. Hohls 7d 106; B VK fällt aus",
          "geaendert": true
         }
        ],
@@ -14322,7 +14435,7 @@
     },
     "20260604": {
      "datum": "Donnerstag, 04. Juni 2026",
-     "zeitstempel": "01.06.2026, 09:31",
+     "zeitstempel": "01.06.2026, 11:30",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -16568,7 +16681,7 @@
     },
     "20260605": {
      "datum": "Freitag, 05. Juni 2026",
-     "zeitstempel": "01.06.2026, 07:35",
+     "zeitstempel": "01.06.2026, 11:30",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17526,6 +17639,10 @@
          "geaendert": false
         }
        ],
+       "aufsichten": []
+      },
+      "Käc": {
+       "entries": [],
        "aufsichten": []
       },
       "Kar": {
