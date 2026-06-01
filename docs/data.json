@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "01.06.2026, 10:16 Uhr",
- "last_changed": "2026-06-01T11:31:00",
+ "generiert": "01.06.2026, 16:19 Uhr",
+ "last_changed": "2026-06-01T15:32:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -9396,7 +9396,7 @@
     },
     "20260602": {
      "datum": "Dienstag, 02. Juni 2026",
-     "zeitstempel": "01.06.2026, 11:30",
+     "zeitstempel": "01.06.2026, 15:32",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -9494,17 +9494,17 @@
          "stunde": "3",
          "fach": "Mu",
          "klasse": "8C",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Mu Bir",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Mu",
          "klasse": "8C",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Mu Bir",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -9818,19 +9818,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Club2",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club2 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club2",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club2 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -11874,7 +11874,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "erst Haus, dann Hof2+GKLZ",
+         "info": "für Ter"
+        }
+       ]
       },
       "Stu": {
        "entries": [],
@@ -11924,7 +11931,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "erst Haus, dann Hof2+GKLZ",
-         "info": ""
+         "info": "entfällt, V: Sta"
         }
        ]
       },
@@ -12059,7 +12066,7 @@
     },
     "20260603": {
      "datum": "Mittwoch, 03. Juni 2026",
-     "zeitstempel": "01.06.2026, 11:30",
+     "zeitstempel": "01.06.2026, 15:32",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -13232,12 +13239,28 @@
          "geaendert": false
         },
         {
+         "stunde": "5",
+         "fach": "Mu",
+         "klasse": "11A-11D",
+         "raum": "Aula",
+         "info": "Operneinführung ; Pro3 11A-11D Kar, Operneinführung",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "pro31",
          "klasse": "11A-11D",
          "raum": "HÜA",
          "info": "für Pro3 Kar, Operneinführung",
          "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "Mu",
+         "klasse": "11A-11D",
+         "raum": "Aula",
+         "info": "Operneinführung ; Pro3 11A-11D Kar, Operneinführung",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -13501,6 +13524,22 @@
          "raum": "008",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "101",
+         "info": "Nachschrift Jill Richter",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "101",
+         "info": "Nachschrift Jill Richter",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -14435,7 +14474,7 @@
     },
     "20260604": {
      "datum": "Donnerstag, 04. Juni 2026",
-     "zeitstempel": "01.06.2026, 11:30",
+     "zeitstempel": "01.06.2026, 15:32",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -16681,7 +16720,7 @@
     },
     "20260605": {
      "datum": "Freitag, 05. Juni 2026",
-     "zeitstempel": "01.06.2026, 11:30",
+     "zeitstempel": "01.06.2026, 15:32",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17180,6 +17219,22 @@
          "raum": "101",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Besprechung der Abiturergebnisse",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Besprechung der Abiturergebnisse",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -18402,17 +18457,17 @@
          "stunde": "5",
          "fach": "phil2",
          "klasse": "11A-11D",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Phil Schuc, + Nachschreiber",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "phil2",
          "klasse": "11A-11D",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Phil Schuc, + Nachschreiber",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -18652,6 +18707,22 @@
          "raum": "201",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Besprechung der Abiturergebnisse",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Besprechung der Abiturergebnisse",
+         "geaendert": true
         }
        ],
        "aufsichten": []
