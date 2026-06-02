@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "02.06.2026, 09:04 Uhr",
- "last_changed": "2026-06-01T15:32:00",
+ "generiert": "02.06.2026, 12:48 Uhr",
+ "last_changed": "2026-06-02T13:22:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12066,7 +12066,7 @@
     },
     "20260603": {
      "datum": "Mittwoch, 03. Juni 2026",
-     "zeitstempel": "01.06.2026, 15:32",
+     "zeitstempel": "02.06.2026, 12:41",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -12495,19 +12495,19 @@
        "entries": [
         {
          "stunde": "7",
-         "fach": "GS01",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS01 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS01",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS01 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13002,17 +13002,17 @@
          "stunde": "5",
          "fach": "En",
          "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "005",
+         "info": "für En Hol",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "En",
          "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "005",
+         "info": "für En Hol",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13580,51 +13580,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Sk",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 8B Schuc, Aufsicht: Fr. Lieweke schickt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Sk",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 8B Schuc, Aufsicht: Fr. Lieweke schickt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Sk",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 8D OLop, Aufsicht: Fr. Lieweke schickt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Sk",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 8D OLop, Aufsicht: Fr. Lieweke schickt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Sk",
-         "klasse": "10D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 10D See, Klausur",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Sk",
-         "klasse": "10D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 10D See, Klausur",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13792,6 +13792,22 @@
       },
       "OLop": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "Sk",
+         "klasse": "8D",
+         "raum": "103",
+         "info": "für Sk Lie, Aufsicht: Fr. Lieweke schickt Aufgaben",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Sk",
+         "klasse": "8D",
+         "raum": "103",
+         "info": "für Sk Lie, Aufsicht: Fr. Lieweke schickt Aufgaben",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "Span",
@@ -14142,11 +14158,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "Sk",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "für Sk Lie, Aufsicht: Fr. Lieweke schickt Aufgaben",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "phil2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Sk",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "für Sk Lie, Aufsicht: Fr. Lieweke schickt Aufgaben",
          "geaendert": true
         },
         {
@@ -14191,6 +14223,22 @@
       },
       "See": {
        "entries": [
+        {
+         "stunde": "5",
+         "fach": "Sk",
+         "klasse": "10D",
+         "raum": "Co2",
+         "info": "für Sk Lie, Klausur",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Sk",
+         "klasse": "10D",
+         "raum": "Co2",
+         "info": "für Sk Lie, Klausur",
+         "geaendert": true
+        },
         {
          "stunde": "7",
          "fach": "Bio",
@@ -14474,7 +14522,7 @@
     },
     "20260604": {
      "datum": "Donnerstag, 04. Juni 2026",
-     "zeitstempel": "01.06.2026, 15:32",
+     "zeitstempel": "02.06.2026, 12:41",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -16720,7 +16768,7 @@
     },
     "20260605": {
      "datum": "Freitag, 05. Juni 2026",
-     "zeitstempel": "01.06.2026, 15:32",
+     "zeitstempel": "02.06.2026, 12:41",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17902,11 +17950,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "für De Ost, Aufsicht: Fr. Ostendorf erteilt Aufgaben",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "ma3 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "für De Ost, Aufsicht: Fr. Ostendorf erteilt Aufgaben",
          "geaendert": true
         },
         {
@@ -18142,19 +18206,19 @@
         },
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8B Leu, Aufsicht: Fr. Ostendorf erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8B Leu, Aufsicht: Fr. Ostendorf erteilt Aufgaben",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -18855,7 +18919,7 @@
    "tage": {
     "20260608": {
      "datum": "Montag, 08. Juni 2026",
-     "zeitstempel": "29.05.2026, 14:36",
+     "zeitstempel": "02.06.2026, 12:41",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -19392,6 +19456,22 @@
       "Hei": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "Geo",
+         "klasse": "12A-12E",
+         "raum": "002",
+         "info": "Konsultationen Geo 12 alle Kurse",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Geo",
+         "klasse": "12A-12E",
+         "raum": "002",
+         "info": "Konsultationen Geo 12 alle Kurse",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "geo1",
          "klasse": "11A-11D",
@@ -19425,19 +19505,19 @@
         },
         {
          "stunde": "7",
-         "fach": "geo2",
-         "klasse": "12A-12E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "geo2 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "geo2",
-         "klasse": "12A-12E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "geo2 12A-12E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -19869,6 +19949,27 @@
          "info": ""
         }
        ]
+      },
+      "Käc": {
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "B",
+         "klasse": "VK2",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "B",
+         "klasse": "VK2",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
       },
       "Kar": {
        "entries": [
@@ -20937,7 +21038,7 @@
     },
     "20260609": {
      "datum": "Dienstag, 09. Juni 2026",
-     "zeitstempel": "29.05.2026, 14:36",
+     "zeitstempel": "02.06.2026, 12:41",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -21015,12 +21116,28 @@
          "geaendert": false
         },
         {
+         "stunde": "7",
+         "fach": "Mu",
+         "klasse": "9A-9D,10A-10D,11A-11D",
+         "raum": "Aula",
+         "info": "Treffen der Chöre (Club, MUE) in der Aula",
+         "geaendert": true
+        },
+        {
          "stunde": "8",
          "fach": "Mu",
          "klasse": "10D",
          "raum": "107",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "8",
+         "fach": "Mu",
+         "klasse": "9A-9D,10A-10D,11A-11D",
+         "raum": "Aula",
+         "info": "Treffen der Chöre (Club, MUE) in der Aula",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -22129,6 +22246,43 @@
          "fach": "Phil",
          "klasse": "10C",
          "raum": "102",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Käc": {
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "B",
+         "klasse": "VK2",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "B",
+         "klasse": "VK2",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "B",
+         "klasse": "VK2",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "B",
+         "klasse": "VK2",
+         "raum": "",
          "info": "",
          "geaendert": false
         }
@@ -23320,7 +23474,7 @@
     },
     "20260610": {
      "datum": "Mittwoch, 10. Juni 2026",
-     "zeitstempel": "29.05.2026, 14:36",
+     "zeitstempel": "02.06.2026, 12:41",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -23422,19 +23576,19 @@
         },
         {
          "stunde": "9",
-         "fach": "mue1",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "mue1 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "10",
-         "fach": "mue1",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "mue1 12A-12E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -23895,7 +24049,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": "für Roh"
+        }
+       ]
       },
       "Her": {
        "entries": [
@@ -24261,6 +24422,59 @@
         }
        ]
       },
+      "Käc": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "B",
+         "klasse": "VK2",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "B",
+         "klasse": "VK2",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "B",
+         "klasse": "VK2",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "B",
+         "klasse": "VK2",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "B",
+         "klasse": "VK2",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "B",
+         "klasse": "VK2",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
       "Kar": {
        "entries": [
         {
@@ -24307,6 +24521,22 @@
       },
       "Kno": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Ch",
+         "klasse": "8C",
+         "raum": "Co3",
+         "info": "Ch 8C statt Fr (12.06.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ch",
+         "klasse": "8C",
+         "raum": "Co3",
+         "info": "Ch 8C statt Fr (12.06.) St.2",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "w1",
@@ -25055,7 +25285,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Hof2 und grünes Klassenzimmer",
-         "info": ""
+         "info": "entfällt, V: Hei"
         }
        ]
       },
@@ -25099,19 +25329,19 @@
         },
         {
          "stunde": "5",
-         "fach": "dsp2",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "dsp2 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "dsp2",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "dsp2 12A-12E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -25249,19 +25479,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Inf",
-         "klasse": "8C",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 8C verlegt nach Fr (12.06.) St.1",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Inf",
-         "klasse": "8C",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 8C verlegt nach Fr (12.06.) St.2",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -25546,7 +25776,7 @@
     },
     "20260611": {
      "datum": "Donnerstag, 11. Juni 2026",
-     "zeitstempel": "29.05.2026, 14:36",
+     "zeitstempel": "02.06.2026, 12:41",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -26222,19 +26452,19 @@
         },
         {
          "stunde": "7",
-         "fach": "geo2",
-         "klasse": "12A-12E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "geo2 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "geo2",
-         "klasse": "12A-12E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "geo2 12A-12E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -26700,6 +26930,10 @@
          "geaendert": true
         }
        ],
+       "aufsichten": []
+      },
+      "Käc": {
+       "entries": [],
        "aufsichten": []
       },
       "Kar": {
@@ -27904,7 +28138,7 @@
     },
     "20260612": {
      "datum": "Freitag, 12. Juni 2026",
-     "zeitstempel": "29.05.2026, 14:36",
+     "zeitstempel": "02.06.2026, 13:22",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -28411,6 +28645,22 @@
          "geaendert": false
         },
         {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Nachschriften",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Nachschriften",
+         "geaendert": true
+        },
+        {
          "stunde": "9",
          "fach": "KL",
          "klasse": "8A",
@@ -28547,19 +28797,19 @@
         },
         {
          "stunde": "3",
-         "fach": "EN2",
-         "klasse": "12A-12E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "EN2 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "EN2",
-         "klasse": "12A-12E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "EN2 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "9",
@@ -28576,19 +28826,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "dsp1",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "dsp1 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "dsp1",
-         "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "dsp1 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -28673,19 +28923,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "DE2",
-         "klasse": "12A-12E",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "DE2 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "DE2",
-         "klasse": "12A-12E",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "DE2 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -28714,6 +28964,10 @@
        ],
        "aufsichten": []
       },
+      "Käc": {
+       "entries": [],
+       "aufsichten": []
+      },
       "Kar": {
        "entries": [
         {
@@ -28739,19 +28993,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ch",
-         "klasse": "8C",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 8C gehalten am Mi (10.06.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "ILZ",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "ILZ 7E verlegt von St.5; Ch 8C gehalten am Mi (10.06.) St.1",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ch",
-         "klasse": "8C",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 8C gehalten am Mi (10.06.) St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "KL 7E verlegt von St.6; Ch 8C gehalten am Mi (10.06.) St.2",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -28771,19 +29041,19 @@
         },
         {
          "stunde": "5",
-         "fach": "ILZ",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7E verlegt nach St.1",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "KL",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7E verlegt nach St.2",
+         "geaendert": true
         },
         {
          "stunde": "9",
@@ -29473,19 +29743,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "GE1",
-         "klasse": "12A-12E",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GE1 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "GE1",
-         "klasse": "12A-12E",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GE1 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -29626,11 +29896,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "Inf",
+         "klasse": "8C",
+         "raum": "K10",
+         "info": "Inf 8C statt Mi (10.06.) St.1; Inf 10B gehalten am Do (11.06.) St.7",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Inf 10B gehalten am Do (11.06.) St.8",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Inf",
+         "klasse": "8C",
+         "raum": "K10",
+         "info": "Inf 8C statt Mi (10.06.) St.2; Inf 10B gehalten am Do (11.06.) St.8",
          "geaendert": true
         },
         {
@@ -29713,19 +29999,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7E verlegt nach St.5",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "De",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7E verlegt nach St.6",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -29736,11 +30022,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "7E",
+         "raum": "207",
+         "info": "De 7E verlegt von St.1; BIO2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "BIO2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "7E",
+         "raum": "207",
+         "info": "De 7E verlegt von St.2; BIO2 12A-12E fällt aus",
          "geaendert": true
         }
        ],
