@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "03.06.2026, 23:19 Uhr",
- "last_changed": "2026-06-03T13:15:00",
+ "generiert": "04.06.2026, 08:44 Uhr",
+ "last_changed": "2026-06-04T09:31:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16839,7 +16839,7 @@
     },
     "20260605": {
      "datum": "Freitag, 05. Juni 2026",
-     "zeitstempel": "03.06.2026, 13:15",
+     "zeitstempel": "04.06.2026, 09:31",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17156,34 +17156,34 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "DE2",
-         "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "1",
          "fach": "---",
          "klasse": "",
          "raum": "310",
-         "info": "Eröffnung 2. Staatsprüfung R 310 07:55 Uhr",
+         "info": "Eröffnung 2. Staatsprüfung R 310 07:55 Uhr; De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
          "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "DE2",
-         "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "De",
          "klasse": "7B",
          "raum": "105",
-         "info": "De 7B statt Do (04.06.) St.4, 2. Staatsprüfung - Gib alles!",
+         "info": "De 7B statt Do (04.06.) St.4, 2. Staatsprüfung - Gib alles!; De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
          "geaendert": true
         },
         {
@@ -18553,34 +18553,34 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "DE2",
-         "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "1",
          "fach": "---",
          "klasse": "",
          "raum": "310",
-         "info": "Eröffnung 2. Staatsprüfung R 310 07:55 Uhr",
+         "info": "Eröffnung 2. Staatsprüfung R 310 07:55 Uhr; De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
          "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "DE2",
-         "klasse": "11A-11D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "De",
          "klasse": "",
          "raum": "",
-         "info": "Hospitation der Prüfungsstunde 7b 105",
+         "info": "Hospitation der Prüfungsstunde 7b 105; De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
          "geaendert": true
         },
         {

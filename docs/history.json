@@ -1177,5 +1177,42 @@
    "Std 4 (10:25): EN1 12A-12E fällt aus"
   ],
   "zeitstempel": "03.06.2026, 13:15"
+ },
+ {
+  "timestamp": "2026-06-04T08:44:52.015234",
+  "lehrer": "Eul",
+  "datum": "Freitag, 05. Juni 2026",
+  "date_key": "20260605",
+  "changes": [
+   "Std 1 (07:40): De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
+   "Std 1 (07:40): Eröffnung 2. Staatsprüfung R 310 07:55 Uhr; De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
+   "Std 2 (08:25): De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
+   "Std 2 (08:25): De 7B statt Do (04.06.) St.4, 2. Staatsprüfung - Gib alles!; De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
+   "Std 3 (09:40): Auswertung der Prüfungsstunde",
+   "Std 4 (10:25): Auswertung der Prüfungsstunde",
+   "Std 5 (11:40): für eRe Rat, 2. Staatsprüfung - Fast geschafft! :)",
+   "Std 6 (12:25): eRe 11A-11D Con, Aufsicht nach Prüfung, Fr. Eulenberger erteilt Aufgaben",
+   "Std 6 (12:25): Auswertung der Prüfungsstunde; eRe 11A-11D Con, Aufsicht nach Prüfung, Fr. Eulenberger erteilt Aufgaben",
+   "Std 7 (13:40): Auswertung / Verkündung",
+   "Std 8 (14:25): Auswertung / Verkündung"
+  ],
+  "zeitstempel": "04.06.2026, 09:31"
+ },
+ {
+  "timestamp": "2026-06-04T08:44:52.015234",
+  "lehrer": "Schil",
+  "datum": "Freitag, 05. Juni 2026",
+  "date_key": "20260605",
+  "changes": [
+   "Std 1 (07:40): De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
+   "Std 1 (07:40): Eröffnung 2. Staatsprüfung R 310 07:55 Uhr; De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
+   "Std 2 (08:25): De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
+   "Std 2 (08:25): Hospitation der Prüfungsstunde 7b 105; De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
+   "Std 3 (09:40): Auswertung der Prüfungsstunde",
+   "Std 4 (10:25): Auswertung der Prüfungsstunde",
+   "Std 7 (13:40): Auswertung / Verkündung",
+   "Std 8 (14:25): Auswertung / Verkündung"
+  ],
+  "zeitstempel": "04.06.2026, 09:31"
  }
 ]
