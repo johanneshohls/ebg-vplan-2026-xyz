@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "04.06.2026, 22:44 Uhr",
- "last_changed": "2026-06-04T09:31:00",
+ "generiert": "05.06.2026, 08:41 Uhr",
+ "last_changed": "2026-06-05T09:34:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16839,7 +16839,7 @@
     },
     "20260605": {
      "datum": "Freitag, 05. Juni 2026",
-     "zeitstempel": "04.06.2026, 09:31",
+     "zeitstempel": "05.06.2026, 09:34",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17313,7 +17313,13 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Hof 1, WC, Container",
-         "info": ""
+         "info": "entfällt, V: Hol"
+        },
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof 1, WC, Container",
+         "info": "für Hol"
         }
        ]
       },
@@ -17663,49 +17669,49 @@
          "stunde": "1",
          "fach": "Ma",
          "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für Ma Hoh, Aufteilung gemäß Aushang",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Ma",
          "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für Ma Hoh, Aufteilung gemäß Aushang",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Ph",
-         "klasse": "7D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7D Hol (für Ph)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ph",
-         "klasse": "7D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7D Hol (für Ph)",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Ph",
+         "fach": "Ma",
          "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für Ph Hoh, Aufteilung gemäß Aushang, Aufgaben von Fr. Brincker sind im Sekretariat abzuholen",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ph",
+         "fach": "Ma",
          "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für Ph Hoh, Aufteilung gemäß Aushang, Aufgaben von Fr. Brincker sind im Sekretariat abzuholen",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -17713,7 +17719,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Essenraum und Keller",
-         "info": ""
+         "info": "entfällt, V: OLop"
         }
        ]
       },
@@ -17733,6 +17739,22 @@
          "klasse": "11A-11D",
          "raum": "Aula",
          "info": "für En Hol",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "7D",
+         "raum": "205",
+         "info": "für Ph Hoh",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "7D",
+         "raum": "205",
+         "info": "für Ph Hoh",
          "geaendert": true
         },
         {
@@ -17773,7 +17795,13 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Hof 1, WC, Container",
-         "info": ""
+         "info": "entfällt, V: Fel"
+        },
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof 1, WC, Container",
+         "info": "für Fel"
         }
        ]
       },
@@ -18319,7 +18347,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Essenraum und Keller",
+         "info": "für Hoh"
+        }
+       ]
       },
       "Ost": {
        "entries": [

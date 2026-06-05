@@ -1,130 +1,5 @@
 [
  {
-  "timestamp": "2026-05-29T08:39:58.999419",
-  "lehrer": "Bod",
-  "datum": "Montag, 01. Juni 2026",
-  "date_key": "20260601",
-  "changes": [
-   "Std 1 (07:40): Sp 9B Stu",
-   "Std 2 (08:25): Sp 9B Stu",
-   "Std 3 (09:40): Sk 11A-11D selbst. (v), Selbststudium, Herr Bode erteillt Aufgaben",
-   "Std 4 (10:25): Sk 11A-11D selbst. (v), Selbststudium, Herr Bode erteillt Aufgaben",
-   "Std 5 (11:40): sp1 12A-12E fällt aus",
-   "Std 6 (12:25): sp1 12A-12E fällt aus",
-   "Std 7 (13:40): Sp 7E Stu",
-   "Std 8 (14:25): Sp 7E Stu"
-  ],
-  "zeitstempel": "29.05.2026, 01:38"
- },
- {
-  "timestamp": "2026-05-29T08:39:58.999419",
-  "lehrer": "Con",
-  "datum": "Montag, 01. Juni 2026",
-  "date_key": "20260601",
-  "changes": [
-   "Std 7 (13:40): für Inf Con, Klausur, ggf. zusätzliche Nachschreiber",
-   "Std 8 (14:25): für Inf Con, Klausur, ggf. zusätzliche Nachschreiber"
-  ],
-  "zeitstempel": "29.05.2026, 01:38"
- },
- {
-  "timestamp": "2026-05-29T08:39:58.999419",
-  "lehrer": "Hin",
-  "datum": "Montag, 01. Juni 2026",
-  "date_key": "20260601",
-  "changes": [
-   "Std 1 (07:40): B VK2 fällt aus",
-   "Std 2 (08:25): B VK2 fällt aus"
-  ],
-  "zeitstempel": "29.05.2026, 01:38"
- },
- {
-  "timestamp": "2026-05-29T08:39:58.999419",
-  "lehrer": "Hol",
-  "datum": "Montag, 01. Juni 2026",
-  "date_key": "20260601",
-  "changes": [
-   "Std 3 (09:40): ILZ 10A fällt aus",
-   "Std 3 (09:40): Nachprüfungen; ILZ 10A fällt aus",
-   "Std 4 (10:25): ILZ 10A fällt aus",
-   "Std 4 (10:25): Nachprüfungen; ILZ 10A fällt aus",
-   "Std 5 (11:40): verlegt von St.1 (En Bis)",
-   "Std 6 (12:25): verlegt von St.2 (En Bis)"
-  ],
-  "zeitstempel": "29.05.2026, 01:38"
- },
- {
-  "timestamp": "2026-05-29T08:39:58.999419",
-  "lehrer": "Wag",
-  "datum": "Montag, 01. Juni 2026",
-  "date_key": "20260601",
-  "changes": [
-   "Std 1 (07:40): En 9A verlegt von St.5",
-   "Std 2 (08:25): En 9A verlegt von St.6",
-   "Std 3 (09:40): Nachprüfungen",
-   "Std 4 (10:25): Nachprüfungen",
-   "Std 5 (11:40): En 9A verlegt nach St.1",
-   "Std 5 (11:40): verlegt von St.3 (En Bis); En 9A verlegt nach St.1",
-   "Std 6 (12:25): En 9A verlegt nach St.2",
-   "Std 6 (12:25): verlegt von St.4 (En Bis); En 9A verlegt nach St.2"
-  ],
-  "zeitstempel": "29.05.2026, 01:38"
- },
- {
-  "timestamp": "2026-05-29T08:39:58.999419",
-  "lehrer": "Hin",
-  "datum": "Dienstag, 02. Juni 2026",
-  "date_key": "20260602",
-  "changes": [
-   "Std 1 (07:40): B VK2 fällt aus",
-   "Std 2 (08:25): B VK2 fällt aus",
-   "Std 3 (09:40): B VK2 fällt aus",
-   "Std 4 (10:25): B VK2 fällt aus"
-  ],
-  "zeitstempel": "29.05.2026, 01:38"
- },
- {
-  "timestamp": "2026-05-29T08:39:58.999419",
-  "lehrer": "Bes",
-  "datum": "Mittwoch, 03. Juni 2026",
-  "date_key": "20260603",
-  "changes": [
-   "Std 1 (07:40): Ph 9B verlegt nach St.3",
-   "Std 2 (08:25): Ph 9B verlegt nach St.4",
-   "Std 3 (09:40): Ph 9B verlegt von St.1",
-   "Std 4 (10:25): Ph 9B verlegt von St.2",
-   "Std 7 (13:40): ma2 12A-12E fällt aus",
-   "Std 8 (14:25): ma2 12A-12E fällt aus"
-  ],
-  "zeitstempel": "29.05.2026, 09:28"
- },
- {
-  "timestamp": "2026-05-29T08:39:58.999419",
-  "lehrer": "Bir",
-  "datum": "Mittwoch, 03. Juni 2026",
-  "date_key": "20260603",
-  "changes": [
-   "Std 1 (07:40): B VK fällt aus",
-   "Std 1 (07:40): Mu 7B verlegt von St.3; B VK fällt aus",
-   "Std 2 (08:25): B VK fällt aus",
-   "Std 2 (08:25): Mu 7B verlegt von St.4; B VK fällt aus",
-   "Std 3 (09:40): Mu 7B verlegt nach St.1",
-   "Std 4 (10:25): Mu 7B verlegt nach St.2"
-  ],
-  "zeitstempel": "29.05.2026, 09:28"
- },
- {
-  "timestamp": "2026-05-29T08:39:58.999419",
-  "lehrer": "Eul",
-  "datum": "Mittwoch, 03. Juni 2026",
-  "date_key": "20260603",
-  "changes": [
-   "Std 3 (09:40): De 10D verlegt nach Do (04.06.) St.1 (Schil)",
-   "Std 4 (10:25): De 10D verlegt nach Do (04.06.) St.2 (Schil)"
-  ],
-  "zeitstempel": "29.05.2026, 09:28"
- },
- {
   "timestamp": "2026-05-29T14:29:30.810620",
   "lehrer": "Rat",
   "datum": "Montag, 01. Juni 2026",
@@ -1115,5 +990,35 @@
    "Std 8 (14:25): Auswertung / Verkündung"
   ],
   "zeitstempel": "04.06.2026, 09:31"
+ },
+ {
+  "timestamp": "2026-06-05T08:41:46.099037",
+  "lehrer": "Hoh",
+  "datum": "Freitag, 05. Juni 2026",
+  "date_key": "20260605",
+  "changes": [
+   "Std 1 (07:40): für Ma Hoh, Aufteilung gemäß Aushang",
+   "Std 2 (08:25): für Ma Hoh, Aufteilung gemäß Aushang",
+   "Std 3 (09:40): En 7D Hol (für Ph)",
+   "Std 4 (10:25): En 7D Hol (für Ph)",
+   "Std 5 (11:40): für Ph Hoh, Aufteilung gemäß Aushang, Aufgaben von Fr. Brincker sind im Sekretariat abzuholen",
+   "Std 6 (12:25): für Ph Hoh, Aufteilung gemäß Aushang, Aufgaben von Fr. Brincker sind im Sekretariat abzuholen"
+  ],
+  "zeitstempel": "05.06.2026, 09:34"
+ },
+ {
+  "timestamp": "2026-06-05T08:41:46.099037",
+  "lehrer": "Hol",
+  "datum": "Freitag, 05. Juni 2026",
+  "date_key": "20260605",
+  "changes": [
+   "Std 1 (07:40): für En Hol",
+   "Std 2 (08:25): für En Hol",
+   "Std 3 (09:40): für Ph Hoh",
+   "Std 4 (10:25): für Ph Hoh",
+   "Std 7 (13:40): en2 12A-12E fällt aus",
+   "Std 8 (14:25): en2 12A-12E fällt aus"
+  ],
+  "zeitstempel": "05.06.2026, 09:34"
  }
 ]
