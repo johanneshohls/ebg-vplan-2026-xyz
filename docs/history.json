@@ -1,42 +1,5 @@
 [
  {
-  "timestamp": "2026-06-01T10:15:34.974279",
-  "lehrer": "Käc",
-  "datum": "Montag, 01. Juni 2026",
-  "date_key": "20260601",
-  "changes": [
-   "Std 3 (09:40): Hospitation 7a bei Hun R205",
-   "Std 4 (10:25): Hospitation 7a bei Hun R205"
-  ],
-  "zeitstempel": "01.06.2026, 11:31"
- },
- {
-  "timestamp": "2026-06-01T10:15:34.974279",
-  "lehrer": "Käc",
-  "datum": "Dienstag, 02. Juni 2026",
-  "date_key": "20260602",
-  "changes": [
-   "Std 1 (07:40): B VK fällt aus",
-   "Std 1 (07:40): Hospitation in der 7a 002; B VK fällt aus",
-   "Std 2 (08:25): B VK fällt aus",
-   "Std 2 (08:25): Hospitation in der 7a 002; B VK fällt aus"
-  ],
-  "zeitstempel": "01.06.2026, 11:30"
- },
- {
-  "timestamp": "2026-06-01T10:15:34.974279",
-  "lehrer": "Käc",
-  "datum": "Mittwoch, 03. Juni 2026",
-  "date_key": "20260603",
-  "changes": [
-   "Std 3 (09:40): B VK fällt aus",
-   "Std 3 (09:40): Hospitation bei Hr. Hohls 7d 106; B VK fällt aus",
-   "Std 4 (10:25): B VK fällt aus",
-   "Std 4 (10:25): Hospitation bei Hr. Hohls 7d 106; B VK fällt aus"
-  ],
-  "zeitstempel": "01.06.2026, 11:30"
- },
- {
   "timestamp": "2026-06-01T16:19:41.008101",
   "lehrer": "Bir",
   "datum": "Dienstag, 02. Juni 2026",
@@ -1214,5 +1177,154 @@
    "Std 2 (08:25): für Ma Sei"
   ],
   "zeitstempel": "05.06.2026, 14:44"
+ },
+ {
+  "timestamp": "2026-06-08T13:17:36.037131",
+  "lehrer": "Roh",
+  "datum": "Montag, 08. Juni 2026",
+  "date_key": "20260608",
+  "changes": [
+   "Std 7 (13:40): Ma 8C verlegt nach Fr (12.06.) St.5",
+   "Std 8 (14:25): Ma 8C verlegt nach Fr (12.06.) St.6"
+  ],
+  "zeitstempel": "08.06.2026, 13:22"
+ },
+ {
+  "timestamp": "2026-06-08T13:17:36.037131",
+  "lehrer": "Hofm",
+  "datum": "Dienstag, 09. Juni 2026",
+  "date_key": "20260609",
+  "changes": [
+   "Std 1 (07:40): Phil 7E verlegt von St.5",
+   "Std 2 (08:25): Phil 7E verlegt von St.6",
+   "Std 5 (11:40): Phil 7E verlegt nach St.1",
+   "Std 6 (12:25): Phil 7E verlegt nach St.2",
+   "Std 7 (13:40): En 8C statt Fr (12.06.) St.5",
+   "Std 8 (14:25): En 8C statt Fr (12.06.) St.6"
+  ],
+  "zeitstempel": "08.06.2026, 13:22"
+ },
+ {
+  "timestamp": "2026-06-08T13:17:36.037131",
+  "lehrer": "Schud",
+  "datum": "Dienstag, 09. Juni 2026",
+  "date_key": "20260609",
+  "changes": [
+   "Std 7 (13:40): Ge 8C verlegt nach Do (11.06.) St.7, kurzfristiger Ringtausch",
+   "Std 8 (14:25): Ge 8C verlegt nach Do (11.06.) St.8"
+  ],
+  "zeitstempel": "08.06.2026, 13:22"
+ },
+ {
+  "timestamp": "2026-06-08T13:17:36.037131",
+  "lehrer": "Bes",
+  "datum": "Donnerstag, 11. Juni 2026",
+  "date_key": "20260611",
+  "changes": [
+   "Std 1 (07:40): Ph 9D gehalten am Mi (10.06.) St.5",
+   "Std 2 (08:25): Ph 9D gehalten am Mi (10.06.) St.6",
+   "Std 3 (09:40): für Ph Bes",
+   "Std 4 (10:25): für Ph Bes",
+   "Std 5 (11:40): Bekanntgabe der schrftl. Ergebnisse",
+   "Std 6 (12:25): Bekanntgabe der schrftl. Ergebnisse"
+  ],
+  "zeitstempel": "08.06.2026, 13:22"
+ },
+ {
+  "timestamp": "2026-06-08T13:17:36.037131",
+  "lehrer": "Hön",
+  "datum": "Donnerstag, 11. Juni 2026",
+  "date_key": "20260611",
+  "changes": [
+   "Std 3 (09:40): ILZ 10C selbst. (v)",
+   "Std 4 (10:25): ILZ 10C selbst. (v)",
+   "Std 5 (11:40): für De Hön, Hr. Höners kommt ggf. etwas später.",
+   "Std 6 (12:25): für De Hön, Hr. Höners kommt ggf. etwas später.",
+   "Std 7 (13:40): für ILZ Hön",
+   "Std 8 (14:25): für KL Hön"
+  ],
+  "zeitstempel": "08.06.2026, 13:22"
+ },
+ {
+  "timestamp": "2026-06-08T13:17:36.037131",
+  "lehrer": "Pri",
+  "datum": "Donnerstag, 11. Juni 2026",
+  "date_key": "20260611",
+  "changes": [
+   "Std 1 (07:40): En 9B gehalten am Mi (10.06.) St.3",
+   "Std 2 (08:25): En 9B gehalten am Mi (10.06.) St.4",
+   "Std 3 (09:40): für Ge Pri",
+   "Std 4 (10:25): für Ge Pri",
+   "Std 5 (11:40): EN1 12A-12E fällt aus",
+   "Std 5 (11:40): Bekanntgabe der schrftl. Ergebnisse ; EN1 12A-12E fällt aus",
+   "Std 6 (12:25): EN1 12A-12E fällt aus",
+   "Std 6 (12:25): Bekanntgabe der schrftl. Ergebnisse ; EN1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "08.06.2026, 13:22"
+ },
+ {
+  "timestamp": "2026-06-08T13:17:36.037131",
+  "lehrer": "Roh",
+  "datum": "Donnerstag, 11. Juni 2026",
+  "date_key": "20260611",
+  "changes": [
+   "Std 1 (07:40): Ma 7E gehalten am Di (09.06.) St.5",
+   "Std 2 (08:25): Ma 7E gehalten am Di (09.06.) St.6",
+   "Std 5 (11:40): MA1 12A-12E fällt aus",
+   "Std 6 (12:25): MA1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "08.06.2026, 13:22"
+ },
+ {
+  "timestamp": "2026-06-08T13:17:36.037131",
+  "lehrer": "Schud",
+  "datum": "Donnerstag, 11. Juni 2026",
+  "date_key": "20260611",
+  "changes": [
+   "Std 7 (13:40): Ge 8C statt Di (09.06.) St.7, kurzfristiger Ringtausch",
+   "Std 8 (14:25): Ge 8C statt Di (09.06.) St.8"
+  ],
+  "zeitstempel": "08.06.2026, 13:22"
+ },
+ {
+  "timestamp": "2026-06-08T13:17:36.037131",
+  "lehrer": "See",
+  "datum": "Donnerstag, 11. Juni 2026",
+  "date_key": "20260611",
+  "changes": [
+   "Std 3 (09:40): BIO1 12A-12E fällt aus",
+   "Std 3 (09:40): Besprechung der Praktikumsbesuche; BIO1 12A-12E fällt aus",
+   "Std 4 (10:25): BIO1 12A-12E fällt aus",
+   "Std 4 (10:25): Besprechung der Praktikumsbesuche; BIO1 12A-12E fällt aus",
+   "Std 5 (11:40): Bio 10B verlegt nach Fr (12.06.) St.1",
+   "Std 5 (11:40): Bekanntgabe der schrftl. Ergebnisse ; Bio 10B verlegt nach Fr (12.06.) St.1 (See)",
+   "Std 6 (12:25): Bio 10B verlegt nach Fr (12.06.) St.2",
+   "Std 6 (12:25): Bekanntgabe der schrftl. Ergebnisse ; Bio 10B verlegt nach Fr (12.06.) St.2 (See)"
+  ],
+  "zeitstempel": "08.06.2026, 13:22"
+ },
+ {
+  "timestamp": "2026-06-08T13:17:36.037131",
+  "lehrer": "Hofm",
+  "datum": "Freitag, 12. Juni 2026",
+  "date_key": "20260612",
+  "changes": [
+   "Std 5 (11:40): En 8C gehalten am Di (09.06.) St.7",
+   "Std 6 (12:25): En 8C gehalten am Di (09.06.) St.8"
+  ],
+  "zeitstempel": "08.06.2026, 13:22"
+ },
+ {
+  "timestamp": "2026-06-08T13:17:36.037131",
+  "lehrer": "Roh",
+  "datum": "Freitag, 12. Juni 2026",
+  "date_key": "20260612",
+  "changes": [
+   "Std 5 (11:40): MA1 12A-12E fällt aus",
+   "Std 5 (11:40): Ma 8C statt Mo (08.06.) St.7; MA1 12A-12E fällt aus",
+   "Std 6 (12:25): MA1 12A-12E fällt aus",
+   "Std 6 (12:25): Ma 8C statt Mo (08.06.) St.8; MA1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "08.06.2026, 13:22"
  }
 ]

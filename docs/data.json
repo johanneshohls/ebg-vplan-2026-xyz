@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "08.06.2026, 09:20 Uhr",
- "last_changed": "2026-06-05T14:44:00",
+ "generiert": "08.06.2026, 13:17 Uhr",
+ "last_changed": "2026-06-08T13:22:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12038,7 +12038,7 @@
    "tage": {
     "20260608": {
      "datum": "Montag, 08. Juni 2026",
-     "zeitstempel": "05.06.2026, 14:42",
+     "zeitstempel": "08.06.2026, 13:22",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -13677,19 +13677,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Ma",
-         "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8C verlegt nach Fr (12.06.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8C verlegt nach Fr (12.06.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14141,7 +14141,7 @@
     },
     "20260609": {
      "datum": "Dienstag, 09. Juni 2026",
-     "zeitstempel": "05.06.2026, 14:42",
+     "zeitstempel": "08.06.2026, 13:22",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -14991,6 +14991,22 @@
          "klasse": "",
          "raum": "",
          "info": "Phil 7E verlegt nach St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "En",
+         "klasse": "8C",
+         "raum": "008",
+         "info": "En 8C statt Fr (12.06.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "En",
+         "klasse": "8C",
+         "raum": "008",
+         "info": "En 8C statt Fr (12.06.) St.6",
          "geaendert": true
         }
        ],
@@ -16204,19 +16220,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Ge",
-         "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 8C verlegt nach Do (11.06.) St.7, kurzfristiger Ringtausch",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ge",
-         "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 8C verlegt nach Do (11.06.) St.8",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16593,7 +16609,7 @@
     },
     "20260610": {
      "datum": "Mittwoch, 10. Juni 2026",
-     "zeitstempel": "05.06.2026, 14:42",
+     "zeitstempel": "08.06.2026, 13:22",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -18911,7 +18927,7 @@
     },
     "20260611": {
      "datum": "Donnerstag, 11. Juni 2026",
-     "zeitstempel": "05.06.2026, 14:44",
+     "zeitstempel": "08.06.2026, 13:22",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -18945,27 +18961,11 @@
          "geaendert": true
         },
         {
-         "stunde": "1",
-         "fach": "ILZ",
-         "klasse": "12A",
-         "raum": "104",
-         "info": "Bekanntgabe der schrftl. Ergebnisse ; Ph 9D gehalten am Mi (10.06.) St.5 (Bes)",
-         "geaendert": true
-        },
-        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ph 9D gehalten am Mi (10.06.) St.6",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "ILZ",
-         "klasse": "12A",
-         "raum": "104",
-         "info": "Bekanntgabe der schrftl. Ergebnisse ; Ph 9D gehalten am Mi (10.06.) St.6 (Bes)",
          "geaendert": true
         },
         {
@@ -18982,6 +18982,22 @@
          "klasse": "12A-12E",
          "raum": "001",
          "info": "für Ph Bes",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "12A",
+         "raum": "104",
+         "info": "Bekanntgabe der schrftl. Ergebnisse ",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "12A",
+         "raum": "104",
+         "info": "Bekanntgabe der schrftl. Ergebnisse ",
          "geaendert": true
         }
        ],
@@ -19919,26 +19935,26 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "10C",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10C selbst. (v)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "10C",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10C selbst. (v)",
+         "geaendert": true
         },
         {
          "stunde": "5",
          "fach": "DE1",
          "klasse": "11A-11D",
          "raum": "104",
-         "info": "",
+         "info": "für De Hön, Hr. Höners kommt ggf. etwas später. ",
          "geaendert": false
         },
         {
@@ -19946,24 +19962,24 @@
          "fach": "DE1",
          "klasse": "11A-11D",
          "raum": "104",
-         "info": "",
+         "info": "für De Hön, Hr. Höners kommt ggf. etwas später. ",
          "geaendert": false
         },
         {
          "stunde": "7",
-         "fach": "ILZ",
+         "fach": "De",
          "klasse": "10C",
          "raum": "106",
-         "info": "",
-         "geaendert": false
+         "info": "für ILZ Hön",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "KL",
+         "fach": "De",
          "klasse": "10C",
          "raum": "106",
-         "info": "",
-         "geaendert": false
+         "info": "für KL Hön",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20588,27 +20604,11 @@
          "geaendert": true
         },
         {
-         "stunde": "1",
-         "fach": "ILZ",
-         "klasse": "12D",
-         "raum": "201",
-         "info": "Bekanntgabe der schrftl. Ergebnisse; En 9B gehalten am Mi (10.06.) St.3 (Pri)",
-         "geaendert": true
-        },
-        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "En 9B gehalten am Mi (10.06.) St.4",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "ILZ",
-         "klasse": "12D",
-         "raum": "201",
-         "info": "Bekanntgabe der schrftl. Ergebnisse; En 9B gehalten am Mi (10.06.) St.4 (Pri)",
          "geaendert": true
         },
         {
@@ -20636,11 +20636,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "12D,12B",
+         "raum": "003",
+         "info": "Bekanntgabe der schrftl. Ergebnisse ; EN1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "EN1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "12D,12B",
+         "raum": "003",
+         "info": "Bekanntgabe der schrftl. Ergebnisse ; EN1 12A-12E fällt aus",
          "geaendert": true
         }
        ],
@@ -20698,27 +20714,11 @@
          "geaendert": true
         },
         {
-         "stunde": "1",
-         "fach": "ILZ",
-         "klasse": "12B",
-         "raum": "K09",
-         "info": "Bekanntgabe der schrftl. Ergebnisse; Ma 7E gehalten am Di (09.06.) St.5 (Roh)",
-         "geaendert": true
-        },
-        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ma 7E gehalten am Di (09.06.) St.6",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "ILZ",
-         "klasse": "12B",
-         "raum": "K09",
-         "info": "Bekanntgabe der schrftl. Ergebnisse; Ma 7E gehalten am Di (09.06.) St.6 (Roh)",
          "geaendert": true
         },
         {
@@ -20906,6 +20906,22 @@
          "raum": "207",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "Ge",
+         "klasse": "8C",
+         "raum": "207",
+         "info": "Ge 8C statt Di (09.06.) St.7, kurzfristiger Ringtausch",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Ge",
+         "klasse": "8C",
+         "raum": "207",
+         "info": "Ge 8C statt Di (09.06.) St.8",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -20919,22 +20935,6 @@
       },
       "See": {
        "entries": [
-        {
-         "stunde": "1",
-         "fach": "ILZ",
-         "klasse": "12C,12E",
-         "raum": "103",
-         "info": "Bekanntgabe der schrftl. Ergebnisse",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "ILZ",
-         "klasse": "12C,12E",
-         "raum": "103",
-         "info": "Bekanntgabe der schrftl. Ergebnisse",
-         "geaendert": true
-        },
         {
          "stunde": "3",
          "fach": "---",
@@ -20976,11 +20976,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "12C,12E",
+         "raum": "004",
+         "info": "Bekanntgabe der schrftl. Ergebnisse ; Bio 10B verlegt nach Fr (12.06.) St.1 (See)",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Bio 10B verlegt nach Fr (12.06.) St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "12C,12E",
+         "raum": "004",
+         "info": "Bekanntgabe der schrftl. Ergebnisse ; Bio 10B verlegt nach Fr (12.06.) St.2 (See)",
          "geaendert": true
         },
         {
@@ -21353,7 +21369,7 @@
     },
     "20260612": {
      "datum": "Freitag, 12. Juni 2026",
-     "zeitstempel": "05.06.2026, 14:42",
+     "zeitstempel": "08.06.2026, 13:22",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -21923,19 +21939,19 @@
         },
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8C gehalten am Di (09.06.) St.7",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8C gehalten am Di (09.06.) St.8",
+         "geaendert": true
         },
         {
          "stunde": "9",
@@ -22865,11 +22881,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "8C",
+         "raum": "008",
+         "info": "Ma 8C statt Mo (08.06.) St.7; MA1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "MA1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "8C",
+         "raum": "008",
+         "info": "Ma 8C statt Mo (08.06.) St.8; MA1 12A-12E fällt aus",
          "geaendert": true
         }
        ],
@@ -23393,7 +23425,7 @@
    "tage": {
     "20260615": {
      "datum": "Montag, 15. Juni 2026",
-     "zeitstempel": "05.06.2026, 14:42",
+     "zeitstempel": "08.06.2026, 13:22",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -25440,7 +25472,7 @@
     },
     "20260616": {
      "datum": "Dienstag, 16. Juni 2026",
-     "zeitstempel": "05.06.2026, 14:42",
+     "zeitstempel": "08.06.2026, 13:22",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -26462,11 +26494,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Ge",
+         "klasse": "7E",
+         "raum": "205",
+         "info": "statt Mi (17.06.) St.5 (Ge Pri); En 9D verlegt nach Do (18.06.) St.7",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "En 9D verlegt nach Do (18.06.) St.8",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ge",
+         "klasse": "7E",
+         "raum": "205",
+         "info": "statt Mi (17.06.) St.6 (Ge Pri); En 9D verlegt nach Do (18.06.) St.8",
          "geaendert": true
         },
         {
@@ -26992,6 +27040,22 @@
          "raum": "",
          "info": "EN1 12A-12E fällt aus",
          "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Ge",
+         "klasse": "7E",
+         "raum": "205",
+         "info": "Ge 7E statt Mi (17.06.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ge",
+         "klasse": "7E",
+         "raum": "205",
+         "info": "Ge 7E statt Mi (17.06.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -27152,19 +27216,19 @@
         },
         {
          "stunde": "5",
-         "fach": "Ma",
-         "klasse": "7E",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7E verlegt nach Mi (17.06.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ma",
-         "klasse": "7E",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7E verlegt nach Mi (17.06.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -27601,7 +27665,7 @@
     },
     "20260617": {
      "datum": "Mittwoch, 17. Juni 2026",
-     "zeitstempel": "05.06.2026, 14:42",
+     "zeitstempel": "08.06.2026, 13:22",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -29244,19 +29308,19 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "Ge",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 7E gehalten am Di (16.06.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ge",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 7E gehalten am Di (16.06.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -29375,6 +29439,22 @@
          "raum": "008",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "Ma 7E statt Di (16.06.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "Ma 7E statt Di (16.06.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -29779,7 +29859,7 @@
     },
     "20260618": {
      "datum": "Donnerstag, 18. Juni 2026",
-     "zeitstempel": "05.06.2026, 14:42",
+     "zeitstempel": "08.06.2026, 13:22",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -31878,7 +31958,7 @@
     },
     "20260619": {
      "datum": "Freitag, 19. Juni 2026",
-     "zeitstempel": "05.06.2026, 14:42",
+     "zeitstempel": "08.06.2026, 13:22",
      "lehrer": {
       "Bar": {
        "entries": [
