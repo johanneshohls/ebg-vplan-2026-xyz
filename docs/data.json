@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "09.06.2026, 08:29 Uhr",
- "last_changed": "2026-06-09T10:17:00",
+ "generiert": "09.06.2026, 11:38 Uhr",
+ "last_changed": "2026-06-09T13:35:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14141,7 +14141,7 @@
     },
     "20260609": {
      "datum": "Dienstag, 09. Juni 2026",
-     "zeitstempel": "09.06.2026, 10:17",
+     "zeitstempel": "09.06.2026, 13:35",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -16641,7 +16641,7 @@
     },
     "20260610": {
      "datum": "Mittwoch, 10. Juni 2026",
-     "zeitstempel": "09.06.2026, 10:17",
+     "zeitstempel": "09.06.2026, 13:35",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -16683,19 +16683,19 @@
         },
         {
          "stunde": "7",
-         "fach": "ma2",
-         "klasse": "12A-12E",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ma2 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ma2",
-         "klasse": "12A-12E",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ma2 12A-12E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -18959,7 +18959,7 @@
     },
     "20260611": {
      "datum": "Donnerstag, 11. Juni 2026",
-     "zeitstempel": "09.06.2026, 10:17",
+     "zeitstempel": "09.06.2026, 13:35",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -19030,6 +19030,22 @@
          "klasse": "12A",
          "raum": "104",
          "info": "Bekanntgabe der schrftl. Ergebnisse ",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Ma",
+         "klasse": "12A-12E",
+         "raum": "205",
+         "info": "ma2 12 bei Besenhard",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Ma",
+         "klasse": "12A-12E",
+         "raum": "205",
+         "info": "ma2 12 bei Besenhard",
          "geaendert": true
         }
        ],
@@ -21385,7 +21401,7 @@
     },
     "20260612": {
      "datum": "Freitag, 12. Juni 2026",
-     "zeitstempel": "09.06.2026, 10:17",
+     "zeitstempel": "09.06.2026, 13:35",
      "lehrer": {
       "Bar": {
        "entries": [
