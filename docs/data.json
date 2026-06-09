@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "08.06.2026, 22:51 Uhr",
- "last_changed": "2026-06-08T15:21:00",
+ "generiert": "09.06.2026, 08:29 Uhr",
+ "last_changed": "2026-06-09T10:17:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14141,7 +14141,7 @@
     },
     "20260609": {
      "datum": "Dienstag, 09. Juni 2026",
-     "zeitstempel": "08.06.2026, 13:22",
+     "zeitstempel": "09.06.2026, 10:17",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -14268,7 +14268,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 10B Mar",
+         "info": "En 10B selbst. (v), Selbststudium, kann zu Hause erledigt werden; PRÜFLINGE zur mdl. KOMPETENZPRÜFUNG!",
          "geaendert": true
         },
         {
@@ -14276,7 +14276,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 10B Mar",
+         "info": "En 10B selbst. (v), Selbststudium, kann zu Hause erledigt werden; PRÜFLINGE zur mdl. KOMPETENZPRÜFUNG!",
          "geaendert": true
         }
        ],
@@ -15407,19 +15407,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "B",
-         "klasse": "VK2",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK2 fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "B",
-         "klasse": "VK2",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK2 fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -15451,6 +15451,22 @@
          "klasse": "",
          "raum": "",
          "info": "B VK2 fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "En",
+         "klasse": "",
+         "raum": "103",
+         "info": "Aufsicht über Vorbereitung der mdl. Prüfungen Klasse 10b",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "En",
+         "klasse": "",
+         "raum": "103",
+         "info": "Aufsicht über Vorbereitung der mdl. Prüfungen Klasse 10b",
          "geaendert": true
         }
        ],
@@ -15740,17 +15756,17 @@
         {
          "stunde": "7",
          "fach": "En",
-         "klasse": "10B",
-         "raum": "005",
-         "info": "für En Bis",
+         "klasse": "",
+         "raum": "101 103",
+         "info": "mdl. Kompetenzprüfungen",
          "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "En",
-         "klasse": "10B",
-         "raum": "005",
-         "info": "für En Bis",
+         "klasse": "",
+         "raum": "101 103",
+         "info": "mdl. Kompetenzprüfungen",
          "geaendert": true
         }
        ],
@@ -15848,6 +15864,22 @@
          "raum": "007",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "",
+         "raum": "102",
+         "info": "Aufsicht über Vorbereitung mdl. Prüfungen",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "",
+         "raum": "102",
+         "info": "Aufsicht über Vorbereitung mdl. Prüfungen",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -16609,7 +16641,7 @@
     },
     "20260610": {
      "datum": "Mittwoch, 10. Juni 2026",
-     "zeitstempel": "08.06.2026, 13:22",
+     "zeitstempel": "09.06.2026, 10:17",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -18927,7 +18959,7 @@
     },
     "20260611": {
      "datum": "Donnerstag, 11. Juni 2026",
-     "zeitstempel": "08.06.2026, 13:22",
+     "zeitstempel": "09.06.2026, 10:17",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -19662,6 +19694,22 @@
       "Her": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "102",
+         "info": "Aufsicht Vorbereitung mdl. Prüfungen",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "102",
+         "info": "Aufsicht Vorbereitung mdl. Prüfungen",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Sp",
          "klasse": "9D",
@@ -20040,22 +20088,6 @@
       "Isb": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "En",
-         "klasse": "",
-         "raum": "101 102",
-         "info": "Kompetenzprüfung 10b",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "En",
-         "klasse": "",
-         "raum": "101 102",
-         "info": "Kompetenzprüfung 10b",
-         "geaendert": true
-        },
-        {
          "stunde": "3",
          "fach": "En",
          "klasse": "",
@@ -20352,22 +20384,6 @@
       },
       "Mar": {
        "entries": [
-        {
-         "stunde": "1",
-         "fach": "En",
-         "klasse": "",
-         "raum": "101 102",
-         "info": "Kompetenzprüfung 10b",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "En",
-         "klasse": "",
-         "raum": "101 102",
-         "info": "Kompetenzprüfung 10b",
-         "geaendert": true
-        },
         {
          "stunde": "3",
          "fach": "---",
@@ -21369,7 +21385,7 @@
     },
     "20260612": {
      "datum": "Freitag, 12. Juni 2026",
-     "zeitstempel": "08.06.2026, 13:22",
+     "zeitstempel": "09.06.2026, 10:17",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -21879,7 +21895,7 @@
          "stunde": "7",
          "fach": "---",
          "klasse": "",
-         "raum": "205",
+         "raum": "205 207",
          "info": "Nachschriften",
          "geaendert": true
         },
@@ -21887,7 +21903,7 @@
          "stunde": "8",
          "fach": "---",
          "klasse": "",
-         "raum": "205",
+         "raum": "205 207",
          "info": "Nachschriften",
          "geaendert": true
         },
@@ -22903,6 +22919,22 @@
          "raum": "008",
          "info": "Ma 8C statt Mo (08.06.) St.8; MA1 12A-12E fällt aus",
          "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205 207",
+         "info": "Nachschriften",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205 207",
+         "info": "Nachschriften",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -23425,7 +23457,7 @@
    "tage": {
     "20260615": {
      "datum": "Montag, 15. Juni 2026",
-     "zeitstempel": "08.06.2026, 13:22",
+     "zeitstempel": "09.06.2026, 10:17",
      "lehrer": {
       "Bar": {
        "entries": [],
