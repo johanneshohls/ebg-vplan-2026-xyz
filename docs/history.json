@@ -1237,5 +1237,187 @@
    "Std 6 (12:25): für Span Köh"
   ],
   "zeitstempel": "10.06.2026, 12:55"
+ },
+ {
+  "timestamp": "2026-06-10T18:18:33.116745",
+  "lehrer": "Fel",
+  "datum": "Donnerstag, 11. Juni 2026",
+  "date_key": "20260611",
+  "changes": [
+   "Std 1 (07:40): En 8B fällt aus",
+   "Std 2 (08:25): En 8B fällt aus",
+   "Std 3 (09:40): Besprechung der Praktikumsbesuche",
+   "Std 4 (10:25): Besprechung der Praktikumsbesuche"
+  ],
+  "zeitstempel": "10.06.2026, 18:19"
+ },
+ {
+  "timestamp": "2026-06-10T18:18:33.116745",
+  "lehrer": "Mar",
+  "datum": "Donnerstag, 11. Juni 2026",
+  "date_key": "20260611",
+  "changes": [
+   "Std 3 (09:40): En 8A gehalten am Mi (10.06.) St.5",
+   "Std 3 (09:40): Kompetenzprüfung 10b; En 8A gehalten am Mi (10.06.) St.5 (Mar)",
+   "Std 4 (10:25): En 8A gehalten am Mi (10.06.) St.6",
+   "Std 4 (10:25): Kompetenzprüfung 10b; En 8A gehalten am Mi (10.06.) St.6 (Mar)",
+   "Std 7 (13:40): Ma 8B verlegt nach Fr (12.06.) St.1",
+   "Std 8 (14:25): Ma 8B verlegt nach Fr (12.06.) St.2"
+  ],
+  "zeitstempel": "10.06.2026, 18:19"
+ },
+ {
+  "timestamp": "2026-06-10T18:18:33.116745",
+  "lehrer": "Ost",
+  "datum": "Donnerstag, 11. Juni 2026",
+  "date_key": "20260611",
+  "changes": [
+   "Std 1 (07:40): De 8B statt Fr (12.06.) St.1",
+   "Std 2 (08:25): De 8B statt Fr (12.06.) St.2",
+   "Std 3 (09:40): Bio 9B statt Mi (10.06.) St.3",
+   "Std 4 (10:25): Bio 9B statt Mi (10.06.) St.4",
+   "Std 5 (11:40): für De Ost",
+   "Std 6 (12:25): für De Ost"
+  ],
+  "zeitstempel": "10.06.2026, 18:19"
+ },
+ {
+  "timestamp": "2026-06-10T18:18:33.116745",
+  "lehrer": "Fel",
+  "datum": "Freitag, 12. Juni 2026",
+  "date_key": "20260612",
+  "changes": [
+   "Std 1 (07:40): Mu 9C Kar (für Span)",
+   "Std 2 (08:25): Mu 9C Kar (für Span)",
+   "Std 3 (09:40): für Span Köh",
+   "Std 4 (10:25): für Span Köh",
+   "Std 5 (11:40): ILZ 9C Gor, Aufsicht",
+   "Std 6 (12:25): KL 9C Gor, Aufsicht"
+  ],
+  "zeitstempel": "10.06.2026, 18:19"
+ },
+ {
+  "timestamp": "2026-06-10T18:18:33.116745",
+  "lehrer": "Gor",
+  "datum": "Freitag, 12. Juni 2026",
+  "date_key": "20260612",
+  "changes": [
+   "Std 1 (07:40): sk2 12A-12E fällt aus",
+   "Std 2 (08:25): sk2 12A-12E fällt aus",
+   "Std 5 (11:40): GE2 12A-12E fällt aus",
+   "Std 5 (11:40): für ILZ Fel, Aufsicht",
+   "Std 6 (12:25): GE2 12A-12E fällt aus",
+   "Std 6 (12:25): für KL Fel, Aufsicht"
+  ],
+  "zeitstempel": "10.06.2026, 18:19"
+ },
+ {
+  "timestamp": "2026-06-10T18:18:33.116745",
+  "lehrer": "Kar",
+  "datum": "Freitag, 12. Juni 2026",
+  "date_key": "20260612",
+  "changes": [
+   "Std 1 (07:40): mu1 12A-12E fällt aus",
+   "Std 1 (07:40): für Span Fel",
+   "Std 2 (08:25): mu1 12A-12E fällt aus",
+   "Std 2 (08:25): für Span Fel"
+  ],
+  "zeitstempel": "10.06.2026, 18:19"
+ },
+ {
+  "timestamp": "2026-06-10T18:18:33.116745",
+  "lehrer": "Leu",
+  "datum": "Freitag, 12. Juni 2026",
+  "date_key": "20260612",
+  "changes": [
+   "Std 1 (07:40): für Ma Leu",
+   "Std 2 (08:25): für Ma Leu",
+   "Std 3 (09:40): Teilungsgruppe Span8b/c/d zu Leu Ma 003",
+   "Std 4 (10:25): Teilungsgruppe Span8b/c/d zu Leu Ma 003"
+  ],
+  "zeitstempel": "10.06.2026, 18:19"
+ },
+ {
+  "timestamp": "2026-06-10T18:18:33.116745",
+  "lehrer": "Mar",
+  "datum": "Freitag, 12. Juni 2026",
+  "date_key": "20260612",
+  "changes": [
+   "Std 1 (07:40): En 10C Isb",
+   "Std 1 (07:40): Ma 8B statt Do (11.06.) St.7; En 10C Isb",
+   "Std 2 (08:25): En 10C Isb",
+   "Std 2 (08:25): Ma 8B statt Do (11.06.) St.8; En 10C Isb",
+   "Std 3 (09:40): für En Mar",
+   "Std 4 (10:25): für En Mar"
+  ],
+  "zeitstempel": "10.06.2026, 18:19"
+ },
+ {
+  "timestamp": "2026-06-10T18:18:33.116745",
+  "lehrer": "Ost",
+  "datum": "Freitag, 12. Juni 2026",
+  "date_key": "20260612",
+  "changes": [
+   "Std 1 (07:40): De 8B gehalten am Do (11.06.) St.1",
+   "Std 2 (08:25): De 8B gehalten am Do (11.06.) St.2",
+   "Std 3 (09:40): für De Ost",
+   "Std 4 (10:25): für De Ost"
+  ],
+  "zeitstempel": "10.06.2026, 18:19"
+ },
+ {
+  "timestamp": "2026-06-10T18:18:33.116745",
+  "lehrer": "Hei",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 1 (07:40): Konsultationen für mdl. Prüfungen Geo Hei",
+   "Std 2 (08:25): Konsultationen für mdl. Prüfungen Geo Hei"
+  ],
+  "zeitstempel": "10.06.2026, 18:11"
+ },
+ {
+  "timestamp": "2026-06-10T18:18:33.116745",
+  "lehrer": "Isb",
+  "datum": "Dienstag, 16. Juni 2026",
+  "date_key": "20260616",
+  "changes": [
+   "Std 5 (11:40): En 9D verlegt nach Do (18.06.) St.7",
+   "Std 6 (12:25): En 9D verlegt nach Do (18.06.) St.8"
+  ],
+  "zeitstempel": "10.06.2026, 18:11"
+ },
+ {
+  "timestamp": "2026-06-10T18:18:33.116745",
+  "lehrer": "Mar",
+  "datum": "Dienstag, 16. Juni 2026",
+  "date_key": "20260616",
+  "changes": [
+   "Std 5 (11:40): En 7E statt Do (18.06.) St.3",
+   "Std 6 (12:25): En 7E statt Do (18.06.) St.4"
+  ],
+  "zeitstempel": "10.06.2026, 18:11"
+ },
+ {
+  "timestamp": "2026-06-10T18:18:33.116745",
+  "lehrer": "Pri",
+  "datum": "Dienstag, 16. Juni 2026",
+  "date_key": "20260616",
+  "changes": [
+   "Std 3 (09:40): EN1 12A-12E fällt aus",
+   "Std 4 (10:25): EN1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "10.06.2026, 18:11"
+ },
+ {
+  "timestamp": "2026-06-10T18:18:33.116745",
+  "lehrer": "Tie",
+  "datum": "Dienstag, 16. Juni 2026",
+  "date_key": "20260616",
+  "changes": [
+   "Std 5 (11:40): für De Tie",
+   "Std 6 (12:25): für De Tie"
+  ],
+  "zeitstempel": "10.06.2026, 18:11"
  }
 ]
