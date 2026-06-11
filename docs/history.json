@@ -1518,5 +1518,72 @@
    "Std 6 (12:25): GE1 12A-12E fällt aus"
   ],
   "zeitstempel": "11.06.2026, 11:26"
+ },
+ {
+  "timestamp": "2026-06-11T16:42:01.053463",
+  "lehrer": "Bod",
+  "datum": "Freitag, 12. Juni 2026",
+  "date_key": "20260612",
+  "changes": [
+   "Std 3 (09:40): Ge 10B Pri (für Sk)",
+   "Std 4 (10:25): Ge 10B Pri (für Sk)",
+   "Std 5 (11:40): Sp 8B Stu",
+   "Std 6 (12:25): Sp 8B Stu"
+  ],
+  "zeitstempel": "11.06.2026, 15:37"
+ },
+ {
+  "timestamp": "2026-06-11T16:42:01.053463",
+  "lehrer": "Eul",
+  "datum": "Freitag, 12. Juni 2026",
+  "date_key": "20260612",
+  "changes": [
+   "Std 1 (07:40): für eRe Eul, Ganze Klasse zu Eul 102!",
+   "Std 2 (08:25): für eRe Eul, Ganze Klasse zu Eul 102!",
+   "Std 3 (09:40): für De Schil",
+   "Std 4 (10:25): für De Schil"
+  ],
+  "zeitstempel": "11.06.2026, 15:37"
+ },
+ {
+  "timestamp": "2026-06-11T16:42:01.053463",
+  "lehrer": "Hofm",
+  "datum": "Freitag, 12. Juni 2026",
+  "date_key": "20260612",
+  "changes": [
+   "Std 1 (07:40): für Phil Hofm, Ganze Klasse zu Eul 102!",
+   "Std 2 (08:25): für Phil Hofm, Ganze Klasse zu Eul 102!",
+   "Std 5 (11:40): En 8C gehalten am Di (09.06.) St.7",
+   "Std 6 (12:25): En 8C gehalten am Di (09.06.) St.8"
+  ],
+  "zeitstempel": "11.06.2026, 15:37"
+ },
+ {
+  "timestamp": "2026-06-11T16:42:01.053463",
+  "lehrer": "Lan",
+  "datum": "Freitag, 12. Juni 2026",
+  "date_key": "20260612",
+  "changes": [
+   "Std 1 (07:40): Sk 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 2 (08:25): Sk 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 3 (09:40): Sk 10C gehalten am Di (09.06.) St.1",
+   "Std 4 (10:25): Sk 10C gehalten am Di (09.06.) St.2",
+   "Std 5 (11:40): W 11A-11D selbst. (v), Selbststudium",
+   "Std 6 (12:25): W 11A-11D selbst. (v), Selbststudium"
+  ],
+  "zeitstempel": "11.06.2026, 15:37"
+ },
+ {
+  "timestamp": "2026-06-11T16:42:01.053463",
+  "lehrer": "Pri",
+  "datum": "Freitag, 12. Juni 2026",
+  "date_key": "20260612",
+  "changes": [
+   "Std 3 (09:40): für Sk Bod",
+   "Std 4 (10:25): für Sk Bod",
+   "Std 5 (11:40): EN1 12A-12E fällt aus",
+   "Std 6 (12:25): EN1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "11.06.2026, 15:37"
  }
 ]

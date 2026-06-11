@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "11.06.2026, 12:53 Uhr",
- "last_changed": "2026-06-11T11:26:00",
+ "generiert": "11.06.2026, 16:42 Uhr",
+ "last_changed": "2026-06-11T15:37:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21502,7 +21502,7 @@
     },
     "20260612": {
      "datum": "Freitag, 12. Juni 2026",
-     "zeitstempel": "11.06.2026, 11:24",
+     "zeitstempel": "11.06.2026, 15:37",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -21646,7 +21646,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sk 10B Lan",
+         "info": "Ge 10B Pri (für Sk)",
          "geaendert": true
         },
         {
@@ -21654,7 +21654,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sk 10B Lan",
+         "info": "Ge 10B Pri (für Sk)",
          "geaendert": true
         },
         {
@@ -21694,16 +21694,16 @@
          "stunde": "1",
          "fach": "eRe",
          "klasse": "8A",
-         "raum": "201",
-         "info": "für eRe Eul",
+         "raum": "102",
+         "info": "für eRe Eul, Ganze Klasse zu Eul 102!",
          "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "eRe",
          "klasse": "8A",
-         "raum": "201",
-         "info": "für eRe Eul",
+         "raum": "102",
+         "info": "für eRe Eul, Ganze Klasse zu Eul 102!",
          "geaendert": true
         },
         {
@@ -22074,17 +22074,17 @@
          "stunde": "1",
          "fach": "Phil",
          "klasse": "8A",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "102",
+         "info": "für Phil Hofm, Ganze Klasse zu Eul 102!",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Phil",
          "klasse": "8A",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "102",
+         "info": "für Phil Hofm, Ganze Klasse zu Eul 102!",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -22537,19 +22537,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "sk1",
-         "klasse": "11A-11D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "sk1",
-         "klasse": "11A-11D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -22557,14 +22557,6 @@
          "klasse": "",
          "raum": "",
          "info": "Sk 10C gehalten am Di (09.06.) St.1",
-         "geaendert": true
-        },
-        {
-         "stunde": "3",
-         "fach": "Sk",
-         "klasse": "10B",
-         "raum": "002",
-         "info": "für Sk Bod",
          "geaendert": true
         },
         {
@@ -22576,28 +22568,20 @@
          "geaendert": true
         },
         {
-         "stunde": "4",
-         "fach": "Sk",
-         "klasse": "10B",
-         "raum": "002",
-         "info": "für Sk Bod",
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "W 11A-11D selbst. (v), Selbststudium",
          "geaendert": true
         },
         {
-         "stunde": "5",
-         "fach": "w3",
-         "klasse": "11A-11D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
-        },
-        {
          "stunde": "6",
-         "fach": "w3",
-         "klasse": "11A-11D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "W 11A-11D selbst. (v), Selbststudium",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -22918,6 +22902,22 @@
       },
       "Pri": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "Ge",
+         "klasse": "10B",
+         "raum": "002",
+         "info": "für Sk Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ge",
+         "klasse": "10B",
+         "raum": "002",
+         "info": "für Sk Bod",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "---",
