@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "10.06.2026, 22:31 Uhr",
- "last_changed": "2026-06-10T18:19:00",
+ "generiert": "11.06.2026, 09:10 Uhr",
+ "last_changed": "2026-06-11T09:40:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -18991,7 +18991,7 @@
     },
     "20260611": {
      "datum": "Donnerstag, 11. Juni 2026",
-     "zeitstempel": "10.06.2026, 18:19",
+     "zeitstempel": "11.06.2026, 09:40",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -19217,7 +19217,7 @@
          "stunde": "3",
          "fach": "Ph",
          "klasse": "9A",
-         "raum": "204",
+         "raum": "K12",
          "info": "Ph 9A statt Di (09.06.) St.1",
          "geaendert": true
         },
@@ -19225,7 +19225,7 @@
          "stunde": "4",
          "fach": "Ph",
          "klasse": "9A",
-         "raum": "204",
+         "raum": "K12",
          "info": "Ph 9A statt Di (09.06.) St.2",
          "geaendert": true
         },
@@ -20447,6 +20447,22 @@
          "raum": "310",
          "info": "Besprechung der Praktikumsbesuche; Ma 10A fällt aus",
          "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Ma",
+         "klasse": "12A-12E",
+         "raum": "102",
+         "info": "Konsultation mündliche Prüfungen",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Ma",
+         "klasse": "12A-12E",
+         "raum": "102",
+         "info": "Konsultation mündliche Prüfungen",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20657,7 +20673,7 @@
          "stunde": "3",
          "fach": "Bio",
          "klasse": "9B",
-         "raum": "K12",
+         "raum": "204",
          "info": "Bio 9B statt Mi (10.06.) St.3",
          "geaendert": true
         },
@@ -20665,7 +20681,7 @@
          "stunde": "4",
          "fach": "Bio",
          "klasse": "9B",
-         "raum": "K12",
+         "raum": "204",
          "info": "Bio 9B statt Mi (10.06.) St.4",
          "geaendert": true
         },
@@ -21486,7 +21502,7 @@
     },
     "20260612": {
      "datum": "Freitag, 12. Juni 2026",
-     "zeitstempel": "10.06.2026, 18:19",
+     "zeitstempel": "11.06.2026, 08:47",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23629,7 +23645,7 @@
    "tage": {
     "20260615": {
      "datum": "Montag, 15. Juni 2026",
-     "zeitstempel": "10.06.2026, 18:11",
+     "zeitstempel": "11.06.2026, 08:47",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -24798,11 +24814,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "12A-12E",
+         "raum": "107",
+         "info": "Konsultation mündliche Prüfung; Ma 10B verlegt nach St.7 (Leu)",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ma 10B verlegt nach St.8",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "12A-12E",
+         "raum": "107",
+         "info": "Konsultation mündliche Prüfung; Ma 10B verlegt nach St.8 (Leu)",
          "geaendert": true
         },
         {
@@ -25692,7 +25724,7 @@
     },
     "20260616": {
      "datum": "Dienstag, 16. Juni 2026",
-     "zeitstempel": "10.06.2026, 18:11",
+     "zeitstempel": "11.06.2026, 08:47",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -27933,7 +27965,7 @@
     },
     "20260617": {
      "datum": "Mittwoch, 17. Juni 2026",
-     "zeitstempel": "10.06.2026, 18:11",
+     "zeitstempel": "11.06.2026, 08:47",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -30127,7 +30159,7 @@
     },
     "20260618": {
      "datum": "Donnerstag, 18. Juni 2026",
-     "zeitstempel": "10.06.2026, 12:55",
+     "zeitstempel": "11.06.2026, 08:47",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -31144,6 +31176,22 @@
       "Isb": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "Ge",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "statt Mi (17.06.) St.5 (Ge Pri)",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ge",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "statt Mi (17.06.) St.6 (Ge Pri)",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "En",
          "klasse": "10C",
@@ -31473,27 +31521,11 @@
       "Mar": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "En",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "En 7E verlegt von St.3",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "En",
-         "klasse": "7E",
-         "raum": "005",
-         "info": "En 7E verlegt von St.4",
-         "geaendert": true
-        },
-        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 7E verlegt nach St.1",
+         "info": "En 7E gehalten am Di (16.06.) St.5",
          "geaendert": true
         },
         {
@@ -31501,7 +31533,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 7E verlegt nach St.2",
+         "info": "En 7E gehalten am Di (16.06.) St.6",
          "geaendert": true
         },
         {
@@ -31660,6 +31692,22 @@
       },
       "Pri": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Ge",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "Ge 7E statt Mi (17.06.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ge",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "Ge 7E statt Mi (17.06.) St.6",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "Ge",
@@ -32242,7 +32290,7 @@
     },
     "20260619": {
      "datum": "Freitag, 19. Juni 2026",
-     "zeitstempel": "10.06.2026, 12:55",
+     "zeitstempel": "11.06.2026, 08:47",
      "lehrer": {
       "Bar": {
        "entries": [

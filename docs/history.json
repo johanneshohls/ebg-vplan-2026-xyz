@@ -1,42 +1,5 @@
 [
  {
-  "timestamp": "2026-06-04T08:44:52.015234",
-  "lehrer": "Eul",
-  "datum": "Freitag, 05. Juni 2026",
-  "date_key": "20260605",
-  "changes": [
-   "Std 1 (07:40): De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
-   "Std 1 (07:40): Eröffnung 2. Staatsprüfung R 310 07:55 Uhr; De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
-   "Std 2 (08:25): De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
-   "Std 2 (08:25): De 7B statt Do (04.06.) St.4, 2. Staatsprüfung - Gib alles!; De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
-   "Std 3 (09:40): Auswertung der Prüfungsstunde",
-   "Std 4 (10:25): Auswertung der Prüfungsstunde",
-   "Std 5 (11:40): für eRe Rat, 2. Staatsprüfung - Fast geschafft! :)",
-   "Std 6 (12:25): eRe 11A-11D Con, Aufsicht nach Prüfung, Fr. Eulenberger erteilt Aufgaben",
-   "Std 6 (12:25): Auswertung der Prüfungsstunde; eRe 11A-11D Con, Aufsicht nach Prüfung, Fr. Eulenberger erteilt Aufgaben",
-   "Std 7 (13:40): Auswertung / Verkündung",
-   "Std 8 (14:25): Auswertung / Verkündung"
-  ],
-  "zeitstempel": "04.06.2026, 09:31"
- },
- {
-  "timestamp": "2026-06-04T08:44:52.015234",
-  "lehrer": "Schil",
-  "datum": "Freitag, 05. Juni 2026",
-  "date_key": "20260605",
-  "changes": [
-   "Std 1 (07:40): De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
-   "Std 1 (07:40): Eröffnung 2. Staatsprüfung R 310 07:55 Uhr; De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
-   "Std 2 (08:25): De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
-   "Std 2 (08:25): Hospitation der Prüfungsstunde 7b 105; De 11A-11D selbst. (v), Selbststudium, Fr. Schilling erteilt Aufgaben",
-   "Std 3 (09:40): Auswertung der Prüfungsstunde",
-   "Std 4 (10:25): Auswertung der Prüfungsstunde",
-   "Std 7 (13:40): Auswertung / Verkündung",
-   "Std 8 (14:25): Auswertung / Verkündung"
-  ],
-  "zeitstempel": "04.06.2026, 09:31"
- },
- {
   "timestamp": "2026-06-05T08:41:46.099037",
   "lehrer": "Hoh",
   "datum": "Freitag, 05. Juni 2026",
@@ -1419,5 +1382,67 @@
    "Std 6 (12:25): für De Tie"
   ],
   "zeitstempel": "10.06.2026, 18:11"
+ },
+ {
+  "timestamp": "2026-06-11T09:10:18.902902",
+  "lehrer": "Bob",
+  "datum": "Donnerstag, 11. Juni 2026",
+  "date_key": "20260611",
+  "changes": [
+   "Std 3 (09:40): Ph 9A statt Di (09.06.) St.1",
+   "Std 4 (10:25): Ph 9A statt Di (09.06.) St.2",
+   "Std 7 (13:40): Ph 8A gehalten am Di (09.06.) St.1",
+   "Std 8 (14:25): Ph 8A gehalten am Di (09.06.) St.2"
+  ],
+  "zeitstempel": "11.06.2026, 09:40"
+ },
+ {
+  "timestamp": "2026-06-11T09:10:18.902902",
+  "lehrer": "Leu",
+  "datum": "Donnerstag, 11. Juni 2026",
+  "date_key": "20260611",
+  "changes": [
+   "Std 1 (07:40): für Ma Leu",
+   "Std 2 (08:25): für Ma Leu",
+   "Std 3 (09:40): Ma 10A fällt aus",
+   "Std 3 (09:40): Besprechung der Praktikumsbesuche; Ma 10A fällt aus",
+   "Std 4 (10:25): Ma 10A fällt aus",
+   "Std 4 (10:25): Besprechung der Praktikumsbesuche; Ma 10A fällt aus",
+   "Std 7 (13:40): Konsultation mündliche Prüfungen",
+   "Std 8 (14:25): Konsultation mündliche Prüfungen"
+  ],
+  "zeitstempel": "11.06.2026, 09:40"
+ },
+ {
+  "timestamp": "2026-06-11T09:10:18.902902",
+  "lehrer": "Ost",
+  "datum": "Donnerstag, 11. Juni 2026",
+  "date_key": "20260611",
+  "changes": [
+   "Std 1 (07:40): De 8B statt Fr (12.06.) St.1",
+   "Std 2 (08:25): De 8B statt Fr (12.06.) St.2",
+   "Std 3 (09:40): Bio 9B statt Mi (10.06.) St.3",
+   "Std 4 (10:25): Bio 9B statt Mi (10.06.) St.4",
+   "Std 5 (11:40): für De Ost",
+   "Std 6 (12:25): für De Ost"
+  ],
+  "zeitstempel": "11.06.2026, 09:40"
+ },
+ {
+  "timestamp": "2026-06-11T09:10:18.902902",
+  "lehrer": "Leu",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 1 (07:40): für ILZ Leu",
+   "Std 2 (08:25): für ILZ Leu",
+   "Std 3 (09:40): Ma 10B verlegt nach St.7",
+   "Std 3 (09:40): Konsultation mündliche Prüfung; Ma 10B verlegt nach St.7 (Leu)",
+   "Std 4 (10:25): Ma 10B verlegt nach St.8",
+   "Std 4 (10:25): Konsultation mündliche Prüfung; Ma 10B verlegt nach St.8 (Leu)",
+   "Std 7 (13:40): Ma 10B verlegt von St.3",
+   "Std 8 (14:25): Ma 10B verlegt von St.4"
+  ],
+  "zeitstempel": "11.06.2026, 08:47"
  }
 ]
