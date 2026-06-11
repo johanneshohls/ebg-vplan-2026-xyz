@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "11.06.2026, 09:10 Uhr",
- "last_changed": "2026-06-11T09:40:00",
+ "generiert": "11.06.2026, 12:53 Uhr",
+ "last_changed": "2026-06-11T11:26:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21502,7 +21502,7 @@
     },
     "20260612": {
      "datum": "Freitag, 12. Juni 2026",
-     "zeitstempel": "11.06.2026, 08:47",
+     "zeitstempel": "11.06.2026, 11:24",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23645,7 +23645,7 @@
    "tage": {
     "20260615": {
      "datum": "Montag, 15. Juni 2026",
-     "zeitstempel": "11.06.2026, 08:47",
+     "zeitstempel": "11.06.2026, 11:24",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -24268,17 +24268,17 @@
          "stunde": "1",
          "fach": "Ma",
          "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "raum": "201",
+         "info": "für Ma Hoh",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Ma",
          "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "raum": "201",
+         "info": "für Ma Hoh",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -24487,17 +24487,17 @@
          "stunde": "1",
          "fach": "En",
          "klasse": "10C",
-         "raum": "004",
+         "raum": "002",
          "info": "für En Isb",
-         "geaendert": false
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "En",
          "klasse": "10C",
-         "raum": "004",
+         "raum": "002",
          "info": "für En Isb",
-         "geaendert": false
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -24625,17 +24625,17 @@
          "stunde": "1",
          "fach": "mu2",
          "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "für Mu Kar",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "mu2",
          "klasse": "12A-12E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "für Mu Kar",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -24793,7 +24793,7 @@
          "stunde": "1",
          "fach": "ILZ",
          "klasse": "10B",
-         "raum": "005",
+         "raum": "K10",
          "info": "für ILZ Leu",
          "geaendert": true
         },
@@ -24801,7 +24801,7 @@
          "stunde": "2",
          "fach": "ILZ",
          "klasse": "10B",
-         "raum": "005",
+         "raum": "K10",
          "info": "für ILZ Leu",
          "geaendert": true
         },
@@ -25185,17 +25185,17 @@
          "stunde": "1",
          "fach": "Ma",
          "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Ma Roh",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Ma",
          "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Ma Roh",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -25724,7 +25724,7 @@
     },
     "20260616": {
      "datum": "Dienstag, 16. Juni 2026",
-     "zeitstempel": "11.06.2026, 08:47",
+     "zeitstempel": "11.06.2026, 11:26",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -27580,17 +27580,17 @@
          "stunde": "1",
          "fach": "GE1",
          "klasse": "11A-11D",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Ge Schuc",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "GE1",
          "klasse": "11A-11D",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Ge Schuc",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -27965,7 +27965,7 @@
     },
     "20260617": {
      "datum": "Mittwoch, 17. Juni 2026",
-     "zeitstempel": "11.06.2026, 08:47",
+     "zeitstempel": "11.06.2026, 11:24",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -30159,7 +30159,7 @@
     },
     "20260618": {
      "datum": "Donnerstag, 18. Juni 2026",
-     "zeitstempel": "11.06.2026, 08:47",
+     "zeitstempel": "11.06.2026, 11:24",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -32290,7 +32290,7 @@
     },
     "20260619": {
      "datum": "Freitag, 19. Juni 2026",
-     "zeitstempel": "11.06.2026, 08:47",
+     "zeitstempel": "11.06.2026, 11:24",
      "lehrer": {
       "Bar": {
        "entries": [

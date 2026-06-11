@@ -1444,5 +1444,79 @@
    "Std 8 (14:25): Ma 10B verlegt von St.4"
   ],
   "zeitstempel": "11.06.2026, 08:47"
+ },
+ {
+  "timestamp": "2026-06-11T12:52:59.574419",
+  "lehrer": "Hoh",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 1 (07:40): für Ma Hoh",
+   "Std 2 (08:25): für Ma Hoh"
+  ],
+  "zeitstempel": "11.06.2026, 11:24"
+ },
+ {
+  "timestamp": "2026-06-11T12:52:59.574419",
+  "lehrer": "Isb",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 1 (07:40): für En Isb",
+   "Std 2 (08:25): für En Isb"
+  ],
+  "zeitstempel": "11.06.2026, 11:24"
+ },
+ {
+  "timestamp": "2026-06-11T12:52:59.574419",
+  "lehrer": "Kar",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 1 (07:40): für Mu Kar",
+   "Std 2 (08:25): für Mu Kar"
+  ],
+  "zeitstempel": "11.06.2026, 11:24"
+ },
+ {
+  "timestamp": "2026-06-11T12:52:59.574419",
+  "lehrer": "Leu",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 1 (07:40): für ILZ Leu",
+   "Std 2 (08:25): für ILZ Leu",
+   "Std 3 (09:40): Ma 10B verlegt nach St.7",
+   "Std 3 (09:40): Konsultation mündliche Prüfung; Ma 10B verlegt nach St.7 (Leu)",
+   "Std 4 (10:25): Ma 10B verlegt nach St.8",
+   "Std 4 (10:25): Konsultation mündliche Prüfung; Ma 10B verlegt nach St.8 (Leu)",
+   "Std 7 (13:40): Ma 10B verlegt von St.3",
+   "Std 8 (14:25): Ma 10B verlegt von St.4"
+  ],
+  "zeitstempel": "11.06.2026, 11:24"
+ },
+ {
+  "timestamp": "2026-06-11T12:52:59.574419",
+  "lehrer": "Roh",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 1 (07:40): für Ma Roh",
+   "Std 2 (08:25): für Ma Roh"
+  ],
+  "zeitstempel": "11.06.2026, 11:24"
+ },
+ {
+  "timestamp": "2026-06-11T12:52:59.574419",
+  "lehrer": "Schuc",
+  "datum": "Dienstag, 16. Juni 2026",
+  "date_key": "20260616",
+  "changes": [
+   "Std 1 (07:40): für Ge Schuc",
+   "Std 2 (08:25): für Ge Schuc",
+   "Std 5 (11:40): GE1 12A-12E fällt aus",
+   "Std 6 (12:25): GE1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "11.06.2026, 11:26"
  }
 ]
