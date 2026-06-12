@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "12.06.2026, 12:10 Uhr",
- "last_changed": "2026-06-11T15:37:00",
+ "generiert": "12.06.2026, 15:36 Uhr",
+ "last_changed": "2026-06-12T14:14:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21502,7 +21502,7 @@
     },
     "20260612": {
      "datum": "Freitag, 12. Juni 2026",
-     "zeitstempel": "11.06.2026, 15:37",
+     "zeitstempel": "12.06.2026, 14:11",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -21856,6 +21856,22 @@
       },
       "Gol": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "Ge",
+         "klasse": "12A-12E",
+         "raum": "K09",
+         "info": "Konsultation mündliche Prüfung",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ge",
+         "klasse": "12A-12E",
+         "raum": "K09",
+         "info": "Konsultation mündliche Prüfung",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "Ge",
@@ -23645,7 +23661,7 @@
    "tage": {
     "20260615": {
      "datum": "Montag, 15. Juni 2026",
-     "zeitstempel": "11.06.2026, 11:24",
+     "zeitstempel": "12.06.2026, 14:11",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -24013,6 +24029,22 @@
          "raum": "K07",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Ge",
+         "klasse": "12A-12C,12E,12D",
+         "raum": "K09",
+         "info": "Konsultation mündliche Prüfung",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ge",
+         "klasse": "12A-12C,12E,12D",
+         "raum": "K09",
+         "info": "Konsultation mündliche Prüfung",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -24542,19 +24574,19 @@
         },
         {
          "stunde": "5",
-         "fach": "Phil",
-         "klasse": "10C",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phil 10C verlegt nach Fr (19.06.) St.1",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Phil",
-         "klasse": "10C",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phil 10C verlegt nach Fr (19.06.) St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -24783,6 +24815,22 @@
          "raum": "101",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Sk",
+         "klasse": "10C",
+         "raum": "003",
+         "info": "Sk 10C statt Fr (19.06.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Sk",
+         "klasse": "10C",
+         "raum": "003",
+         "info": "Sk 10C statt Fr (19.06.) St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -25046,17 +25094,17 @@
          "stunde": "7",
          "fach": "Bio",
          "klasse": "9A",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "für Bio Ost",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "Bio",
          "klasse": "9A",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "für Bio Ost",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -25354,7 +25402,24 @@
        "aufsichten": []
       },
       "See": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "7",
+         "fach": "Bio",
+         "klasse": "10D",
+         "raum": "204",
+         "info": "Bio 10D statt Fr (19.06.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Bio",
+         "klasse": "10D",
+         "raum": "204",
+         "info": "Bio 10D statt Fr (19.06.) St.6",
+         "geaendert": true
+        }
+       ],
        "aufsichten": [
         {
          "vor_stunde": "3",
@@ -25404,19 +25469,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Ma",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7C verlegt nach Mi (17.06.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7C verlegt nach Mi (17.06.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -25703,19 +25768,19 @@
         },
         {
          "stunde": "7",
-         "fach": "En",
-         "klasse": "10D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10D verlegt nach Fr (19.06.) St.1",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "En",
-         "klasse": "10D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10D verlegt nach Fr (19.06.) St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -25724,7 +25789,7 @@
     },
     "20260616": {
      "datum": "Dienstag, 16. Juni 2026",
-     "zeitstempel": "11.06.2026, 11:26",
+     "zeitstempel": "12.06.2026, 14:14",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -25914,7 +25979,13 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Hof 1, WC, Container",
-         "info": ""
+         "info": "entfällt, V: Hol"
+        },
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof 1, WC, Container",
+         "info": "für Isb"
         }
        ]
       },
@@ -26012,19 +26083,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "inf2",
-         "klasse": "12A-12E",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "inf2 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "inf2",
-         "klasse": "12A-12E",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "inf2 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -26296,19 +26367,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "sk1",
-         "klasse": "12A-12E",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "sk1 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "sk1",
-         "klasse": "12A-12E",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "sk1 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -26349,19 +26420,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Fr",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 8A verlegt nach Fr (19.06.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Fr",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 8A verlegt nach Fr (19.06.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -26636,7 +26707,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof 1, WC, Container",
+         "info": "für Bob"
+        }
+       ]
       },
       "Hön": {
        "entries": [
@@ -26660,17 +26738,17 @@
          "stunde": "5",
          "fach": "ILZ",
          "klasse": "10C",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "für ILZ Hön",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "ILZ",
          "klasse": "10C",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "für ILZ Hön",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -26754,11 +26832,27 @@
       "Isb": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "Ge",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "Ge 8A verlegt von St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ge",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "Ge 8A verlegt von St.8",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 9D verlegt nach Do (18.06.) St.7",
+         "info": "En 9D verlegt nach Fr (19.06.) St.3",
          "geaendert": true
         },
         {
@@ -26766,24 +26860,24 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 9D verlegt nach Do (18.06.) St.8",
+         "info": "En 9D verlegt nach Fr (19.06.) St.4",
          "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Ge",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 8A verlegt nach St.1",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ge",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 8A verlegt nach St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -26791,7 +26885,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Hof 1, WC, Container",
-         "info": ""
+         "info": "entfällt, V: Bob"
         }
        ]
       },
@@ -27095,19 +27189,19 @@
         },
         {
          "stunde": "5",
-         "fach": "AWT",
-         "klasse": "10B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 10B verlegt nach Fr (19.06.) St.1",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "AWT",
-         "klasse": "10B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 10B verlegt nach Fr (19.06.) St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -27762,6 +27856,22 @@
          "raum": "K09",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Inf",
+         "klasse": "10B",
+         "raum": "K10",
+         "info": "Inf 10B statt Do (18.06.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Inf",
+         "klasse": "10B",
+         "raum": "K10",
+         "info": "Inf 10B statt Do (18.06.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -27965,7 +28075,7 @@
     },
     "20260617": {
      "datum": "Mittwoch, 17. Juni 2026",
-     "zeitstempel": "11.06.2026, 11:24",
+     "zeitstempel": "12.06.2026, 14:11",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -28475,17 +28585,17 @@
          "stunde": "3",
          "fach": "De",
          "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "104",
+         "info": "für De Fla",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "De",
          "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "104",
+         "info": "für De Fla",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -28571,6 +28681,22 @@
          "raum": "K07",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "Ge",
+         "klasse": "12A-12E",
+         "raum": "K07",
+         "info": "Konsultation mündliche Prüfung",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Ge",
+         "klasse": "12A-12E",
+         "raum": "K07",
+         "info": "Konsultation mündliche Prüfung",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -29368,17 +29494,17 @@
          "stunde": "1",
          "fach": "En",
          "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für En Mar",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "En",
          "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für En Mar",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -29474,19 +29600,19 @@
         },
         {
          "stunde": "5",
-         "fach": "Geo",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 7C verlegt nach Fr (19.06.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Geo",
-         "klasse": "7C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 7C verlegt nach Fr (19.06.) St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -29645,19 +29771,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "10B",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10B verlegt nach Fr (19.06.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
-         "klasse": "10B",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10B verlegt nach Fr (19.06.) St.4",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -29877,6 +30003,22 @@
       "See": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "10B",
+         "raum": "205",
+         "info": "Bio 10B statt Do (18.06.) St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Bio",
+         "klasse": "10B",
+         "raum": "205",
+         "info": "Bio 10B statt Do (18.06.) St.8",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Bio",
          "klasse": "10A",
@@ -29950,6 +30092,22 @@
          "geaendert": false
         },
         {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "7C",
+         "raum": "201",
+         "info": "Ma 7C statt Mo (15.06.) St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "7C",
+         "raum": "201",
+         "info": "Ma 7C statt Mo (15.06.) St.8",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "Ma",
          "klasse": "9D",
@@ -29978,17 +30136,17 @@
          "stunde": "7",
          "fach": "GS07",
          "klasse": "7A-7E,8A-8D",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für GS07 Ten",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "GS07",
          "klasse": "7A-7E,8A-8D",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für GS07 Ten",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -30159,7 +30317,7 @@
     },
     "20260618": {
      "datum": "Donnerstag, 18. Juni 2026",
-     "zeitstempel": "11.06.2026, 11:24",
+     "zeitstempel": "12.06.2026, 14:11",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -30667,19 +30825,19 @@
         },
         {
          "stunde": "7",
-         "fach": "ge1",
-         "klasse": "12A-12E",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ge1 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ge1",
-         "klasse": "12A-12E",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ge1 12A-12E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -31209,35 +31367,19 @@
         },
         {
          "stunde": "7",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 9D verlegt nach Fr (19.06.) St.3, Erweiterte Lehrprobe",
-         "geaendert": true
-        },
-        {
-         "stunde": "7",
          "fach": "En",
          "klasse": "9D",
          "raum": "Co1",
-         "info": "En 9D statt Di (16.06.) St.5; En 9D verlegt nach Fr (19.06.) St.3, Erweiterte Lehrprobe",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 9D verlegt nach Fr (19.06.) St.4 (Kar), Aufsicht nach Hospitation, bitte Musik machen",
-         "geaendert": true
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "8",
          "fach": "En",
          "klasse": "9D",
          "raum": "Co1",
-         "info": "En 9D statt Di (16.06.) St.6; En 9D verlegt nach Fr (19.06.) St.4 (Kar), Aufsicht nach Hospitation, bitte Musik machen",
-         "geaendert": true
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": []
@@ -31986,19 +32128,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Bio",
-         "klasse": "10B",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10B gehalten am Mi (17.06.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Bio",
-         "klasse": "10B",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10B gehalten am Mi (17.06.) St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -32044,19 +32186,19 @@
         },
         {
          "stunde": "5",
-         "fach": "Inf",
-         "klasse": "10B",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10B gehalten am Di (16.06.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Inf",
-         "klasse": "10B",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10B gehalten am Di (16.06.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -32215,6 +32357,22 @@
          "raum": "008",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "10B",
+         "raum": "002",
+         "info": "De 10B statt Fr (19.06.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "10B",
+         "raum": "002",
+         "info": "De 10B statt Fr (19.06.) St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -32290,7 +32448,7 @@
     },
     "20260619": {
      "datum": "Freitag, 19. Juni 2026",
-     "zeitstempel": "11.06.2026, 11:24",
+     "zeitstempel": "12.06.2026, 14:11",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -32311,19 +32469,11 @@
          "geaendert": true
         },
         {
-         "stunde": "4",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Auswertung der Lehrprobe in 108; Inf 11A-11D Con, Test schreiben lassen",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Auswertung der Lehrprobe in 108",
+         "info": "Auswertung der Lehrprobe in R108",
          "geaendert": true
         },
         {
@@ -32331,7 +32481,15 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Auswertung der Lehrprobe in 108",
+         "info": "Auswertung der Lehrprobe in R108",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Auswertung der Lehrprobe in R108",
          "geaendert": true
         }
        ],
@@ -32449,7 +32607,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 10B See (für Sk)",
+         "info": "Sk 10B fällt aus",
          "geaendert": true
         },
         {
@@ -32457,7 +32615,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 10B See (für Sk)",
+         "info": "Sk 10B fällt aus",
          "geaendert": true
         },
         {
@@ -32465,7 +32623,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sp 8B Stu",
+         "info": "De 8B Stu (für Sp)",
          "geaendert": true
         },
         {
@@ -32473,7 +32631,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sp 8B Stu",
+         "info": "De 8B Stu (für Sp)",
          "geaendert": true
         }
        ],
@@ -32483,35 +32641,67 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ma",
-         "klasse": "10D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10D verlegt nach St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "Bio",
+         "klasse": "12A-12E",
+         "raum": "007",
+         "info": "mdl. Nachprüfungen Biologie; Ma 10D verlegt nach St.5 (Bri)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ma",
-         "klasse": "10D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10D verlegt nach St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Bio",
+         "klasse": "12A-12E",
+         "raum": "007",
+         "info": "mdl. Nachprüfungen Biologie; Ma 10D verlegt nach St.6 (Bri)",
+         "geaendert": true
         },
         {
          "stunde": "3",
          "fach": "ma1",
          "klasse": "12A-12E",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "HÜA",
+         "info": "für Ma Bri",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "ma1",
          "klasse": "12A-12E",
+         "raum": "HÜA",
+         "info": "für Ma Bri",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "10D",
          "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "info": "Ma 10D verlegt von St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "10D",
+         "raum": "Co2",
+         "info": "Ma 10D verlegt von St.2",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -32567,20 +32757,36 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": "Aufsicht: Vorbereitung mdl. Nachprüfungen",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": "Aufsicht: Vorbereitung mdl. Nachprüfungen",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
-         "fach": "inf1",
-         "klasse": "12A-12E",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "inf1 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "inf1",
-         "klasse": "12A-12E",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "inf1 12A-12E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -32667,17 +32873,17 @@
          "stunde": "3",
          "fach": "span1",
          "klasse": "11A-11D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für Span Fel, ACHTUNG: Prüfung in 006/007! Absolute Ruhe beim Betreten der Räume",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "span1",
          "klasse": "11A-11D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für Span Fel, ACHTUNG: Prüfung in 006/007! Absolute Ruhe beim Betreten der Räume",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -32741,19 +32947,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "ge2",
-         "klasse": "12A-12E",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ge2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": "Aufsicht: Vorbereitung mdl. Nachprüfungen; ge2 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "ge2",
-         "klasse": "12A-12E",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ge2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": "Aufsicht: Vorbereitung mdl. Nachprüfungen; ge2 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -32780,33 +33002,33 @@
          "stunde": "1",
          "fach": "GE2",
          "klasse": "11A-11D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für Ge Gor, ACHTUNG: Prüfung in 006/007! Absolute Ruhe beim Betreten der Räume",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "GE2",
          "klasse": "11A-11D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für Ge Gor, ACHTUNG: Prüfung in 006/007! Absolute Ruhe beim Betreten der Räume",
+         "geaendert": true
         },
         {
          "stunde": "3",
          "fach": "Sk",
          "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "103",
+         "info": "für Sk Gor",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Sk",
          "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "103",
+         "info": "für Sk Gor",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -32860,6 +33082,22 @@
          "raum": "207",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Fr",
+         "klasse": "8A",
+         "raum": "205",
+         "info": "Fr 8A statt Di (16.06.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Fr",
+         "klasse": "8A",
+         "raum": "205",
+         "info": "Fr 8A statt Di (16.06.) St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -32918,17 +33156,17 @@
          "stunde": "1",
          "fach": "En",
          "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "106",
+         "info": "für En Hofm",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "En",
          "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "106",
+         "info": "für En Hofm",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -33003,17 +33241,17 @@
          "stunde": "5",
          "fach": "Ph",
          "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Ph Hoh",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Ph",
          "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Ph Hoh",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -33031,49 +33269,65 @@
          "stunde": "1",
          "fach": "EN2",
          "klasse": "11A-11D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "005",
+         "info": "für En Hol, ACHTUNG: Prüfung in 006/007! Absolute Ruhe beim Betreten der Räume",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "EN2",
          "klasse": "11A-11D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "005",
+         "info": "für En Hol, ACHTUNG: Prüfung in 006/007! Absolute Ruhe beim Betreten der Räume",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "12A-12E",
+         "raum": "007",
+         "info": "mündliche Nachprüfungen Englisch",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "12A-12E",
+         "raum": "007",
+         "info": "mündliche Nachprüfungen Englisch",
+         "geaendert": true
         },
         {
          "stunde": "5",
          "fach": "En",
          "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für En Hol",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "En",
          "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für En Hol",
+         "geaendert": true
         },
         {
          "stunde": "7",
          "fach": "en2",
          "klasse": "12A-12E",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für En Hol",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "en2",
          "klasse": "12A-12E",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für En Hol",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -33096,11 +33350,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "12A-12E",
+         "raum": "007",
+         "info": "mündliche Nachprüfungen Deutsch; dsp1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "dsp1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "12A-12E",
+         "raum": "007",
+         "info": "mündliche Nachprüfungen Deutsch; dsp1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -33133,15 +33403,15 @@
          "fach": "En",
          "klasse": "9D",
          "raum": "105",
-         "info": "En 9D statt Do (18.06.) St.7, Erweiterte Lehrprobe",
+         "info": "En 9D statt Di (16.06.) St.5",
          "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Auswertung der Lehrprobe in 108",
+         "fach": "En",
+         "klasse": "9D",
+         "raum": "105",
+         "info": "En 9D statt Di (16.06.) St.6",
          "geaendert": true
         },
         {
@@ -33149,7 +33419,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Auswertung der Lehrprobe in 108",
+         "info": "Auswertung der Lehrprobe in R108",
          "geaendert": true
         },
         {
@@ -33157,18 +33427,59 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Auswertung der Lehrprobe in 108",
+         "info": "Auswertung der Lehrprobe in R108",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Auswertung der Lehrprobe in R108",
          "geaendert": true
         }
        ],
        "aufsichten": []
       },
       "Jac": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "8C",
+         "raum": "K07",
+         "info": "für ILZ Jur",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "8C",
+         "raum": "K07",
+         "info": "für ILZ Jur",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Jur": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Phil",
+         "klasse": "10C",
+         "raum": "K10",
+         "info": "Phil 10C statt Mo (15.06.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Phil",
+         "klasse": "10C",
+         "raum": "K10",
+         "info": "Phil 10C statt Mo (15.06.) St.6",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "de1",
@@ -33187,19 +33498,35 @@
         },
         {
          "stunde": "5",
-         "fach": "ILZ",
-         "klasse": "8C",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 8C Jac",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "12A-12E",
+         "raum": "007",
+         "info": "mündliche Nachprüfungen Deutsch; ILZ 8C Jac",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "ILZ",
-         "klasse": "8C",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 8C Jac",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "12A-12E",
+         "raum": "007",
+         "info": "mündliche Nachprüfungen Deutsch; ILZ 8C Jac",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -33226,14 +33553,6 @@
       },
       "Kar": {
        "entries": [
-        {
-         "stunde": "4",
-         "fach": "En",
-         "klasse": "9D",
-         "raum": "105",
-         "info": "statt Do (18.06.) St.8 (En Isb), Aufsicht nach Hospitation, bitte Musik machen",
-         "geaendert": true
-        },
         {
          "stunde": "5",
          "fach": "mu1",
@@ -33289,19 +33608,19 @@
         },
         {
          "stunde": "7",
-         "fach": "ch1",
-         "klasse": "12A-12E",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ch1 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ch1",
-         "klasse": "12A-12E",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ch1 12A-12E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -33319,7 +33638,7 @@
          "stunde": "1",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007 104",
+         "raum": "103 104",
          "info": "für Span OLop",
          "geaendert": true
         },
@@ -33327,25 +33646,41 @@
          "stunde": "2",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007 104",
+         "raum": "103 104",
          "info": "für Span OLop",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": "Aufsicht: Vorbereitung mdl. Nachprüfungen",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": "Aufsicht: Vorbereitung mdl. Nachprüfungen",
          "geaendert": true
         },
         {
          "stunde": "5",
          "fach": "Span",
          "klasse": "7D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "105",
+         "info": "für Span Köh",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Span",
          "klasse": "7D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "105",
+         "info": "für Span Köh",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -33358,19 +33693,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Sk",
-         "klasse": "10C",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 10C gehalten am Mo (15.06.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "AWT",
+         "klasse": "10B",
+         "raum": "Co3",
+         "info": "AWT 10B statt Di (16.06.) St.5; Sk 10C gehalten am Mo (15.06.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Sk",
-         "klasse": "10C",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 10C gehalten am Mo (15.06.) St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "AWT",
+         "klasse": "10B",
+         "raum": "Co3",
+         "info": "AWT 10B statt Di (16.06.) St.6; Sk 10C gehalten am Mo (15.06.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -33392,17 +33743,17 @@
          "stunde": "5",
          "fach": "w3",
          "klasse": "11A-11D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für W Lan, ACHTUNG: Prüfung in 006/007! Absolute Ruhe beim Betreten der Räume",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "w3",
          "klasse": "11A-11D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für W Lan",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -33493,17 +33844,17 @@
          "stunde": "1",
          "fach": "Ma",
          "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "raum": "K07",
+         "info": "für Ma Mar",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Ma",
          "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "raum": "K07",
+         "info": "für Ma Mar",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -33525,7 +33876,7 @@
          "stunde": "5",
          "fach": "En",
          "klasse": "7C",
-         "raum": "Aula",
+         "raum": "201",
          "info": "für En Mar",
          "geaendert": true
         },
@@ -33533,7 +33884,7 @@
          "stunde": "6",
          "fach": "En",
          "klasse": "7C",
-         "raum": "Aula",
+         "raum": "201",
          "info": "für En Mar",
          "geaendert": true
         }
@@ -33560,35 +33911,51 @@
         },
         {
          "stunde": "3",
-         "fach": "Sp",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7C fällt aus, FZA",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "Geo",
          "klasse": "7C",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "raum": "Co2",
+         "info": "Geo 7C statt Mi (17.06.) St.5; Sp 7C fällt aus, FZA",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Sp",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7C fällt aus, FZA",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Geo",
          "klasse": "7C",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "raum": "Co2",
+         "info": "Geo 7C statt Mi (17.06.) St.6; Sp 7C fällt aus, FZA",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Sp",
-         "klasse": "8A",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8A fällt aus, FZA ",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Sp",
-         "klasse": "8A",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8A fällt aus, FZA",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -33623,7 +33990,7 @@
          "stunde": "1",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007 104",
+         "raum": "103 104",
          "info": "für Span OLop",
          "geaendert": true
         },
@@ -33631,7 +33998,7 @@
          "stunde": "2",
          "fach": "Span",
          "klasse": "9B",
-         "raum": "007 104",
+         "raum": "103 104",
          "info": "für Span OLop",
          "geaendert": true
         },
@@ -33639,33 +34006,33 @@
          "stunde": "3",
          "fach": "Span",
          "klasse": "10D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "raum": "005",
+         "info": "für Span OLop, ACHTUNG: Prüfung in 006/007! Absolute Ruhe beim Betreten der Räume",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Span",
          "klasse": "10D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "raum": "005",
+         "info": "für Span OLop, ACHTUNG: Prüfung in 006/007! Absolute Ruhe beim Betreten der Räume",
+         "geaendert": true
         },
         {
          "stunde": "5",
          "fach": "Span",
          "klasse": "10C",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "raum": "005",
+         "info": "für Span OLop, ACHTUNG: Prüfung in 006/007! Absolute Ruhe beim Betreten der Räume",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Span",
          "klasse": "10C",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "raum": "005",
+         "info": "für Span OLop, ACHTUNG: Prüfung in 006/007! Absolute Ruhe beim Betreten der Räume",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -33692,17 +34059,33 @@
          "stunde": "3",
          "fach": "De",
          "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für De Ost",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "De",
          "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für De Ost",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "12A-12E",
+         "raum": "007",
+         "info": "mündliche Nachprüfungen Deutsch",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "12A-12E",
+         "raum": "007",
+         "info": "mündliche Nachprüfungen Deutsch",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -33712,9 +34095,17 @@
         {
          "stunde": "3",
          "fach": "En",
-         "klasse": "",
-         "raum": "",
-         "info": "Erweiterte Lehrprobe Fr. Isbrandt 9d En 105",
+         "klasse": "12A-12E",
+         "raum": "007",
+         "info": "mündliche Nachprüfungen Englisch",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "12A-12E",
+         "raum": "007",
+         "info": "mündliche Nachprüfungen Englisch",
          "geaendert": true
         },
         {
@@ -33787,6 +34178,22 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Span",
+         "klasse": "10B",
+         "raum": "Aula",
+         "info": "Span 10B statt Mi (17.06.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Span",
+         "klasse": "10B",
+         "raum": "Aula",
+         "info": "Span 10B statt Mi (17.06.) St.4",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Span",
          "klasse": "9D",
@@ -33846,19 +34253,19 @@
         },
         {
          "stunde": "5",
-         "fach": "ph1",
-         "klasse": "12A-12E",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ph1 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "ph1",
-         "klasse": "12A-12E",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ph1 12A-12E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -33891,6 +34298,22 @@
          "raum": "Aula",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "ILZ",
+         "klasse": "9A",
+         "raum": "104",
+         "info": "für ILZ Wag",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "ILZ",
+         "klasse": "9A",
+         "raum": "104",
+         "info": "für ILZ Wag",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -33917,17 +34340,17 @@
          "stunde": "5",
          "fach": "phil2",
          "klasse": "11A-11D",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "raum": "K09",
+         "info": "für Phil Schuc",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "phil2",
          "klasse": "11A-11D",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "raum": "K09",
+         "info": "für Phil Schuc",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -34011,36 +34434,36 @@
       "See": {
        "entries": [
         {
-         "stunde": "3",
+         "stunde": "1",
          "fach": "Bio",
-         "klasse": "10B",
-         "raum": "204",
-         "info": "für Sk Bod",
+         "klasse": "12A-12E",
+         "raum": "007",
+         "info": "mdl. Nachprüfungen Biologie",
          "geaendert": true
         },
         {
-         "stunde": "4",
+         "stunde": "2",
          "fach": "Bio",
-         "klasse": "10B",
-         "raum": "204",
-         "info": "für Sk Bod",
+         "klasse": "12A-12E",
+         "raum": "007",
+         "info": "mdl. Nachprüfungen Biologie",
          "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Bio",
-         "klasse": "10D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10D gehalten am Mo (15.06.) St.7",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Bio",
-         "klasse": "10D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10D gehalten am Mo (15.06.) St.8",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -34129,17 +34552,17 @@
         },
         {
          "stunde": "5",
-         "fach": "Sp",
+         "fach": "De",
          "klasse": "8B",
-         "raum": "Tu3",
+         "raum": "Aula",
          "info": "für Sp Bod",
          "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Sp",
+         "fach": "De",
          "klasse": "8B",
-         "raum": "Tu3",
+         "raum": "Aula",
          "info": "für Sp Bod",
          "geaendert": true
         }
@@ -34172,7 +34595,7 @@
          "stunde": "3",
          "fach": "De",
          "klasse": "7E",
-         "raum": "005",
+         "raum": "Co3",
          "info": "De 7E statt Do (18.06.) St.1",
          "geaendert": true
         },
@@ -34180,7 +34603,7 @@
          "stunde": "4",
          "fach": "De",
          "klasse": "7E",
-         "raum": "005",
+         "raum": "Co3",
          "info": "De 7E statt Do (18.06.) St.2",
          "geaendert": true
         }
@@ -34195,19 +34618,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
-         "klasse": "10B",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10B gehalten am Do (18.06.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "Bio",
+         "klasse": "12A-12E",
+         "raum": "007",
+         "info": "mdl. Nachprüfungen Biologie; De 10B gehalten am Do (18.06.) St.5 (Tuh)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "De",
-         "klasse": "10B",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10B gehalten am Do (18.06.) St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Bio",
+         "klasse": "12A-12E",
+         "raum": "007",
+         "info": "mdl. Nachprüfungen Biologie; De 10B gehalten am Do (18.06.) St.6 (Tuh)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -34216,35 +34655,67 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "en1",
-         "klasse": "12A-12E",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "en1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "En",
+         "klasse": "10D",
+         "raum": "Co2",
+         "info": "En 10D statt Mo (15.06.) St.7; en1 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "en1",
-         "klasse": "12A-12E",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "en1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "En",
+         "klasse": "10D",
+         "raum": "Co2",
+         "info": "En 10D statt Mo (15.06.) St.8; en1 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "ILZ",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 9A Schil",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "12A-12E",
+         "raum": "007",
+         "info": "mündliche Nachprüfungen Englisch; ILZ 9A Schil",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "ILZ",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 9A Schil",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "12A-12E",
+         "raum": "007",
+         "info": "mündliche Nachprüfungen Englisch; ILZ 9A Schil",
+         "geaendert": true
         },
         {
          "stunde": "7",
