@@ -1,35 +1,5 @@
 [
  {
-  "timestamp": "2026-06-05T08:41:46.099037",
-  "lehrer": "Hoh",
-  "datum": "Freitag, 05. Juni 2026",
-  "date_key": "20260605",
-  "changes": [
-   "Std 1 (07:40): für Ma Hoh, Aufteilung gemäß Aushang",
-   "Std 2 (08:25): für Ma Hoh, Aufteilung gemäß Aushang",
-   "Std 3 (09:40): En 7D Hol (für Ph)",
-   "Std 4 (10:25): En 7D Hol (für Ph)",
-   "Std 5 (11:40): für Ph Hoh, Aufteilung gemäß Aushang, Aufgaben von Fr. Brincker sind im Sekretariat abzuholen",
-   "Std 6 (12:25): für Ph Hoh, Aufteilung gemäß Aushang, Aufgaben von Fr. Brincker sind im Sekretariat abzuholen"
-  ],
-  "zeitstempel": "05.06.2026, 09:34"
- },
- {
-  "timestamp": "2026-06-05T08:41:46.099037",
-  "lehrer": "Hol",
-  "datum": "Freitag, 05. Juni 2026",
-  "date_key": "20260605",
-  "changes": [
-   "Std 1 (07:40): für En Hol",
-   "Std 2 (08:25): für En Hol",
-   "Std 3 (09:40): für Ph Hoh",
-   "Std 4 (10:25): für Ph Hoh",
-   "Std 7 (13:40): en2 12A-12E fällt aus",
-   "Std 8 (14:25): en2 12A-12E fällt aus"
-  ],
-  "zeitstempel": "05.06.2026, 09:34"
- },
- {
   "timestamp": "2026-06-05T14:10:58.136920",
   "lehrer": "Her",
   "datum": "Montag, 08. Juni 2026",
