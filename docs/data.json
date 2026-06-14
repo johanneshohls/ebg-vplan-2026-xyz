@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "14.06.2026, 08:38 Uhr",
- "last_changed": "2026-06-12T14:14:00",
+ "generiert": "14.06.2026, 11:15 Uhr",
+ "last_changed": "2026-06-14T11:53:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -23661,7 +23661,7 @@
    "tage": {
     "20260615": {
      "datum": "Montag, 15. Juni 2026",
-     "zeitstempel": "12.06.2026, 14:11",
+     "zeitstempel": "14.06.2026, 11:51",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -23731,7 +23731,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 7D Wag",
+         "info": "En 7D verlegt nach St.1 (Wag)",
          "geaendert": true
         },
         {
@@ -23739,7 +23739,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 7D Wag",
+         "info": "En 7D verlegt nach St.2 (Wag)",
          "geaendert": true
         },
         {
@@ -23941,17 +23941,17 @@
          "stunde": "1",
          "fach": "DE2",
          "klasse": "11A-11D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "K10",
+         "info": "für De Schil",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "DE2",
          "klasse": "11A-11D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "K10",
+         "info": "für De Schil",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -24427,19 +24427,19 @@
         },
         {
          "stunde": "7",
-         "fach": "De",
-         "klasse": "10C",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10C verlegt nach Fr (19.06.) St.1",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "De",
-         "klasse": "10C",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10C verlegt nach Fr (19.06.) St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -24517,18 +24517,18 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "En",
-         "klasse": "10C",
-         "raum": "002",
-         "info": "für En Isb",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10C fällt aus",
          "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "En",
-         "klasse": "10C",
-         "raum": "002",
-         "info": "für En Isb",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10C fällt aus",
          "geaendert": true
         }
        ],
@@ -24542,19 +24542,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10A verlegt nach St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "Phil",
+         "klasse": "10C",
+         "raum": "105",
+         "info": "Phil 10C verlegt von St.5; De 10A verlegt nach St.5",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "De",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10A verlegt nach St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Phil",
+         "klasse": "10C",
+         "raum": "105",
+         "info": "Phil 10C verlegt von St.6; De 10A verlegt nach St.6",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -24577,7 +24593,15 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Phil 10C verlegt nach Fr (19.06.) St.1",
+         "info": "Phil 10C verlegt nach St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "10A",
+         "raum": "Co2",
+         "info": "De 10A verlegt von St.1; Phil 10C verlegt nach St.1",
          "geaendert": true
         },
         {
@@ -24585,7 +24609,15 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Phil 10C verlegt nach Fr (19.06.) St.2",
+         "info": "Phil 10C verlegt nach St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "10A",
+         "raum": "Co2",
+         "info": "De 10A verlegt von St.2; Phil 10C verlegt nach St.2",
          "geaendert": true
         }
        ],
@@ -24839,18 +24871,34 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "ILZ",
-         "klasse": "10B",
-         "raum": "K10",
-         "info": "für ILZ Leu",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10B verlegt nach Di (16.06.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "Ma",
+         "klasse": "10A",
+         "raum": "Co2",
+         "info": "Ma 10A verlegt von St.5; ILZ 10B verlegt nach Di (16.06.) St.3",
          "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "ILZ",
-         "klasse": "10B",
-         "raum": "K10",
-         "info": "für ILZ Leu",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10B verlegt nach Di (16.06.) St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ma",
+         "klasse": "10A",
+         "raum": "Co2",
+         "info": "Ma 10A verlegt von St.6; ILZ 10B verlegt nach Di (16.06.) St.4",
          "geaendert": true
         },
         {
@@ -24887,19 +24935,19 @@
         },
         {
          "stunde": "5",
-         "fach": "Ma",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10A verlegt nach St.1",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ma",
-         "klasse": "10A",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10A verlegt nach St.2",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -24938,7 +24986,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 10C Isb",
+         "info": "En 10C fällt aus",
          "geaendert": true
         },
         {
@@ -24946,7 +24994,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 10C Isb",
+         "info": "En 10C fällt aus",
          "geaendert": true
         },
         {
@@ -25290,17 +25338,17 @@
          "stunde": "1",
          "fach": "DE2",
          "klasse": "11A-11D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "K10",
+         "info": "für De Schil",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "DE2",
          "klasse": "11A-11D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "raum": "K10",
+         "info": "für De Schil",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -25402,24 +25450,7 @@
        "aufsichten": []
       },
       "See": {
-       "entries": [
-        {
-         "stunde": "7",
-         "fach": "Bio",
-         "klasse": "10D",
-         "raum": "204",
-         "info": "Bio 10D statt Fr (19.06.) St.5",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Bio",
-         "klasse": "10D",
-         "raum": "204",
-         "info": "Bio 10D statt Fr (19.06.) St.6",
-         "geaendert": true
-        }
-       ],
+       "entries": [],
        "aufsichten": [
         {
          "vor_stunde": "3",
@@ -25476,11 +25507,27 @@
          "geaendert": true
         },
         {
+         "stunde": "7",
+         "fach": "Inf",
+         "klasse": "10D",
+         "raum": "K10",
+         "info": "Inf 10D statt Do (18.06.) St.7; Ma 7C verlegt nach Mi (17.06.) St.5",
+         "geaendert": true
+        },
+        {
          "stunde": "8",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ma 7C verlegt nach Mi (17.06.) St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Inf",
+         "klasse": "10D",
+         "raum": "K10",
+         "info": "Inf 10D statt Do (18.06.) St.8; Ma 7C verlegt nach Mi (17.06.) St.6",
          "geaendert": true
         }
        ],
@@ -25676,19 +25723,51 @@
        "entries": [
         {
          "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7D verlegt nach St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
          "fach": "De",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "klasse": "10B",
+         "raum": "002",
+         "info": "De 10B statt Di (16.06.) St.3; De 7D verlegt nach St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7D verlegt nach St.4",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "De",
+         "klasse": "10B",
+         "raum": "002",
+         "info": "De 10B statt Di (16.06.) St.4; De 7D verlegt nach St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "De",
          "klasse": "7D",
          "raum": "106",
-         "info": "",
-         "geaendert": false
+         "info": "De 7D verlegt von St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "De 7D verlegt von St.2",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -25735,19 +25814,19 @@
       "Wag": {
        "entries": [
         {
-         "stunde": "3",
+         "stunde": "1",
          "fach": "En",
          "klasse": "7D",
          "raum": "106",
-         "info": "für En Bis",
+         "info": "verlegt von St.3 (En Bis)",
          "geaendert": true
         },
         {
-         "stunde": "4",
+         "stunde": "2",
          "fach": "En",
          "klasse": "7D",
          "raum": "106",
-         "info": "für En Bis",
+         "info": "verlegt von St.4 (En Bis)",
          "geaendert": true
         },
         {
@@ -25789,7 +25868,7 @@
     },
     "20260616": {
      "datum": "Dienstag, 16. Juni 2026",
-     "zeitstempel": "12.06.2026, 14:14",
+     "zeitstempel": "14.06.2026, 11:51",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -27230,6 +27309,22 @@
          "raum": "205",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "ILZ",
+         "klasse": "10B",
+         "raum": "008",
+         "info": "ILZ 10B statt Mo (15.06.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "ILZ",
+         "klasse": "10B",
+         "raum": "008",
+         "info": "ILZ 10B statt Mo (15.06.) St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -27985,19 +28080,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "10B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10B gehalten am Mo (15.06.) St.1",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "10B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10B gehalten am Mo (15.06.) St.2",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -28075,7 +28170,7 @@
     },
     "20260617": {
      "datum": "Mittwoch, 17. Juni 2026",
-     "zeitstempel": "12.06.2026, 14:11",
+     "zeitstempel": "14.06.2026, 11:51",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -30317,7 +30412,7 @@
     },
     "20260618": {
      "datum": "Donnerstag, 18. Juni 2026",
-     "zeitstempel": "12.06.2026, 14:11",
+     "zeitstempel": "14.06.2026, 11:51",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -32135,11 +32230,27 @@
          "geaendert": true
         },
         {
+         "stunde": "7",
+         "fach": "Bio",
+         "klasse": "10D",
+         "raum": "204",
+         "info": "Bio 10D statt Fr (19.06.) St.5; Bio 10B gehalten am Mi (17.06.) St.3",
+         "geaendert": true
+        },
+        {
          "stunde": "8",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Bio 10B gehalten am Mi (17.06.) St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Bio",
+         "klasse": "10D",
+         "raum": "204",
+         "info": "Bio 10D statt Fr (19.06.) St.6; Bio 10B gehalten am Mi (17.06.) St.4",
          "geaendert": true
         }
        ],
@@ -32202,19 +32313,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Inf",
-         "klasse": "10D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10D gehalten am Mo (15.06.) St.7",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Inf",
-         "klasse": "10D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10D gehalten am Mo (15.06.) St.8",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -32448,7 +32559,7 @@
     },
     "20260619": {
      "datum": "Freitag, 19. Juni 2026",
-     "zeitstempel": "12.06.2026, 14:11",
+     "zeitstempel": "14.06.2026, 11:53",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -33342,6 +33453,22 @@
       "Hön": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "10C",
+         "raum": "102",
+         "info": "De 10C statt Mo (15.06.) St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "10C",
+         "raum": "102",
+         "info": "De 10C statt Mo (15.06.) St.8",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -33464,22 +33591,6 @@
       },
       "Jur": {
        "entries": [
-        {
-         "stunde": "1",
-         "fach": "Phil",
-         "klasse": "10C",
-         "raum": "K10",
-         "info": "Phil 10C statt Mo (15.06.) St.5",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "Phil",
-         "klasse": "10C",
-         "raum": "K10",
-         "info": "Phil 10C statt Mo (15.06.) St.6",
-         "geaendert": true
-        },
         {
          "stunde": "3",
          "fach": "de1",
@@ -34454,7 +34565,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 10D gehalten am Mo (15.06.) St.7",
+         "info": "Bio 10D gehalten am Do (18.06.) St.7",
          "geaendert": true
         },
         {
@@ -34462,7 +34573,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 10D gehalten am Mo (15.06.) St.8",
+         "info": "Bio 10D gehalten am Do (18.06.) St.8",
          "geaendert": true
         }
        ],

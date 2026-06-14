@@ -1485,5 +1485,263 @@
    "Std 6 (12:25): De 10B statt Fr (19.06.) St.2"
   ],
   "zeitstempel": "12.06.2026, 14:11"
+ },
+ {
+  "timestamp": "2026-06-14T11:15:12.451593",
+  "lehrer": "Bis",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 1 (07:40): Ma 7A Käc (für En)",
+   "Std 2 (08:25): Ma 7A Käc (für En)",
+   "Std 3 (09:40): En 7D verlegt nach St.1 (Wag)",
+   "Std 4 (10:25): En 7D verlegt nach St.2 (Wag)",
+   "Std 7 (13:40): En 10B verlegt nach St.3 (Mar)",
+   "Std 8 (14:25): En 10B verlegt nach St.4 (Mar)"
+  ],
+  "zeitstempel": "14.06.2026, 11:51"
+ },
+ {
+  "timestamp": "2026-06-14T11:15:12.451593",
+  "lehrer": "Eul",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 1 (07:40): für De Schil",
+   "Std 2 (08:25): für De Schil"
+  ],
+  "zeitstempel": "14.06.2026, 11:51"
+ },
+ {
+  "timestamp": "2026-06-14T11:15:12.451593",
+  "lehrer": "Hön",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 5 (11:40): für De Hön",
+   "Std 6 (12:25): für De Hön",
+   "Std 7 (13:40): De 10C verlegt nach Fr (19.06.) St.1",
+   "Std 8 (14:25): De 10C verlegt nach Fr (19.06.) St.2"
+  ],
+  "zeitstempel": "14.06.2026, 11:51"
+ },
+ {
+  "timestamp": "2026-06-14T11:15:12.451593",
+  "lehrer": "Isb",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 1 (07:40): En 10C fällt aus",
+   "Std 2 (08:25): En 10C fällt aus"
+  ],
+  "zeitstempel": "14.06.2026, 11:51"
+ },
+ {
+  "timestamp": "2026-06-14T11:15:12.451593",
+  "lehrer": "Jur",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 1 (07:40): De 10A verlegt nach St.5",
+   "Std 1 (07:40): Phil 10C verlegt von St.5; De 10A verlegt nach St.5",
+   "Std 2 (08:25): De 10A verlegt nach St.6",
+   "Std 2 (08:25): Phil 10C verlegt von St.6; De 10A verlegt nach St.6",
+   "Std 5 (11:40): Phil 10C verlegt nach St.1",
+   "Std 5 (11:40): De 10A verlegt von St.1; Phil 10C verlegt nach St.1",
+   "Std 6 (12:25): Phil 10C verlegt nach St.2",
+   "Std 6 (12:25): De 10A verlegt von St.2; Phil 10C verlegt nach St.2"
+  ],
+  "zeitstempel": "14.06.2026, 11:51"
+ },
+ {
+  "timestamp": "2026-06-14T11:15:12.451593",
+  "lehrer": "Leu",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 1 (07:40): ILZ 10B verlegt nach Di (16.06.) St.3",
+   "Std 1 (07:40): Ma 10A verlegt von St.5; ILZ 10B verlegt nach Di (16.06.) St.3",
+   "Std 2 (08:25): ILZ 10B verlegt nach Di (16.06.) St.4",
+   "Std 2 (08:25): Ma 10A verlegt von St.6; ILZ 10B verlegt nach Di (16.06.) St.4",
+   "Std 3 (09:40): Ma 10B verlegt nach St.7",
+   "Std 3 (09:40): Konsultation mündliche Prüfung; Ma 10B verlegt nach St.7 (Leu)",
+   "Std 4 (10:25): Ma 10B verlegt nach St.8",
+   "Std 4 (10:25): Konsultation mündliche Prüfung; Ma 10B verlegt nach St.8 (Leu)",
+   "Std 5 (11:40): Ma 10A verlegt nach St.1",
+   "Std 6 (12:25): Ma 10A verlegt nach St.2",
+   "Std 7 (13:40): Ma 10B verlegt von St.3",
+   "Std 8 (14:25): Ma 10B verlegt von St.4"
+  ],
+  "zeitstempel": "14.06.2026, 11:51"
+ },
+ {
+  "timestamp": "2026-06-14T11:15:12.451593",
+  "lehrer": "Mar",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 1 (07:40): En 10C fällt aus",
+   "Std 2 (08:25): En 10C fällt aus",
+   "Std 3 (09:40): verlegt von St.7 (En Bis)",
+   "Std 4 (10:25): verlegt von St.8 (En Bis)"
+  ],
+  "zeitstempel": "14.06.2026, 11:51"
+ },
+ {
+  "timestamp": "2026-06-14T11:15:12.451593",
+  "lehrer": "Schil",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 1 (07:40): für De Schil",
+   "Std 2 (08:25): für De Schil"
+  ],
+  "zeitstempel": "14.06.2026, 11:51"
+ },
+ {
+  "timestamp": "2026-06-14T11:15:12.451593",
+  "lehrer": "See",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "14.06.2026, 11:51"
+ },
+ {
+  "timestamp": "2026-06-14T11:15:12.451593",
+  "lehrer": "Sta",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 7 (13:40): Ma 7C verlegt nach Mi (17.06.) St.5",
+   "Std 7 (13:40): Inf 10D statt Do (18.06.) St.7; Ma 7C verlegt nach Mi (17.06.) St.5",
+   "Std 8 (14:25): Ma 7C verlegt nach Mi (17.06.) St.6",
+   "Std 8 (14:25): Inf 10D statt Do (18.06.) St.8; Ma 7C verlegt nach Mi (17.06.) St.6"
+  ],
+  "zeitstempel": "14.06.2026, 11:51"
+ },
+ {
+  "timestamp": "2026-06-14T11:15:12.451593",
+  "lehrer": "Tuh",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 1 (07:40): De 7D verlegt nach St.3",
+   "Std 1 (07:40): De 10B statt Di (16.06.) St.3; De 7D verlegt nach St.3",
+   "Std 2 (08:25): De 7D verlegt nach St.4",
+   "Std 2 (08:25): De 10B statt Di (16.06.) St.4; De 7D verlegt nach St.4",
+   "Std 3 (09:40): De 7D verlegt von St.1",
+   "Std 4 (10:25): De 7D verlegt von St.2"
+  ],
+  "zeitstempel": "14.06.2026, 11:51"
+ },
+ {
+  "timestamp": "2026-06-14T11:15:12.451593",
+  "lehrer": "Wag",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 1 (07:40): verlegt von St.3 (En Bis)",
+   "Std 2 (08:25): verlegt von St.4 (En Bis)",
+   "Std 7 (13:40): En 10D verlegt nach Fr (19.06.) St.1",
+   "Std 8 (14:25): En 10D verlegt nach Fr (19.06.) St.2"
+  ],
+  "zeitstempel": "14.06.2026, 11:51"
+ },
+ {
+  "timestamp": "2026-06-14T11:15:12.451593",
+  "lehrer": "Leu",
+  "datum": "Dienstag, 16. Juni 2026",
+  "date_key": "20260616",
+  "changes": [
+   "Std 3 (09:40): ILZ 10B statt Mo (15.06.) St.1",
+   "Std 4 (10:25): ILZ 10B statt Mo (15.06.) St.2"
+  ],
+  "zeitstempel": "14.06.2026, 11:51"
+ },
+ {
+  "timestamp": "2026-06-14T11:15:12.451593",
+  "lehrer": "Tuh",
+  "datum": "Dienstag, 16. Juni 2026",
+  "date_key": "20260616",
+  "changes": [
+   "Std 3 (09:40): De 10B gehalten am Mo (15.06.) St.1",
+   "Std 4 (10:25): De 10B gehalten am Mo (15.06.) St.2"
+  ],
+  "zeitstempel": "14.06.2026, 11:51"
+ },
+ {
+  "timestamp": "2026-06-14T11:15:12.451593",
+  "lehrer": "See",
+  "datum": "Donnerstag, 18. Juni 2026",
+  "date_key": "20260618",
+  "changes": [
+   "Std 3 (09:40): BIO1 12A-12E fällt aus",
+   "Std 4 (10:25): BIO1 12A-12E fällt aus",
+   "Std 7 (13:40): Bio 10B gehalten am Mi (17.06.) St.3",
+   "Std 7 (13:40): Bio 10D statt Fr (19.06.) St.5; Bio 10B gehalten am Mi (17.06.) St.3",
+   "Std 8 (14:25): Bio 10B gehalten am Mi (17.06.) St.4",
+   "Std 8 (14:25): Bio 10D statt Fr (19.06.) St.6; Bio 10B gehalten am Mi (17.06.) St.4"
+  ],
+  "zeitstempel": "14.06.2026, 11:51"
+ },
+ {
+  "timestamp": "2026-06-14T11:15:12.451593",
+  "lehrer": "Sta",
+  "datum": "Donnerstag, 18. Juni 2026",
+  "date_key": "20260618",
+  "changes": [
+   "Std 3 (09:40): Ma 9D statt Fr (19.06.) St.5",
+   "Std 4 (10:25): Ma 9D statt Fr (19.06.) St.6",
+   "Std 5 (11:40): Inf 10B gehalten am Di (16.06.) St.5",
+   "Std 6 (12:25): Inf 10B gehalten am Di (16.06.) St.6",
+   "Std 7 (13:40): Inf 10D gehalten am Mo (15.06.) St.7",
+   "Std 8 (14:25): Inf 10D gehalten am Mo (15.06.) St.8"
+  ],
+  "zeitstempel": "14.06.2026, 11:51"
+ },
+ {
+  "timestamp": "2026-06-14T11:15:12.451593",
+  "lehrer": "Hön",
+  "datum": "Freitag, 19. Juni 2026",
+  "date_key": "20260619",
+  "changes": [
+   "Std 1 (07:40): De 10C statt Mo (15.06.) St.7",
+   "Std 2 (08:25): De 10C statt Mo (15.06.) St.8",
+   "Std 5 (11:40): dsp1 12A-12E fällt aus",
+   "Std 5 (11:40): mündliche Nachprüfungen Deutsch; dsp1 12A-12E fällt aus",
+   "Std 6 (12:25): dsp1 12A-12E fällt aus",
+   "Std 6 (12:25): mündliche Nachprüfungen Deutsch; dsp1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "14.06.2026, 11:53"
+ },
+ {
+  "timestamp": "2026-06-14T11:15:12.451593",
+  "lehrer": "Jur",
+  "datum": "Freitag, 19. Juni 2026",
+  "date_key": "20260619",
+  "changes": [
+   "Std 5 (11:40): ILZ 8C Jac",
+   "Std 5 (11:40): mündliche Nachprüfungen Deutsch; ILZ 8C Jac",
+   "Std 6 (12:25): ILZ 8C Jac",
+   "Std 6 (12:25): mündliche Nachprüfungen Deutsch; ILZ 8C Jac",
+   "Std 7 (13:40): Nachschriften",
+   "Std 8 (14:25): Nachschriften"
+  ],
+  "zeitstempel": "14.06.2026, 11:53"
+ },
+ {
+  "timestamp": "2026-06-14T11:15:12.451593",
+  "lehrer": "See",
+  "datum": "Freitag, 19. Juni 2026",
+  "date_key": "20260619",
+  "changes": [
+   "Std 1 (07:40): mdl. Nachprüfungen Biologie",
+   "Std 2 (08:25): mdl. Nachprüfungen Biologie",
+   "Std 5 (11:40): Bio 10D gehalten am Do (18.06.) St.7",
+   "Std 6 (12:25): Bio 10D gehalten am Do (18.06.) St.8"
+  ],
+  "zeitstempel": "14.06.2026, 11:53"
  }
 ]
