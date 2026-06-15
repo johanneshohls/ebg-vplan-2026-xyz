@@ -1743,5 +1743,57 @@
    "Std 6 (12:25): Bio 10D gehalten am Do (18.06.) St.8"
   ],
   "zeitstempel": "14.06.2026, 11:53"
+ },
+ {
+  "timestamp": "2026-06-15T10:52:30.233536",
+  "lehrer": "Mue",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 5 (11:40): Geo 7D statt Mi (17.06.) St.3",
+   "Std 6 (12:25): Geo 7D statt Mi (17.06.) St.4"
+  ],
+  "zeitstempel": "15.06.2026, 11:29"
+ },
+ {
+  "timestamp": "2026-06-15T10:52:30.233536",
+  "lehrer": "Ost",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 7 (13:40): Bio 9A fällt aus",
+   "Std 8 (14:25): Bio 9A fällt aus"
+  ],
+  "zeitstempel": "15.06.2026, 11:29"
+ },
+ {
+  "timestamp": "2026-06-15T10:52:30.233536",
+  "lehrer": "Tuh",
+  "datum": "Montag, 15. Juni 2026",
+  "date_key": "20260615",
+  "changes": [
+   "Std 1 (07:40): De 7D verlegt nach St.3",
+   "Std 1 (07:40): De 10B statt Di (16.06.) St.3; De 7D verlegt nach St.3",
+   "Std 2 (08:25): De 7D verlegt nach St.4",
+   "Std 2 (08:25): De 10B statt Di (16.06.) St.4; De 7D verlegt nach St.4",
+   "Std 3 (09:40): De 7D verlegt von St.1",
+   "Std 4 (10:25): De 7D verlegt von St.2",
+   "Std 5 (11:40): ILZ 7D verlegt nach Mi (17.06.) St.3",
+   "Std 6 (12:25): ILZ 7D verlegt nach Mi (17.06.) St.4"
+  ],
+  "zeitstempel": "15.06.2026, 11:29"
+ },
+ {
+  "timestamp": "2026-06-15T10:52:30.233536",
+  "lehrer": "Schuc",
+  "datum": "Donnerstag, 18. Juni 2026",
+  "date_key": "20260618",
+  "changes": [
+   "Std 3 (09:40): GE1 12A-12E fällt aus",
+   "Std 4 (10:25): GE1 12A-12E fällt aus",
+   "Std 5 (11:40): für Ge Schuc",
+   "Std 6 (12:25): für Ge Schuc"
+  ],
+  "zeitstempel": "15.06.2026, 10:17"
  }
 ]
