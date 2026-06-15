@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "15.06.2026, 10:52 Uhr",
- "last_changed": "2026-06-15T11:29:00",
+ "generiert": "15.06.2026, 16:10 Uhr",
+ "last_changed": "2026-06-15T16:59:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -13918,7 +13918,7 @@
     },
     "20260616": {
      "datum": "Dienstag, 16. Juni 2026",
-     "zeitstempel": "14.06.2026, 11:51",
+     "zeitstempel": "15.06.2026, 16:59",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -14072,35 +14072,67 @@
         },
         {
          "stunde": "3",
-         "fach": "Ph",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8A verlegt nach St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "Ch",
+         "klasse": "8B",
+         "raum": "002",
+         "info": "Ch 8B verlegt von St.7; Ph 8A verlegt nach St.5",
+         "geaendert": true
         },
         {
          "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8A verlegt nach St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ch",
+         "klasse": "8B",
+         "raum": "002",
+         "info": "Ch 8B verlegt von St.8; Ph 8A verlegt nach St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
          "fach": "Ph",
          "klasse": "8A",
          "raum": "001",
-         "info": "",
-         "geaendert": false
+         "info": "Ph 8A verlegt von St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ph",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "Ph 8A verlegt von St.4",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Ch",
-         "klasse": "8B",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 8B verlegt nach St.3",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ch",
-         "klasse": "8B",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 8B verlegt nach St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -14276,35 +14308,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "De",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7B Ter",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "De",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7B Ter",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Club2",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club2 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club2",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club2 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14909,11 +14941,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Ph",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "verlegt von St.5 (De Ost); As 9C gehalten am Mo (15.06.) St.3",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "As 9C gehalten am Mo (15.06.) St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ph",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "verlegt von St.6 (De Ost); As 9C gehalten am Mo (15.06.) St.4",
          "geaendert": true
         },
         {
@@ -14961,22 +15009,6 @@
       "Isb": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "Ge",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "Ge 8A verlegt von St.7",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "Ge",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "Ge 8A verlegt von St.8",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -14997,7 +15029,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 8A verlegt nach St.1",
+         "info": "Ge 8A verlegt nach St.1 (Schud)",
          "geaendert": true
         },
         {
@@ -15005,7 +15037,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 8A verlegt nach St.2",
+         "info": "Ge 8A verlegt nach St.2 (Schud)",
          "geaendert": true
         }
        ],
@@ -15095,35 +15127,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Hausbesuch S. Hamann; B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Hausbesuch S. Hamann; B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -15134,11 +15182,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Hausbesuch S. Hamann; B VK fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Hausbesuch S. Hamann; B VK fällt aus",
          "geaendert": true
         }
        ],
@@ -15529,51 +15593,51 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "ILZ",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 8B fällt aus, kann im 4. Block zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "ILZ",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 8B fällt aus, kann im 4. Block zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "De",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8A verlegt nach St.3 (Hun)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "De",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8A verlegt nach St.4 (Hun)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "bio2",
-         "klasse": "11A-11D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 11A-11D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "bio2",
-         "klasse": "11A-11D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 11A-11D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15621,16 +15685,16 @@
          "stunde": "3",
          "fach": "ILZ",
          "klasse": "9D",
-         "raum": "002",
-         "info": "für ILZ Puk",
+         "raum": "004",
+         "info": "für ILZ Puk, Raumänderung",
          "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "ILZ",
          "klasse": "9D",
-         "raum": "002",
-         "info": "für ILZ Puk",
+         "raum": "004",
+         "info": "für ILZ Puk, Raumänderung",
          "geaendert": true
         },
         {
@@ -15860,6 +15924,22 @@
       "Schud": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "Ge",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "verlegt von St.7 (Ge Isb)",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ge",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "verlegt von St.8 (Ge Isb)",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "Ge",
          "klasse": "7D",
@@ -16077,6 +16157,22 @@
          "klasse": "9C",
          "raum": "204",
          "info": "Bio 9C statt Do (18.06.) St.4; BIO2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für De Eul",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für De Eul",
          "geaendert": true
         }
        ],
