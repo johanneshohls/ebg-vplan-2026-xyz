@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "15.06.2026, 22:07 Uhr",
- "last_changed": "2026-06-15T16:59:00",
+ "generiert": "16.06.2026, 10:04 Uhr",
+ "last_changed": "2026-06-16T11:25:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -11695,7 +11695,7 @@
    "tage": {
     "20260615": {
      "datum": "Montag, 15. Juni 2026",
-     "zeitstempel": "15.06.2026, 11:29",
+     "zeitstempel": "16.06.2026, 11:25",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -13122,22 +13122,6 @@
          "raum": "006",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "Geo",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "Geo 7D statt Mi (17.06.) St.3",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Geo",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "Geo 7D statt Mi (17.06.) St.4",
-         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13821,19 +13805,19 @@
         },
         {
          "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "ILZ 7D verlegt nach Mi (17.06.) St.3",
-         "geaendert": true
+         "fach": "ILZ",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "ILZ 7D verlegt nach Mi (17.06.) St.4",
-         "geaendert": true
+         "fach": "ILZ",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "7",
@@ -13918,7 +13902,7 @@
     },
     "20260616": {
      "datum": "Dienstag, 16. Juni 2026",
-     "zeitstempel": "15.06.2026, 16:59",
+     "zeitstempel": "16.06.2026, 11:25",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -16316,7 +16300,7 @@
     },
     "20260617": {
      "datum": "Mittwoch, 17. Juni 2026",
-     "zeitstempel": "14.06.2026, 11:51",
+     "zeitstempel": "16.06.2026, 11:25",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17166,7 +17150,7 @@
          "stunde": "1",
          "fach": "EN2",
          "klasse": "11A-11D",
-         "raum": "007",
+         "raum": "006",
          "info": "für En Hol",
          "geaendert": true
         },
@@ -17174,7 +17158,7 @@
          "stunde": "2",
          "fach": "EN2",
          "klasse": "11A-11D",
-         "raum": "007",
+         "raum": "006",
          "info": "für En Hol",
          "geaendert": true
         },
@@ -17682,17 +17666,17 @@
          "stunde": "1",
          "fach": "Sk",
          "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "raum": "007",
+         "info": "für Sk Lie",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Sk",
          "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "raum": "007",
+         "info": "für Sk Lie",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -18558,7 +18542,7 @@
     },
     "20260618": {
      "datum": "Donnerstag, 18. Juni 2026",
-     "zeitstempel": "15.06.2026, 10:17",
+     "zeitstempel": "16.06.2026, 11:25",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -20705,7 +20689,7 @@
     },
     "20260619": {
      "datum": "Freitag, 19. Juni 2026",
-     "zeitstempel": "14.06.2026, 11:53",
+     "zeitstempel": "16.06.2026, 11:25",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23011,7 +22995,7 @@
    "tage": {
     "20260622": {
      "datum": "Montag, 22. Juni 2026",
-     "zeitstempel": "14.06.2026, 11:51",
+     "zeitstempel": "16.06.2026, 11:25",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -25812,7 +25796,7 @@
     },
     "20260623": {
      "datum": "Dienstag, 23. Juni 2026",
-     "zeitstempel": "15.06.2026, 11:28",
+     "zeitstempel": "16.06.2026, 11:25",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -28605,7 +28589,7 @@
     },
     "20260624": {
      "datum": "Mittwoch, 24. Juni 2026",
-     "zeitstempel": "15.06.2026, 11:28",
+     "zeitstempel": "16.06.2026, 11:25",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -31539,7 +31523,7 @@
     },
     "20260625": {
      "datum": "Donnerstag, 25. Juni 2026",
-     "zeitstempel": "15.06.2026, 11:28",
+     "zeitstempel": "16.06.2026, 11:25",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -34460,7 +34444,7 @@
     },
     "20260626": {
      "datum": "Freitag, 26. Juni 2026",
-     "zeitstempel": "15.06.2026, 11:28",
+     "zeitstempel": "16.06.2026, 11:25",
      "lehrer": {
       "Bar": {
        "entries": [

@@ -1,130 +1,5 @@
 [
  {
-  "timestamp": "2026-06-09T08:28:58.847382",
-  "lehrer": "Bis",
-  "datum": "Dienstag, 09. Juni 2026",
-  "date_key": "20260609",
-  "changes": [
-   "Std 7 (13:40): En 10B selbst. (v), Selbststudium, kann zu Hause erledigt werden; PRÜFLINGE zur mdl. KOMPETENZPRÜFUNG!",
-   "Std 8 (14:25): En 10B selbst. (v), Selbststudium, kann zu Hause erledigt werden; PRÜFLINGE zur mdl. KOMPETENZPRÜFUNG!"
-  ],
-  "zeitstempel": "09.06.2026, 10:17"
- },
- {
-  "timestamp": "2026-06-09T08:28:58.847382",
-  "lehrer": "Käc",
-  "datum": "Dienstag, 09. Juni 2026",
-  "date_key": "20260609",
-  "changes": [
-   "Std 3 (09:40): B VK2 fällt aus",
-   "Std 4 (10:25): B VK2 fällt aus",
-   "Std 5 (11:40): für Geo Mue",
-   "Std 5 (11:40): B VK2 fällt aus",
-   "Std 6 (12:25): für Geo Mue",
-   "Std 6 (12:25): B VK2 fällt aus",
-   "Std 7 (13:40): Aufsicht über Vorbereitung der mdl. Prüfungen Klasse 10b",
-   "Std 8 (14:25): Aufsicht über Vorbereitung der mdl. Prüfungen Klasse 10b"
-  ],
-  "zeitstempel": "09.06.2026, 10:17"
- },
- {
-  "timestamp": "2026-06-09T08:28:58.847382",
-  "lehrer": "Mar",
-  "datum": "Dienstag, 09. Juni 2026",
-  "date_key": "20260609",
-  "changes": [
-   "Std 1 (07:40): En 8A fällt aus",
-   "Std 1 (07:40): Kompetenzprüfung 10b; En 8A fällt aus",
-   "Std 2 (08:25): En 8A fällt aus",
-   "Std 2 (08:25): Kompetenzprüfung 10b; En 8A fällt aus",
-   "Std 3 (09:40): En 7C fällt aus",
-   "Std 3 (09:40): Kompetenzprüfung 10b; En 7C fällt aus",
-   "Std 4 (10:25): En 7C fällt aus",
-   "Std 4 (10:25): Kompetenzprüfung 10b; En 7C fällt aus",
-   "Std 5 (11:40): En 10C Isb",
-   "Std 6 (12:25): En 10C Isb",
-   "Std 7 (13:40): mdl. Kompetenzprüfungen",
-   "Std 8 (14:25): mdl. Kompetenzprüfungen"
-  ],
-  "zeitstempel": "09.06.2026, 10:17"
- },
- {
-  "timestamp": "2026-06-09T08:28:58.847382",
-  "lehrer": "OLop",
-  "datum": "Dienstag, 09. Juni 2026",
-  "date_key": "20260609",
-  "changes": [
-   "Std 3 (09:40): Aufsicht über Vorbereitung mdl. Prüfungen",
-   "Std 4 (10:25): Aufsicht über Vorbereitung mdl. Prüfungen"
-  ],
-  "zeitstempel": "09.06.2026, 10:17"
- },
- {
-  "timestamp": "2026-06-09T08:28:58.847382",
-  "lehrer": "Her",
-  "datum": "Donnerstag, 11. Juni 2026",
-  "date_key": "20260611",
-  "changes": [
-   "Std 3 (09:40): Aufsicht Vorbereitung mdl. Prüfungen",
-   "Std 4 (10:25): Aufsicht Vorbereitung mdl. Prüfungen"
-  ],
-  "zeitstempel": "09.06.2026, 10:17"
- },
- {
-  "timestamp": "2026-06-09T08:28:58.847382",
-  "lehrer": "Isb",
-  "datum": "Donnerstag, 11. Juni 2026",
-  "date_key": "20260611",
-  "changes": [
-   "Std 3 (09:40): Kompetenzprüfung 10b",
-   "Std 4 (10:25): Kompetenzprüfung 10b"
-  ],
-  "zeitstempel": "09.06.2026, 10:17"
- },
- {
-  "timestamp": "2026-06-09T08:28:58.847382",
-  "lehrer": "Mar",
-  "datum": "Donnerstag, 11. Juni 2026",
-  "date_key": "20260611",
-  "changes": [
-   "Std 3 (09:40): En 8A gehalten am Mi (10.06.) St.5",
-   "Std 3 (09:40): Kompetenzprüfung 10b; En 8A gehalten am Mi (10.06.) St.5 (Mar)",
-   "Std 4 (10:25): En 8A gehalten am Mi (10.06.) St.6",
-   "Std 4 (10:25): Kompetenzprüfung 10b; En 8A gehalten am Mi (10.06.) St.6 (Mar)"
-  ],
-  "zeitstempel": "09.06.2026, 10:17"
- },
- {
-  "timestamp": "2026-06-09T08:28:58.847382",
-  "lehrer": "Hei",
-  "datum": "Freitag, 12. Juni 2026",
-  "date_key": "20260612",
-  "changes": [
-   "Std 1 (07:40): für Fr Hei",
-   "Std 2 (08:25): für Fr Hei",
-   "Std 5 (11:40): für Geo Hei",
-   "Std 6 (12:25): für Geo Hei",
-   "Std 7 (13:40): Nachschriften",
-   "Std 8 (14:25): Nachschriften"
-  ],
-  "zeitstempel": "09.06.2026, 10:17"
- },
- {
-  "timestamp": "2026-06-09T08:28:58.847382",
-  "lehrer": "Roh",
-  "datum": "Freitag, 12. Juni 2026",
-  "date_key": "20260612",
-  "changes": [
-   "Std 5 (11:40): MA1 12A-12E fällt aus",
-   "Std 5 (11:40): Ma 8C statt Mo (08.06.) St.7; MA1 12A-12E fällt aus",
-   "Std 6 (12:25): MA1 12A-12E fällt aus",
-   "Std 6 (12:25): Ma 8C statt Mo (08.06.) St.8; MA1 12A-12E fällt aus",
-   "Std 7 (13:40): Nachschriften",
-   "Std 8 (14:25): Nachschriften"
-  ],
-  "zeitstempel": "09.06.2026, 10:17"
- },
- {
   "timestamp": "2026-06-09T11:38:17.643100",
   "lehrer": "Bes",
   "datum": "Mittwoch, 10. Juni 2026",
@@ -1775,5 +1650,29 @@
    "Std 6 (12:25): für De Eul"
   ],
   "zeitstempel": "15.06.2026, 16:59"
+ },
+ {
+  "timestamp": "2026-06-16T10:04:07.652065",
+  "lehrer": "Hol",
+  "datum": "Mittwoch, 17. Juni 2026",
+  "date_key": "20260617",
+  "changes": [
+   "Std 1 (07:40): für En Hol",
+   "Std 2 (08:25): für En Hol",
+   "Std 5 (11:40): En 10A gehalten am Di (16.06.) St.1",
+   "Std 6 (12:25): En 10A gehalten am Di (16.06.) St.2"
+  ],
+  "zeitstempel": "16.06.2026, 11:25"
+ },
+ {
+  "timestamp": "2026-06-16T10:04:07.652065",
+  "lehrer": "Lie",
+  "datum": "Mittwoch, 17. Juni 2026",
+  "date_key": "20260617",
+  "changes": [
+   "Std 1 (07:40): für Sk Lie",
+   "Std 2 (08:25): für Sk Lie"
+  ],
+  "zeitstempel": "16.06.2026, 11:25"
  }
 ]
