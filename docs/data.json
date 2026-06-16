@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "16.06.2026, 15:18 Uhr",
- "last_changed": "2026-06-16T17:07:00",
+ "generiert": "16.06.2026, 18:58 Uhr",
+ "last_changed": "2026-06-16T18:10:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16300,7 +16300,7 @@
     },
     "20260617": {
      "datum": "Mittwoch, 17. Juni 2026",
-     "zeitstempel": "16.06.2026, 17:07",
+     "zeitstempel": "16.06.2026, 18:10",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17504,19 +17504,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Ch",
-         "klasse": "9B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 9B verlegt nach Do (18.06.) St.1",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ch",
-         "klasse": "9B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 9B verlegt nach Do (18.06.) St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -18590,7 +18590,7 @@
     },
     "20260618": {
      "datum": "Donnerstag, 18. Juni 2026",
-     "zeitstempel": "16.06.2026, 17:07",
+     "zeitstempel": "16.06.2026, 18:10",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -18916,35 +18916,35 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7B verlegt nach Fr (19.06.) St.5 (Bes)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7B verlegt nach Fr (19.06.) St.6 (Bes)",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "eRe",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 9B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "eRe",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 9B fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -18952,7 +18952,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Hof 1, WC, Container",
-         "info": ""
+         "info": "entfällt, V: Isb"
         }
        ]
       },
@@ -19354,11 +19354,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "ILZ",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "ILZ 7B statt Fr (19.06.) St.5; Phil 9D gehalten am Di (16.06.) St.5",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Phil 9D gehalten am Di (16.06.) St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "ILZ",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "ILZ 7B statt Fr (19.06.) St.6; Phil 9D gehalten am Di (16.06.) St.6",
          "geaendert": true
         },
         {
@@ -19655,7 +19671,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof 1, WC, Container",
+         "info": "für Eul"
+        }
+       ]
       },
       "Jac": {
        "entries": [],
@@ -19726,19 +19749,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "ch1",
-         "klasse": "12A-12E",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ch1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "Ch",
+         "klasse": "9B",
          "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "info": "Ch 9B statt Mi (17.06.) St.7; ch1 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "ch1",
-         "klasse": "12A-12E",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ch1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ch",
+         "klasse": "9B",
          "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "info": "Ch 9B statt Mi (17.06.) St.8; ch1 12A-12E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -20203,19 +20242,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ma",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9B verlegt nach St.5",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ma",
-         "klasse": "9B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9B verlegt nach St.6",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -20242,11 +20281,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "Ma 9B verlegt von St.1; MA1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "MA1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "9B",
+         "raum": "102",
+         "info": "Ma 9B verlegt von St.2; MA1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -20737,7 +20792,7 @@
     },
     "20260619": {
      "datum": "Freitag, 19. Juni 2026",
-     "zeitstempel": "16.06.2026, 17:07",
+     "zeitstempel": "16.06.2026, 18:10",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -20817,6 +20872,22 @@
          "raum": "201",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "statt Do (18.06.) St.3 (De Eul)",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "statt Do (18.06.) St.4 (De Eul)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -21475,19 +21546,19 @@
         },
         {
          "stunde": "5",
-         "fach": "ILZ",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7B gehalten am Do (18.06.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "ILZ",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7B gehalten am Do (18.06.) St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23043,7 +23114,7 @@
    "tage": {
     "20260622": {
      "datum": "Montag, 22. Juni 2026",
-     "zeitstempel": "16.06.2026, 17:07",
+     "zeitstempel": "16.06.2026, 18:10",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -25916,7 +25987,7 @@
     },
     "20260623": {
      "datum": "Dienstag, 23. Juni 2026",
-     "zeitstempel": "16.06.2026, 17:07",
+     "zeitstempel": "16.06.2026, 18:10",
      "lehrer": {
       "Bar": {
        "entries": [
