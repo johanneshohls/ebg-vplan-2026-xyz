@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "16.06.2026, 23:08 Uhr",
- "last_changed": "2026-06-16T18:10:00",
+ "generiert": "17.06.2026, 09:27 Uhr",
+ "last_changed": "2026-06-17T11:07:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16300,7 +16300,7 @@
     },
     "20260617": {
      "datum": "Mittwoch, 17. Juni 2026",
-     "zeitstempel": "16.06.2026, 18:10",
+     "zeitstempel": "17.06.2026, 07:35",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -18014,6 +18014,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Ge",
+         "klasse": "10A",
+         "raum": "Co3",
+         "info": "Ge 10A verlegt von St.7; Ge 7E verlegt nach Do (18.06.) St.1",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -18022,20 +18030,28 @@
          "geaendert": true
         },
         {
-         "stunde": "7",
+         "stunde": "6",
          "fach": "Ge",
          "klasse": "10A",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "Ge 10A verlegt von St.8; Ge 7E verlegt nach Do (18.06.) St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10A verlegt nach St.5",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ge",
-         "klasse": "10A",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10A verlegt nach St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -18289,22 +18305,6 @@
          "klasse": "10B",
          "raum": "205",
          "info": "Bio 10B statt Do (18.06.) St.8",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "Bio",
-         "klasse": "10A",
-         "raum": "207",
-         "info": "Bio 10A statt Di (16.06.) St.1",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Bio",
-         "klasse": "10A",
-         "raum": "207",
-         "info": "Bio 10A statt Di (16.06.) St.2",
          "geaendert": true
         },
         {
@@ -23114,7 +23114,7 @@
    "tage": {
     "20260622": {
      "datum": "Montag, 22. Juni 2026",
-     "zeitstempel": "16.06.2026, 18:10",
+     "zeitstempel": "17.06.2026, 11:07",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -23586,7 +23586,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 7B verlegt nach Do (25.06.) St.3",
+         "info": "De 7B verlegt nach Mi (24.06.) St.3",
          "geaendert": true
         },
         {
@@ -23594,7 +23594,7 @@
          "fach": "eRe",
          "klasse": "12A-12E",
          "raum": "001",
-         "info": "mdl. Prüfungen im Fach eRe; De 7B verlegt nach Do (25.06.) St.3 (Eul)",
+         "info": "mdl. Prüfungen im Fach eRe; De 7B verlegt nach Mi (24.06.) St.3 (Eul)",
          "geaendert": true
         },
         {
@@ -23602,7 +23602,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 7B verlegt nach Do (25.06.) St.4",
+         "info": "De 7B verlegt nach Mi (24.06.) St.4",
          "geaendert": true
         },
         {
@@ -23610,7 +23610,7 @@
          "fach": "eRe",
          "klasse": "12A-12E",
          "raum": "001",
-         "info": "mdl. Prüfungen im Fach eRe; De 7B verlegt nach Do (25.06.) St.4 (Eul)",
+         "info": "mdl. Prüfungen im Fach eRe; De 7B verlegt nach Mi (24.06.) St.4 (Eul)",
          "geaendert": true
         },
         {
@@ -25987,7 +25987,7 @@
     },
     "20260623": {
      "datum": "Dienstag, 23. Juni 2026",
-     "zeitstempel": "16.06.2026, 18:10",
+     "zeitstempel": "17.06.2026, 11:07",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -26022,10 +26022,10 @@
         },
         {
          "stunde": "5",
-         "fach": "Ma",
-         "klasse": "7B",
-         "raum": "205",
-         "info": "Ma 7B statt Mi (24.06.) St.3; PH1 12A-12E fällt aus",
+         "fach": "Ph",
+         "klasse": "11A-11D",
+         "raum": "201",
+         "info": "PH LK; PH1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -26038,10 +26038,10 @@
         },
         {
          "stunde": "6",
-         "fach": "Ma",
-         "klasse": "7B",
-         "raum": "205",
-         "info": "Ma 7B statt Mi (24.06.) St.4; PH1 12A-12E fällt aus",
+         "fach": "Ph",
+         "klasse": "11A-11D",
+         "raum": "201",
+         "info": "PH LK; PH1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -26323,19 +26323,19 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "De 7B verlegt nach Mi (24.06.) St.3",
-         "geaendert": true
+         "fach": "De",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "De 7B verlegt nach Mi (24.06.) St.4",
-         "geaendert": true
+         "fach": "De",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": []
@@ -28780,7 +28780,7 @@
     },
     "20260624": {
      "datum": "Mittwoch, 24. Juni 2026",
-     "zeitstempel": "16.06.2026, 17:07",
+     "zeitstempel": "17.06.2026, 11:07",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -28793,7 +28793,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 7B gehalten am Di (23.06.) St.5",
+         "info": "Ma 7B verlegt nach Do (25.06.) St.5",
          "geaendert": true
         },
         {
@@ -28801,7 +28801,7 @@
          "fach": "Ma",
          "klasse": "12A-12E",
          "raum": "002",
-         "info": "mdl. Prüfungen im Fach Mathematik; Ma 7B gehalten am Di (23.06.) St.5 (Bes)",
+         "info": "mdl. Prüfungen im Fach Mathematik; Ma 7B verlegt nach Do (25.06.) St.5 (Bes)",
          "geaendert": true
         },
         {
@@ -28809,7 +28809,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 7B gehalten am Di (23.06.) St.6",
+         "info": "Ma 7B verlegt nach Do (25.06.) St.6",
          "geaendert": true
         },
         {
@@ -28817,7 +28817,7 @@
          "fach": "Ma",
          "klasse": "12A-12E",
          "raum": "002",
-         "info": "mdl. Prüfungen im Fach Mathematik; Ma 7B gehalten am Di (23.06.) St.6 (Bes)",
+         "info": "mdl. Prüfungen im Fach Mathematik; Ma 7B verlegt nach Do (25.06.) St.6 (Bes)",
          "geaendert": true
         },
         {
@@ -29198,7 +29198,7 @@
          "fach": "De",
          "klasse": "7B",
          "raum": "102",
-         "info": "De 7B statt Di (23.06.) St.5",
+         "info": "De 7B statt Mo (22.06.) St.5",
          "geaendert": true
         },
         {
@@ -29206,7 +29206,7 @@
          "fach": "De",
          "klasse": "7B",
          "raum": "102",
-         "info": "De 7B statt Di (23.06.) St.6",
+         "info": "De 7B statt Mo (22.06.) St.6",
          "geaendert": true
         }
        ],
@@ -31714,7 +31714,7 @@
     },
     "20260625": {
      "datum": "Donnerstag, 25. Juni 2026",
-     "zeitstempel": "16.06.2026, 17:07",
+     "zeitstempel": "17.06.2026, 11:07",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -31764,11 +31764,43 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Ph",
+         "klasse": "11A-11D",
+         "raum": "201",
+         "info": "PH LK 11; PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ph",
+         "klasse": "11A-11D",
+         "raum": "201",
+         "info": "PH LK 11; PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "7B",
+         "raum": "Co3",
+         "info": "Ma 7B statt Mi (24.06.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "7B",
+         "raum": "Co3",
+         "info": "Ma 7B statt Mi (24.06.) St.4",
          "geaendert": true
         }
        ],
@@ -32179,22 +32211,6 @@
       },
       "Eul": {
        "entries": [
-        {
-         "stunde": "3",
-         "fach": "De",
-         "klasse": "7B",
-         "raum": "102",
-         "info": "De 7B statt Mo (22.06.) St.5",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "De",
-         "klasse": "7B",
-         "raum": "102",
-         "info": "De 7B statt Mo (22.06.) St.6",
-         "geaendert": true
-        },
         {
          "stunde": "5",
          "fach": "---",
@@ -34340,20 +34356,36 @@
       "Sta": {
        "entries": [
         {
-         "stunde": "5",
+         "stunde": "3",
          "fach": "Inf",
          "klasse": "7B",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "raum": "K09",
+         "info": "Inf 7B verlegt von St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Inf",
+         "klasse": "7B",
+         "raum": "K09",
+         "info": "Inf 7B verlegt von St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 7B verlegt nach St.3",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Inf",
-         "klasse": "7B",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 7B verlegt nach St.4",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -34635,7 +34667,7 @@
     },
     "20260626": {
      "datum": "Freitag, 26. Juni 2026",
-     "zeitstempel": "16.06.2026, 17:07",
+     "zeitstempel": "17.06.2026, 11:07",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -34685,11 +34717,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Ph",
+         "klasse": "11A-11D",
+         "raum": "201",
+         "info": "PH LK 11; PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ph",
+         "klasse": "11A-11D",
+         "raum": "201",
+         "info": "PH LK 11; PH1 12A-12E fällt aus",
          "geaendert": true
         },
         {
