@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "17.06.2026, 09:27 Uhr",
- "last_changed": "2026-06-17T11:07:00",
+ "generiert": "17.06.2026, 12:59 Uhr",
+ "last_changed": "2026-06-17T12:52:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -25987,7 +25987,7 @@
     },
     "20260623": {
      "datum": "Dienstag, 23. Juni 2026",
-     "zeitstempel": "17.06.2026, 11:07",
+     "zeitstempel": "17.06.2026, 12:52",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -27103,6 +27103,22 @@
       "Isb": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "Ge",
+         "klasse": "7E",
+         "raum": "205",
+         "info": "statt Mi (24.06.) St.5 (Ge Pri)",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ge",
+         "klasse": "7E",
+         "raum": "205",
+         "info": "statt Mi (24.06.) St.6 (Ge Pri)",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -27339,22 +27355,6 @@
          "raum": "K12",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "AWT",
-         "klasse": "7E",
-         "raum": "105",
-         "info": "AWT 7E statt Do (25.06.) St.5",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "AWT",
-         "klasse": "7E",
-         "raum": "105",
-         "info": "AWT 7E statt Do (25.06.) St.6",
-         "geaendert": true
         },
         {
          "stunde": "7",
@@ -27904,11 +27904,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Ge",
+         "klasse": "7E",
+         "raum": "205",
+         "info": "Ge 7E statt Mi (24.06.) St.5; EN1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "EN1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ge",
+         "klasse": "7E",
+         "raum": "205",
+         "info": "Ge 7E statt Mi (24.06.) St.6; EN1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -28463,19 +28479,35 @@
         },
         {
          "stunde": "3",
-         "fach": "Inf",
-         "klasse": "7E",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 7E verlegt nach St.5",
+         "geaendert": true
         },
         {
          "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 7E verlegt nach St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
          "fach": "Inf",
          "klasse": "7E",
          "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "info": "Inf 7E verlegt von St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Inf",
+         "klasse": "7E",
+         "raum": "K09",
+         "info": "Inf 7E verlegt von St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -28780,7 +28812,7 @@
     },
     "20260624": {
      "datum": "Mittwoch, 24. Juni 2026",
-     "zeitstempel": "17.06.2026, 11:07",
+     "zeitstempel": "17.06.2026, 12:52",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -30953,7 +30985,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 7E verlegt nach Do (25.06.) St.5",
+         "info": "Ge 7E gehalten am Di (23.06.) St.3",
          "geaendert": true
         },
         {
@@ -30961,7 +30993,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 7E verlegt nach Do (25.06.) St.6",
+         "info": "Ge 7E gehalten am Di (23.06.) St.4",
          "geaendert": true
         }
        ],
@@ -31714,7 +31746,7 @@
     },
     "20260625": {
      "datum": "Donnerstag, 25. Juni 2026",
-     "zeitstempel": "17.06.2026, 11:07",
+     "zeitstempel": "17.06.2026, 12:52",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -33072,22 +33104,6 @@
       "Isb": {
        "entries": [
         {
-         "stunde": "5",
-         "fach": "Ge",
-         "klasse": "7E",
-         "raum": "105",
-         "info": "statt Mi (24.06.) St.5 (Ge Pri)",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Ge",
-         "klasse": "7E",
-         "raum": "105",
-         "info": "statt Mi (24.06.) St.6 (Ge Pri)",
-         "geaendert": true
-        },
-        {
          "stunde": "7",
          "fach": "---",
          "klasse": "",
@@ -33239,19 +33255,19 @@
         },
         {
          "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "AWT 7E gehalten am Di (23.06.) St.5",
-         "geaendert": true
+         "fach": "AWT",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "AWT 7E gehalten am Di (23.06.) St.6",
-         "geaendert": true
+         "fach": "AWT",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": [
@@ -33832,27 +33848,11 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
-         "fach": "Ge",
-         "klasse": "7E",
-         "raum": "105",
-         "info": "Ge 7E statt Mi (24.06.) St.5; EN1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "EN1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Ge",
-         "klasse": "7E",
-         "raum": "105",
-         "info": "Ge 7E statt Mi (24.06.) St.6; EN1 12A-12E fällt aus",
          "geaendert": true
         }
        ],
@@ -34667,7 +34667,7 @@
     },
     "20260626": {
      "datum": "Freitag, 26. Juni 2026",
-     "zeitstempel": "17.06.2026, 11:07",
+     "zeitstempel": "17.06.2026, 12:52",
      "lehrer": {
       "Bar": {
        "entries": [
