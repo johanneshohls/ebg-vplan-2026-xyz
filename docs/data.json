@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "18.06.2026, 12:31 Uhr",
- "last_changed": "2026-06-18T12:43:00",
+ "generiert": "18.06.2026, 16:00 Uhr",
+ "last_changed": "2026-06-18T15:55:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -20824,7 +20824,7 @@
     },
     "20260619": {
      "datum": "Freitag, 19. Juni 2026",
-     "zeitstempel": "18.06.2026, 09:28",
+     "zeitstempel": "18.06.2026, 15:55",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -22607,6 +22607,22 @@
       "Rat": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "ILZ",
+         "klasse": "9A",
+         "raum": "104",
+         "info": "für ILZ Wag",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "ILZ",
+         "klasse": "9A",
+         "raum": "104",
+         "info": "für ILZ Wag",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "ere2",
          "klasse": "11A-11D",
@@ -22690,22 +22706,6 @@
          "raum": "Aula",
          "info": "für De Schil",
          "geaendert": false
-        },
-        {
-         "stunde": "3",
-         "fach": "ILZ",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "für ILZ Wag",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "ILZ",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "für ILZ Wag",
-         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23082,7 +23082,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "ILZ 9A Schil",
+         "info": "ILZ 9A Rat",
          "geaendert": true
         },
         {
@@ -23090,7 +23090,7 @@
          "fach": "En",
          "klasse": "12A-12E",
          "raum": "007",
-         "info": "mündliche Nachprüfungen Englisch; ILZ 9A Schil",
+         "info": "mündliche Nachprüfungen Englisch; ILZ 9A Rat",
          "geaendert": true
         },
         {
@@ -23098,7 +23098,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "ILZ 9A Schil",
+         "info": "ILZ 9A Rat",
          "geaendert": true
         },
         {
@@ -23106,7 +23106,7 @@
          "fach": "En",
          "klasse": "12A-12E",
          "raum": "007",
-         "info": "mündliche Nachprüfungen Englisch; ILZ 9A Schil",
+         "info": "mündliche Nachprüfungen Englisch; ILZ 9A Rat",
          "geaendert": true
         },
         {
