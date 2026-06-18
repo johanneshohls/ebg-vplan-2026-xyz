@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "17.06.2026, 22:53 Uhr",
- "last_changed": "2026-06-17T15:17:00",
+ "generiert": "18.06.2026, 09:11 Uhr",
+ "last_changed": "2026-06-18T09:28:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -13902,7 +13902,7 @@
     },
     "20260616": {
      "datum": "Dienstag, 16. Juni 2026",
-     "zeitstempel": "16.06.2026, 17:07",
+     "zeitstempel": "18.06.2026, 09:28",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -14141,7 +14141,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 10A See (für Sk)",
+         "info": "Sk 10A fällt aus",
          "geaendert": true
         },
         {
@@ -14149,7 +14149,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 10A See (für Sk)",
+         "info": "Sk 10A fällt aus",
          "geaendert": true
         },
         {
@@ -15005,7 +15005,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 9D verlegt nach Fr (19.06.) St.4",
+         "info": "Mu 9D verlegt nach Fr (19.06.) St.4 (Kar), Aufsicht nach Hospitation",
          "geaendert": true
         },
         {
@@ -15965,7 +15965,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 10A verlegt nach Mi (17.06.) St.5",
+         "info": "Bio 10A verlegt nach St.5",
          "geaendert": true
         },
         {
@@ -15973,7 +15973,23 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 10A verlegt nach Mi (17.06.) St.6",
+         "info": "Bio 10A verlegt nach St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "12A-12E",
+         "raum": "207",
+         "info": "Konsultation für mdl. Nachprüfung",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Bio",
+         "klasse": "12A-12E",
+         "raum": "207",
+         "info": "Konsultation für mdl. Nachprüfung",
          "geaendert": true
         },
         {
@@ -15989,7 +16005,7 @@
          "fach": "Bio",
          "klasse": "10A",
          "raum": "204",
-         "info": "für Sk Bod",
+         "info": "Bio 10A verlegt von St.1; BIO1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -16005,7 +16021,7 @@
          "fach": "Bio",
          "klasse": "10A",
          "raum": "204",
-         "info": "für Sk Bod",
+         "info": "Bio 10A verlegt von St.2; BIO1 12A-12E fällt aus",
          "geaendert": true
         }
        ],
@@ -16300,7 +16316,7 @@
     },
     "20260617": {
      "datum": "Mittwoch, 17. Juni 2026",
-     "zeitstempel": "17.06.2026, 15:17",
+     "zeitstempel": "18.06.2026, 09:28",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -18590,7 +18606,7 @@
     },
     "20260618": {
      "datum": "Donnerstag, 18. Juni 2026",
-     "zeitstempel": "17.06.2026, 15:17",
+     "zeitstempel": "18.06.2026, 09:28",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -20447,11 +20463,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "12A-12E",
+         "raum": "204",
+         "info": "Konsultation mdl. Nachprüfung; BIO1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "BIO1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Bio",
+         "klasse": "12A-12E",
+         "raum": "204",
+         "info": "Konsultation mdl. Nachprüfung; BIO1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -20792,7 +20824,7 @@
     },
     "20260619": {
      "datum": "Freitag, 19. Juni 2026",
-     "zeitstempel": "17.06.2026, 15:17",
+     "zeitstempel": "18.06.2026, 09:28",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23114,7 +23146,7 @@
    "tage": {
     "20260622": {
      "datum": "Montag, 22. Juni 2026",
-     "zeitstempel": "17.06.2026, 15:17",
+     "zeitstempel": "18.06.2026, 09:28",
      "lehrer": {
       "Bar": {
        "entries": [],

@@ -1,67 +1,5 @@
 [
  {
-  "timestamp": "2026-06-11T09:10:18.902902",
-  "lehrer": "Bob",
-  "datum": "Donnerstag, 11. Juni 2026",
-  "date_key": "20260611",
-  "changes": [
-   "Std 3 (09:40): Ph 9A statt Di (09.06.) St.1",
-   "Std 4 (10:25): Ph 9A statt Di (09.06.) St.2",
-   "Std 7 (13:40): Ph 8A gehalten am Di (09.06.) St.1",
-   "Std 8 (14:25): Ph 8A gehalten am Di (09.06.) St.2"
-  ],
-  "zeitstempel": "11.06.2026, 09:40"
- },
- {
-  "timestamp": "2026-06-11T09:10:18.902902",
-  "lehrer": "Leu",
-  "datum": "Donnerstag, 11. Juni 2026",
-  "date_key": "20260611",
-  "changes": [
-   "Std 1 (07:40): für Ma Leu",
-   "Std 2 (08:25): für Ma Leu",
-   "Std 3 (09:40): Ma 10A fällt aus",
-   "Std 3 (09:40): Besprechung der Praktikumsbesuche; Ma 10A fällt aus",
-   "Std 4 (10:25): Ma 10A fällt aus",
-   "Std 4 (10:25): Besprechung der Praktikumsbesuche; Ma 10A fällt aus",
-   "Std 7 (13:40): Konsultation mündliche Prüfungen",
-   "Std 8 (14:25): Konsultation mündliche Prüfungen"
-  ],
-  "zeitstempel": "11.06.2026, 09:40"
- },
- {
-  "timestamp": "2026-06-11T09:10:18.902902",
-  "lehrer": "Ost",
-  "datum": "Donnerstag, 11. Juni 2026",
-  "date_key": "20260611",
-  "changes": [
-   "Std 1 (07:40): De 8B statt Fr (12.06.) St.1",
-   "Std 2 (08:25): De 8B statt Fr (12.06.) St.2",
-   "Std 3 (09:40): Bio 9B statt Mi (10.06.) St.3",
-   "Std 4 (10:25): Bio 9B statt Mi (10.06.) St.4",
-   "Std 5 (11:40): für De Ost",
-   "Std 6 (12:25): für De Ost"
-  ],
-  "zeitstempel": "11.06.2026, 09:40"
- },
- {
-  "timestamp": "2026-06-11T09:10:18.902902",
-  "lehrer": "Leu",
-  "datum": "Montag, 15. Juni 2026",
-  "date_key": "20260615",
-  "changes": [
-   "Std 1 (07:40): für ILZ Leu",
-   "Std 2 (08:25): für ILZ Leu",
-   "Std 3 (09:40): Ma 10B verlegt nach St.7",
-   "Std 3 (09:40): Konsultation mündliche Prüfung; Ma 10B verlegt nach St.7 (Leu)",
-   "Std 4 (10:25): Ma 10B verlegt nach St.8",
-   "Std 4 (10:25): Konsultation mündliche Prüfung; Ma 10B verlegt nach St.8 (Leu)",
-   "Std 7 (13:40): Ma 10B verlegt von St.3",
-   "Std 8 (14:25): Ma 10B verlegt von St.4"
-  ],
-  "zeitstempel": "11.06.2026, 08:47"
- },
- {
   "timestamp": "2026-06-11T12:52:59.574419",
   "lehrer": "Hoh",
   "datum": "Montag, 15. Juni 2026",
@@ -1447,5 +1385,22 @@
    "Std 4 (10:25): für ILZ Wag"
   ],
   "zeitstempel": "17.06.2026, 15:17"
+ },
+ {
+  "timestamp": "2026-06-18T09:11:40.830981",
+  "lehrer": "See",
+  "datum": "Donnerstag, 18. Juni 2026",
+  "date_key": "20260618",
+  "changes": [
+   "Std 3 (09:40): BIO1 12A-12E fällt aus",
+   "Std 3 (09:40): Konsultation mdl. Nachprüfung; BIO1 12A-12E fällt aus",
+   "Std 4 (10:25): BIO1 12A-12E fällt aus",
+   "Std 4 (10:25): Konsultation mdl. Nachprüfung; BIO1 12A-12E fällt aus",
+   "Std 7 (13:40): Bio 10B gehalten am Mi (17.06.) St.3",
+   "Std 7 (13:40): Bio 10D statt Fr (19.06.) St.5; Bio 10B gehalten am Mi (17.06.) St.3",
+   "Std 8 (14:25): Bio 10B gehalten am Mi (17.06.) St.4",
+   "Std 8 (14:25): Bio 10D statt Fr (19.06.) St.6; Bio 10B gehalten am Mi (17.06.) St.4"
+  ],
+  "zeitstempel": "18.06.2026, 09:28"
  }
 ]
