@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "19.06.2026, 09:26 Uhr",
- "last_changed": "2026-06-19T11:21:00",
+ "generiert": "19.06.2026, 12:57 Uhr",
+ "last_changed": "2026-06-19T13:41:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -20824,7 +20824,7 @@
     },
     "20260619": {
      "datum": "Freitag, 19. Juni 2026",
-     "zeitstempel": "18.06.2026, 15:55",
+     "zeitstempel": "19.06.2026, 13:41",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23146,7 +23146,7 @@
    "tage": {
     "20260622": {
      "datum": "Montag, 22. Juni 2026",
-     "zeitstempel": "19.06.2026, 11:21",
+     "zeitstempel": "19.06.2026, 13:41",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -24750,7 +24750,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 7C verlegt nach Do (25.06.) St.5",
+         "info": "Span 7C verlegt nach Do (25.06.) St.3",
          "geaendert": true
         },
         {
@@ -24758,7 +24758,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 7C verlegt nach Do (25.06.) St.6",
+         "info": "Span 7C verlegt nach Do (25.06.) St.4",
          "geaendert": true
         }
        ],
@@ -25920,11 +25920,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": "Aufsicht Vorbereitung mdl. Prüfungen; De 9C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "De 9C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": "Aufsicht Vorbereitung mdl. Prüfungen; De 9C fällt aus",
          "geaendert": true
         },
         {
@@ -25968,16 +25984,16 @@
          "stunde": "3",
          "fach": "---",
          "klasse": "",
-         "raum": "006",
-         "info": "Aufsicht Vorbereitung mdl. Prüfungen",
+         "raum": "201",
+         "info": "Nachschriften",
          "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
-         "raum": "006",
-         "info": "Aufsicht Vorbereitung mdl. Prüfungen",
+         "raum": "201",
+         "info": "Nachschriften",
          "geaendert": true
         },
         {
@@ -26019,7 +26035,7 @@
     },
     "20260623": {
      "datum": "Dienstag, 23. Juni 2026",
-     "zeitstempel": "17.06.2026, 15:17",
+     "zeitstempel": "19.06.2026, 13:41",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -26183,7 +26199,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ch 7C verlegt nach Do (25.06.) St.3",
+         "info": "Ch 7C verlegt nach Do (25.06.) St.1",
          "geaendert": true
         },
         {
@@ -26191,7 +26207,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ch 7C verlegt nach Do (25.06.) St.4",
+         "info": "Ch 7C verlegt nach Do (25.06.) St.2",
          "geaendert": true
         }
        ],
@@ -26357,17 +26373,17 @@
          "stunde": "5",
          "fach": "De",
          "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "raum": "105",
+         "info": "für De Eul",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "De",
          "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "raum": "105",
+         "info": "für De Eul",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -27618,7 +27634,7 @@
          "fach": "En",
          "klasse": "7C",
          "raum": "106",
-         "info": "für En Mar",
+         "info": "für En Mar, Klassenarbeit, nicht verschieben",
          "geaendert": true
         },
         {
@@ -28844,7 +28860,7 @@
     },
     "20260624": {
      "datum": "Mittwoch, 24. Juni 2026",
-     "zeitstempel": "17.06.2026, 15:17",
+     "zeitstempel": "19.06.2026, 13:41",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -31778,7 +31794,7 @@
     },
     "20260625": {
      "datum": "Donnerstag, 25. Juni 2026",
-     "zeitstempel": "17.06.2026, 15:17",
+     "zeitstempel": "19.06.2026, 13:41",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -31977,6 +31993,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "Ch",
+         "klasse": "7C",
+         "raum": "K12",
+         "info": "Ch 7C statt Di (23.06.) St.5; Ch 10C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -31985,19 +32009,27 @@
          "geaendert": true
         },
         {
-         "stunde": "3",
+         "stunde": "2",
          "fach": "Ch",
          "klasse": "7C",
          "raum": "K12",
-         "info": "Ch 7C statt Di (23.06.) St.5",
+         "info": "Ch 7C statt Di (23.06.) St.6; Ch 10C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "Ph",
+         "klasse": "8A",
+         "raum": "K12",
+         "info": "Ph 8A verlegt von St.7",
          "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ch",
-         "klasse": "7C",
+         "fach": "Ph",
+         "klasse": "8A",
          "raum": "K12",
-         "info": "Ch 7C statt Di (23.06.) St.6",
+         "info": "Ph 8A verlegt von St.8",
          "geaendert": true
         },
         {
@@ -32018,18 +32050,18 @@
         },
         {
          "stunde": "7",
-         "fach": "Ph",
-         "klasse": "8A",
-         "raum": "204",
-         "info": "für Ph Bob",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8A verlegt nach St.3",
          "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ph",
-         "klasse": "8A",
-         "raum": "204",
-         "info": "für Ph Bob",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8A verlegt nach St.4",
          "geaendert": true
         }
        ],
@@ -33289,17 +33321,17 @@
          "stunde": "5",
          "fach": "AWT",
          "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "raum": "105",
+         "info": "für AWT Kno",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "AWT",
          "klasse": "7E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "raum": "105",
+         "info": "für AWT Kno",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -33338,6 +33370,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Span",
+         "klasse": "7C",
+         "raum": "102",
+         "info": "Span 7C statt Mo (22.06.) St.7; Span 7E gehalten am Di (23.06.) St.1",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -33346,19 +33386,11 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
+         "stunde": "4",
          "fach": "Span",
          "klasse": "7C",
-         "raum": "K07",
-         "info": "Span 7C statt Mo (22.06.) St.7",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Span",
-         "klasse": "7C",
-         "raum": "K07",
-         "info": "Span 7C statt Mo (22.06.) St.8",
+         "raum": "102",
+         "info": "Span 7C statt Mo (22.06.) St.8; Span 7E gehalten am Di (23.06.) St.2",
          "geaendert": true
         }
        ],
@@ -33520,51 +33552,35 @@
       "Mar": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "En",
-         "klasse": "7C",
-         "raum": "103",
-         "info": "En 7C verlegt von St.5",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "En",
-         "klasse": "7C",
-         "raum": "103",
-         "info": "En 7C verlegt von St.6",
-         "geaendert": true
-        },
-        {
          "stunde": "3",
-         "fach": "En",
-         "klasse": "8A",
-         "raum": "K07",
-         "info": "für En Mar",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8A verlegt nach Fr (26.06.) St.5",
          "geaendert": true
         },
         {
          "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8A verlegt nach Fr (26.06.) St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
          "fach": "En",
-         "klasse": "8A",
+         "klasse": "7C",
          "raum": "K07",
          "info": "für En Mar",
          "geaendert": true
         },
         {
-         "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 7C verlegt nach St.1",
-         "geaendert": true
-        },
-        {
          "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 7C verlegt nach St.2",
+         "fach": "En",
+         "klasse": "7C",
+         "raum": "K07",
+         "info": "für En Mar",
          "geaendert": true
         },
         {
@@ -34699,7 +34715,7 @@
     },
     "20260626": {
      "datum": "Freitag, 26. Juni 2026",
-     "zeitstempel": "17.06.2026, 15:17",
+     "zeitstempel": "19.06.2026, 13:41",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -36080,6 +36096,22 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "En 8A statt Do (25.06.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "En 8A statt Do (25.06.) St.4",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "en1",
          "klasse": "11A-11D",
@@ -36128,7 +36160,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 8A OLop (für Sp)",
+         "info": "Sp 8A fällt aus",
          "geaendert": true
         },
         {
@@ -36136,7 +36168,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 8A OLop (für Sp)",
+         "info": "Sp 8A fällt aus",
          "geaendert": true
         }
        ],
@@ -36209,27 +36241,11 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
-         "fach": "Span",
-         "klasse": "8A",
-         "raum": "K12",
-         "info": "für Sp Mue",
-         "geaendert": true
-        },
-        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Span 10C fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Span",
-         "klasse": "8A",
-         "raum": "K12",
-         "info": "für Sp Mue",
          "geaendert": true
         }
        ],
