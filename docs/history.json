@@ -1302,5 +1302,33 @@
    "Std 4 (10:25): mündliche Nachprüfungen Englisch; ILZ 9A Rat"
   ],
   "zeitstempel": "18.06.2026, 15:55"
+ },
+ {
+  "timestamp": "2026-06-19T09:26:09.662938",
+  "lehrer": "Hol",
+  "datum": "Montag, 22. Juni 2026",
+  "date_key": "20260622",
+  "changes": [
+   "Std 3 (09:40): en2 12A-12E fällt aus",
+   "Std 4 (10:25): en2 12A-12E fällt aus",
+   "Std 5 (11:40): En 9C fällt aus",
+   "Std 6 (12:25): En 9C fällt aus"
+  ],
+  "zeitstempel": "19.06.2026, 11:21"
+ },
+ {
+  "timestamp": "2026-06-19T09:26:09.662938",
+  "lehrer": "Wag",
+  "datum": "Montag, 22. Juni 2026",
+  "date_key": "20260622",
+  "changes": [
+   "Std 3 (09:40): Aufsicht Vorbereitung mdl. Prüfungen",
+   "Std 4 (10:25): Aufsicht Vorbereitung mdl. Prüfungen",
+   "Std 5 (11:40): 11EN LK1 bei Fr. Wagner, Anwesenheitspflicht, für 03.07. 4. Block",
+   "Std 6 (12:25): 11EN LK1 bei Fr. Wagner, Anwesenheitspflicht, für 03.07. 4. Block",
+   "Std 7 (13:40): en1 12A-12E fällt aus",
+   "Std 8 (14:25): en1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "19.06.2026, 11:21"
  }
 ]

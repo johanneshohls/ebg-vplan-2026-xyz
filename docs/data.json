@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "18.06.2026, 22:32 Uhr",
- "last_changed": "2026-06-18T15:55:00",
+ "generiert": "19.06.2026, 09:26 Uhr",
+ "last_changed": "2026-06-19T11:21:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -23146,7 +23146,7 @@
    "tage": {
     "20260622": {
      "datum": "Montag, 22. Juni 2026",
-     "zeitstempel": "18.06.2026, 09:28",
+     "zeitstempel": "19.06.2026, 11:21",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -24251,27 +24251,11 @@
          "geaendert": true
         },
         {
-         "stunde": "3",
-         "fach": "---",
-         "klasse": "",
-         "raum": "006",
-         "info": "Aufsicht Vorbereitung mdl. Prüfungen; en2 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "en2 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "---",
-         "klasse": "",
-         "raum": "006",
-         "info": "Aufsicht Vorbereitung mdl. Prüfungen; en2 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -25980,6 +25964,22 @@
       },
       "Wag": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": "Aufsicht Vorbereitung mdl. Prüfungen",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": "Aufsicht Vorbereitung mdl. Prüfungen",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "En",
