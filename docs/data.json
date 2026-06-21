@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "21.06.2026, 20:01 Uhr",
- "last_changed": "2026-06-19T13:41:00",
+ "generiert": "21.06.2026, 21:20 Uhr",
+ "last_changed": "2026-06-21T22:14:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -23146,7 +23146,7 @@
    "tage": {
     "20260622": {
      "datum": "Montag, 22. Juni 2026",
-     "zeitstempel": "19.06.2026, 13:41",
+     "zeitstempel": "21.06.2026, 22:03",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -26035,7 +26035,7 @@
     },
     "20260623": {
      "datum": "Dienstag, 23. Juni 2026",
-     "zeitstempel": "19.06.2026, 13:41",
+     "zeitstempel": "21.06.2026, 22:03",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -28860,7 +28860,7 @@
     },
     "20260624": {
      "datum": "Mittwoch, 24. Juni 2026",
-     "zeitstempel": "19.06.2026, 13:41",
+     "zeitstempel": "21.06.2026, 22:14",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -29326,6 +29326,22 @@
       },
       "Fech": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "Heimbeschulung S. Hamann",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "Heimbeschulung S. Hamann",
+         "geaendert": true
+        },
         {
          "stunde": "7",
          "fach": "GS01",
@@ -31794,7 +31810,7 @@
     },
     "20260625": {
      "datum": "Donnerstag, 25. Juni 2026",
-     "zeitstempel": "19.06.2026, 13:41",
+     "zeitstempel": "21.06.2026, 22:14",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -32291,7 +32307,7 @@
          "vor_stunde": "1",
          "uhrzeit": "07:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": "entfällt, V: Mar"
+         "info": "entfällt, V: Hun"
         },
         {
          "vor_stunde": "7",
@@ -32329,7 +32345,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Hof 1, WC, Container",
-         "info": ""
+         "info": "entfällt, V: Roh"
         }
        ]
       },
@@ -33163,7 +33179,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "1",
+         "uhrzeit": "07:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Con"
+        }
+       ]
       },
       "Isb": {
        "entries": [
@@ -33276,7 +33299,24 @@
        "aufsichten": []
       },
       "Käc": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "7",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Heimbeschulung S. Hamann",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Heimbeschulung S. Hamann",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Kar": {
@@ -33339,7 +33379,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Hof2 und grünes Klassenzimmer",
-         "info": "entfällt, V: OLop"
+         "info": ""
         }
        ]
       },
@@ -33606,12 +33646,6 @@
          "uhrzeit": "13:10",
          "ort": "Hof2 und grünes Klassenzimmer",
          "info": "entfällt, V: Con"
-        },
-        {
-         "vor_stunde": "1",
-         "uhrzeit": "07:10",
-         "ort": "Haus, WCs, Caféteria",
-         "info": "für Con"
         }
        ]
       },
@@ -33791,14 +33825,7 @@
          "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Hof2 und grünes Klassenzimmer",
-         "info": "für Kno"
-        }
-       ]
+       "aufsichten": []
       },
       "Ost": {
        "entries": [
@@ -34046,7 +34073,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof 1, WC, Container",
+         "info": "für Eul"
+        }
+       ]
       },
       "Scheu": {
        "entries": [],
@@ -34715,7 +34749,7 @@
     },
     "20260626": {
      "datum": "Freitag, 26. Juni 2026",
-     "zeitstempel": "19.06.2026, 13:41",
+     "zeitstempel": "21.06.2026, 22:14",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -35723,7 +35757,24 @@
        "aufsichten": []
       },
       "Käc": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Heimbeschulung S. Hamann",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Heimbeschulung S. Hamann",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Kar": {

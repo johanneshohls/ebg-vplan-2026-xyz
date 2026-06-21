@@ -890,5 +890,40 @@
    "Std 8 (14:25): für Ma Mar"
   ],
   "zeitstempel": "19.06.2026, 13:41"
+ },
+ {
+  "timestamp": "2026-06-21T21:20:31.778390",
+  "lehrer": "Fech",
+  "datum": "Mittwoch, 24. Juni 2026",
+  "date_key": "20260624",
+  "changes": [
+   "Std 3 (09:40): Heimbeschulung S. Hamann",
+   "Std 4 (10:25): Heimbeschulung S. Hamann",
+   "Std 7 (13:40): für GS01 Fech",
+   "Std 8 (14:25): für GS01 Fech"
+  ],
+  "zeitstempel": "21.06.2026, 22:14"
+ },
+ {
+  "timestamp": "2026-06-21T21:20:31.778390",
+  "lehrer": "Käc",
+  "datum": "Donnerstag, 25. Juni 2026",
+  "date_key": "20260625",
+  "changes": [
+   "Std 7 (13:40): Heimbeschulung S. Hamann",
+   "Std 8 (14:25): Heimbeschulung S. Hamann"
+  ],
+  "zeitstempel": "21.06.2026, 22:14"
+ },
+ {
+  "timestamp": "2026-06-21T21:20:31.778390",
+  "lehrer": "Käc",
+  "datum": "Freitag, 26. Juni 2026",
+  "date_key": "20260626",
+  "changes": [
+   "Std 5 (11:40): Heimbeschulung S. Hamann",
+   "Std 6 (12:25): Heimbeschulung S. Hamann"
+  ],
+  "zeitstempel": "21.06.2026, 22:14"
  }
 ]
