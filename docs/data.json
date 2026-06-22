@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "22.06.2026, 15:36 Uhr",
- "last_changed": "2026-06-22T14:49:00",
+ "generiert": "22.06.2026, 18:57 Uhr",
+ "last_changed": "2026-06-22T19:57:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -11523,7 +11523,7 @@
    "tage": {
     "20260622": {
      "datum": "Montag, 22. Juni 2026",
-     "zeitstempel": "21.06.2026, 22:03",
+     "zeitstempel": "22.06.2026, 19:57",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -14412,7 +14412,7 @@
     },
     "20260623": {
      "datum": "Dienstag, 23. Juni 2026",
-     "zeitstempel": "22.06.2026, 14:49",
+     "zeitstempel": "22.06.2026, 19:57",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -14645,11 +14645,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "12A-12E",
+         "raum": "008",
+         "info": "mdl. Prüfungen im Fach Deutsch; Ma 10D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ma 10D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "12A-12E",
+         "raum": "008",
+         "info": "mdl. Prüfungen im Fach Deutsch; Ma 10D fällt aus",
          "geaendert": true
         },
         {
@@ -14661,12 +14677,28 @@
          "geaendert": false
         },
         {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "12A-12E",
+         "raum": "008",
+         "info": "mdl. Prüfungen im Fach Deutsch",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "ma1",
          "klasse": "11A-11D",
          "raum": "Co2",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "12A-12E",
+         "raum": "008",
+         "info": "mdl. Prüfungen im Fach Deutsch",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14844,7 +14876,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Mue"
+        }
+       ]
       },
       "Fer": {
        "entries": [],
@@ -16184,7 +16223,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": "entfällt, V: Tie"
+         "info": "entfällt, V: Fel"
         }
        ]
       },
@@ -16638,22 +16677,6 @@
       "Schil": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "Geo",
-         "klasse": "12A-12E",
-         "raum": "001",
-         "info": "mdl. Prüfungen im Fach Geografie",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "Geo",
-         "klasse": "12A-12E",
-         "raum": "001",
-         "info": "mdl. Prüfungen im Fach Geografie",
-         "geaendert": true
-        },
-        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -16662,43 +16685,11 @@
          "geaendert": true
         },
         {
-         "stunde": "3",
-         "fach": "De",
-         "klasse": "12A-12E",
-         "raum": "008",
-         "info": "mdl. Prüfungen im Fach Deutsch; DE1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "DE1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "De",
-         "klasse": "12A-12E",
-         "raum": "008",
-         "info": "mdl. Prüfungen im Fach Deutsch; DE1 12A-12E fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "De",
-         "klasse": "12A-12E",
-         "raum": "008",
-         "info": "mdl. Prüfungen im Fach Deutsch",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "De",
-         "klasse": "12A-12E",
-         "raum": "008",
-         "info": "mdl. Prüfungen im Fach Deutsch",
          "geaendert": true
         }
        ],
@@ -16844,6 +16835,22 @@
       },
       "See": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Geo",
+         "klasse": "12A-12E",
+         "raum": "001",
+         "info": "mdl. Prüfungen im Fach Geografie",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Geo",
+         "klasse": "12A-12E",
+         "raum": "001",
+         "info": "mdl. Prüfungen im Fach Geografie",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "Bio",
@@ -17088,14 +17095,7 @@
          "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Haus, WCs, Caféteria",
-         "info": "für Mue"
-        }
-       ]
+       "aufsichten": []
       },
       "Tuh": {
        "entries": [
@@ -17269,7 +17269,7 @@
     },
     "20260624": {
      "datum": "Mittwoch, 24. Juni 2026",
-     "zeitstempel": "22.06.2026, 14:16",
+     "zeitstempel": "22.06.2026, 19:57",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -20219,7 +20219,7 @@
     },
     "20260625": {
      "datum": "Donnerstag, 25. Juni 2026",
-     "zeitstempel": "22.06.2026, 14:16",
+     "zeitstempel": "22.06.2026, 19:57",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23158,7 +23158,7 @@
     },
     "20260626": {
      "datum": "Freitag, 26. Juni 2026",
-     "zeitstempel": "22.06.2026, 14:16",
+     "zeitstempel": "22.06.2026, 19:57",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23350,7 +23350,14 @@
       },
       "Bri": {
        "entries": [],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Abwesenheiten der Oberstufe einpflegen",
+         "info": "für Gor"
+        }
+       ]
       },
       "Con": {
        "entries": [],
@@ -23738,7 +23745,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Abwesenheiten der Oberstufe einpflegen",
-         "info": ""
+         "info": "entfällt, V: Bri"
         },
         {
          "vor_stunde": "5",
@@ -25568,7 +25575,7 @@
    "tage": {
     "20260629": {
      "datum": "Montag, 29. Juni 2026",
-     "zeitstempel": "22.06.2026, 14:16",
+     "zeitstempel": "22.06.2026, 19:57",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -25979,24 +25986,7 @@
        "aufsichten": []
       },
       "Fel": {
-       "entries": [
-        {
-         "stunde": "1",
-         "fach": "En",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "En 8B statt Mi (01.07.) St.3",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "En",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "En 8B statt Mi (01.07.) St.4",
-         "geaendert": true
-        }
-       ],
+       "entries": [],
        "aufsichten": []
       },
       "Fer": {
@@ -26328,11 +26318,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "Ph",
+         "klasse": "8B",
+         "raum": "205",
+         "info": "Ph 8B verlegt von St.7; Ma 8A verlegt nach Do (02.07.) St.7",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ma 8A verlegt nach Do (02.07.) St.8",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ph",
+         "klasse": "8B",
+         "raum": "205",
+         "info": "Ph 8B verlegt von St.8; Ma 8A verlegt nach Do (02.07.) St.8",
          "geaendert": true
         },
         {
@@ -26388,7 +26394,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ph 8B verlegt nach Di (30.06.) St.1",
+         "info": "Ph 8B verlegt nach St.1",
          "geaendert": true
         },
         {
@@ -26396,7 +26402,7 @@
          "fach": "Ma",
          "klasse": "8D",
          "raum": "103",
-         "info": "Ma 8D verlegt von St.3; Ph 8B verlegt nach Di (30.06.) St.1",
+         "info": "Ma 8D verlegt von St.3; Ph 8B verlegt nach St.1",
          "geaendert": true
         },
         {
@@ -26404,7 +26410,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ph 8B verlegt nach Di (30.06.) St.2",
+         "info": "Ph 8B verlegt nach St.2",
          "geaendert": true
         },
         {
@@ -26412,7 +26418,7 @@
          "fach": "Ma",
          "klasse": "8D",
          "raum": "103",
-         "info": "Ma 8D verlegt von St.4; Ph 8B verlegt nach Di (30.06.) St.2",
+         "info": "Ma 8D verlegt von St.4; Ph 8B verlegt nach St.2",
          "geaendert": true
         }
        ],
@@ -27905,7 +27911,7 @@
     },
     "20260630": {
      "datum": "Dienstag, 30. Juni 2026",
-     "zeitstempel": "21.06.2026, 22:03",
+     "zeitstempel": "22.06.2026, 19:57",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -28378,11 +28384,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "En",
+         "klasse": "8B",
+         "raum": "007",
+         "info": "En 8B statt Do (02.07.) St.1; En 8D verlegt nach Mi (01.07.) St.1",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "En 8D verlegt nach Mi (01.07.) St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "En",
+         "klasse": "8B",
+         "raum": "007",
+         "info": "En 8B statt Do (02.07.) St.2; En 8D verlegt nach Mi (01.07.) St.2",
          "geaendert": true
         },
         {
@@ -28773,10 +28795,10 @@
         },
         {
          "stunde": "1",
-         "fach": "Ph",
-         "klasse": "8B",
-         "raum": "205",
-         "info": "Ph 8B statt Mo (29.06.) St.7; Ma 7D verlegt nach Do (02.07.) St.1",
+         "fach": "Ma",
+         "klasse": "8D",
+         "raum": "103",
+         "info": "Ma 8D statt Do (02.07.) St.7; Ma 7D verlegt nach Do (02.07.) St.1",
          "geaendert": true
         },
         {
@@ -28789,10 +28811,10 @@
         },
         {
          "stunde": "2",
-         "fach": "Ph",
-         "klasse": "8B",
-         "raum": "205",
-         "info": "Ph 8B statt Mo (29.06.) St.8; Ma 7D verlegt nach Do (02.07.) St.2",
+         "fach": "Ma",
+         "klasse": "8D",
+         "raum": "103",
+         "info": "Ma 8D statt Do (02.07.) St.8; Ma 7D verlegt nach Do (02.07.) St.2",
          "geaendert": true
         },
         {
@@ -30154,22 +30176,6 @@
       "Tie": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "De",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "De 8D statt Mi (01.07.) St.1",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "De",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "De 8D statt Mi (01.07.) St.2",
-         "geaendert": true
-        },
-        {
          "stunde": "3",
          "fach": "De",
          "klasse": "8D",
@@ -30353,7 +30359,7 @@
     },
     "20260701": {
      "datum": "Mittwoch, 01. Juli 2026",
-     "zeitstempel": "22.06.2026, 09:46",
+     "zeitstempel": "22.06.2026, 19:57",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -30787,35 +30793,19 @@
         },
         {
          "stunde": "3",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 8B gehalten am Mo (29.06.) St.1",
-         "geaendert": true
-        },
-        {
-         "stunde": "3",
          "fach": "En",
          "klasse": "8B",
          "raum": "006",
-         "info": "En 8B statt Do (02.07.) St.1; En 8B gehalten am Mo (29.06.) St.1",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "En 8B gehalten am Mo (29.06.) St.2",
-         "geaendert": true
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "4",
          "fach": "En",
          "klasse": "8B",
          "raum": "006",
-         "info": "En 8B statt Do (02.07.) St.2; En 8B gehalten am Mo (29.06.) St.2",
-         "geaendert": true
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "5",
@@ -32591,7 +32581,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 8D gehalten am Di (30.06.) St.1",
+         "info": "De 8D verlegt nach Do (02.07.) St.3",
          "geaendert": true
         },
         {
@@ -32599,7 +32589,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 8D gehalten am Di (30.06.) St.2",
+         "info": "De 8D verlegt nach Do (02.07.) St.4",
          "geaendert": true
         },
         {
@@ -32690,7 +32680,7 @@
     },
     "20260702": {
      "datum": "Donnerstag, 02. Juli 2026",
-     "zeitstempel": "19.06.2026, 13:41",
+     "zeitstempel": "22.06.2026, 19:57",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -33075,7 +33065,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 8B gehalten am Mi (01.07.) St.3",
+         "info": "En 8B gehalten am Di (30.06.) St.1",
          "geaendert": true
         },
         {
@@ -33083,7 +33073,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 8B gehalten am Mi (01.07.) St.4",
+         "info": "En 8B gehalten am Di (30.06.) St.2",
          "geaendert": true
         },
         {
@@ -33512,27 +33502,11 @@
          "geaendert": true
         },
         {
-         "stunde": "3",
-         "fach": "Ma",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "Ma 8D verlegt von St.7; Ma 7D gehalten am Mo (29.06.) St.3",
-         "geaendert": true
-        },
-        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ma 7D gehalten am Mo (29.06.) St.4",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Ma",
-         "klasse": "8D",
-         "raum": "103",
-         "info": "Ma 8D verlegt von St.8; Ma 7D gehalten am Mo (29.06.) St.4",
          "geaendert": true
         },
         {
@@ -33556,7 +33530,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 8D verlegt nach St.3",
+         "info": "Ma 8D gehalten am Di (30.06.) St.1",
          "geaendert": true
         },
         {
@@ -33564,7 +33538,7 @@
          "fach": "Ma",
          "klasse": "8A",
          "raum": "001",
-         "info": "Ma 8A statt Mo (29.06.) St.1; Ma 8D verlegt nach St.3",
+         "info": "Ma 8A statt Mo (29.06.) St.1; Ma 8D gehalten am Di (30.06.) St.1",
          "geaendert": true
         },
         {
@@ -33572,7 +33546,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 8D verlegt nach St.4",
+         "info": "Ma 8D gehalten am Di (30.06.) St.2",
          "geaendert": true
         },
         {
@@ -33580,7 +33554,7 @@
          "fach": "Ma",
          "klasse": "8A",
          "raum": "001",
-         "info": "Ma 8A statt Mo (29.06.) St.2; Ma 8D verlegt nach St.4",
+         "info": "Ma 8A statt Mo (29.06.) St.2; Ma 8D gehalten am Di (30.06.) St.2",
          "geaendert": true
         }
        ],
@@ -34817,6 +34791,22 @@
       "Tie": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "8D",
+         "raum": "103",
+         "info": "De 8D statt Mi (01.07.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "8D",
+         "raum": "103",
+         "info": "De 8D statt Mi (01.07.) St.2",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -34981,7 +34971,7 @@
     },
     "20260703": {
      "datum": "Freitag, 03. Juli 2026",
-     "zeitstempel": "19.06.2026, 13:41",
+     "zeitstempel": "22.06.2026, 19:57",
      "lehrer": {
       "Bar": {
        "entries": [
