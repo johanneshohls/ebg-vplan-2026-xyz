@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "22.06.2026, 10:35 Uhr",
- "last_changed": "2026-06-22T11:53:00",
+ "generiert": "22.06.2026, 15:36 Uhr",
+ "last_changed": "2026-06-22T14:49:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14412,7 +14412,7 @@
     },
     "20260623": {
      "datum": "Dienstag, 23. Juni 2026",
-     "zeitstempel": "22.06.2026, 11:53",
+     "zeitstempel": "22.06.2026, 14:49",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -16031,11 +16031,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "11A-11D",
+         "raum": "007",
+         "info": "mdl. Nachprüfung Englisch 10b; VB 006; En 10C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "En 10C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "11A-11D",
+         "raum": "007",
+         "info": "mdl. Nachprüfung Englisch 10b; VB 006; En 10C fällt aus",
          "geaendert": true
         }
        ],
@@ -16354,18 +16370,18 @@
         },
         {
          "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "006",
-         "info": "Aufsicht Vorbereitung mdl. Prüfungen",
+         "fach": "En",
+         "klasse": "11A-11D",
+         "raum": "007",
+         "info": "mdl. Nachprüfung Englisch 10b; VB 006",
          "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "006",
-         "info": "Aufsicht Vorbereitung mdl. Prüfungen",
+         "fach": "En",
+         "klasse": "11A-11D",
+         "raum": "007",
+         "info": "mdl. Nachprüfung Englisch 10b; VB 006",
          "geaendert": true
         }
        ],
@@ -17040,6 +17056,22 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": "Aufsicht Vorbereitung mdl. Prüfungen",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": "Aufsicht Vorbereitung mdl. Prüfungen",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "ge2",
          "klasse": "11A-11D",
@@ -17237,7 +17269,7 @@
     },
     "20260624": {
      "datum": "Mittwoch, 24. Juni 2026",
-     "zeitstempel": "22.06.2026, 09:46",
+     "zeitstempel": "22.06.2026, 14:16",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -20187,7 +20219,7 @@
     },
     "20260625": {
      "datum": "Donnerstag, 25. Juni 2026",
-     "zeitstempel": "21.06.2026, 22:14",
+     "zeitstempel": "22.06.2026, 14:16",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23126,7 +23158,7 @@
     },
     "20260626": {
      "datum": "Freitag, 26. Juni 2026",
-     "zeitstempel": "21.06.2026, 22:14",
+     "zeitstempel": "22.06.2026, 14:16",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -25536,7 +25568,7 @@
    "tage": {
     "20260629": {
      "datum": "Montag, 29. Juni 2026",
-     "zeitstempel": "21.06.2026, 22:14",
+     "zeitstempel": "22.06.2026, 14:16",
      "lehrer": {
       "Bar": {
        "entries": [],
