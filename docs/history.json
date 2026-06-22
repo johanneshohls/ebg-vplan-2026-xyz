@@ -925,5 +925,18 @@
    "Std 6 (12:25): Heimbeschulung S. Hamann"
   ],
   "zeitstempel": "21.06.2026, 22:14"
+ },
+ {
+  "timestamp": "2026-06-22T10:34:58.039839",
+  "lehrer": "Ter",
+  "datum": "Mittwoch, 24. Juni 2026",
+  "date_key": "20260624",
+  "changes": [
+   "Std 3 (09:40): DSp 11A-11D selbst. (v), Aufsgleich für Theaterbesuch",
+   "Std 4 (10:25): DSp 11A-11D selbst. (v), Aufsgleich für Theaterbesuch",
+   "Std 5 (11:40): De 7E statt Di (23.06.) St.1",
+   "Std 6 (12:25): De 7E statt Di (23.06.) St.2"
+  ],
+  "zeitstempel": "22.06.2026, 09:46"
  }
 ]
