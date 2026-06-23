@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "23.06.2026, 11:36 Uhr",
- "last_changed": "2026-06-23T12:05:00",
+ "generiert": "23.06.2026, 14:02 Uhr",
+ "last_changed": "2026-06-23T15:26:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14412,7 +14412,7 @@
     },
     "20260623": {
      "datum": "Dienstag, 23. Juni 2026",
-     "zeitstempel": "23.06.2026, 12:05",
+     "zeitstempel": "23.06.2026, 15:26",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17269,7 +17269,7 @@
     },
     "20260624": {
      "datum": "Mittwoch, 24. Juni 2026",
-     "zeitstempel": "23.06.2026, 12:05",
+     "zeitstempel": "23.06.2026, 15:26",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -20203,7 +20203,7 @@
     },
     "20260625": {
      "datum": "Donnerstag, 25. Juni 2026",
-     "zeitstempel": "23.06.2026, 12:05",
+     "zeitstempel": "23.06.2026, 15:26",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -20297,6 +20297,22 @@
       },
       "Bir": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Nachschrift der 11er MUEin 006, bitte Klausur mitbringen",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Nachschrift der 11er MUEin 006, bitte Klausur mitbringen",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "---",
@@ -23142,7 +23158,7 @@
     },
     "20260626": {
      "datum": "Freitag, 26. Juni 2026",
-     "zeitstempel": "22.06.2026, 19:57",
+     "zeitstempel": "23.06.2026, 15:26",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -25559,7 +25575,7 @@
    "tage": {
     "20260629": {
      "datum": "Montag, 29. Juni 2026",
-     "zeitstempel": "22.06.2026, 19:57",
+     "zeitstempel": "23.06.2026, 15:26",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -26298,7 +26314,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 8A verlegt nach Do (02.07.) St.7",
+         "info": "Ma 8A fällt aus",
          "geaendert": true
         },
         {
@@ -26306,7 +26322,7 @@
          "fach": "Ph",
          "klasse": "8B",
          "raum": "205",
-         "info": "Ph 8B verlegt von St.7; Ma 8A verlegt nach Do (02.07.) St.7",
+         "info": "Ph 8B verlegt von St.7; Ma 8A fällt aus",
          "geaendert": true
         },
         {
@@ -26314,7 +26330,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 8A verlegt nach Do (02.07.) St.8",
+         "info": "Ma 8A fällt aus",
          "geaendert": true
         },
         {
@@ -26322,7 +26338,7 @@
          "fach": "Ph",
          "klasse": "8B",
          "raum": "205",
-         "info": "Ph 8B verlegt von St.8; Ma 8A verlegt nach Do (02.07.) St.8",
+         "info": "Ph 8B verlegt von St.8; Ma 8A fällt aus",
          "geaendert": true
         },
         {
@@ -27366,7 +27382,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ph 8C verlegt nach Mi (01.07.) St.5",
+         "info": "Ma 8C verlegt nach Mi (01.07.) St.5 (Käc)",
          "geaendert": true
         },
         {
@@ -27374,7 +27390,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ph 8C verlegt nach Mi (01.07.) St.6",
+         "info": "Ma 8C verlegt nach Mi (01.07.) St.6 (Käc)",
          "geaendert": true
         }
        ],
@@ -27895,7 +27911,7 @@
     },
     "20260630": {
      "datum": "Dienstag, 30. Juni 2026",
-     "zeitstempel": "22.06.2026, 19:57",
+     "zeitstempel": "23.06.2026, 14:39",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -28441,19 +28457,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Bio",
-         "klasse": "7A",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 7A verlegt nach Mi (01.07.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Bio",
-         "klasse": "7A",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 7A verlegt nach Mi (01.07.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -28774,7 +28790,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 7D verlegt nach Do (02.07.) St.1",
+         "info": "Ma 7D verlegt nach Do (02.07.) St.1 (Con)",
          "geaendert": true
         },
         {
@@ -28782,7 +28798,7 @@
          "fach": "Ma",
          "klasse": "8D",
          "raum": "103",
-         "info": "Ma 8D statt Do (02.07.) St.7; Ma 7D verlegt nach Do (02.07.) St.1",
+         "info": "Ma 8D statt Do (02.07.) St.7; Ma 7D verlegt nach Do (02.07.) St.1 (Con)",
          "geaendert": true
         },
         {
@@ -28790,7 +28806,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 7D verlegt nach Do (02.07.) St.2",
+         "info": "Ma 7D verlegt nach Do (02.07.) St.2 (Con)",
          "geaendert": true
         },
         {
@@ -28798,7 +28814,7 @@
          "fach": "Ma",
          "klasse": "8D",
          "raum": "103",
-         "info": "Ma 8D statt Do (02.07.) St.8; Ma 7D verlegt nach Do (02.07.) St.2",
+         "info": "Ma 8D statt Do (02.07.) St.8; Ma 7D verlegt nach Do (02.07.) St.2 (Con)",
          "geaendert": true
         },
         {
@@ -29159,35 +29175,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "statt Mi (01.07.) St.5 (En Bis); B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "statt Mi (01.07.) St.6 (En Bis); B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -30343,7 +30375,7 @@
     },
     "20260701": {
      "datum": "Mittwoch, 01. Juli 2026",
-     "zeitstempel": "22.06.2026, 19:57",
+     "zeitstempel": "23.06.2026, 14:39",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -30485,7 +30517,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 7A Käc (für En)",
+         "info": "Ma 7A gehalten am Di (30.06.) St.3 (Käc)",
          "geaendert": true
         },
         {
@@ -30493,7 +30525,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 7A Käc (für En)",
+         "info": "Ma 7A gehalten am Di (30.06.) St.4 (Käc)",
          "geaendert": true
         },
         {
@@ -30837,6 +30869,22 @@
          "klasse": "7C",
          "raum": "002",
          "info": "für De Fla",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Bio",
+         "klasse": "7A",
+         "raum": "204",
+         "info": "Bio 7A statt Di (30.06.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Bio",
+         "klasse": "7A",
+         "raum": "204",
+         "info": "Bio 7A statt Di (30.06.) St.4",
          "geaendert": true
         },
         {
@@ -31382,34 +31430,34 @@
         },
         {
          "stunde": "3",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "5",
          "fach": "Ma",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "für En Bis",
+         "klasse": "8C",
+         "raum": "205",
+         "info": "statt Mo (29.06.) St.5 (Ph Roh)",
          "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Ma",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "für En Bis",
+         "klasse": "8C",
+         "raum": "205",
+         "info": "statt Mo (29.06.) St.6 (Ph Roh)",
          "geaendert": true
         }
        ],
@@ -32051,11 +32099,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "12D",
+         "raum": "Co2",
+         "info": "Verkündung Gesamtqualifikation 12:15, dann Stellprobe Kirche; Ge 7E gehalten am Di (30.06.) St.5 (Pri)",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ge 7E gehalten am Di (30.06.) St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "12D",
+         "raum": "Co2",
+         "info": "Verkündung Gesamtqualifikation 12:15, dann Stellprobe Kirche; Ge 7E gehalten am Di (30.06.) St.6 (Pri)",
          "geaendert": true
         },
         {
@@ -32233,18 +32297,18 @@
         },
         {
          "stunde": "5",
-         "fach": "Ph",
-         "klasse": "8C",
-         "raum": "205",
-         "info": "Ph 8C statt Mo (29.06.) St.5",
+         "fach": "ILZ",
+         "klasse": "12B",
+         "raum": "Co3",
+         "info": "Verkündung Gesamtqualifikation 12:15, dann Stellprobe Kirche",
          "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ph",
-         "klasse": "8C",
-         "raum": "205",
-         "info": "Ph 8C statt Mo (29.06.) St.6",
+         "fach": "ILZ",
+         "klasse": "12B",
+         "raum": "Co3",
+         "info": "Verkündung Gesamtqualifikation 12:15, dann Stellprobe Kirche",
          "geaendert": true
         }
        ],
@@ -32374,6 +32438,22 @@
       },
       "See": {
        "entries": [
+        {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "12E,12C",
+         "raum": "Co1",
+         "info": "Verkündung Gesamtqualifikation 12:15, danach Stellprobe Kirche",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "12E,12C",
+         "raum": "Co1",
+         "info": "Verkündung Gesamtqualifikation 12:15, danach Stellprobe Kirche",
+         "geaendert": true
+        },
         {
          "stunde": "7",
          "fach": "---",
@@ -32664,7 +32744,7 @@
     },
     "20260702": {
      "datum": "Donnerstag, 02. Juli 2026",
-     "zeitstempel": "22.06.2026, 19:57",
+     "zeitstempel": "23.06.2026, 14:39",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -32949,11 +33029,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "Ma",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "statt Di (30.06.) St.1 (Ma Hoh); inf1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "inf1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ma",
+         "klasse": "7D",
+         "raum": "106",
+         "info": "statt Di (30.06.) St.2 (Ma Hoh); inf1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -33462,22 +33558,6 @@
       "Hoh": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "Ma",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "Ma 7D statt Di (30.06.) St.1",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "Ma",
-         "klasse": "7D",
-         "raum": "106",
-         "info": "Ma 7D statt Di (30.06.) St.2",
-         "geaendert": true
-        },
-        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -33518,27 +33598,11 @@
          "geaendert": true
         },
         {
-         "stunde": "7",
-         "fach": "Ma",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "Ma 8A statt Mo (29.06.) St.1; Ma 8D gehalten am Di (30.06.) St.1",
-         "geaendert": true
-        },
-        {
          "stunde": "8",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ma 8D gehalten am Di (30.06.) St.2",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Ma",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "Ma 8A statt Mo (29.06.) St.2; Ma 8D gehalten am Di (30.06.) St.2",
          "geaendert": true
         }
        ],
@@ -34955,7 +35019,7 @@
     },
     "20260703": {
      "datum": "Freitag, 03. Juli 2026",
-     "zeitstempel": "22.06.2026, 19:57",
+     "zeitstempel": "23.06.2026, 14:39",
      "lehrer": {
       "Bar": {
        "entries": [

@@ -891,5 +891,64 @@
    "Std 8 (14:25): mdl. / praktische Prüfungen im Fach Kunst"
   ],
   "zeitstempel": "23.06.2026, 12:05"
+ },
+ {
+  "timestamp": "2026-06-23T14:01:57.319991",
+  "lehrer": "Bir",
+  "datum": "Donnerstag, 25. Juni 2026",
+  "date_key": "20260625",
+  "changes": [
+   "Std 3 (09:40): Nachschrift der 11er MUEin 006, bitte Klausur mitbringen",
+   "Std 4 (10:25): Nachschrift der 11er MUEin 006, bitte Klausur mitbringen",
+   "Std 5 (11:40): Mu 10C fällt aus",
+   "Std 5 (11:40): Mu 8A statt Mo (22.06.) St.3; Mu 10C fällt aus",
+   "Std 6 (12:25): Mu 10C fällt aus",
+   "Std 6 (12:25): Mu 8A statt Mo (22.06.) St.4; Mu 10C fällt aus",
+   "Std 7 (13:40): Mu 10B fällt aus",
+   "Std 7 (13:40): Mu 7C statt Mi (24.06.) St.5; Mu 10B fällt aus",
+   "Std 8 (14:25): Mu 10B fällt aus",
+   "Std 8 (14:25): Mu 7C statt Mi (24.06.) St.6; Mu 10B fällt aus"
+  ],
+  "zeitstempel": "23.06.2026, 15:26"
+ },
+ {
+  "timestamp": "2026-06-23T14:01:57.319991",
+  "lehrer": "Hoh",
+  "datum": "Montag, 29. Juni 2026",
+  "date_key": "20260629",
+  "changes": [
+   "Std 1 (07:40): Ma 8A fällt aus",
+   "Std 1 (07:40): Ph 8B verlegt von St.7; Ma 8A fällt aus",
+   "Std 2 (08:25): Ma 8A fällt aus",
+   "Std 2 (08:25): Ph 8B verlegt von St.8; Ma 8A fällt aus",
+   "Std 3 (09:40): Ma 8D verlegt nach St.7",
+   "Std 3 (09:40): Ma 7D statt Do (02.07.) St.3; Ma 8D verlegt nach St.7",
+   "Std 4 (10:25): Ma 8D verlegt nach St.8",
+   "Std 4 (10:25): Ma 7D statt Do (02.07.) St.4; Ma 8D verlegt nach St.8",
+   "Std 5 (11:40): Ph 8D statt Do (02.07.) St.5",
+   "Std 6 (12:25): Ph 8D statt Do (02.07.) St.6",
+   "Std 7 (13:40): Ph 8B verlegt nach St.1",
+   "Std 7 (13:40): Ma 8D verlegt von St.3; Ph 8B verlegt nach St.1",
+   "Std 8 (14:25): Ph 8B verlegt nach St.2",
+   "Std 8 (14:25): Ma 8D verlegt von St.4; Ph 8B verlegt nach St.2"
+  ],
+  "zeitstempel": "23.06.2026, 15:26"
+ },
+ {
+  "timestamp": "2026-06-23T14:01:57.319991",
+  "lehrer": "Roh",
+  "datum": "Montag, 29. Juni 2026",
+  "date_key": "20260629",
+  "changes": [
+   "Std 1 (07:40): für Ma Roh",
+   "Std 2 (08:25): für Ma Roh",
+   "Std 3 (09:40): ph1 12A-12E fällt aus",
+   "Std 3 (09:40): Ma 7E statt Di (30.06.) St.5; ph1 12A-12E fällt aus",
+   "Std 4 (10:25): ph1 12A-12E fällt aus",
+   "Std 4 (10:25): Ma 7E statt Di (30.06.) St.6; ph1 12A-12E fällt aus",
+   "Std 5 (11:40): Ma 8C verlegt nach Mi (01.07.) St.5 (Käc)",
+   "Std 6 (12:25): Ma 8C verlegt nach Mi (01.07.) St.6 (Käc)"
+  ],
+  "zeitstempel": "23.06.2026, 15:26"
  }
 ]
