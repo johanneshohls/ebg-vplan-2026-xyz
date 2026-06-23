@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "23.06.2026, 20:25 Uhr",
- "last_changed": "2026-06-23T15:26:00",
+ "generiert": "23.06.2026, 21:53 Uhr",
+ "last_changed": "2026-06-23T23:19:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -17269,7 +17269,7 @@
     },
     "20260624": {
      "datum": "Mittwoch, 24. Juni 2026",
-     "zeitstempel": "23.06.2026, 15:26",
+     "zeitstempel": "23.06.2026, 23:19",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -18316,7 +18316,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof 1, WC, Container",
+         "info": "für Schil"
+        }
+       ]
       },
       "Hön": {
        "entries": [
@@ -19090,14 +19097,7 @@
          "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Hof 1, WC, Container",
-         "info": "für Schil"
-        }
-       ]
+       "aufsichten": []
       },
       "Lie": {
        "entries": [
@@ -19753,7 +19753,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Hof 1, WC, Container",
-         "info": "entfällt, V: Leu"
+         "info": "entfällt, V: Hol"
         }
        ]
       },
