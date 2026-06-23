@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "23.06.2026, 08:26 Uhr",
- "last_changed": "2026-06-22T19:57:00",
+ "generiert": "23.06.2026, 11:36 Uhr",
+ "last_changed": "2026-06-23T12:05:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14412,7 +14412,7 @@
     },
     "20260623": {
      "datum": "Dienstag, 23. Juni 2026",
-     "zeitstempel": "22.06.2026, 19:57",
+     "zeitstempel": "23.06.2026, 12:05",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17269,7 +17269,7 @@
     },
     "20260624": {
      "datum": "Mittwoch, 24. Juni 2026",
-     "zeitstempel": "22.06.2026, 19:57",
+     "zeitstempel": "23.06.2026, 12:05",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -18013,7 +18013,7 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "ILZ",
+         "fach": "Fr",
          "klasse": "8A",
          "raum": "105",
          "info": "für ILZ Hei",
@@ -18021,7 +18021,7 @@
         },
         {
          "stunde": "2",
-         "fach": "KL",
+         "fach": "Fr",
          "klasse": "8A",
          "raum": "105",
          "info": "für KL Hei",
@@ -18029,15 +18029,15 @@
         },
         {
          "stunde": "3",
-         "fach": "Fr",
+         "fach": "ILZ",
          "klasse": "8A",
          "raum": "K07",
-         "info": "für Fr Hei",
+         "info": "für Fr Hei, Projekt: sexuelle Aufklärung, Aufsicht",
          "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Fr",
+         "fach": "ILZ",
          "klasse": "8A",
          "raum": "K07",
          "info": "für Fr Hei",
@@ -18707,27 +18707,11 @@
          "geaendert": true
         },
         {
-         "stunde": "7",
-         "fach": "Mu",
-         "klasse": "",
-         "raum": "Aula",
-         "info": "mdl. / praktische Prüfung Anton Mai (13:15), danach Verkündung; Mu 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
-         "geaendert": true
-        },
-        {
          "stunde": "8",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Mu 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Mu",
-         "klasse": "",
-         "raum": "Aula",
-         "info": "mdl. / praktische Prüfung Anton Mai (13:15), danach Verkündung; Mu 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
          "geaendert": true
         }
        ],
@@ -19855,15 +19839,15 @@
          "stunde": "5",
          "fach": "Ku",
          "klasse": "8B",
-         "raum": "207",
-         "info": "Ku 8B statt Do (25.06.) St.5",
+         "raum": "K07",
+         "info": "Ku 8B statt Do (25.06.) St.5, Projekt: Sexuelle Gesundheit, Aufsicht kann, muss aber nicht - bitte zu Beginn der Stunde blicken la",
          "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Ku",
          "klasse": "8B",
-         "raum": "207",
+         "raum": "K07",
          "info": "Ku 8B statt Do (25.06.) St.6",
          "geaendert": true
         }
@@ -20219,7 +20203,7 @@
     },
     "20260625": {
      "datum": "Donnerstag, 25. Juni 2026",
-     "zeitstempel": "22.06.2026, 19:57",
+     "zeitstempel": "23.06.2026, 12:05",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -22653,7 +22637,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ku 8B gehalten am Mi (24.06.) St.5",
+         "info": "Ku 8B gehalten am Mi (24.06.) St.5, Projekt: Sexuelle Gesundheit, Aufsicht kann, muss aber nicht - bitte zu Beginn der Stunde blicken la",
          "geaendert": true
         },
         {
@@ -22661,7 +22645,7 @@
          "fach": "Ku",
          "klasse": "12A-12E",
          "raum": "205",
-         "info": "mdl. / praktische Prüfungen im Fach Kunst; Ku 8B gehalten am Mi (24.06.) St.5 (Schud)",
+         "info": "mdl. / praktische Prüfungen im Fach Kunst; Ku 8B gehalten am Mi (24.06.) St.5 (Schud), Projekt: Sexuelle Gesundheit, Aufsicht kann, muss aber nicht - bitte zu Beginn der Stunde blicken la",
          "geaendert": true
         },
         {
