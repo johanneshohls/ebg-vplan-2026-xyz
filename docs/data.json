@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "24.06.2026, 11:18 Uhr",
- "last_changed": "2026-06-24T09:49:00",
+ "generiert": "24.06.2026, 13:30 Uhr",
+ "last_changed": "2026-06-24T15:10:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -20203,7 +20203,7 @@
     },
     "20260625": {
      "datum": "Donnerstag, 25. Juni 2026",
-     "zeitstempel": "23.06.2026, 15:26",
+     "zeitstempel": "24.06.2026, 15:10",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -20299,10 +20299,26 @@
        "entries": [
         {
          "stunde": "3",
+         "fach": "Mu",
+         "klasse": "7C",
+         "raum": "Aula",
+         "info": "Mu 7C statt Mi (24.06.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Nachschrift der 11er MUEin 006, bitte Klausur mitbringen",
+         "info": "Nachschrift der 11er MUEin 006, bitte Klausur mitbringen; Mu 7C verlegt nach Do (25.06.) St.3 (Bir)",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Mu",
+         "klasse": "7C",
+         "raum": "Aula",
+         "info": "Mu 7C statt Mi (24.06.) St.6",
          "geaendert": true
         },
         {
@@ -20310,7 +20326,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Nachschrift der 11er MUEin 006, bitte Klausur mitbringen",
+         "info": "Nachschrift der 11er MUEin 006, bitte Klausur mitbringen; Mu 7C verlegt nach Do (25.06.) St.4 (Bir)",
          "geaendert": true
         },
         {
@@ -20354,27 +20370,11 @@
          "geaendert": true
         },
         {
-         "stunde": "7",
-         "fach": "Mu",
-         "klasse": "7C",
-         "raum": "Aula",
-         "info": "Mu 7C statt Mi (24.06.) St.5; Mu 10B fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "8",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Mu 10B fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Mu",
-         "klasse": "7C",
-         "raum": "Aula",
-         "info": "Mu 7C statt Mi (24.06.) St.6; Mu 10B fällt aus",
          "geaendert": true
         },
         {
@@ -21819,14 +21819,6 @@
          "geaendert": true
         },
         {
-         "stunde": "3",
-         "fach": "Span",
-         "klasse": "7C",
-         "raum": "102",
-         "info": "Span 7C statt Mo (22.06.) St.7; Span 7E gehalten am Di (23.06.) St.1",
-         "geaendert": true
-        },
-        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -21835,11 +21827,19 @@
          "geaendert": true
         },
         {
-         "stunde": "4",
+         "stunde": "5",
          "fach": "Span",
          "klasse": "7C",
-         "raum": "102",
-         "info": "Span 7C statt Mo (22.06.) St.8; Span 7E gehalten am Di (23.06.) St.2",
+         "raum": "K07",
+         "info": "Span 7C statt Mo (22.06.) St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Span",
+         "klasse": "7C",
+         "raum": "K07",
+         "info": "Span 7C statt Mo (22.06.) St.8",
          "geaendert": true
         }
        ],
@@ -22005,7 +22005,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 8A verlegt nach Fr (26.06.) St.5",
+         "info": "ILZ 8A verlegt nach Fr (26.06.) St.5 (OLop), Bitte auf dem Hof Spiele spielen",
          "geaendert": true
         },
         {
@@ -22013,39 +22013,39 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 8A verlegt nach Fr (26.06.) St.6",
+         "info": "ILZ 8A verlegt nach Fr (26.06.) St.6 (OLop), Bitte auf dem Hof Spiele spielen.",
          "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "7C",
-         "raum": "K07",
-         "info": "für En Mar",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7C fällt aus",
          "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "7C",
-         "raum": "K07",
-         "info": "für En Mar",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7C fällt aus",
          "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Ma",
-         "klasse": "8B",
-         "raum": "107",
-         "info": "für Ma Mar",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8B fällt aus",
          "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "8B",
-         "raum": "107",
-         "info": "für Ma Mar",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8B fällt aus",
          "geaendert": true
         }
        ],
@@ -23158,7 +23158,7 @@
     },
     "20260626": {
      "datum": "Freitag, 26. Juni 2026",
-     "zeitstempel": "23.06.2026, 15:26",
+     "zeitstempel": "24.06.2026, 15:10",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -24311,6 +24311,12 @@
          "uhrzeit": "11:10",
          "ort": "Essenraum und Keller",
          "info": "entfällt, V: Tuh"
+        },
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Mar"
         }
        ]
       },
@@ -24548,50 +24554,34 @@
         },
         {
          "stunde": "3",
-         "fach": "En",
-         "klasse": "7E",
-         "raum": "105",
-         "info": "für En Mar",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7E Sta (für En)",
          "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "En",
-         "klasse": "7E",
-         "raum": "105",
-         "info": "für En Mar",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "En",
-         "klasse": "8A",
-         "raum": "201",
-         "info": "En 8A statt Do (25.06.) St.3",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "En",
-         "klasse": "8A",
-         "raum": "201",
-         "info": "En 8A statt Do (25.06.) St.4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7E Sta (für En)",
          "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "en1",
-         "klasse": "11A-11D",
-         "raum": "103",
-         "info": "für En Mar",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werdwn",
          "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "en1",
-         "klasse": "11A-11D",
-         "raum": "103",
-         "info": "für En Mar",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
          "geaendert": true
         }
        ],
@@ -24600,7 +24590,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Kno"
         }
        ]
       },
@@ -24708,11 +24698,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "statt Do (25.06.) St.3 (En Mar), Bitte auf dem Hof Spiele spielen; Span 10C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Span 10C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "statt Do (25.06.) St.4 (En Mar), Bitte auf dem Hof Spiele spielen.; Span 10C fällt aus",
          "geaendert": true
         }
        ],
@@ -25311,11 +25317,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "7E",
+         "raum": "105",
+         "info": "für En Mar",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ma 9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "7E",
+         "raum": "105",
+         "info": "für En Mar",
          "geaendert": true
         },
         {
