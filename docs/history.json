@@ -1,54 +1,5 @@
 [
  {
-  "timestamp": "2026-06-17T09:27:31.225377",
-  "lehrer": "Pri",
-  "datum": "Mittwoch, 17. Juni 2026",
-  "date_key": "20260617",
-  "changes": [
-   "Std 5 (11:40): Ge 7E verlegt nach Do (18.06.) St.1",
-   "Std 5 (11:40): Ge 10A verlegt von St.7; Ge 7E verlegt nach Do (18.06.) St.1",
-   "Std 6 (12:25): Ge 7E verlegt nach Do (18.06.) St.2",
-   "Std 6 (12:25): Ge 10A verlegt von St.8; Ge 7E verlegt nach Do (18.06.) St.2",
-   "Std 7 (13:40): Ge 10A verlegt nach St.5",
-   "Std 8 (14:25): Ge 10A verlegt nach St.6"
-  ],
-  "zeitstempel": "17.06.2026, 07:35"
- },
- {
-  "timestamp": "2026-06-17T09:27:31.225377",
-  "lehrer": "See",
-  "datum": "Mittwoch, 17. Juni 2026",
-  "date_key": "20260617",
-  "changes": [
-   "Std 3 (09:40): Bio 10B statt Do (18.06.) St.7",
-   "Std 4 (10:25): Bio 10B statt Do (18.06.) St.8"
-  ],
-  "zeitstempel": "17.06.2026, 07:35"
- },
- {
-  "timestamp": "2026-06-17T09:27:31.225377",
-  "lehrer": "Eul",
-  "datum": "Montag, 22. Juni 2026",
-  "date_key": "20260622",
-  "changes": [
-   "Std 1 (07:40): De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
-   "Std 1 (07:40): mdl. Prüfungen im Fach eRe; De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
-   "Std 2 (08:25): De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
-   "Std 2 (08:25): mdl. Prüfungen im Fach eRe; De 11A-11D selbst. (v), Selbststudium, kann zu Hause erledigt werden",
-   "Std 3 (09:40): De 10D fällt aus",
-   "Std 3 (09:40): mdl. Prüfungen im Fach eRe; De 10D fällt aus",
-   "Std 4 (10:25): De 10D fällt aus",
-   "Std 4 (10:25): mdl. Prüfungen im Fach eRe; De 10D fällt aus",
-   "Std 5 (11:40): De 7B verlegt nach Mi (24.06.) St.3",
-   "Std 5 (11:40): mdl. Prüfungen im Fach eRe; De 7B verlegt nach Mi (24.06.) St.3 (Eul)",
-   "Std 6 (12:25): De 7B verlegt nach Mi (24.06.) St.4",
-   "Std 6 (12:25): mdl. Prüfungen im Fach eRe; De 7B verlegt nach Mi (24.06.) St.4 (Eul)",
-   "Std 7 (13:40): mdl. Prüfungen im Fach eRe",
-   "Std 8 (14:25): mdl. Prüfungen im Fach eRe"
-  ],
-  "zeitstempel": "17.06.2026, 11:07"
- },
- {
   "timestamp": "2026-06-17T12:59:16.510871",
   "lehrer": "Isb",
   "datum": "Dienstag, 23. Juni 2026",
