@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "23.06.2026, 22:55 Uhr",
- "last_changed": "2026-06-23T23:19:00",
+ "generiert": "24.06.2026, 08:19 Uhr",
+ "last_changed": "2026-06-24T09:49:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -17269,7 +17269,7 @@
     },
     "20260624": {
      "datum": "Mittwoch, 24. Juni 2026",
-     "zeitstempel": "23.06.2026, 23:19",
+     "zeitstempel": "24.06.2026, 09:49",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -17387,19 +17387,19 @@
         },
         {
          "stunde": "7",
-         "fach": "GS06",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS06 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS06",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS06 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "9",
@@ -17712,19 +17712,19 @@
        "entries": [
         {
          "stunde": "7",
-         "fach": "GS08",
-         "klasse": "7A-7E,8A-8D",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "GS08 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS08",
-         "klasse": "7A-7E,8A-8D",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "GS08 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -17753,18 +17753,18 @@
         },
         {
          "stunde": "7",
-         "fach": "GS01",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "103",
-         "info": "für GS01 Fech",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS01 7A-7E,8A-8D fällt aus",
          "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS01",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "103",
-         "info": "für GS01 Fech",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS01 7A-7E,8A-8D fällt aus",
          "geaendert": true
         }
        ],
@@ -18227,18 +18227,18 @@
         },
         {
          "stunde": "7",
-         "fach": "GS11",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "207",
-         "info": "für GS11 Hofm",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS11 7A-7E,8A-8D fällt aus",
          "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS11",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "207",
-         "info": "für GS11 Hofm",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS11 7A-7E,8A-8D fällt aus",
          "geaendert": true
         }
        ],
@@ -18430,19 +18430,19 @@
         },
         {
          "stunde": "7",
-         "fach": "GS12",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS12 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS12",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS12 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -18884,18 +18884,18 @@
         },
         {
          "stunde": "7",
-         "fach": "GS03",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "106",
-         "info": "für GS03 Köh",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS03 7A-7E,8A-8D fällt aus",
          "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS03",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "106",
-         "info": "für GS03 Köh",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS03 7A-7E,8A-8D fällt aus",
          "geaendert": true
         }
        ],
@@ -18912,19 +18912,19 @@
        "entries": [
         {
          "stunde": "7",
-         "fach": "GS05",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS05 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS05",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS05 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -19158,32 +19158,32 @@
          "stunde": "1",
          "fach": "Ma",
          "klasse": "8B",
-         "raum": "107",
-         "info": "für Ma Mar",
+         "raum": "",
+         "info": "für Ma Mar, Aufteilung gemäß Aushang Monitor",
          "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Ma",
          "klasse": "8B",
-         "raum": "107",
-         "info": "für Ma Mar",
+         "raum": "",
+         "info": "für Ma Mar, Aufteilung gemäß Aushang Monitor",
          "geaendert": true
         },
         {
          "stunde": "3",
          "fach": "En",
          "klasse": "7E",
-         "raum": "105",
-         "info": "für En Mar",
+         "raum": "",
+         "info": "für En Mar, Aufteilung gemäß Aushang Monitor",
          "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "En",
          "klasse": "7E",
-         "raum": "105",
-         "info": "für En Mar",
+         "raum": "",
+         "info": "für En Mar, Aufteilung gemäß Aushang Monitor",
          "geaendert": true
         }
        ],
@@ -19253,19 +19253,19 @@
        "entries": [
         {
          "stunde": "7",
-         "fach": "GS09",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS09 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS09",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS09 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -19979,18 +19979,18 @@
        "entries": [
         {
          "stunde": "7",
-         "fach": "GS07",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "002",
-         "info": "für GS07 Ten",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS07 7A-7E,8A-8D fällt aus",
          "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS07",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "002",
-         "info": "für GS07 Ten",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS07 7A-7E,8A-8D fällt aus",
          "geaendert": true
         }
        ],
@@ -20161,19 +20161,19 @@
         },
         {
          "stunde": "7",
-         "fach": "GS02",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS02 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS02",
-         "klasse": "7A-7E,8A-8D",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS02 7A-7E,8A-8D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
