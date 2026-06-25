@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "25.06.2026, 13:24 Uhr",
- "last_changed": "2026-06-24T15:10:00",
+ "generiert": "25.06.2026, 15:57 Uhr",
+ "last_changed": "2026-06-25T15:26:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -23158,7 +23158,7 @@
     },
     "20260626": {
      "datum": "Freitag, 26. Juni 2026",
-     "zeitstempel": "24.06.2026, 15:10",
+     "zeitstempel": "25.06.2026, 15:26",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23471,7 +23471,7 @@
          "fach": "Span",
          "klasse": "8B",
          "raum": "107 Co1",
-         "info": "für Span Köh",
+         "info": "für Span Köh, Ganze Klasse 8b zu Jacobs in Co2, Projekt sexuelle Aufklärung",
          "geaendert": true
         },
         {
@@ -23479,7 +23479,7 @@
          "fach": "Span",
          "klasse": "8B",
          "raum": "107 Co1",
-         "info": "für Span Köh",
+         "info": "für Span Köh, Ganze Klasse 8b zu Jacobs in Co2, Projekt sexuelle Aufklärung",
          "geaendert": true
         },
         {
@@ -24124,7 +24124,24 @@
        "aufsichten": []
       },
       "Jac": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "ILZ",
+         "klasse": "8B",
+         "raum": "Co2",
+         "info": "Projekt sexuelle Aufklärung",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "ILZ",
+         "klasse": "8B",
+         "raum": "Co2",
+         "info": "Projekt sexuelle Aufklärung",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Jur": {
@@ -24359,7 +24376,7 @@
          "fach": "Span",
          "klasse": "8B",
          "raum": "107 Co1",
-         "info": "für Span Köh",
+         "info": "für Span Köh, Ganze Klasse 8b zu Jacobs in Co2, Projekt sexuelle Aufklärung",
          "geaendert": true
         },
         {
@@ -24367,7 +24384,7 @@
          "fach": "Span",
          "klasse": "8B",
          "raum": "107 Co1",
-         "info": "für Span Köh",
+         "info": "für Span Köh, Ganze Klasse 8b zu Jacobs in Co2, Projekt sexuelle Aufklärung",
          "geaendert": true
         },
         {
@@ -24678,7 +24695,7 @@
          "fach": "Span",
          "klasse": "8C",
          "raum": "103",
-         "info": "für Span OLop",
+         "info": "für Span OLop, Ganze Klasse 8b zu Jacobs in Co2, Projekt sexuelle Aufklärung",
          "geaendert": true
         },
         {
@@ -24686,7 +24703,7 @@
          "fach": "Span",
          "klasse": "8C",
          "raum": "103",
-         "info": "für Span OLop",
+         "info": "für Span OLop, Ganze Klasse 8b zu Jacobs in Co2, Projekt sexuelle Aufklärung",
          "geaendert": true
         },
         {
@@ -24701,8 +24718,8 @@
          "stunde": "5",
          "fach": "ILZ",
          "klasse": "8A",
-         "raum": "201",
-         "info": "statt Do (25.06.) St.3 (En Mar), Bitte auf dem Hof Spiele spielen; Span 10C fällt aus",
+         "raum": "Co2",
+         "info": "statt Do (25.06.) St.3 (En Mar), Projekt sexuelle Aufklärung; Span 10C fällt aus",
          "geaendert": true
         },
         {
@@ -24717,8 +24734,8 @@
          "stunde": "6",
          "fach": "ILZ",
          "klasse": "8A",
-         "raum": "201",
-         "info": "statt Do (25.06.) St.4 (En Mar), Bitte auf dem Hof Spiele spielen.; Span 10C fällt aus",
+         "raum": "Co2",
+         "info": "statt Do (25.06.) St.4 (En Mar), Projekt sexuelle Aufklärung; Span 10C fällt aus",
          "geaendert": true
         }
        ],
@@ -24827,7 +24844,7 @@
          "fach": "Span",
          "klasse": "8D",
          "raum": "Co3",
-         "info": "für Span Puk",
+         "info": "für Span Puk, Ganze Klasse 8b zu Jacobs in Co2, Projekt sexuelle Aufklärung",
          "geaendert": true
         },
         {
@@ -24835,7 +24852,7 @@
          "fach": "Span",
          "klasse": "8D",
          "raum": "Co3",
-         "info": "für Span Puk",
+         "info": "für Span Puk, Ganze Klasse 8b zu Jacobs in Co2, Projekt sexuelle Aufklärung",
          "geaendert": true
         },
         {
@@ -25079,7 +25096,7 @@
          "stunde": "5",
          "fach": "phil2",
          "klasse": "11A-11D",
-         "raum": "Co2",
+         "raum": "201",
          "info": "für Phil Schuc",
          "geaendert": true
         },
@@ -25087,7 +25104,7 @@
          "stunde": "6",
          "fach": "phil2",
          "klasse": "11A-11D",
-         "raum": "Co2",
+         "raum": "201",
          "info": "für Phil Schuc",
          "geaendert": true
         }
@@ -25479,7 +25496,7 @@
          "stunde": "3",
          "fach": "de1",
          "klasse": "11A-11D",
-         "raum": "Co2",
+         "raum": "K12",
          "info": "für De Tuh",
          "geaendert": true
         },
@@ -25487,7 +25504,7 @@
          "stunde": "4",
          "fach": "de1",
          "klasse": "11A-11D",
-         "raum": "Co2",
+         "raum": "K12",
          "info": "für De Tuh",
          "geaendert": true
         },
