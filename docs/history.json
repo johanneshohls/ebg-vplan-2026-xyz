@@ -1,22 +1,5 @@
 [
  {
-  "timestamp": "2026-06-18T09:11:40.830981",
-  "lehrer": "See",
-  "datum": "Donnerstag, 18. Juni 2026",
-  "date_key": "20260618",
-  "changes": [
-   "Std 3 (09:40): BIO1 12A-12E fällt aus",
-   "Std 3 (09:40): Konsultation mdl. Nachprüfung; BIO1 12A-12E fällt aus",
-   "Std 4 (10:25): BIO1 12A-12E fällt aus",
-   "Std 4 (10:25): Konsultation mdl. Nachprüfung; BIO1 12A-12E fällt aus",
-   "Std 7 (13:40): Bio 10B gehalten am Mi (17.06.) St.3",
-   "Std 7 (13:40): Bio 10D statt Fr (19.06.) St.5; Bio 10B gehalten am Mi (17.06.) St.3",
-   "Std 8 (14:25): Bio 10B gehalten am Mi (17.06.) St.4",
-   "Std 8 (14:25): Bio 10D statt Fr (19.06.) St.6; Bio 10B gehalten am Mi (17.06.) St.4"
-  ],
-  "zeitstempel": "18.06.2026, 09:28"
- },
- {
   "timestamp": "2026-06-18T15:59:59.439317",
   "lehrer": "Rat",
   "datum": "Freitag, 19. Juni 2026",
