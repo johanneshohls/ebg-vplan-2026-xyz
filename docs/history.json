@@ -1,46 +1,5 @@
 [
  {
-  "timestamp": "2026-06-18T15:59:59.439317",
-  "lehrer": "Rat",
-  "datum": "Freitag, 19. Juni 2026",
-  "date_key": "20260619",
-  "changes": [
-   "Std 3 (09:40): für ILZ Wag",
-   "Std 4 (10:25): für ILZ Wag",
-   "Std 5 (11:40): für eRe Rat",
-   "Std 6 (12:25): für eRe Rat"
-  ],
-  "zeitstempel": "18.06.2026, 15:55"
- },
- {
-  "timestamp": "2026-06-18T15:59:59.439317",
-  "lehrer": "Schil",
-  "datum": "Freitag, 19. Juni 2026",
-  "date_key": "20260619",
-  "changes": [
-   "Std 1 (07:40): für De Schil",
-   "Std 2 (08:25): für De Schil"
-  ],
-  "zeitstempel": "18.06.2026, 15:55"
- },
- {
-  "timestamp": "2026-06-18T15:59:59.439317",
-  "lehrer": "Wag",
-  "datum": "Freitag, 19. Juni 2026",
-  "date_key": "20260619",
-  "changes": [
-   "Std 1 (07:40): en1 12A-12E fällt aus",
-   "Std 1 (07:40): En 10D statt Mo (15.06.) St.7; en1 12A-12E fällt aus",
-   "Std 2 (08:25): en1 12A-12E fällt aus",
-   "Std 2 (08:25): En 10D statt Mo (15.06.) St.8; en1 12A-12E fällt aus",
-   "Std 3 (09:40): ILZ 9A Rat",
-   "Std 3 (09:40): mündliche Nachprüfungen Englisch; ILZ 9A Rat",
-   "Std 4 (10:25): ILZ 9A Rat",
-   "Std 4 (10:25): mündliche Nachprüfungen Englisch; ILZ 9A Rat"
-  ],
-  "zeitstempel": "18.06.2026, 15:55"
- },
- {
   "timestamp": "2026-06-19T09:26:09.662938",
   "lehrer": "Hol",
   "datum": "Montag, 22. Juni 2026",
