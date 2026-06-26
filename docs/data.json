@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "26.06.2026, 08:27 Uhr",
- "last_changed": "2026-06-26T10:24:00",
+ "generiert": "26.06.2026, 11:21 Uhr",
+ "last_changed": "2026-06-26T11:37:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -23158,7 +23158,7 @@
     },
     "20260626": {
      "datum": "Freitag, 26. Juni 2026",
-     "zeitstempel": "26.06.2026, 10:24",
+     "zeitstempel": "26.06.2026, 11:37",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23334,7 +23334,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sp 8B Stu",
+         "info": "ILZ 8B Stu (für Sp)",
          "geaendert": true
         },
         {
@@ -23342,7 +23342,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sp 8B Stu",
+         "info": "ILZ 8B Stu (für Sp)",
          "geaendert": true
         }
        ],
@@ -23619,7 +23619,7 @@
          "stunde": "5",
          "fach": "Ge",
          "klasse": "7B",
-         "raum": "K12",
+         "raum": "002",
          "info": "für Ge Gol",
          "geaendert": true
         },
@@ -23627,7 +23627,7 @@
          "stunde": "6",
          "fach": "Ge",
          "klasse": "7B",
-         "raum": "K12",
+         "raum": "002",
          "info": "für Ge Gol",
          "geaendert": true
         },
@@ -23879,7 +23879,7 @@
          "stunde": "5",
          "fach": "En",
          "klasse": "8C",
-         "raum": "102",
+         "raum": "K12",
          "info": "En 8C statt Mi (24.06.) St.5; En 8C gehalten am Mo (22.06.) St.3",
          "geaendert": true
         },
@@ -23895,7 +23895,7 @@
          "stunde": "6",
          "fach": "En",
          "klasse": "8C",
-         "raum": "102",
+         "raum": "K12",
          "info": "En 8C statt Mi (24.06.) St.6; En 8C gehalten am Mo (22.06.) St.4",
          "geaendert": true
         },
@@ -24116,7 +24116,7 @@
          "stunde": "5",
          "fach": "Ge",
          "klasse": "7E",
-         "raum": "K07",
+         "raum": "102",
          "info": "für ILZ Kno, Hospitation",
          "geaendert": true
         }
@@ -24309,7 +24309,7 @@
          "stunde": "6",
          "fach": "KL",
          "klasse": "7E",
-         "raum": "K07",
+         "raum": "102",
          "info": "für KL Kno",
          "geaendert": true
         },
@@ -25403,17 +25403,17 @@
         },
         {
          "stunde": "5",
-         "fach": "Sp",
+         "fach": "ILZ",
          "klasse": "8B",
-         "raum": "Tu3",
+         "raum": "Co2",
          "info": "für Sp Bod",
          "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Sp",
+         "fach": "ILZ",
          "klasse": "8B",
-         "raum": "Tu3",
+         "raum": "Co2",
          "info": "für Sp Bod",
          "geaendert": true
         }

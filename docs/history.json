@@ -1,33 +1,5 @@
 [
  {
-  "timestamp": "2026-06-19T09:26:09.662938",
-  "lehrer": "Hol",
-  "datum": "Montag, 22. Juni 2026",
-  "date_key": "20260622",
-  "changes": [
-   "Std 3 (09:40): en2 12A-12E fällt aus",
-   "Std 4 (10:25): en2 12A-12E fällt aus",
-   "Std 5 (11:40): En 9C fällt aus",
-   "Std 6 (12:25): En 9C fällt aus"
-  ],
-  "zeitstempel": "19.06.2026, 11:21"
- },
- {
-  "timestamp": "2026-06-19T09:26:09.662938",
-  "lehrer": "Wag",
-  "datum": "Montag, 22. Juni 2026",
-  "date_key": "20260622",
-  "changes": [
-   "Std 3 (09:40): Aufsicht Vorbereitung mdl. Prüfungen",
-   "Std 4 (10:25): Aufsicht Vorbereitung mdl. Prüfungen",
-   "Std 5 (11:40): 11EN LK1 bei Fr. Wagner, Anwesenheitspflicht, für 03.07. 4. Block",
-   "Std 6 (12:25): 11EN LK1 bei Fr. Wagner, Anwesenheitspflicht, für 03.07. 4. Block",
-   "Std 7 (13:40): en1 12A-12E fällt aus",
-   "Std 8 (14:25): en1 12A-12E fällt aus"
-  ],
-  "zeitstempel": "19.06.2026, 11:21"
- },
- {
   "timestamp": "2026-06-19T12:56:57.772417",
   "lehrer": "Köh",
   "datum": "Montag, 22. Juni 2026",
@@ -855,5 +827,94 @@
    "Std 6 (12:25): für KL Kno"
   ],
   "zeitstempel": "26.06.2026, 10:24"
+ },
+ {
+  "timestamp": "2026-06-26T11:21:11.423065",
+  "lehrer": "Bod",
+  "datum": "Freitag, 26. Juni 2026",
+  "date_key": "20260626",
+  "changes": [
+   "Std 3 (09:40): Sk 10B fällt aus",
+   "Std 4 (10:25): Sk 10B fällt aus",
+   "Std 5 (11:40): ILZ 8B Stu (für Sp)",
+   "Std 6 (12:25): ILZ 8B Stu (für Sp)"
+  ],
+  "zeitstempel": "26.06.2026, 11:37"
+ },
+ {
+  "timestamp": "2026-06-26T11:21:11.423065",
+  "lehrer": "Gol",
+  "datum": "Freitag, 26. Juni 2026",
+  "date_key": "20260626",
+  "changes": [
+   "Std 3 (09:40): Aufsicht Vorbereitung mdl. Prüfungen",
+   "Std 4 (10:25): Aufsicht Vorbereitung mdl. Prüfungen",
+   "Std 5 (11:40): für Ge Gol",
+   "Std 6 (12:25): für Ge Gol",
+   "Std 7 (13:40): ge1 12A-12E fällt aus",
+   "Std 8 (14:25): ge1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "26.06.2026, 11:37"
+ },
+ {
+  "timestamp": "2026-06-26T11:21:11.423065",
+  "lehrer": "Hofm",
+  "datum": "Freitag, 26. Juni 2026",
+  "date_key": "20260626",
+  "changes": [
+   "Std 1 (07:40): für Phil Hofm",
+   "Std 2 (08:25): für Phil Hofm",
+   "Std 3 (09:40): En 7B statt Mi (24.06.) St.1",
+   "Std 4 (10:25): En 7B statt Mi (24.06.) St.2",
+   "Std 5 (11:40): En 8C gehalten am Mo (22.06.) St.3",
+   "Std 5 (11:40): En 8C statt Mi (24.06.) St.5; En 8C gehalten am Mo (22.06.) St.3",
+   "Std 6 (12:25): En 8C gehalten am Mo (22.06.) St.4",
+   "Std 6 (12:25): En 8C statt Mi (24.06.) St.6; En 8C gehalten am Mo (22.06.) St.4"
+  ],
+  "zeitstempel": "26.06.2026, 11:37"
+ },
+ {
+  "timestamp": "2026-06-26T11:21:11.423065",
+  "lehrer": "Isb",
+  "datum": "Freitag, 26. Juni 2026",
+  "date_key": "20260626",
+  "changes": [
+   "Std 1 (07:40): En 10C fällt aus",
+   "Std 2 (08:25): En 10C fällt aus",
+   "Std 5 (11:40): für ILZ Kno, Hospitation"
+  ],
+  "zeitstempel": "26.06.2026, 11:37"
+ },
+ {
+  "timestamp": "2026-06-26T11:21:11.423065",
+  "lehrer": "Kno",
+  "datum": "Freitag, 26. Juni 2026",
+  "date_key": "20260626",
+  "changes": [
+   "Std 1 (07:40): De 8C gehalten am Mi (24.06.) St.1 (Hin)",
+   "Std 1 (07:40): mdl. Prüfrungen im Fach Wirtschaft; De 8C gehalten am Mi (24.06.) St.1 (Hin)",
+   "Std 2 (08:25): De 8C gehalten am Mi (24.06.) St.2 (Hin)",
+   "Std 2 (08:25): mdl. Prüfrungen im Fach Wirtschaft; De 8C gehalten am Mi (24.06.) St.2 (Hin)",
+   "Std 3 (09:40): Ch 7B gehalten am Di (23.06.) St.1",
+   "Std 3 (09:40): mdl. Prüfrungen im Fach Wirtschaft; Ch 7B gehalten am Di (23.06.) St.1 (Kno)",
+   "Std 4 (10:25): Ch 7B gehalten am Di (23.06.) St.2",
+   "Std 4 (10:25): mdl. Prüfrungen im Fach Wirtschaft; Ch 7B gehalten am Di (23.06.) St.2 (Kno)",
+   "Std 5 (11:40): Ge 7E Isb (für ILZ), Hospitation",
+   "Std 6 (12:25): für KL Kno"
+  ],
+  "zeitstempel": "26.06.2026, 11:37"
+ },
+ {
+  "timestamp": "2026-06-26T11:21:11.423065",
+  "lehrer": "Stu",
+  "datum": "Freitag, 26. Juni 2026",
+  "date_key": "20260626",
+  "changes": [
+   "Std 1 (07:40): B VK2 fällt aus",
+   "Std 2 (08:25): B VK2 fällt aus",
+   "Std 5 (11:40): für Sp Bod",
+   "Std 6 (12:25): für Sp Bod"
+  ],
+  "zeitstempel": "26.06.2026, 11:37"
  }
 ]
