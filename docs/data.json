@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "25.06.2026, 23:03 Uhr",
- "last_changed": "2026-06-25T15:26:00",
+ "generiert": "26.06.2026, 08:27 Uhr",
+ "last_changed": "2026-06-26T10:24:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -23158,7 +23158,7 @@
     },
     "20260626": {
      "datum": "Freitag, 26. Juni 2026",
-     "zeitstempel": "25.06.2026, 15:26",
+     "zeitstempel": "26.06.2026, 10:24",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23619,17 +23619,17 @@
          "stunde": "5",
          "fach": "Ge",
          "klasse": "7B",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "raum": "K12",
+         "info": "für Ge Gol",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Ge",
          "klasse": "7B",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "raum": "K12",
+         "info": "für Ge Gol",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -24116,7 +24116,7 @@
          "stunde": "5",
          "fach": "Ge",
          "klasse": "7E",
-         "raum": "105",
+         "raum": "K07",
          "info": "für ILZ Kno, Hospitation",
          "geaendert": true
         }
@@ -24309,7 +24309,7 @@
          "stunde": "6",
          "fach": "KL",
          "klasse": "7E",
-         "raum": "105",
+         "raum": "K07",
          "info": "für KL Kno",
          "geaendert": true
         },
