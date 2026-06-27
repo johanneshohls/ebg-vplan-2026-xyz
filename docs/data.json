@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "27.06.2026, 14:09 Uhr",
- "last_changed": "2026-06-26T11:37:00",
+ "generiert": "27.06.2026, 15:36 Uhr",
+ "last_changed": "2026-06-27T16:54:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -25614,7 +25614,7 @@
    "tage": {
     "20260629": {
      "datum": "Montag, 29. Juni 2026",
-     "zeitstempel": "23.06.2026, 15:26",
+     "zeitstempel": "27.06.2026, 16:54",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -25654,8 +25654,8 @@
          "stunde": "7",
          "fach": "Mu",
          "klasse": "8C",
-         "raum": "107",
-         "info": "Mu 8C statt Di (30.06.) St.3; mue1 12A-12E fällt aus",
+         "raum": "Aula",
+         "info": "Mu 8C statt Di (30.06.) St.3, Raumtausch aufgrund Verletzung; Aula für Podiumsdiskussion gesperrt!; mue1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -25670,7 +25670,7 @@
          "stunde": "8",
          "fach": "Mu",
          "klasse": "8C",
-         "raum": "107",
+         "raum": "Aula",
          "info": "Mu 8C statt Di (30.06.) St.4; mue1 12A-12E fällt aus",
          "geaendert": true
         }
@@ -26692,7 +26692,7 @@
          "stunde": "3",
          "fach": "De",
          "klasse": "8C",
-         "raum": "107",
+         "raum": "Co1",
          "info": "für De Jur",
          "geaendert": true
         },
@@ -26700,7 +26700,7 @@
          "stunde": "4",
          "fach": "De",
          "klasse": "8C",
-         "raum": "107",
+         "raum": "Co1",
          "info": "für De Jur",
          "geaendert": true
         },
@@ -26716,7 +26716,7 @@
          "stunde": "5",
          "fach": "De",
          "klasse": "8C",
-         "raum": "105",
+         "raum": "Co1",
          "info": "De 8C statt Mi (01.07.) St.5; Phil 10C fällt aus",
          "geaendert": true
         },
@@ -26732,7 +26732,7 @@
          "stunde": "6",
          "fach": "De",
          "klasse": "8C",
-         "raum": "105",
+         "raum": "Co1",
          "info": "De 8C statt Mi (01.07.) St.6; Phil 10C fällt aus",
          "geaendert": true
         }
@@ -27372,7 +27372,7 @@
          "stunde": "1",
          "fach": "Ma",
          "klasse": "8C",
-         "raum": "107",
+         "raum": "Co1",
          "info": "für Ma Roh",
          "geaendert": true
         },
@@ -27380,7 +27380,7 @@
          "stunde": "2",
          "fach": "Ma",
          "klasse": "8C",
-         "raum": "107",
+         "raum": "Co1",
          "info": "für Ma Roh",
          "geaendert": true
         },
@@ -27758,7 +27758,7 @@
          "stunde": "5",
          "fach": "De",
          "klasse": "7E",
-         "raum": "Co1",
+         "raum": "Co2",
          "info": "De 7E statt Di (30.06.) St.1",
          "geaendert": true
         },
@@ -27766,7 +27766,7 @@
          "stunde": "6",
          "fach": "De",
          "klasse": "7E",
-         "raum": "Co1",
+         "raum": "Co2",
          "info": "De 7E statt Di (30.06.) St.2",
          "geaendert": true
         },
@@ -27950,7 +27950,7 @@
     },
     "20260630": {
      "datum": "Dienstag, 30. Juni 2026",
-     "zeitstempel": "23.06.2026, 14:39",
+     "zeitstempel": "27.06.2026, 16:54",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -28049,7 +28049,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Mu 8C gehalten am Mo (29.06.) St.7",
+         "info": "Mu 8C gehalten am Mo (29.06.) St.7, Raumtausch aufgrund Verletzung; Aula für Podiumsdiskussion gesperrt!",
          "geaendert": true
         },
         {
@@ -28775,7 +28775,7 @@
          "stunde": "1",
          "fach": "En",
          "klasse": "8C",
-         "raum": "105",
+         "raum": "Co1",
          "info": "für En Hofm",
          "geaendert": true
         },
@@ -28783,7 +28783,7 @@
          "stunde": "2",
          "fach": "En",
          "klasse": "8C",
-         "raum": "105",
+         "raum": "Co1",
          "info": "für En Hofm",
          "geaendert": true
         },
@@ -29636,7 +29636,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 8C verlegt nach Do (02.07.) St.5, Ganze 8c zu OLop",
+         "info": "De 8C verlegt nach Do (02.07.) St.5 (Tuh)",
          "geaendert": true
         },
         {
@@ -29644,7 +29644,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 8C verlegt nach Do (02.07.) St.6, Ganze 8c zu OLop",
+         "info": "De 8C verlegt nach Do (02.07.) St.6 (Tuh)",
          "geaendert": true
         }
        ],
@@ -29852,17 +29852,17 @@
          "stunde": "7",
          "fach": "Ku",
          "klasse": "8C",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1",
+         "info": "für Ku Rat, Raumtausch aufgrund Verletzung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "Ku",
          "klasse": "8C",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1",
+         "info": "für Ku Rat, Raumtausch aufgrund Verletzung",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -30042,7 +30042,7 @@
          "stunde": "3",
          "fach": "Ge",
          "klasse": "8C",
-         "raum": "008",
+         "raum": "Co1",
          "info": "Ge 8C statt Mo (29.06.) St.7; Ge 7D verlegt nach Do (02.07.) St.3",
          "geaendert": true
         },
@@ -30058,7 +30058,7 @@
          "stunde": "4",
          "fach": "Ge",
          "klasse": "8C",
-         "raum": "008",
+         "raum": "Co1",
          "info": "Ge 8C statt Mo (29.06.) St.8; Ge 7D verlegt nach Do (02.07.) St.4",
          "geaendert": true
         },
@@ -30363,17 +30363,17 @@
          "stunde": "1",
          "fach": "EN1",
          "klasse": "11A-11D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "102",
+         "info": "für En Wag",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "EN1",
          "klasse": "11A-11D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "raum": "102",
+         "info": "für En Wag",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -30414,7 +30414,7 @@
     },
     "20260701": {
      "datum": "Mittwoch, 01. Juli 2026",
-     "zeitstempel": "23.06.2026, 14:39",
+     "zeitstempel": "27.06.2026, 16:54",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -31487,7 +31487,7 @@
          "stunde": "5",
          "fach": "Ma",
          "klasse": "8C",
-         "raum": "205",
+         "raum": "Co1",
          "info": "statt Mo (29.06.) St.5 (Ph Roh)",
          "geaendert": true
         },
@@ -31495,7 +31495,7 @@
          "stunde": "6",
          "fach": "Ma",
          "klasse": "8C",
-         "raum": "205",
+         "raum": "Co1",
          "info": "statt Mo (29.06.) St.6 (Ph Roh)",
          "geaendert": true
         }
@@ -32322,17 +32322,17 @@
          "stunde": "3",
          "fach": "Ma",
          "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1",
+         "info": "für Ma Roh",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Ma",
          "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1",
+         "info": "für Ma Roh",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -32481,7 +32481,7 @@
          "stunde": "5",
          "fach": "ILZ",
          "klasse": "12E,12C",
-         "raum": "Co1",
+         "raum": "002",
          "info": "Verkündung Gesamtqualifikation 12:15, danach Stellprobe Kirche",
          "geaendert": true
         },
@@ -32489,7 +32489,7 @@
          "stunde": "6",
          "fach": "ILZ",
          "klasse": "12E,12C",
-         "raum": "Co1",
+         "raum": "002",
          "info": "Verkündung Gesamtqualifikation 12:15, danach Stellprobe Kirche",
          "geaendert": true
         },
@@ -32783,7 +32783,7 @@
     },
     "20260702": {
      "datum": "Donnerstag, 02. Juli 2026",
-     "zeitstempel": "23.06.2026, 14:39",
+     "zeitstempel": "27.06.2026, 16:54",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -33006,7 +33006,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sp 7B Hin",
+         "info": "Sp 7B Stu",
          "geaendert": true
         },
         {
@@ -33014,7 +33014,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sp 7B Hin",
+         "info": "Sp 7B Stu",
          "geaendert": true
         }
        ],
@@ -33519,16 +33519,16 @@
          "stunde": "7",
          "fach": "Sp",
          "klasse": "7B",
-         "raum": "Tu2",
-         "info": "für Sp Bod",
+         "raum": "",
+         "info": "",
          "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "Sp",
          "klasse": "7B",
-         "raum": "Tu2",
-         "info": "für Sp Bod",
+         "raum": "",
+         "info": "",
          "geaendert": true
         }
        ],
@@ -34275,19 +34275,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Sp",
-         "klasse": "8C",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8C Stu",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Sp",
-         "klasse": "8C",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8C Stu",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -34307,18 +34307,18 @@
         },
         {
          "stunde": "7",
-         "fach": "Sp",
-         "klasse": "7B",
-         "raum": "Tu2",
-         "info": "für Sp Bod",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7B Stu",
          "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Sp",
-         "klasse": "7B",
-         "raum": "Tu2",
-         "info": "für Sp Bod",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7B Stu",
          "geaendert": true
         }
        ],
@@ -34336,34 +34336,18 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "4",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "007",
-         "info": "Span 8C statt Di (30.06.) St.5, Ganze 8c zu OLop",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 8C Pri (für Span)",
          "geaendert": true
         },
         {
-         "stunde": "6",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "007",
-         "info": "Span 8C statt Di (30.06.) St.6, Ganze 8c zu OLop",
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 8C Pri (für Span)",
          "geaendert": true
         }
        ],
@@ -34456,11 +34440,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Ge",
+         "klasse": "8C",
+         "raum": "Co1",
+         "info": "für Span OLop",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ge 10B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ge",
+         "klasse": "8C",
+         "raum": "Co1",
+         "info": "für Span OLop",
          "geaendert": true
         },
         {
@@ -34808,7 +34808,40 @@
        ]
       },
       "Stu": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Sp",
+         "klasse": "8C",
+         "raum": "Tu1",
+         "info": "für Sp Mue",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Sp",
+         "klasse": "8C",
+         "raum": "Tu1",
+         "info": "für Sp Mue",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Sp",
+         "klasse": "7B",
+         "raum": "Tu2",
+         "info": "für Sp Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Sp",
+         "klasse": "7B",
+         "raum": "Tu2",
+         "info": "für Sp Bod",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Ten": {
@@ -34977,6 +35010,22 @@
          "raum": "008",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "8C",
+         "raum": "Co1",
+         "info": "statt Di (30.06.) St.5 (Span OLop)",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "8C",
+         "raum": "Co1",
+         "info": "statt Di (30.06.) St.6 (Span OLop)",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -35058,7 +35107,7 @@
     },
     "20260703": {
      "datum": "Freitag, 03. Juli 2026",
-     "zeitstempel": "23.06.2026, 14:39",
+     "zeitstempel": "27.06.2026, 16:54",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -35225,7 +35274,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sp 8B Stu",
+         "info": "De 8B Ost (für Sp)",
          "geaendert": true
         },
         {
@@ -35233,7 +35282,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sp 8B Stu",
+         "info": "De 8B Ost (für Sp)",
          "geaendert": true
         }
        ],
@@ -35531,17 +35580,17 @@
          "stunde": "3",
          "fach": "Sk",
          "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1",
+         "info": "für Sk Gor",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Sk",
          "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1",
+         "info": "für Sk Gor",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -35676,17 +35725,17 @@
          "stunde": "1",
          "fach": "En",
          "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1",
+         "info": "für En Hofm",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "En",
          "klasse": "8C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1",
+         "info": "für En Hofm",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -35953,17 +36002,17 @@
          "stunde": "5",
          "fach": "ILZ",
          "klasse": "8C",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1",
+         "info": "für ILZ Jur",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "ILZ",
          "klasse": "8C",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1",
+         "info": "für ILZ Jur",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -36394,19 +36443,19 @@
         },
         {
          "stunde": "5",
-         "fach": "Sp",
+         "fach": "Geo",
          "klasse": "8A",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "raum": "007",
+         "info": "für Sp Mue, Bitte überlege dir etwas nettes zum Abschluss für die ganze Klasse.",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Sp",
+         "fach": "Geo",
          "klasse": "8A",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "raum": "007",
+         "info": "für Sp Mue, Bitte überlege dir etwas nettes zum Abschluss für die ganze Klasse.",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -36505,6 +36554,22 @@
          "raum": "006",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "8B",
+         "raum": "Co2",
+         "info": "für Sp Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "8B",
+         "raum": "Co2",
+         "info": "für Sp Bod",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -36894,22 +36959,6 @@
          "klasse": "",
          "raum": "",
          "info": "B VK2 fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "Sp",
-         "klasse": "8B",
-         "raum": "Tu3",
-         "info": "für Sp Bod",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Sp",
-         "klasse": "8B",
-         "raum": "Tu3",
-         "info": "für Sp Bod",
          "geaendert": true
         }
        ],
