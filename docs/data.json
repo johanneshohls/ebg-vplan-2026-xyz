@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "28.06.2026, 14:09 Uhr",
- "last_changed": "2026-06-27T16:54:00",
+ "generiert": "28.06.2026, 15:37 Uhr",
+ "last_changed": "2026-06-28T16:31:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -25614,7 +25614,7 @@
    "tage": {
     "20260629": {
      "datum": "Montag, 29. Juni 2026",
-     "zeitstempel": "27.06.2026, 16:54",
+     "zeitstempel": "28.06.2026, 16:31",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -26640,11 +26640,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "En",
+         "klasse": "7E",
+         "raum": "K07",
+         "info": "statt Do (02.07.) St.3 (En Mar); En 10C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "En 10C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "En",
+         "klasse": "7E",
+         "raum": "K07",
+         "info": "statt Do (02.07.) St.4 (En Mar); En 10C fällt aus",
          "geaendert": true
         }
        ],
@@ -26748,6 +26764,22 @@
       },
       "Käc": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "statt Di (30.06.) St.1 (Ma Mar), Aufgaben mit Herrn Marski absprechen - alternativ Bri fragen ;-)",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "statt Di (30.06.) St.2 (Ma Mar)",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "---",
@@ -27026,14 +27058,6 @@
          "geaendert": true
         },
         {
-         "stunde": "1",
-         "fach": "En",
-         "klasse": "7E",
-         "raum": "K07",
-         "info": "En 7E statt Do (02.07.) St.3; En 10C fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -27042,59 +27066,35 @@
          "geaendert": true
         },
         {
-         "stunde": "2",
-         "fach": "En",
-         "klasse": "7E",
-         "raum": "K07",
-         "info": "En 7E statt Do (02.07.) St.4; En 10C fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "3",
-         "fach": "Ma",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "Ma 8B statt Di (30.06.) St.1",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Ma",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "Ma 8B statt Di (30.06.) St.2",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
-         "fach": "en1",
-         "klasse": "11A-11D",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11A-11D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "en1",
-         "klasse": "11A-11D",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11A-11D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "En",
-         "klasse": "8A",
-         "raum": "002",
-         "info": "für En Mar",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
          "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "En",
-         "klasse": "8A",
-         "raum": "002",
-         "info": "für En Mar",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
          "geaendert": true
         }
        ],
@@ -27103,7 +27103,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Essenraum und Keller",
-         "info": ""
+         "info": "entfällt, V: Roh"
         }
        ]
       },
@@ -27433,7 +27433,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Essenraum und Keller",
+         "info": "für Mar"
+        }
+       ]
       },
       "Scheu": {
        "entries": [],
