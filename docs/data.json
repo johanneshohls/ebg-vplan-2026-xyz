@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "29.06.2026, 09:24 Uhr",
- "last_changed": "2026-06-28T16:31:00",
+ "generiert": "29.06.2026, 13:48 Uhr",
+ "last_changed": "2026-06-29T13:31:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16506,7 +16506,7 @@
     },
     "20260630": {
      "datum": "Dienstag, 30. Juni 2026",
-     "zeitstempel": "27.06.2026, 16:54",
+     "zeitstempel": "29.06.2026, 13:24",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -18094,7 +18094,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 8B gehalten am Mo (29.06.) St.3",
+         "info": "Ma 8B gehalten am Mo (29.06.) St.3 (Käc), Aufgaben mit Herrn Marski absprechen - alternativ Bri fragen ;-)",
          "geaendert": true
         },
         {
@@ -18102,7 +18102,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 8B gehalten am Mo (29.06.) St.4",
+         "info": "Ma 8B gehalten am Mo (29.06.) St.4 (Käc)",
          "geaendert": true
         }
        ],
@@ -18192,7 +18192,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 8C verlegt nach Do (02.07.) St.5 (Tuh)",
+         "info": "De 8C verlegt nach Do (02.07.) St.5 (Eul)",
          "geaendert": true
         },
         {
@@ -18200,7 +18200,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 8C verlegt nach Do (02.07.) St.6 (Tuh)",
+         "info": "De 8C verlegt nach Do (02.07.) St.6 (Eul)",
          "geaendert": true
         }
        ],
@@ -18970,7 +18970,7 @@
     },
     "20260701": {
      "datum": "Mittwoch, 01. Juli 2026",
-     "zeitstempel": "27.06.2026, 16:54",
+     "zeitstempel": "29.06.2026, 13:24",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -21339,7 +21339,7 @@
     },
     "20260702": {
      "datum": "Donnerstag, 02. Juli 2026",
-     "zeitstempel": "27.06.2026, 16:54",
+     "zeitstempel": "29.06.2026, 13:24",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -21704,11 +21704,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "8C",
+         "raum": "Co1",
+         "info": "statt Di (30.06.) St.5 (Span OLop); eRe 9B fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "eRe 9B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "8C",
+         "raum": "Co1",
+         "info": "statt Di (30.06.) St.6 (Span OLop); eRe 9B fällt aus",
          "geaendert": true
         }
        ],
@@ -22749,7 +22765,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 7E gehalten am Mo (29.06.) St.1",
+         "info": "En 7E gehalten am Mo (29.06.) St.1 (Isb)",
          "geaendert": true
         },
         {
@@ -22757,7 +22773,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "101",
-         "info": "Bücherabgabe; En 7E gehalten am Mo (29.06.) St.1 (Mar)",
+         "info": "Bücherabgabe; En 7E gehalten am Mo (29.06.) St.1 (Isb)",
          "geaendert": true
         },
         {
@@ -22765,7 +22781,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 7E gehalten am Mo (29.06.) St.2",
+         "info": "En 7E gehalten am Mo (29.06.) St.2 (Isb)",
          "geaendert": true
         },
         {
@@ -22773,7 +22789,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "101",
-         "info": "Bücherabgabe; En 7E gehalten am Mo (29.06.) St.2 (Mar)",
+         "info": "Bücherabgabe; En 7E gehalten am Mo (29.06.) St.2 (Isb)",
          "geaendert": true
         },
         {
@@ -23553,34 +23569,18 @@
         },
         {
          "stunde": "3",
-         "fach": "de1",
-         "klasse": "11A-11D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "4",
-         "fach": "de1",
-         "klasse": "11A-11D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "De",
-         "klasse": "8C",
-         "raum": "Co1",
-         "info": "statt Di (30.06.) St.5 (Span OLop)",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, Fr. Tuhcic erteilt Aufgaben",
          "geaendert": true
         },
         {
-         "stunde": "6",
-         "fach": "De",
-         "klasse": "8C",
-         "raum": "Co1",
-         "info": "statt Di (30.06.) St.6 (Span OLop)",
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11D selbst. (v), Selbststudium, Fr. Tuhcic erteilt Aufgaben",
          "geaendert": true
         }
        ],
@@ -23663,25 +23663,25 @@
     },
     "20260703": {
      "datum": "Freitag, 03. Juli 2026",
-     "zeitstempel": "27.06.2026, 16:54",
+     "zeitstempel": "29.06.2026, 13:31",
      "lehrer": {
       "Bar": {
        "entries": [
         {
          "stunde": "3",
-         "fach": "inf1",
-         "klasse": "11A-11D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 11A-11D selbst. (v), Selbststudium, Hr. Barth erteilt Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "inf1",
-         "klasse": "11A-11D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 11A-11D selbst. (v), Selbststudium, Hr. Barth erteilt Aufgaben",
+         "geaendert": true
         }
        ],
        "aufsichten": []

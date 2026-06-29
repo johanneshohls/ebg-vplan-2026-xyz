@@ -1,18 +1,5 @@
 [
  {
-  "timestamp": "2026-06-22T10:34:58.039839",
-  "lehrer": "Ter",
-  "datum": "Mittwoch, 24. Juni 2026",
-  "date_key": "20260624",
-  "changes": [
-   "Std 3 (09:40): DSp 11A-11D selbst. (v), Aufsgleich für Theaterbesuch",
-   "Std 4 (10:25): DSp 11A-11D selbst. (v), Aufsgleich für Theaterbesuch",
-   "Std 5 (11:40): De 7E statt Di (23.06.) St.1",
-   "Std 6 (12:25): De 7E statt Di (23.06.) St.2"
-  ],
-  "zeitstempel": "22.06.2026, 09:46"
- },
- {
   "timestamp": "2026-06-22T15:36:17.686223",
   "lehrer": "Mar",
   "datum": "Dienstag, 23. Juni 2026",
@@ -1159,5 +1146,89 @@
    "Std 8 (14:25): En 8A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
   ],
   "zeitstempel": "28.06.2026, 16:31"
+ },
+ {
+  "timestamp": "2026-06-29T13:48:23.356375",
+  "lehrer": "Mar",
+  "datum": "Dienstag, 30. Juni 2026",
+  "date_key": "20260630",
+  "changes": [
+   "Std 1 (07:40): Ma 8B gehalten am Mo (29.06.) St.3 (Käc), Aufgaben mit Herrn Marski absprechen - alternativ Bri fragen ;-)",
+   "Std 2 (08:25): Ma 8B gehalten am Mo (29.06.) St.4 (Käc)"
+  ],
+  "zeitstempel": "29.06.2026, 13:24"
+ },
+ {
+  "timestamp": "2026-06-29T13:48:23.356375",
+  "lehrer": "OLop",
+  "datum": "Dienstag, 30. Juni 2026",
+  "date_key": "20260630",
+  "changes": [
+   "Std 1 (07:40): span1 12A-12E fällt aus",
+   "Std 2 (08:25): span1 12A-12E fällt aus",
+   "Std 3 (09:40): Span 10C fällt aus",
+   "Std 4 (10:25): Span 10C fällt aus",
+   "Std 5 (11:40): De 8C verlegt nach Do (02.07.) St.5 (Eul)",
+   "Std 6 (12:25): De 8C verlegt nach Do (02.07.) St.6 (Eul)"
+  ],
+  "zeitstempel": "29.06.2026, 13:24"
+ },
+ {
+  "timestamp": "2026-06-29T13:48:23.356375",
+  "lehrer": "Eul",
+  "datum": "Donnerstag, 02. Juli 2026",
+  "date_key": "20260702",
+  "changes": [
+   "Std 5 (11:40): eRe 9B fällt aus",
+   "Std 5 (11:40): statt Di (30.06.) St.5 (Span OLop); eRe 9B fällt aus",
+   "Std 6 (12:25): eRe 9B fällt aus",
+   "Std 6 (12:25): statt Di (30.06.) St.6 (Span OLop); eRe 9B fällt aus"
+  ],
+  "zeitstempel": "29.06.2026, 13:24"
+ },
+ {
+  "timestamp": "2026-06-29T13:48:23.356375",
+  "lehrer": "Mar",
+  "datum": "Donnerstag, 02. Juli 2026",
+  "date_key": "20260702",
+  "changes": [
+   "Std 1 (07:40): Bücherabgabe",
+   "Std 2 (08:25): Bücherabgabe",
+   "Std 3 (09:40): En 7E gehalten am Mo (29.06.) St.1 (Isb)",
+   "Std 3 (09:40): Bücherabgabe; En 7E gehalten am Mo (29.06.) St.1 (Isb)",
+   "Std 4 (10:25): En 7E gehalten am Mo (29.06.) St.2 (Isb)",
+   "Std 4 (10:25): Bücherabgabe; En 7E gehalten am Mo (29.06.) St.2 (Isb)",
+   "Std 5 (11:40): En 10C fällt aus",
+   "Std 5 (11:40): Bücherabgabe; En 10C fällt aus",
+   "Std 6 (12:25): En 10C fällt aus",
+   "Std 6 (12:25): Bücherabgabe; En 10C fällt aus",
+   "Std 7 (13:40): Bücherabgabe",
+   "Std 8 (14:25): Bücherabgabe"
+  ],
+  "zeitstempel": "29.06.2026, 13:24"
+ },
+ {
+  "timestamp": "2026-06-29T13:48:23.356375",
+  "lehrer": "Tuh",
+  "datum": "Donnerstag, 02. Juli 2026",
+  "date_key": "20260702",
+  "changes": [
+   "Std 1 (07:40): De 9C fällt aus",
+   "Std 2 (08:25): De 9C fällt aus",
+   "Std 3 (09:40): De 11A-11D selbst. (v), Selbststudium, Fr. Tuhcic erteilt Aufgaben",
+   "Std 4 (10:25): De 11A-11D selbst. (v), Selbststudium, Fr. Tuhcic erteilt Aufgaben"
+  ],
+  "zeitstempel": "29.06.2026, 13:24"
+ },
+ {
+  "timestamp": "2026-06-29T13:48:23.356375",
+  "lehrer": "Bar",
+  "datum": "Freitag, 03. Juli 2026",
+  "date_key": "20260703",
+  "changes": [
+   "Std 3 (09:40): Inf 11A-11D selbst. (v), Selbststudium, Hr. Barth erteilt Aufgaben",
+   "Std 4 (10:25): Inf 11A-11D selbst. (v), Selbststudium, Hr. Barth erteilt Aufgaben"
+  ],
+  "zeitstempel": "29.06.2026, 13:31"
  }
 ]
