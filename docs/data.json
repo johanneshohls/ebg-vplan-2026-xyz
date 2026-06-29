@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "29.06.2026, 13:48 Uhr",
- "last_changed": "2026-06-29T13:31:00",
+ "generiert": "29.06.2026, 16:46 Uhr",
+ "last_changed": "2026-06-29T17:22:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16506,7 +16506,7 @@
     },
     "20260630": {
      "datum": "Dienstag, 30. Juni 2026",
-     "zeitstempel": "29.06.2026, 13:24",
+     "zeitstempel": "29.06.2026, 17:22",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -16565,19 +16565,19 @@
         },
         {
          "stunde": "7",
-         "fach": "ph1",
-         "klasse": "11A-11D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ph1 11A-11D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ph1",
-         "klasse": "11A-11D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ph1 11A-11D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16724,19 +16724,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Ch",
-         "klasse": "8B",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 8B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ch",
-         "klasse": "8B",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 8B fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -16874,19 +16874,19 @@
         },
         {
          "stunde": "7",
-         "fach": "ma2",
-         "klasse": "11A-11D",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ma2 11A-11D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ma2",
-         "klasse": "11A-11D",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ma2 11A-11D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -17594,27 +17594,11 @@
          "geaendert": true
         },
         {
-         "stunde": "7",
-         "fach": "Ph",
-         "klasse": "7B",
-         "raum": "K12",
-         "info": "Ph 7B statt Mo (29.06.) St.5; Clu11 10A-10D,9A-9D fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "8",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Clu11 10A-10D,9A-9D fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Ph",
-         "klasse": "7B",
-         "raum": "K12",
-         "info": "Ph 7B statt Mo (29.06.) St.6; Clu11 10A-10D,9A-9D fällt aus",
          "geaendert": true
         }
        ],
@@ -18249,19 +18233,19 @@
         },
         {
          "stunde": "7",
-         "fach": "bio2",
-         "klasse": "11A-11D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "bio2 11A-11D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "bio2",
-         "klasse": "11A-11D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "bio2 11A-11D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -18406,18 +18390,18 @@
         },
         {
          "stunde": "7",
-         "fach": "Ku",
-         "klasse": "8C",
-         "raum": "Co1",
-         "info": "für Ku Rat, Raumtausch aufgrund Verletzung",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 8C fällt aus",
          "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ku",
-         "klasse": "8C",
-         "raum": "Co1",
-         "info": "für Ku Rat, Raumtausch aufgrund Verletzung",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 8C fällt aus",
          "geaendert": true
         }
        ],
@@ -18836,19 +18820,19 @@
         },
         {
          "stunde": "7",
-         "fach": "ge2",
-         "klasse": "11A-11D",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ge2 11A-11D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ge2",
-         "klasse": "11A-11D",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ge2 11A-11D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [

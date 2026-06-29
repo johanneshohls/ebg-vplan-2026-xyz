@@ -1,52 +1,5 @@
 [
  {
-  "timestamp": "2026-06-22T15:36:17.686223",
-  "lehrer": "Mar",
-  "datum": "Dienstag, 23. Juni 2026",
-  "date_key": "20260623",
-  "changes": [
-   "Std 1 (07:40): für En Mar",
-   "Std 2 (08:25): für En Mar",
-   "Std 3 (09:40): für En Mar, Klassenarbeit, nicht verschieben",
-   "Std 4 (10:25): für En Mar",
-   "Std 5 (11:40): En 10C fällt aus",
-   "Std 5 (11:40): mdl. Nachprüfung Englisch 10b; VB 006; En 10C fällt aus",
-   "Std 6 (12:25): En 10C fällt aus",
-   "Std 6 (12:25): mdl. Nachprüfung Englisch 10b; VB 006; En 10C fällt aus"
-  ],
-  "zeitstempel": "22.06.2026, 14:49"
- },
- {
-  "timestamp": "2026-06-22T15:36:17.686223",
-  "lehrer": "Pri",
-  "datum": "Dienstag, 23. Juni 2026",
-  "date_key": "20260623",
-  "changes": [
-   "Std 3 (09:40): EN1 12A-12E fällt aus",
-   "Std 3 (09:40): Ge 7E statt Mi (24.06.) St.5; EN1 12A-12E fällt aus",
-   "Std 4 (10:25): EN1 12A-12E fällt aus",
-   "Std 4 (10:25): Ge 7E statt Mi (24.06.) St.6; EN1 12A-12E fällt aus",
-   "Std 5 (11:40): mdl. Nachprüfung Englisch 10b; VB 006",
-   "Std 6 (12:25): mdl. Nachprüfung Englisch 10b; VB 006"
-  ],
-  "zeitstempel": "22.06.2026, 14:49"
- },
- {
-  "timestamp": "2026-06-22T15:36:17.686223",
-  "lehrer": "Tie",
-  "datum": "Dienstag, 23. Juni 2026",
-  "date_key": "20260623",
-  "changes": [
-   "Std 3 (09:40): De 8D statt Mo (22.06.) St.5",
-   "Std 4 (10:25): De 8D statt Mo (22.06.) St.6",
-   "Std 5 (11:40): Aufsicht Vorbereitung mdl. Prüfungen",
-   "Std 6 (12:25): Aufsicht Vorbereitung mdl. Prüfungen",
-   "Std 7 (13:40): für Ge Tie",
-   "Std 8 (14:25): für Ge Tie"
-  ],
-  "zeitstempel": "22.06.2026, 14:49"
- },
- {
   "timestamp": "2026-06-22T18:57:19.014704",
   "lehrer": "Bri",
   "datum": "Dienstag, 23. Juni 2026",
@@ -1230,5 +1183,108 @@
    "Std 4 (10:25): Inf 11A-11D selbst. (v), Selbststudium, Hr. Barth erteilt Aufgaben"
   ],
   "zeitstempel": "29.06.2026, 13:31"
+ },
+ {
+  "timestamp": "2026-06-29T16:46:51.105297",
+  "lehrer": "Bes",
+  "datum": "Dienstag, 30. Juni 2026",
+  "date_key": "20260630",
+  "changes": [
+   "Std 5 (11:40): PH1 12A-12E fällt aus",
+   "Std 5 (11:40): PH LK; PH1 12A-12E fällt aus",
+   "Std 6 (12:25): PH1 12A-12E fällt aus",
+   "Std 6 (12:25): PH LK; PH1 12A-12E fällt aus",
+   "Std 7 (13:40): ph1 11A-11D fällt aus",
+   "Std 8 (14:25): ph1 11A-11D fällt aus"
+  ],
+  "zeitstempel": "29.06.2026, 17:22"
+ },
+ {
+  "timestamp": "2026-06-29T16:46:51.105297",
+  "lehrer": "Bob",
+  "datum": "Dienstag, 30. Juni 2026",
+  "date_key": "20260630",
+  "changes": [
+   "Std 1 (07:40): Ch 9C fällt aus",
+   "Std 1 (07:40): Ch 7E statt Mi (01.07.) St.1; Ch 9C fällt aus",
+   "Std 2 (08:25): Ch 9C fällt aus",
+   "Std 2 (08:25): Ch 7E statt Mi (01.07.) St.2; Ch 9C fällt aus",
+   "Std 5 (11:40): Ch 7D statt Do (02.07.) St.1",
+   "Std 6 (12:25): Ch 7D statt Do (02.07.) St.2",
+   "Std 7 (13:40): Ch 8B fällt aus",
+   "Std 8 (14:25): Ch 8B fällt aus"
+  ],
+  "zeitstempel": "29.06.2026, 17:22"
+ },
+ {
+  "timestamp": "2026-06-29T16:46:51.105297",
+  "lehrer": "Con",
+  "datum": "Dienstag, 30. Juni 2026",
+  "date_key": "20260630",
+  "changes": [
+   "Std 1 (07:40): inf2 12A-12E fällt aus",
+   "Std 2 (08:25): inf2 12A-12E fällt aus",
+   "Std 7 (13:40): ma2 11A-11D fällt aus",
+   "Std 8 (14:25): ma2 11A-11D fällt aus"
+  ],
+  "zeitstempel": "29.06.2026, 17:22"
+ },
+ {
+  "timestamp": "2026-06-29T16:46:51.105297",
+  "lehrer": "Hun",
+  "datum": "Dienstag, 30. Juni 2026",
+  "date_key": "20260630",
+  "changes": [
+   "Std 3 (09:40): As 9C fällt aus",
+   "Std 4 (10:25): As 9C fällt aus",
+   "Std 7 (13:40): Clu11 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Clu11 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "29.06.2026, 17:22"
+ },
+ {
+  "timestamp": "2026-06-29T16:46:51.105297",
+  "lehrer": "Ost",
+  "datum": "Dienstag, 30. Juni 2026",
+  "date_key": "20260630",
+  "changes": [
+   "Std 5 (11:40): De 8A verlegt nach Mi (01.07.) St.3",
+   "Std 6 (12:25): De 8A verlegt nach Mi (01.07.) St.4",
+   "Std 7 (13:40): bio2 11A-11D fällt aus",
+   "Std 8 (14:25): bio2 11A-11D fällt aus"
+  ],
+  "zeitstempel": "29.06.2026, 17:22"
+ },
+ {
+  "timestamp": "2026-06-29T16:46:51.105297",
+  "lehrer": "Rat",
+  "datum": "Dienstag, 30. Juni 2026",
+  "date_key": "20260630",
+  "changes": [
+   "Std 1 (07:40): eRe 9A fällt aus",
+   "Std 2 (08:25): eRe 9A fällt aus",
+   "Std 5 (11:40): für Ku Rat",
+   "Std 6 (12:25): für Ku Rat",
+   "Std 7 (13:40): Ku 8C fällt aus",
+   "Std 8 (14:25): Ku 8C fällt aus"
+  ],
+  "zeitstempel": "29.06.2026, 17:22"
+ },
+ {
+  "timestamp": "2026-06-29T16:46:51.105297",
+  "lehrer": "Tie",
+  "datum": "Dienstag, 30. Juni 2026",
+  "date_key": "20260630",
+  "changes": [
+   "Std 3 (09:40): De 8D statt Mo (29.06.) St.5",
+   "Std 4 (10:25): De 8D statt Mo (29.06.) St.6",
+   "Std 5 (11:40): De 9A fällt aus",
+   "Std 5 (11:40): Ge 8D statt Mo (29.06.) St.7; De 9A fällt aus",
+   "Std 6 (12:25): De 9A fällt aus",
+   "Std 6 (12:25): Ge 8D statt Mo (29.06.) St.8; De 9A fällt aus",
+   "Std 7 (13:40): ge2 11A-11D fällt aus",
+   "Std 8 (14:25): ge2 11A-11D fällt aus"
+  ],
+  "zeitstempel": "29.06.2026, 17:22"
  }
 ]
