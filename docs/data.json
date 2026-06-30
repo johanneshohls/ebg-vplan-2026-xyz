@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "29.06.2026, 22:42 Uhr",
- "last_changed": "2026-06-29T17:22:00",
+ "generiert": "30.06.2026, 08:27 Uhr",
+ "last_changed": "2026-06-30T08:08:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14163,7 +14163,7 @@
    "tage": {
     "20260629": {
      "datum": "Montag, 29. Juni 2026",
-     "zeitstempel": "28.06.2026, 16:31",
+     "zeitstempel": "30.06.2026, 08:08",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -14570,7 +14570,32 @@
        "aufsichten": []
       },
       "Fech": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "Hausunterricht S. Hamann",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "Hausunterricht S. Hamann",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "Hausunterricht S. Hamann",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Fel": {
@@ -15148,7 +15173,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ph 7B verlegt nach Di (30.06.) St.7",
+         "info": "Ph 7B fällt aus",
          "geaendert": true
         },
         {
@@ -15156,7 +15181,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ph 7B verlegt nach Di (30.06.) St.8",
+         "info": "Ph 7B fällt aus",
          "geaendert": true
         },
         {
@@ -15354,11 +15379,27 @@
          "geaendert": true
         },
         {
+         "stunde": "7",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Hausunterricht S. Hamann; B VK fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "8",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Hausunterricht S. Hamann; B VK fällt aus",
          "geaendert": true
         }
        ],
@@ -16506,7 +16547,7 @@
     },
     "20260630": {
      "datum": "Dienstag, 30. Juni 2026",
-     "zeitstempel": "29.06.2026, 17:22",
+     "zeitstempel": "30.06.2026, 08:08",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -16950,6 +16991,30 @@
       "Fech": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "Hausunterricht S. Hamann",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "Hausunterricht S. Hamann",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "Hausunterricht S. Hamann",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "---",
          "klasse": "",
@@ -17055,7 +17120,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 7A verlegt nach Mi (01.07.) St.5",
+         "info": "Bio 7A verlegt nach Mi (01.07.) St.5, Verlegung aufgrund Fußverletzung",
          "geaendert": true
         },
         {
@@ -17063,7 +17128,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 7A verlegt nach Mi (01.07.) St.6",
+         "info": "Bio 7A verlegt nach Mi (01.07.) St.6, Verlegung aufgrund Fußverletzung",
          "geaendert": true
         },
         {
@@ -17573,17 +17638,17 @@
          "stunde": "5",
          "fach": "Ph",
          "klasse": "7A",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1",
+         "info": "für Ph Hun, Verlegung aufgrund Fußverletzung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Ph",
          "klasse": "7A",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1",
+         "info": "für Ph Hun, Verlegung aufgrund Fußverletzung",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -17809,11 +17874,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Hausunterricht S. Hamann; B VK fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Hausunterricht S. Hamann; B VK fällt aus",
          "geaendert": true
         }
        ],
@@ -18954,7 +19035,7 @@
     },
     "20260701": {
      "datum": "Mittwoch, 01. Juli 2026",
-     "zeitstempel": "29.06.2026, 13:24",
+     "zeitstempel": "30.06.2026, 08:08",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -19454,16 +19535,16 @@
          "stunde": "5",
          "fach": "Bio",
          "klasse": "7A",
-         "raum": "204",
-         "info": "Bio 7A statt Di (30.06.) St.3",
+         "raum": "Co2",
+         "info": "Bio 7A statt Di (30.06.) St.3, Verlegung aufgrund Fußverletzung",
          "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Bio",
          "klasse": "7A",
-         "raum": "204",
-         "info": "Bio 7A statt Di (30.06.) St.4",
+         "raum": "Co2",
+         "info": "Bio 7A statt Di (30.06.) St.4, Verlegung aufgrund Fußverletzung",
          "geaendert": true
         },
         {
@@ -19641,8 +19722,8 @@
          "stunde": "3",
          "fach": "Geo",
          "klasse": "7A",
-         "raum": "107",
-         "info": "Geo 7A statt Do (02.07.) St.3; ILZ 8A verlegt nach St.5",
+         "raum": "Co2",
+         "info": "Geo 7A statt Do (02.07.) St.3, Verlegung aufgrund Fußverletzung; ILZ 8A verlegt nach St.5",
          "geaendert": true
         },
         {
@@ -19657,8 +19738,8 @@
          "stunde": "4",
          "fach": "Geo",
          "klasse": "7A",
-         "raum": "107",
-         "info": "Geo 7A statt Do (02.07.) St.4; ILZ 8A verlegt nach St.6",
+         "raum": "Co2",
+         "info": "Geo 7A statt Do (02.07.) St.4, Verlegung aufgrund Fußverletzung; ILZ 8A verlegt nach St.6",
          "geaendert": true
         },
         {
@@ -20681,7 +20762,7 @@
          "stunde": "5",
          "fach": "ILZ",
          "klasse": "12D",
-         "raum": "Co2",
+         "raum": "005",
          "info": "Verkündung Gesamtqualifikation 12:15, dann Stellprobe Kirche; Ge 7E gehalten am Di (30.06.) St.5 (Pri)",
          "geaendert": true
         },
@@ -20697,7 +20778,7 @@
          "stunde": "6",
          "fach": "ILZ",
          "klasse": "12D",
-         "raum": "Co2",
+         "raum": "005",
          "info": "Verkündung Gesamtqualifikation 12:15, dann Stellprobe Kirche; Ge 7E gehalten am Di (30.06.) St.6 (Pri)",
          "geaendert": true
         },
@@ -21323,7 +21404,7 @@
     },
     "20260702": {
      "datum": "Donnerstag, 02. Juli 2026",
-     "zeitstempel": "29.06.2026, 13:24",
+     "zeitstempel": "30.06.2026, 08:08",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -21947,7 +22028,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Geo 7A gehalten am Mi (01.07.) St.3",
+         "info": "Geo 7A gehalten am Mi (01.07.) St.3, Verlegung aufgrund Fußverletzung",
          "geaendert": true
         },
         {
@@ -21955,7 +22036,7 @@
          "fach": "Fr",
          "klasse": "7A",
          "raum": "002",
-         "info": "Fr 7A statt Fr (03.07.) St.1; Geo 7A gehalten am Mi (01.07.) St.3",
+         "info": "Fr 7A statt Fr (03.07.) St.1; Geo 7A gehalten am Mi (01.07.) St.3, Verlegung aufgrund Fußverletzung",
          "geaendert": true
         },
         {
@@ -21963,7 +22044,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Geo 7A gehalten am Mi (01.07.) St.4",
+         "info": "Geo 7A gehalten am Mi (01.07.) St.4, Verlegung aufgrund Fußverletzung",
          "geaendert": true
         },
         {
@@ -21971,7 +22052,7 @@
          "fach": "Fr",
          "klasse": "7A",
          "raum": "002",
-         "info": "Fr 7A statt Fr (03.07.) St.2; Geo 7A gehalten am Mi (01.07.) St.4",
+         "info": "Fr 7A statt Fr (03.07.) St.2; Geo 7A gehalten am Mi (01.07.) St.4, Verlegung aufgrund Fußverletzung",
          "geaendert": true
         }
        ],
@@ -23647,7 +23728,7 @@
     },
     "20260703": {
      "datum": "Freitag, 03. Juli 2026",
-     "zeitstempel": "29.06.2026, 13:31",
+     "zeitstempel": "30.06.2026, 08:08",
      "lehrer": {
       "Bar": {
        "entries": [
