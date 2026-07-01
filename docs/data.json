@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "01.07.2026, 18:15 Uhr",
- "last_changed": "2026-07-01T11:51:00",
+ "generiert": "01.07.2026, 20:15 Uhr",
+ "last_changed": "2026-07-01T22:01:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -19035,7 +19035,7 @@
     },
     "20260701": {
      "datum": "Mittwoch, 01. Juli 2026",
-     "zeitstempel": "01.07.2026, 11:51",
+     "zeitstempel": "01.07.2026, 22:01",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -21420,7 +21420,7 @@
     },
     "20260702": {
      "datum": "Donnerstag, 02. Juli 2026",
-     "zeitstempel": "30.06.2026, 08:08",
+     "zeitstempel": "01.07.2026, 22:01",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -22243,7 +22243,13 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Hof 1, WC, Container",
-         "info": "entfällt, V: Tuh"
+         "info": "entfällt, V: Ost"
+        },
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Sta"
         }
        ]
       },
@@ -23004,14 +23010,7 @@
          "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Haus, WCs, Caféteria",
-         "info": "für Sta"
-        }
-       ]
+       "aufsichten": []
       },
       "Ost": {
        "entries": [
@@ -23080,7 +23079,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof 1, WC, Container",
+         "info": "für Hofm"
+        }
+       ]
       },
       "Pri": {
        "entries": [
@@ -23456,7 +23462,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": "entfällt, V: OLop"
+         "info": "entfällt, V: Hofm"
         }
        ]
       },
@@ -23665,14 +23671,7 @@
          "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Hof 1, WC, Container",
-         "info": "für Hofm"
-        }
-       ]
+       "aufsichten": []
       },
       "Wag": {
        "entries": [
@@ -23744,7 +23743,7 @@
     },
     "20260703": {
      "datum": "Freitag, 03. Juli 2026",
-     "zeitstempel": "30.06.2026, 08:08",
+     "zeitstempel": "01.07.2026, 22:01",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23961,19 +23960,19 @@
         },
         {
          "stunde": "7",
-         "fach": "MA1",
-         "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MA1 11A-11D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "MA1",
-         "klasse": "11A-11D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MA1 11A-11D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -24002,7 +24001,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Hof2 und grünes Klassenzimmer",
-         "info": "entfällt, V: Hön"
+         "info": "entfällt, V: Mar"
         }
        ]
       },
@@ -24549,29 +24548,22 @@
         },
         {
          "stunde": "7",
-         "fach": "DE1",
-         "klasse": "11A-11D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "DE1 11A-11D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "DE1",
-         "klasse": "11A-11D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "DE1 11A-11D fällt aus",
+         "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Hof2 und grünes Klassenzimmer",
-         "info": "für Con"
-        }
-       ]
+       "aufsichten": []
       },
       "Hun": {
        "entries": [],
@@ -25042,7 +25034,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": "für Con"
+        }
+       ]
       },
       "Mue": {
        "entries": [
@@ -25418,19 +25417,19 @@
         },
         {
          "stunde": "7",
-         "fach": "GE1",
-         "klasse": "11A-11D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GE1 11A-11D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GE1",
-         "klasse": "11A-11D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GE1 11A-11D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
