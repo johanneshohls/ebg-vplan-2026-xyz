@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "30.06.2026, 22:21 Uhr",
- "last_changed": "2026-06-30T08:08:00",
+ "generiert": "01.07.2026, 08:47 Uhr",
+ "last_changed": "2026-07-01T10:23:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -25703,7 +25703,2892 @@
    "kw": 28,
    "montag": "20260706",
    "freitag": "20260710",
-   "tage": {}
+   "tage": {
+    "20260710": {
+     "datum": "Freitag, 10. Juli 2026",
+     "zeitstempel": "01.07.2026, 10:23",
+     "lehrer": {
+      "Bar": {
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "inf3 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "inf3 11A-11D fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Bes": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Ma 7B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Ma 7B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 9B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 9B fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Bir": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 7A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Mu 7A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 7A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Mu 7A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "mue1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "mue1 11A-11D fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Bis": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Bob": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Bod": {
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 10B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 10B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8B fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Bri": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Con": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Epp": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Eul": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 8A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 8A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ere2 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ere2 11A-11D fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Ext 4": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Ext 5": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Fech": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Fel": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 9C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 9C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "9",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 9C fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "1",
+         "uhrzeit": "07:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": ""
+        }
+       ]
+      },
+      "Fer": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Fla": {
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "7C",
+         "raum": "001",
+         "info": "Zeugnisausgabe",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "7C",
+         "raum": "001",
+         "info": "Zeugnisausgabe",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "bio1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "bio1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "9",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7C fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Gol": {
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 7B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 7B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ge1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ge1 12A-12E fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof 1, WC, Container",
+         "info": ""
+        }
+       ]
+      },
+      "Gor": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "sk2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "sk2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 7D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 7D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GE2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GE2 12A-12E fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Abwesenheiten der Oberstufe einpflegen",
+         "info": ""
+        }
+       ]
+      },
+      "Hei": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 7A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Fr 7A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 7A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Fr 7A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 10A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Fr 10A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 10A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Fr 10A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 7A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "Zeugnisausgabe; Geo 7A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 7A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "Zeugnisausgabe; Geo 7A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "9",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 8A fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Her": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "Zeugnisausgabe",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "Zeugnisausgabe",
+         "geaendert": true
+        },
+        {
+         "stunde": "9",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7A fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Hin": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Hofm": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phil 8A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Phil 8A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phil 8A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Phil 8A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "Zeugnisausgabe; En 8C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "Zeugnisausgabe; En 8C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "9",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7B fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Hoh": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Ma 8D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Ma 8D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8D fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Essenraum und Keller",
+         "info": ""
+        }
+       ]
+      },
+      "Hol": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; En 10A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; En 10A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "EN2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; EN2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "EN2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; EN2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "10A",
+         "raum": "104",
+         "info": "Zeugnisausgabe",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "10A",
+         "raum": "104",
+         "info": "Zeugnisausgabe",
+         "geaendert": true
+        },
+        {
+         "stunde": "9",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 10A fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Hön": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "dsp1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "dsp1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "de2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "de2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "9",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 10C fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": ""
+        }
+       ]
+      },
+      "Hun": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Isb": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10C fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Jac": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Jur": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "DE2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; DE2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "DE2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; DE2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "8C",
+         "raum": "008",
+         "info": "Zeugnisausgabe; De 10A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "8C",
+         "raum": "008",
+         "info": "Zeugnisausgabe; De 10A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "9",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 8C fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Käc": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Kar": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "mu1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; mu1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "mu1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; mu1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Kno": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 8C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Ch 8C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 8C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Ch 8C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 7B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Ch 7B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 7B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Ch 7B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "Zeugnisausgabe; ILZ 7E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "7E",
+         "raum": "005",
+         "info": "Zeugnisausgabe; KL 7E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "9",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7E fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Essenraum und Keller",
+         "info": ""
+        }
+       ]
+      },
+      "Köh": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Span 9B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Span 9B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Span 8B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Span 8B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7D fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Lam": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Lan": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "sk1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "sk1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 10C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 10C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "w3 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "w3 11A-11D fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Leu": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ma3 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ma3 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "9",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 10B fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "erst Haus, dann Hof2+GKLZ",
+         "info": ""
+        }
+       ]
+      },
+      "Lie": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Mar": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; En 10C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; En 10C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; En 7E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; En 7E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "en1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "en1 11A-11D fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": ""
+        }
+       ]
+      },
+      "Mue": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Sp 7C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 7C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Sp 7C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8A fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Neu": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Now": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "OLop": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10C fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Ost": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; De 8B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; De 8B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; De 8A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; De 8A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "Zeugnisausgabe",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "Zeugnisausgabe",
+         "geaendert": true
+        },
+        {
+         "stunde": "9",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 8B fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof 1, WC, Container",
+         "info": ""
+        }
+       ]
+      },
+      "Pri": {
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "EN1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "10B",
+         "raum": "102",
+         "info": "Zeugnisausgabe; EN1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "EN1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "10B",
+         "raum": "102",
+         "info": "Zeugnisausgabe; EN1 12A-12E fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Puk": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Span 9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Span 9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Span 8D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Span 8D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "9",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 9D fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": ""
+        }
+       ]
+      },
+      "Rat": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 7C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Ku 7C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 7C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Ku 7C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ere2 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ere2 11A-11D fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Roh": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ph1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; ph1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ph1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; ph1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Ma 9B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; Ma 9B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MA1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MA1 12A-12E fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": ""
+        }
+       ]
+      },
+      "Scheu": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Schil": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; ILZ 10D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 10D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; KL 10D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; De 10D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; De 10D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "DE1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "10D",
+         "raum": "004",
+         "info": "Zeugnisausgabe; DE1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "DE1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "10D",
+         "raum": "004",
+         "info": "Zeugnisausgabe; DE1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "9",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 10D fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof 1, WC, Container",
+         "info": ""
+        }
+       ]
+      },
+      "Schuc": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GE1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; GE1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GE1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; GE1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "phil2 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "phil2 11A-11D fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Schud": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ku1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ku1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 9C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 9C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "9",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 9B fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof2 und grünes Klassenzimmer",
+         "info": ""
+        }
+       ]
+      },
+      "See": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "BIO1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; BIO1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "BIO1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; BIO1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "10C",
+         "raum": "007",
+         "info": "Zeugnisausgabe",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "10C",
+         "raum": "007",
+         "info": "Zeugnisausgabe",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Sei": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Sta": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 10B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7C fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Stu": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "B",
+         "klasse": "VK2",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "B",
+         "klasse": "VK2",
+         "raum": "",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Ten": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Ter": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; De 7E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; De 7E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "BIO2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "BIO2 12A-12E fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Tie": {
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "8D",
+         "raum": "103",
+         "info": "Zeugnisausgabe",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "8D",
+         "raum": "103",
+         "info": "Zeugnisausgabe",
+         "geaendert": true
+        },
+        {
+         "stunde": "9",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 8D fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Tuh": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; KL 7D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; ILZ 7D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "de1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; de1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "de1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": " Schulfest; de1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "7D",
+         "raum": "K07",
+         "info": "Zeugnisausgabe",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "7D",
+         "raum": "K07",
+         "info": "Zeugnisausgabe",
+         "geaendert": true
+        },
+        {
+         "stunde": "9",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7D fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Wag": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 9A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 9A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "9",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 9A fällt aus",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      }
+     }
+    }
+   }
   }
  }
 }
