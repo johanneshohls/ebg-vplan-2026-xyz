@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "01.07.2026, 08:47 Uhr",
- "last_changed": "2026-07-01T10:23:00",
+ "generiert": "01.07.2026, 11:45 Uhr",
+ "last_changed": "2026-07-01T11:51:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -19035,7 +19035,7 @@
     },
     "20260701": {
      "datum": "Mittwoch, 01. Juli 2026",
-     "zeitstempel": "30.06.2026, 08:08",
+     "zeitstempel": "01.07.2026, 11:51",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -19068,11 +19068,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "12A",
+         "raum": "001",
+         "info": "Verkündung Gesamtqualifikation, danach Kirche Stellprobe; Ma 7B verlegt nach Fr (03.07.) St.1 (Bes)",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ma 7B verlegt nach Fr (03.07.) St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "12A",
+         "raum": "001",
+         "info": "Verkündung Gesamtqualifikation, danach Kirche Stellprobe; Ma 7B verlegt nach Fr (03.07.) St.2 (Bes)",
          "geaendert": true
         },
         {
