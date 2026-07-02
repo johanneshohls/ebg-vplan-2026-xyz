@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "02.07.2026, 10:50 Uhr",
- "last_changed": "2026-07-02T09:19:00",
+ "generiert": "02.07.2026, 12:32 Uhr",
+ "last_changed": "2026-07-02T14:18:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -23743,7 +23743,7 @@
     },
     "20260703": {
      "datum": "Freitag, 03. Juli 2026",
-     "zeitstempel": "01.07.2026, 22:01",
+     "zeitstempel": "02.07.2026, 14:18",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23855,19 +23855,19 @@
         },
         {
          "stunde": "5",
-         "fach": "mue1",
-         "klasse": "11A-11D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 11A-11D selbst. (v), Ausgleich für Sommerkonzert",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "mue1",
-         "klasse": "11A-11D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 11A-11D selbst. (v), Ausgleich für Sommerkonzert",
+         "geaendert": true
         }
        ],
        "aufsichten": [
