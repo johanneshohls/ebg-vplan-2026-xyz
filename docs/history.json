@@ -1036,5 +1036,16 @@
    "Std 8 (14:25): GE1 11A-11D fällt aus"
   ],
   "zeitstempel": "01.07.2026, 22:01"
+ },
+ {
+  "timestamp": "2026-07-02T08:09:45.020053",
+  "lehrer": "Bir",
+  "datum": "Donnerstag, 02. Juli 2026",
+  "date_key": "20260702",
+  "changes": [
+   "Std 9 (15:40): MUE 11A-11D selbst. (v), Ausgleich für Sommerkonzert",
+   "Std 10 (16:25): MUE 11A-11D selbst. (v), Ausgleich für Sommerkonzert"
+  ],
+  "zeitstempel": "02.07.2026, 09:19"
  }
 ]
