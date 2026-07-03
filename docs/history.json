@@ -1,51 +1,5 @@
 [
  {
-  "timestamp": "2026-06-26T08:27:35.669736",
-  "lehrer": "Gol",
-  "datum": "Freitag, 26. Juni 2026",
-  "date_key": "20260626",
-  "changes": [
-   "Std 3 (09:40): Aufsicht Vorbereitung mdl. Prüfungen",
-   "Std 4 (10:25): Aufsicht Vorbereitung mdl. Prüfungen",
-   "Std 5 (11:40): für Ge Gol",
-   "Std 6 (12:25): für Ge Gol",
-   "Std 7 (13:40): ge1 12A-12E fällt aus",
-   "Std 8 (14:25): ge1 12A-12E fällt aus"
-  ],
-  "zeitstempel": "26.06.2026, 10:24"
- },
- {
-  "timestamp": "2026-06-26T08:27:35.669736",
-  "lehrer": "Isb",
-  "datum": "Freitag, 26. Juni 2026",
-  "date_key": "20260626",
-  "changes": [
-   "Std 1 (07:40): En 10C fällt aus",
-   "Std 2 (08:25): En 10C fällt aus",
-   "Std 5 (11:40): für ILZ Kno, Hospitation"
-  ],
-  "zeitstempel": "26.06.2026, 10:24"
- },
- {
-  "timestamp": "2026-06-26T08:27:35.669736",
-  "lehrer": "Kno",
-  "datum": "Freitag, 26. Juni 2026",
-  "date_key": "20260626",
-  "changes": [
-   "Std 1 (07:40): De 8C gehalten am Mi (24.06.) St.1 (Hin)",
-   "Std 1 (07:40): mdl. Prüfrungen im Fach Wirtschaft; De 8C gehalten am Mi (24.06.) St.1 (Hin)",
-   "Std 2 (08:25): De 8C gehalten am Mi (24.06.) St.2 (Hin)",
-   "Std 2 (08:25): mdl. Prüfrungen im Fach Wirtschaft; De 8C gehalten am Mi (24.06.) St.2 (Hin)",
-   "Std 3 (09:40): Ch 7B gehalten am Di (23.06.) St.1",
-   "Std 3 (09:40): mdl. Prüfrungen im Fach Wirtschaft; Ch 7B gehalten am Di (23.06.) St.1 (Kno)",
-   "Std 4 (10:25): Ch 7B gehalten am Di (23.06.) St.2",
-   "Std 4 (10:25): mdl. Prüfrungen im Fach Wirtschaft; Ch 7B gehalten am Di (23.06.) St.2 (Kno)",
-   "Std 5 (11:40): Ge 7E Isb (für ILZ), Hospitation",
-   "Std 6 (12:25): für KL Kno"
-  ],
-  "zeitstempel": "26.06.2026, 10:24"
- },
- {
   "timestamp": "2026-06-26T11:21:11.423065",
   "lehrer": "Bod",
   "datum": "Freitag, 26. Juni 2026",
