@@ -1,48 +1,5 @@
 [
  {
-  "timestamp": "2026-06-28T15:37:40.431010",
-  "lehrer": "Isb",
-  "datum": "Montag, 29. Juni 2026",
-  "date_key": "20260629",
-  "changes": [
-   "Std 1 (07:40): En 10C fällt aus",
-   "Std 1 (07:40): statt Do (02.07.) St.3 (En Mar); En 10C fällt aus",
-   "Std 2 (08:25): En 10C fällt aus",
-   "Std 2 (08:25): statt Do (02.07.) St.4 (En Mar); En 10C fällt aus"
-  ],
-  "zeitstempel": "28.06.2026, 16:31"
- },
- {
-  "timestamp": "2026-06-28T15:37:40.431010",
-  "lehrer": "Käc",
-  "datum": "Montag, 29. Juni 2026",
-  "date_key": "20260629",
-  "changes": [
-   "Std 3 (09:40): statt Di (30.06.) St.1 (Ma Mar), Aufgaben mit Herrn Marski absprechen - alternativ Bri fragen ;-)",
-   "Std 4 (10:25): statt Di (30.06.) St.2 (Ma Mar)",
-   "Std 5 (11:40): B VK fällt aus",
-   "Std 6 (12:25): B VK fällt aus",
-   "Std 7 (13:40): B VK fällt aus",
-   "Std 8 (14:25): B VK fällt aus"
-  ],
-  "zeitstempel": "28.06.2026, 16:31"
- },
- {
-  "timestamp": "2026-06-28T15:37:40.431010",
-  "lehrer": "Mar",
-  "datum": "Montag, 29. Juni 2026",
-  "date_key": "20260629",
-  "changes": [
-   "Std 1 (07:40): En 10C fällt aus",
-   "Std 2 (08:25): En 10C fällt aus",
-   "Std 5 (11:40): En 11A-11D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
-   "Std 6 (12:25): En 11A-11D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
-   "Std 7 (13:40): En 8A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
-   "Std 8 (14:25): En 8A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
-  ],
-  "zeitstempel": "28.06.2026, 16:31"
- },
- {
   "timestamp": "2026-06-29T13:48:23.356375",
   "lehrer": "Mar",
   "datum": "Dienstag, 30. Juni 2026",
