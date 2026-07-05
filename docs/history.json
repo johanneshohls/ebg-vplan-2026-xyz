@@ -394,5 +394,115 @@
    "Planänderung (Details nicht spezifiziert)"
   ],
   "zeitstempel": "03.07.2026, 08:52"
+ },
+ {
+  "timestamp": "2026-07-05T20:49:34.347714",
+  "lehrer": "Bir",
+  "datum": "Montag, 06. Juli 2026",
+  "date_key": "20260706",
+  "changes": [
+   "Std 1 (07:40): Mu 10A fällt aus",
+   "Std 2 (08:25): Mu 10A fällt aus",
+   "Std 3 (09:40): Mu 8A fällt aus",
+   "Std 3 (09:40): Präventionsprojekt; Mu 8A fällt aus",
+   "Std 4 (10:25): Mu 8A fällt aus",
+   "Std 4 (10:25): Präventionsprojekt; Mu 8A fällt aus",
+   "Std 5 (11:40): Mu 7D fällt aus",
+   "Std 5 (11:40): Präventionsprojekt; Mu 7D fällt aus",
+   "Std 6 (12:25): Mu 7D fällt aus",
+   "Std 6 (12:25): Präventionsprojekt; Mu 7D fällt aus"
+  ],
+  "zeitstempel": "05.07.2026, 22:21"
+ },
+ {
+  "timestamp": "2026-07-05T20:49:34.347714",
+  "lehrer": "Hei",
+  "datum": "Montag, 06. Juli 2026",
+  "date_key": "20260706",
+  "changes": [
+   "Std 1 (07:40): Präventionsprojekt",
+   "Std 2 (08:25): Präventionsprojekt",
+   "Std 3 (09:40): geo1 11A-11D fällt aus",
+   "Std 3 (09:40): Präventionsprojekt; geo1 11A-11D fällt aus",
+   "Std 4 (10:25): geo1 11A-11D fällt aus",
+   "Std 4 (10:25): Präventionsprojekt; geo1 11A-11D fällt aus",
+   "Std 5 (11:40): Fr 8A fällt aus",
+   "Std 6 (12:25): Fr 8A fällt aus",
+   "Std 7 (13:40): geo2 12A-12E fällt aus",
+   "Std 8 (14:25): geo2 12A-12E fällt aus"
+  ],
+  "zeitstempel": "05.07.2026, 22:21"
+ },
+ {
+  "timestamp": "2026-07-05T20:49:34.347714",
+  "lehrer": "Bob",
+  "datum": "Dienstag, 07. Juli 2026",
+  "date_key": "20260707",
+  "changes": [
+   "Std 1 (07:40): Ph 9A fällt aus",
+   "Std 1 (07:40): Präventionsprojekt; Ph 9A fällt aus",
+   "Std 2 (08:25): Ph 9A fällt aus",
+   "Std 2 (08:25): Präventionsprojekt; Ph 9A fällt aus",
+   "Std 3 (09:40): Ch 10A fällt aus",
+   "Std 3 (09:40): Präventionsprojekt; Ch 10A fällt aus",
+   "Std 4 (10:25): Ch 10A fällt aus",
+   "Std 4 (10:25): Präventionsprojekt; Ch 10A fällt aus",
+   "Std 5 (11:40): Ch 7C fällt aus",
+   "Std 6 (12:25): Ch 7C fällt aus"
+  ],
+  "zeitstempel": "05.07.2026, 22:21"
+ },
+ {
+  "timestamp": "2026-07-05T20:49:34.347714",
+  "lehrer": "Hun",
+  "datum": "Dienstag, 07. Juli 2026",
+  "date_key": "20260707",
+  "changes": [
+   "Std 3 (09:40): As 9D fällt aus",
+   "Std 4 (10:25): As 9D fällt aus",
+   "Std 5 (11:40): Ph 10D fällt aus",
+   "Std 5 (11:40): Präventionsprojekt; Ph 10D fällt aus",
+   "Std 6 (12:25): Ph 10D fällt aus",
+   "Std 6 (12:25): Präventionsprojekt; Ph 10D fällt aus",
+   "Std 7 (13:40): As 9B fällt aus",
+   "Std 8 (14:25): As 9B fällt aus"
+  ],
+  "zeitstempel": "05.07.2026, 22:21"
+ },
+ {
+  "timestamp": "2026-07-05T20:49:34.347714",
+  "lehrer": "Jur",
+  "datum": "Dienstag, 07. Juli 2026",
+  "date_key": "20260707",
+  "changes": [
+   "Std 1 (07:40): Präventionsprojekt",
+   "Std 2 (08:25): Präventionsprojekt",
+   "Std 3 (09:40): Phil 8D fällt aus",
+   "Std 4 (10:25): Phil 8D fällt aus",
+   "Std 5 (11:40): DE2 12A-12E fällt aus",
+   "Std 5 (11:40): Präventionsprojekt; DE2 12A-12E fällt aus",
+   "Std 6 (12:25): DE2 12A-12E fällt aus",
+   "Std 6 (12:25): Präventionsprojekt; DE2 12A-12E fällt aus",
+   "Std 7 (13:40): Phil 10C fällt aus",
+   "Std 8 (14:25): Phil 10C fällt aus"
+  ],
+  "zeitstempel": "05.07.2026, 22:21"
+ },
+ {
+  "timestamp": "2026-07-05T20:49:34.347714",
+  "lehrer": "Rat",
+  "datum": "Dienstag, 07. Juli 2026",
+  "date_key": "20260707",
+  "changes": [
+   "Std 1 (07:40): Ku 7B fällt aus",
+   "Std 2 (08:25): Ku 7B fällt aus",
+   "Std 3 (09:40): Ku 8C fällt aus",
+   "Std 3 (09:40): Präventionsprojekt; Ku 8C fällt aus",
+   "Std 4 (10:25): Ku 8C fällt aus",
+   "Std 4 (10:25): Präventionsprojekt; Ku 8C fällt aus",
+   "Std 7 (13:40): eRe 9A fällt aus",
+   "Std 8 (14:25): eRe 9A fällt aus"
+  ],
+  "zeitstempel": "05.07.2026, 22:21"
  }
 ]

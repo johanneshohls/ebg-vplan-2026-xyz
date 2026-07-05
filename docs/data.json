@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "05.07.2026, 19:56 Uhr",
- "last_changed": "2026-07-03T08:52:00",
+ "generiert": "05.07.2026, 20:49 Uhr",
+ "last_changed": "2026-07-05T22:21:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -25721,7 +25721,7 @@
    "tage": {
     "20260706": {
      "datum": "Montag, 06. Juli 2026",
-     "zeitstempel": "01.07.2026, 22:15",
+     "zeitstempel": "05.07.2026, 22:21",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -25761,7 +25761,7 @@
          "stunde": "3",
          "fach": "---",
          "klasse": "8B",
-         "raum": "006",
+         "raum": "006 004",
          "info": "Präventionsprojekt; Mu 8A fällt aus",
          "geaendert": true
         },
@@ -25777,7 +25777,7 @@
          "stunde": "4",
          "fach": "---",
          "klasse": "8B",
-         "raum": "006",
+         "raum": "006 004",
          "info": "Präventionsprojekt; Mu 8A fällt aus",
          "geaendert": true
         },
@@ -26300,7 +26300,7 @@
          "stunde": "1",
          "fach": "---",
          "klasse": "8A",
-         "raum": "007",
+         "raum": "007 004",
          "info": "Präventionsprojekt",
          "geaendert": true
         },
@@ -26308,7 +26308,7 @@
          "stunde": "2",
          "fach": "---",
          "klasse": "8A",
-         "raum": "007",
+         "raum": "007 004",
          "info": "Präventionsprojekt",
          "geaendert": true
         },
@@ -26324,7 +26324,7 @@
          "stunde": "3",
          "fach": "---",
          "klasse": "8A",
-         "raum": "007",
+         "raum": "007 004",
          "info": "Präventionsprojekt; geo1 11A-11D fällt aus",
          "geaendert": true
         },
@@ -26340,7 +26340,7 @@
          "stunde": "4",
          "fach": "---",
          "klasse": "8A",
-         "raum": "007",
+         "raum": "007 004",
          "info": "Präventionsprojekt; geo1 11A-11D fällt aus",
          "geaendert": true
         },
@@ -27890,7 +27890,7 @@
     },
     "20260707": {
      "datum": "Dienstag, 07. Juli 2026",
-     "zeitstempel": "01.07.2026, 22:15",
+     "zeitstempel": "05.07.2026, 22:21",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -28013,7 +28013,7 @@
          "stunde": "1",
          "fach": "---",
          "klasse": "8D",
-         "raum": "103",
+         "raum": "003 006",
          "info": "Präventionsprojekt; Ph 9A fällt aus",
          "geaendert": true
         },
@@ -28029,7 +28029,7 @@
          "stunde": "2",
          "fach": "---",
          "klasse": "8D",
-         "raum": "103",
+         "raum": "003 006",
          "info": "Präventionsprojekt; Ph 9A fällt aus",
          "geaendert": true
         },
@@ -28045,7 +28045,7 @@
          "stunde": "3",
          "fach": "---",
          "klasse": "8D",
-         "raum": "103",
+         "raum": "003 006",
          "info": "Präventionsprojekt; Ch 10A fällt aus",
          "geaendert": true
         },
@@ -28061,7 +28061,7 @@
          "stunde": "4",
          "fach": "---",
          "klasse": "8D",
-         "raum": "103",
+         "raum": "003 006",
          "info": "Präventionsprojekt; Ch 10A fällt aus",
          "geaendert": true
         },
@@ -28820,7 +28820,7 @@
          "stunde": "5",
          "fach": "---",
          "klasse": "8D",
-         "raum": "103",
+         "raum": "003 006",
          "info": "Präventionsprojekt; Ph 10D fällt aus",
          "geaendert": true
         },
@@ -28836,7 +28836,7 @@
          "stunde": "6",
          "fach": "---",
          "klasse": "8D",
-         "raum": "103",
+         "raum": "003 006",
          "info": "Präventionsprojekt; Ph 10D fällt aus",
          "geaendert": true
         },
@@ -28953,7 +28953,7 @@
          "stunde": "5",
          "fach": "---",
          "klasse": "8C",
-         "raum": "008",
+         "raum": "006",
          "info": "Präventionsprojekt; DE2 12A-12E fällt aus",
          "geaendert": true
         },
@@ -28969,7 +28969,7 @@
          "stunde": "6",
          "fach": "---",
          "klasse": "8C",
-         "raum": "008",
+         "raum": "006",
          "info": "Präventionsprojekt; DE2 12A-12E fällt aus",
          "geaendert": true
         },
@@ -29555,7 +29555,7 @@
          "stunde": "3",
          "fach": "---",
          "klasse": "8C",
-         "raum": "008",
+         "raum": "006 003",
          "info": "Präventionsprojekt; Ku 8C fällt aus",
          "geaendert": true
         },
@@ -29571,7 +29571,7 @@
          "stunde": "4",
          "fach": "---",
          "klasse": "8C",
-         "raum": "008",
+         "raum": "006 003",
          "info": "Präventionsprojekt; Ku 8C fällt aus",
          "geaendert": true
         },
@@ -30067,7 +30067,7 @@
     },
     "20260708": {
      "datum": "Mittwoch, 08. Juli 2026",
-     "zeitstempel": "01.07.2026, 22:15",
+     "zeitstempel": "05.07.2026, 22:21",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -33145,7 +33145,7 @@
     },
     "20260709": {
      "datum": "Donnerstag, 09. Juli 2026",
-     "zeitstempel": "01.07.2026, 22:15",
+     "zeitstempel": "05.07.2026, 22:21",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -36090,7 +36090,7 @@
     },
     "20260710": {
      "datum": "Freitag, 10. Juli 2026",
-     "zeitstempel": "01.07.2026, 22:15",
+     "zeitstempel": "05.07.2026, 22:21",
      "lehrer": {
       "Bar": {
        "entries": [
