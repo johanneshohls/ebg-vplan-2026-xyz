@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "06.07.2026, 12:42 Uhr",
- "last_changed": "2026-07-05T22:21:00",
+ "generiert": "06.07.2026, 16:10 Uhr",
+ "last_changed": "2026-07-06T15:31:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -11630,7 +11630,7 @@
    "tage": {
     "20260706": {
      "datum": "Montag, 06. Juli 2026",
-     "zeitstempel": "05.07.2026, 22:21",
+     "zeitstempel": "06.07.2026, 15:31",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -13799,7 +13799,7 @@
     },
     "20260707": {
      "datum": "Dienstag, 07. Juli 2026",
-     "zeitstempel": "05.07.2026, 22:21",
+     "zeitstempel": "06.07.2026, 15:31",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -15976,7 +15976,7 @@
     },
     "20260708": {
      "datum": "Mittwoch, 08. Juli 2026",
-     "zeitstempel": "05.07.2026, 22:21",
+     "zeitstempel": "06.07.2026, 15:31",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -15993,6 +15993,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "7A-7E",
@@ -16001,6 +16009,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -16017,6 +16033,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ma 7B fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -16030,6 +16054,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; Ma 7B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ma 7B fällt aus",
          "geaendert": true
         },
         {
@@ -16041,11 +16073,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung",
          "geaendert": true
         },
         {
@@ -16085,11 +16133,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling",
          "geaendert": true
         },
         {
@@ -16101,6 +16165,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "7A-7E",
@@ -16109,6 +16181,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -16125,6 +16205,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling; Mu 7C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -16138,6 +16226,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; Mu 7C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling; Mu 7C fällt aus",
          "geaendert": true
         },
         {
@@ -16254,6 +16350,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu1",
+         "info": "Cheerleading; Ch 9C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -16270,11 +16374,27 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu1",
+         "info": "Cheerleading; Ch 9C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu1",
+         "info": "Cheerleading",
          "geaendert": true
         },
         {
@@ -16286,6 +16406,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu1",
+         "info": "Cheerleading",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -16302,6 +16430,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu1",
+         "info": "Cheerleading; Ch 10B fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -16315,6 +16451,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; Ch 10B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu1",
+         "info": "Cheerleading; Ch 10B fällt aus",
          "geaendert": true
         },
         {
@@ -16384,11 +16528,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co2",
+         "info": "Makramee",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co2",
+         "info": "Makramee",
          "geaendert": true
         },
         {
@@ -16400,11 +16560,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co2",
+         "info": "Makramee",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co2",
+         "info": "Makramee",
          "geaendert": true
         },
         {
@@ -16416,11 +16592,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co2",
+         "info": "Makramee",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co2",
+         "info": "Makramee",
          "geaendert": true
         },
         {
@@ -16586,6 +16778,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "207",
+         "info": "Buttons und Siebdruck",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "7A-7E",
@@ -16594,6 +16794,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "207",
+         "info": "Buttons und Siebdruck",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -16610,6 +16818,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "207",
+         "info": "Buttons und Siebdruck; De 7C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -16623,6 +16839,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; De 7C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "207",
+         "info": "Buttons und Siebdruck; De 7C fällt aus",
          "geaendert": true
         },
         {
@@ -16634,11 +16858,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "207",
+         "info": "Buttons und Siebdruck",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "207",
+         "info": "Buttons und Siebdruck",
          "geaendert": true
         },
         {
@@ -16743,6 +16983,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "003",
+         "info": " Schulrallye, Foto-AG; ILZ 8A fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -16759,6 +17007,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "003",
+         "info": " Schulrallye, Foto-AG; KL 8A fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -16772,6 +17028,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; Fr 8A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "003",
+         "info": " Schulrallye, Foto-AG; Fr 8A fällt aus",
          "geaendert": true
         },
         {
@@ -16791,6 +17055,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "003",
+         "info": " Schulrallye, Foto-AG; Fr 8A fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -16807,6 +17079,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "003",
+         "info": " Schulrallye, Foto-AG; geo1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -16820,6 +17100,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; geo1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "003",
+         "info": " Schulrallye, Foto-AG; geo1 12A-12E fällt aus",
          "geaendert": true
         }
        ],
@@ -16844,6 +17132,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu2",
+         "info": "Kampfsport; Sp 10B fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -16860,6 +17156,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu2",
+         "info": "Kampfsport; Sp 10B fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -16873,6 +17177,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; sp3 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu2",
+         "info": "Kampfsport; sp3 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -16892,6 +17204,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu2",
+         "info": "Kampfsport; sp3 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -16908,6 +17228,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu2",
+         "info": "Kampfsport; sp3 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -16921,6 +17249,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; sp3 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu2",
+         "info": "Kampfsport; sp3 11A-11D fällt aus",
          "geaendert": true
         }
        ],
@@ -16949,6 +17285,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling; En 7B fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -16965,6 +17309,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling; En 7B fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -16978,6 +17330,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; Phil 9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling; Phil 9D fällt aus",
          "geaendert": true
         },
         {
@@ -16997,6 +17357,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling; Phil 9D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -17013,6 +17381,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling; En 8C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -17026,6 +17402,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; En 8C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling; En 8C fällt aus",
          "geaendert": true
         },
         {
@@ -17066,6 +17450,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ph 7E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -17082,6 +17474,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ph 7E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -17098,6 +17498,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ph 7D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -17111,6 +17519,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; Ph 7D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ph 7D fällt aus",
          "geaendert": true
         },
         {
@@ -17122,11 +17538,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung",
          "geaendert": true
         }
        ],
@@ -17192,6 +17624,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co1",
+         "info": " Zaungestaltung; Ch 9D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -17208,6 +17648,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co1",
+         "info": " Zaungestaltung; Ch 9D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -17224,6 +17672,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co1",
+         "info": " Zaungestaltung; ch2 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -17237,6 +17693,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; ch2 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co1",
+         "info": " Zaungestaltung; ch2 11A-11D fällt aus",
          "geaendert": true
         },
         {
@@ -17248,11 +17712,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co1",
+         "info": " Zaungestaltung",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co1",
+         "info": " Zaungestaltung",
          "geaendert": true
         },
         {
@@ -17301,6 +17781,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Tanzen; De 7A fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -17317,11 +17805,27 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Tanzen; De 7A fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Tanzen",
          "geaendert": true
         },
         {
@@ -17333,6 +17837,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Tanzen",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -17349,6 +17861,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Tanzen; De 10A fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -17362,6 +17882,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; De 10A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Tanzen; De 10A fällt aus",
          "geaendert": true
         },
         {
@@ -17454,11 +17982,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "107",
+         "info": " Schülerband",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "107",
+         "info": " Schülerband",
          "geaendert": true
         },
         {
@@ -17470,6 +18014,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "107",
+         "info": " Schülerband",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "8A-8D",
@@ -17478,6 +18030,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "107",
+         "info": " Schülerband",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -17494,6 +18054,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "107",
+         "info": " Schülerband; pro31 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -17507,6 +18075,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; pro31 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "107",
+         "info": " Schülerband; pro31 11A-11D fällt aus",
          "geaendert": true
         },
         {
@@ -17544,11 +18120,35 @@
       "Kno": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "w1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer; w1 11A-11D fällt aus",
          "geaendert": true
         },
         {
@@ -17560,7 +18160,31 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer; w1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "w2 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer; w2 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
@@ -17571,8 +18195,8 @@
          "stunde": "6",
          "fach": "---",
          "klasse": "",
-         "raum": "",
-         "info": "w2 11A-11D fällt aus",
+         "raum": "K12 K10",
+         "info": "Klimakoffer; w2 11A-11D fällt aus",
          "geaendert": true
         }
        ],
@@ -17877,11 +18501,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "101 104",
+         "info": " Schulbücher; Ma 8B fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ma 8B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "101 104",
+         "info": " Schulbücher; Ma 8B fällt aus",
          "geaendert": true
         },
         {
@@ -17893,11 +18533,43 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "101 104",
+         "info": " Schulbücher; En 7E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "En 7E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "101 104",
+         "info": " Schulbücher; En 7E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "101 104",
+         "info": " Schulbücher",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "101 104",
+         "info": " Schulbücher",
          "geaendert": true
         }
        ],
@@ -17922,6 +18594,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Sp 10A fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -17938,11 +18618,27 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Sp 10A fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung",
          "geaendert": true
         },
         {
@@ -17954,6 +18650,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -17970,6 +18674,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Geo 9A fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -17983,6 +18695,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; Geo 9A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Geo 9A fällt aus",
          "geaendert": true
         },
         {
@@ -18115,6 +18835,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur; De 9B fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -18131,6 +18859,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur; De 9B fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -18147,6 +18883,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur; Bio 9B fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -18160,6 +18904,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; Bio 9B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur; Bio 9B fällt aus",
          "geaendert": true
         },
         {
@@ -18179,6 +18931,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur; ILZ 8B fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -18192,6 +18952,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; KL 8B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur; KL 8B fällt aus",
          "geaendert": true
         }
        ],
@@ -18258,6 +19026,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": " Schönberg erkunden; ere1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -18274,6 +19050,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": " Schönberg erkunden; ere1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -18290,6 +19074,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": " Schönberg erkunden; Ku 7A fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -18303,6 +19095,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; Ku 7A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": " Schönberg erkunden; Ku 7A fällt aus",
          "geaendert": true
         },
         {
@@ -18314,11 +19114,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": " Schönberg erkunden",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": " Schönberg erkunden",
          "geaendert": true
         }
        ],
@@ -18350,6 +19166,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ma 10C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -18366,6 +19190,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ma 10C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -18382,6 +19214,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ph 8C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -18395,6 +19235,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; Ph 8C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ph 8C fällt aus",
          "geaendert": true
         },
         {
@@ -18406,11 +19254,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung",
          "geaendert": true
         },
         {
@@ -18522,6 +19386,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "002",
+         "info": "Angeln; phil2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -18538,6 +19410,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "002",
+         "info": "Angeln; phil2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -18554,6 +19434,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "002",
+         "info": "Angeln; phil1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -18567,6 +19455,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; phil1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "002",
+         "info": "Angeln; phil1 11A-11D fällt aus",
          "geaendert": true
         },
         {
@@ -18578,11 +19474,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "002",
+         "info": "Angeln",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "002",
+         "info": "Angeln",
          "geaendert": true
         }
        ],
@@ -18635,6 +19547,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur; B VK fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -18651,11 +19571,27 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur; B VK fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur",
          "geaendert": true
         },
         {
@@ -18667,7 +19603,31 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
+         "fach": "---",
+         "klasse": "8A-8D",
+         "raum": "",
+         "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
          "fach": "---",
          "klasse": "8A-8D",
          "raum": "",
@@ -18677,9 +19637,9 @@
         {
          "stunde": "6",
          "fach": "---",
-         "klasse": "8A-8D",
-         "raum": "",
-         "info": "Projekttag",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur",
          "geaendert": true
         },
         {
@@ -18846,6 +19806,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "005",
+         "info": " Schulbibliothek; De 9A fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -18862,6 +19830,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "005",
+         "info": " Schulbibliothek; De 9A fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -18875,6 +19851,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; Ge 9C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "005",
+         "info": " Schulbibliothek; Ge 9C fällt aus",
          "geaendert": true
         },
         {
@@ -18894,6 +19878,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "005",
+         "info": " Schulbibliothek; Ge 9C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -18910,6 +19902,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "005",
+         "info": " Schulbibliothek; Ge 8D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -18923,6 +19923,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; Ge 8D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "005",
+         "info": " Schulbibliothek; Ge 8D fällt aus",
          "geaendert": true
         }
        ],
@@ -18939,6 +19947,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -18947,6 +19963,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -18960,6 +19984,14 @@
          "klasse": "",
          "raum": "",
          "info": "Projekttag; De 10B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer; De 10B fällt aus",
          "geaendert": true
         },
         {
@@ -18979,6 +20011,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer; De 10B fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -18995,6 +20035,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer; De 7D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -19008,6 +20056,14 @@
          "klasse": "",
          "raum": "",
          "info": "Projekttag; De 7D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer; De 7D fällt aus",
          "geaendert": true
         },
         {
@@ -19054,7 +20110,7 @@
     },
     "20260709": {
      "datum": "Donnerstag, 09. Juli 2026",
-     "zeitstempel": "05.07.2026, 22:21",
+     "zeitstempel": "06.07.2026, 15:31",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -19096,6 +20152,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ph 9D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -19112,6 +20176,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ph 9D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -19128,6 +20200,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -19141,6 +20221,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; PH1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; PH1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -19152,11 +20240,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung",
          "geaendert": true
         }
        ],
@@ -19173,11 +20277,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling",
          "geaendert": true
         },
         {
@@ -19189,6 +20309,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "7A-7E",
@@ -19197,6 +20325,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -19213,6 +20349,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling; Mu 10C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -19226,6 +20370,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; Mu 10C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling; Mu 10C fällt aus",
          "geaendert": true
         },
         {
@@ -19293,6 +20445,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu1",
+         "info": "Cheerleading; Ch 10C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -19309,11 +20469,27 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu1",
+         "info": "Cheerleading; Ch 10C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu1",
+         "info": "Cheerleading",
          "geaendert": true
         },
         {
@@ -19325,6 +20501,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu1",
+         "info": "Cheerleading",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -19341,6 +20525,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu1",
+         "info": "Cheerleading; Ch 8D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -19354,6 +20546,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; Ch 8D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu1",
+         "info": "Cheerleading; Ch 8D fällt aus",
          "geaendert": true
         },
         {
@@ -19454,6 +20654,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co2",
+         "info": "Makramee; Ma 10D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -19470,6 +20678,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co2",
+         "info": "Makramee; Ma 10D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -19483,6 +20699,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; ma1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co2",
+         "info": "Makramee; ma1 11A-11D fällt aus",
          "geaendert": true
         },
         {
@@ -19502,6 +20726,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co2",
+         "info": "Makramee; ma1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -19518,6 +20750,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co2",
+         "info": "Makramee; MA1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -19531,6 +20771,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; MA1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co2",
+         "info": "Makramee; MA1 11A-11D fällt aus",
          "geaendert": true
         }
        ],
@@ -19667,11 +20915,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "207",
+         "info": "Buttons und Siebdruck",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "207",
+         "info": "Buttons und Siebdruck",
          "geaendert": true
         },
         {
@@ -19691,6 +20955,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "207",
+         "info": "Buttons und Siebdruck; ILZ 7C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -19707,7 +20979,31 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "207",
+         "info": "Buttons und Siebdruck; KL 7C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
+         "fach": "---",
+         "klasse": "7A-7E",
+         "raum": "",
+         "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "207",
+         "info": "Buttons und Siebdruck",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
          "fach": "---",
          "klasse": "7A-7E",
          "raum": "",
@@ -19717,9 +21013,9 @@
         {
          "stunde": "6",
          "fach": "---",
-         "klasse": "7A-7E",
-         "raum": "",
-         "info": "Projekttag",
+         "klasse": "",
+         "raum": "207",
+         "info": "Buttons und Siebdruck",
          "geaendert": true
         }
        ],
@@ -19857,6 +21153,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "003",
+         "info": " Schulrallye und Foto-AG; Geo 10A fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -19873,11 +21177,27 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "003",
+         "info": " Schulrallye und Foto-AG; Geo 10A fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "003",
+         "info": " Schulrallye und Foto-AG",
          "geaendert": true
         },
         {
@@ -19889,6 +21209,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "003",
+         "info": " Schulrallye und Foto-AG",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -19905,6 +21233,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "003",
+         "info": " Schulrallye und Foto-AG; Geo 9C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -19918,6 +21254,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; Geo 9C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "003",
+         "info": " Schulrallye und Foto-AG; Geo 9C fällt aus",
          "geaendert": true
         },
         {
@@ -19957,11 +21301,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu3",
+         "info": "Kampfsport",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu3",
+         "info": "Kampfsport",
          "geaendert": true
         },
         {
@@ -19973,6 +21333,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu3",
+         "info": "Kampfsport",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "8A-8D",
@@ -19981,6 +21349,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu3",
+         "info": "Kampfsport",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -19997,6 +21373,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu3",
+         "info": "Kampfsport; Sp 9D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -20010,6 +21394,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; Sp 9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Tu3",
+         "info": "Kampfsport; Sp 9D fällt aus",
          "geaendert": true
         },
         {
@@ -20054,6 +21446,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling; B VK fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -20067,6 +21467,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling; B VK fällt aus",
          "geaendert": true
         },
         {
@@ -20086,6 +21494,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling; ILZ 7B fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -20102,7 +21518,31 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling; KL 7B fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
+         "fach": "---",
+         "klasse": "7A-7E",
+         "raum": "",
+         "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
          "fach": "---",
          "klasse": "7A-7E",
          "raum": "",
@@ -20112,9 +21552,9 @@
         {
          "stunde": "6",
          "fach": "---",
-         "klasse": "7A-7E",
-         "raum": "",
-         "info": "Projekttag",
+         "klasse": "",
+         "raum": "001",
+         "info": "Upcycling",
          "geaendert": true
         },
         {
@@ -20162,6 +21602,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ma 8A fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -20178,6 +21626,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ma 8A fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -20191,6 +21647,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; Ph 8B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ph 8B fällt aus",
          "geaendert": true
         },
         {
@@ -20210,6 +21674,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ph 8B fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -20226,6 +21698,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ma 7D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -20239,6 +21719,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; Ma 7D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ma 7D fällt aus",
          "geaendert": true
         }
        ],
@@ -20352,11 +21840,43 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co1",
+         "info": " Zaungestaltung; ch2 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "ch2 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co1",
+         "info": " Zaungestaltung; ch2 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co1",
+         "info": " Zaungestaltung",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co1",
+         "info": " Zaungestaltung",
          "geaendert": true
         },
         {
@@ -20368,11 +21888,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co1",
+         "info": " Zaungestaltung; Ph 7A fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ph 7A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Co1",
+         "info": " Zaungestaltung; Ph 7A fällt aus",
          "geaendert": true
         },
         {
@@ -20430,6 +21966,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Tanzen",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "8A-8D",
@@ -20438,6 +21982,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Tanzen",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -20451,6 +22003,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; DE2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Tanzen; DE2 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -20470,6 +22030,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Tanzen; DE2 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -20486,6 +22054,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Tanzen; De 8C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -20499,6 +22075,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; De 8C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Tanzen; De 8C fällt aus",
          "geaendert": true
         }
        ],
@@ -20519,11 +22103,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "107",
+         "info": " Schülerband",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "107",
+         "info": " Schülerband",
          "geaendert": true
         },
         {
@@ -20535,11 +22135,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "107",
+         "info": " Schülerband",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "107",
+         "info": " Schülerband",
          "geaendert": true
         },
         {
@@ -20551,11 +22167,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "107",
+         "info": " Schülerband",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "107",
+         "info": " Schülerband",
          "geaendert": true
         }
        ],
@@ -20572,6 +22204,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "7A-7E",
@@ -20580,6 +22220,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -20593,6 +22241,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; Ch 9B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer; Ch 9B fällt aus",
          "geaendert": true
         },
         {
@@ -20612,6 +22268,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer; Ch 9B fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -20628,6 +22292,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer; AWT 7E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -20641,6 +22313,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; AWT 7E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer; AWT 7E fällt aus",
          "geaendert": true
         }
        ],
@@ -20839,11 +22519,35 @@
       "Mar": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "101",
+         "info": " Schulbücher",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "101",
+         "info": " Schulbücher",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "En 8A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "101",
+         "info": " Schulbücher; En 8A fällt aus",
          "geaendert": true
         },
         {
@@ -20855,7 +22559,31 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "101",
+         "info": " Schulbücher; En 8A fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "101",
+         "info": " Schulbücher; En 7C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
@@ -20866,8 +22594,8 @@
          "stunde": "6",
          "fach": "---",
          "klasse": "",
-         "raum": "",
-         "info": "En 7C fällt aus",
+         "raum": "101",
+         "info": " Schulbücher; En 7C fällt aus",
          "geaendert": true
         },
         {
@@ -20915,6 +22643,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Sp 8C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -20931,6 +22667,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Sp 8C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -20947,6 +22691,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Geo 8D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -20960,6 +22712,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; Geo 8D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Geo 8D fällt aus",
          "geaendert": true
         },
         {
@@ -20971,11 +22731,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung",
          "geaendert": true
         },
         {
@@ -21053,11 +22829,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur",
          "geaendert": true
         },
         {
@@ -21069,6 +22861,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "8A-8D",
@@ -21077,6 +22877,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -21093,6 +22901,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur; De 8A fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -21106,6 +22922,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; De 8A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur; De 8A fällt aus",
          "geaendert": true
         },
         {
@@ -21212,11 +23036,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": " Schönberg erkunden",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": " Schönberg erkunden",
          "geaendert": true
         },
         {
@@ -21228,11 +23068,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": " Schönberg erkunden",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": " Schönberg erkunden",
          "geaendert": true
         },
         {
@@ -21244,11 +23100,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": " Schönberg erkunden",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "006",
+         "info": " Schönberg erkunden",
          "geaendert": true
         }
        ],
@@ -21273,6 +23145,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ma 7E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -21289,6 +23169,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ma 7E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -21302,6 +23190,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; Ma 8C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ma 8C fällt aus",
          "geaendert": true
         },
         {
@@ -21321,6 +23217,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; Ma 8C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -21337,6 +23241,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; MA1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -21350,6 +23262,14 @@
          "klasse": "7A-7E",
          "raum": "",
          "info": "Projekttag; MA1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "004",
+         "info": " Schulhofgestaltung; MA1 12A-12E fällt aus",
          "geaendert": true
         }
        ],
@@ -21399,6 +23319,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "002",
+         "info": "Angeln; Phil 9C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -21415,6 +23343,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "002",
+         "info": "Angeln; Phil 9C fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -21428,6 +23364,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; GE1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "002",
+         "info": "Angeln; GE1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -21447,6 +23391,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "002",
+         "info": "Angeln; GE1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -21463,6 +23415,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "002",
+         "info": "Angeln; GE1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -21476,6 +23436,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; GE1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "002",
+         "info": "Angeln; GE1 11A-11D fällt aus",
          "geaendert": true
         }
        ],
@@ -21559,6 +23527,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "8A-8D",
@@ -21567,6 +23543,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -21580,6 +23564,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; BIO1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur; BIO1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -21599,6 +23591,14 @@
          "geaendert": true
         },
         {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur; BIO1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -21615,6 +23615,14 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur; Bio 10B fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
@@ -21628,6 +23636,14 @@
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag; Bio 10B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "205",
+         "info": "Beutelmanufaktur; Bio 10B fällt aus",
          "geaendert": true
         },
         {
@@ -21786,11 +23802,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "005",
+         "info": " Schulbibliothek",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "005",
+         "info": " Schulbibliothek",
          "geaendert": true
         },
         {
@@ -21802,11 +23834,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "005",
+         "info": " Schulbibliothek",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "005",
+         "info": " Schulbibliothek",
          "geaendert": true
         },
         {
@@ -21818,11 +23866,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "005",
+         "info": " Schulbibliothek",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "8A-8D",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "005",
+         "info": " Schulbibliothek",
          "geaendert": true
         },
         {
@@ -21855,6 +23919,14 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -21863,6 +23935,14 @@
          "geaendert": true
         },
         {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
@@ -21879,6 +23959,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer; de1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
@@ -21892,6 +23980,14 @@
          "klasse": "",
          "raum": "",
          "info": "Projekttag; de1 11A-11D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer; de1 11A-11D fällt aus",
          "geaendert": true
         },
         {
@@ -21903,11 +23999,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Projekttag",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "K12 K10",
+         "info": "Klimakoffer",
          "geaendert": true
         },
         {
@@ -21999,7 +24111,7 @@
     },
     "20260710": {
      "datum": "Freitag, 10. Juli 2026",
-     "zeitstempel": "05.07.2026, 22:21",
+     "zeitstempel": "06.07.2026, 15:31",
      "lehrer": {
       "Bar": {
        "entries": [
