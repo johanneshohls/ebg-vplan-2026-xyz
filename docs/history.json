@@ -1429,5 +1429,934 @@
    "Std 8 (14:25): de2 11A-11D fällt aus"
   ],
   "zeitstempel": "06.07.2026, 15:31"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Bes",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): Schulhofgestaltung",
+   "Std 2 (08:25): Schulhofgestaltung",
+   "Std 3 (09:40): Ma 7B fällt aus",
+   "Std 3 (09:40): Schulhofgestaltung; Ma 7B fällt aus",
+   "Std 4 (10:25): Ma 7B fällt aus",
+   "Std 4 (10:25): Schulhofgestaltung; Ma 7B fällt aus",
+   "Std 5 (11:40): Schulhofgestaltung",
+   "Std 6 (12:25): Schulhofgestaltung",
+   "Std 7 (13:40): ma2 12A-12E fällt aus",
+   "Std 8 (14:25): ma2 12A-12E fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Bir",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 5 (11:40): Mu 7C fällt aus",
+   "Std 6 (12:25): Mu 7C fällt aus",
+   "Std 7 (13:40): GS06 7A-7E,8A-8D fällt aus",
+   "Std 8 (14:25): GS06 7A-7E,8A-8D fällt aus",
+   "Std 9 (15:40): mue1 12A-12E fällt aus",
+   "Std 10 (16:25): mue1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Bob",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): Ch 9C fällt aus",
+   "Std 1 (07:40): Cheerleading; Ch 9C fällt aus",
+   "Std 2 (08:25): Ch 9C fällt aus",
+   "Std 2 (08:25): Cheerleading; Ch 9C fällt aus",
+   "Std 3 (09:40): Cheerleading",
+   "Std 4 (10:25): Cheerleading",
+   "Std 5 (11:40): Ch 10B fällt aus",
+   "Std 5 (11:40): Cheerleading; Ch 10B fällt aus",
+   "Std 6 (12:25): Ch 10B fällt aus",
+   "Std 6 (12:25): Cheerleading; Ch 10B fällt aus",
+   "Std 7 (13:40): Ph 10C fällt aus",
+   "Std 8 (14:25): Ph 10C fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Bri",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): Makramee",
+   "Std 2 (08:25): Makramee",
+   "Std 3 (09:40): Makramee",
+   "Std 4 (10:25): Makramee",
+   "Std 5 (11:40): Makramee",
+   "Std 6 (12:25): Makramee",
+   "Std 7 (13:40): ma1 12A-12E fällt aus",
+   "Std 8 (14:25): ma1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Fla",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): Buttons und Siebdruck",
+   "Std 2 (08:25): Buttons und Siebdruck",
+   "Std 3 (09:40): De 7C fällt aus",
+   "Std 3 (09:40): Buttons und Siebdruck; De 7C fällt aus",
+   "Std 4 (10:25): De 7C fällt aus",
+   "Std 4 (10:25): Buttons und Siebdruck; De 7C fällt aus",
+   "Std 5 (11:40): Buttons und Siebdruck",
+   "Std 6 (12:25): Buttons und Siebdruck",
+   "Std 7 (13:40): GS04 7A-7E,8A-8D fällt aus",
+   "Std 8 (14:25): GS04 7A-7E,8A-8D fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Hei",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): ILZ 8A fällt aus",
+   "Std 1 (07:40): Schulrallye, Foto-AG; ILZ 8A fällt aus",
+   "Std 2 (08:25): KL 8A fällt aus",
+   "Std 2 (08:25): Schulrallye, Foto-AG; KL 8A fällt aus",
+   "Std 3 (09:40): Fr 8A fällt aus",
+   "Std 3 (09:40): Schulrallye, Foto-AG; Fr 8A fällt aus",
+   "Std 4 (10:25): Fr 8A fällt aus",
+   "Std 4 (10:25): Schulrallye, Foto-AG; Fr 8A fällt aus",
+   "Std 5 (11:40): geo1 12A-12E fällt aus",
+   "Std 5 (11:40): Schulrallye, Foto-AG; geo1 12A-12E fällt aus",
+   "Std 6 (12:25): geo1 12A-12E fällt aus",
+   "Std 6 (12:25): Schulrallye, Foto-AG; geo1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Her",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): Sp 10B fällt aus",
+   "Std 1 (07:40): Kampfsport; Sp 10B fällt aus",
+   "Std 2 (08:25): Sp 10B fällt aus",
+   "Std 2 (08:25): Kampfsport; Sp 10B fällt aus",
+   "Std 3 (09:40): sp3 12A-12E fällt aus",
+   "Std 3 (09:40): Kampfsport; sp3 12A-12E fällt aus",
+   "Std 4 (10:25): sp3 12A-12E fällt aus",
+   "Std 4 (10:25): Kampfsport; sp3 12A-12E fällt aus",
+   "Std 5 (11:40): sp3 11A-11D fällt aus",
+   "Std 5 (11:40): Kampfsport; sp3 11A-11D fällt aus",
+   "Std 6 (12:25): sp3 11A-11D fällt aus",
+   "Std 6 (12:25): Kampfsport; sp3 11A-11D fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Hofm",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): En 7B fällt aus",
+   "Std 1 (07:40): Upcycling; En 7B fällt aus",
+   "Std 2 (08:25): En 7B fällt aus",
+   "Std 2 (08:25): Upcycling; En 7B fällt aus",
+   "Std 3 (09:40): Phil 9D fällt aus",
+   "Std 3 (09:40): Upcycling; Phil 9D fällt aus",
+   "Std 4 (10:25): Phil 9D fällt aus",
+   "Std 4 (10:25): Upcycling; Phil 9D fällt aus",
+   "Std 5 (11:40): En 8C fällt aus",
+   "Std 5 (11:40): Upcycling; En 8C fällt aus",
+   "Std 6 (12:25): En 8C fällt aus",
+   "Std 6 (12:25): Upcycling; En 8C fällt aus",
+   "Std 7 (13:40): GS11 7A-7E,8A-8D fällt aus",
+   "Std 8 (14:25): GS11 7A-7E,8A-8D fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Hoh",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): Ph 7E fällt aus",
+   "Std 1 (07:40): Schulhofgestaltung; Ph 7E fällt aus",
+   "Std 2 (08:25): Ph 7E fällt aus",
+   "Std 2 (08:25): Schulhofgestaltung; Ph 7E fällt aus",
+   "Std 3 (09:40): Ph 7D fällt aus",
+   "Std 3 (09:40): Schulhofgestaltung; Ph 7D fällt aus",
+   "Std 4 (10:25): Ph 7D fällt aus",
+   "Std 4 (10:25): Schulhofgestaltung; Ph 7D fällt aus",
+   "Std 5 (11:40): Schulhofgestaltung",
+   "Std 6 (12:25): Schulhofgestaltung"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Hun",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): Ch 9D fällt aus",
+   "Std 1 (07:40): Zaungestaltung; Ch 9D fällt aus",
+   "Std 2 (08:25): Ch 9D fällt aus",
+   "Std 2 (08:25): Zaungestaltung; Ch 9D fällt aus",
+   "Std 3 (09:40): ch2 11A-11D fällt aus",
+   "Std 3 (09:40): Zaungestaltung; ch2 11A-11D fällt aus",
+   "Std 4 (10:25): ch2 11A-11D fällt aus",
+   "Std 4 (10:25): Zaungestaltung; ch2 11A-11D fällt aus",
+   "Std 5 (11:40): Zaungestaltung",
+   "Std 6 (12:25): Zaungestaltung",
+   "Std 7 (13:40): GS12 7A-7E,8A-8D fällt aus",
+   "Std 8 (14:25): GS12 7A-7E,8A-8D fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Jac",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): Stolpersteine",
+   "Std 2 (08:25): Stolpersteine",
+   "Std 3 (09:40): Stolpersteine",
+   "Std 4 (10:25): Stolpersteine",
+   "Std 5 (11:40): Stolpersteine",
+   "Std 6 (12:25): Stolpersteine"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Jur",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): De 7A fällt aus",
+   "Std 1 (07:40): Tanzen, Bitte Spiegelsaal nutzen!; De 7A fällt aus",
+   "Std 2 (08:25): De 7A fällt aus",
+   "Std 2 (08:25): Tanzen, Bitte Spiegelsaal nutzen!; De 7A fällt aus",
+   "Std 3 (09:40): Tanzen, Bitte Spiegelsaal nutzen!",
+   "Std 4 (10:25): Tanzen, Bitte Spiegelsaal nutzen!",
+   "Std 5 (11:40): De 10A fällt aus",
+   "Std 5 (11:40): Tanzen, Bitte Spiegelsaal nutzen!; De 10A fällt aus",
+   "Std 6 (12:25): De 10A fällt aus",
+   "Std 6 (12:25): Tanzen, Bitte Spiegelsaal nutzen!; De 10A fällt aus",
+   "Std 7 (13:40): de1 12A-12E fällt aus",
+   "Std 8 (14:25): de1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Kar",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): Schülerband",
+   "Std 2 (08:25): Schülerband",
+   "Std 3 (09:40): Schülerband",
+   "Std 4 (10:25): Schülerband",
+   "Std 5 (11:40): pro31 11A-11D fällt aus",
+   "Std 5 (11:40): Schülerband; pro31 11A-11D fällt aus",
+   "Std 6 (12:25): pro31 11A-11D fällt aus",
+   "Std 6 (12:25): Schülerband; pro31 11A-11D fällt aus",
+   "Std 7 (13:40): mu1 11A-11D fällt aus",
+   "Std 8 (14:25): mu1 11A-11D fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Köh",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): Span 7C fällt aus",
+   "Std 1 (07:40): Kochen; Span 7C fällt aus",
+   "Std 2 (08:25): Span 7C fällt aus",
+   "Std 2 (08:25): Kochen; Span 7C fällt aus",
+   "Std 3 (09:40): Kochen",
+   "Std 4 (10:25): Kochen",
+   "Std 5 (11:40): Span 9B fällt aus",
+   "Std 5 (11:40): Kochen; Span 9B fällt aus",
+   "Std 6 (12:25): Span 9B fällt aus",
+   "Std 6 (12:25): Kochen; Span 9B fällt aus",
+   "Std 7 (13:40): GS03 7A-7E,8A-8D fällt aus",
+   "Std 8 (14:25): GS03 7A-7E,8A-8D fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Mue",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): Sp 10A fällt aus",
+   "Std 1 (07:40): Schulhofgestaltung; Sp 10A fällt aus",
+   "Std 2 (08:25): Sp 10A fällt aus",
+   "Std 2 (08:25): Schulhofgestaltung; Sp 10A fällt aus",
+   "Std 3 (09:40): Schulhofgestaltung",
+   "Std 4 (10:25): Schulhofgestaltung",
+   "Std 5 (11:40): Geo 9A fällt aus",
+   "Std 5 (11:40): Schulhofgestaltung; Geo 9A fällt aus",
+   "Std 6 (12:25): Geo 9A fällt aus",
+   "Std 6 (12:25): Schulhofgestaltung; Geo 9A fällt aus",
+   "Std 7 (13:40): GS14 7A-7E,8A-8D fällt aus",
+   "Std 8 (14:25): GS14 7A-7E,8A-8D fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Ost",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): De 9B fällt aus",
+   "Std 1 (07:40): Beutelmanufaktur; De 9B fällt aus",
+   "Std 2 (08:25): De 9B fällt aus",
+   "Std 2 (08:25): Beutelmanufaktur; De 9B fällt aus",
+   "Std 3 (09:40): Bio 9B fällt aus",
+   "Std 3 (09:40): Beutelmanufaktur; Bio 9B fällt aus",
+   "Std 4 (10:25): Bio 9B fällt aus",
+   "Std 4 (10:25): Beutelmanufaktur; Bio 9B fällt aus",
+   "Std 5 (11:40): ILZ 8B fällt aus",
+   "Std 5 (11:40): Beutelmanufaktur; ILZ 8B fällt aus",
+   "Std 6 (12:25): KL 8B fällt aus",
+   "Std 6 (12:25): Beutelmanufaktur; KL 8B fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Pri",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): Orga-Team",
+   "Std 2 (08:25): Orga-Team",
+   "Std 3 (09:40): Orga-Team",
+   "Std 4 (10:25): Orga-Team",
+   "Std 5 (11:40): Ge 7E fällt aus",
+   "Std 5 (11:40): Orga-Team; Ge 7E fällt aus",
+   "Std 6 (12:25): Ge 7E fällt aus",
+   "Std 6 (12:25): Orga-Team; Ge 7E fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Rat",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): ere1 12A-12E fällt aus",
+   "Std 1 (07:40): Schönberg erkunden; ere1 12A-12E fällt aus",
+   "Std 2 (08:25): ere1 12A-12E fällt aus",
+   "Std 2 (08:25): Schönberg erkunden; ere1 12A-12E fällt aus",
+   "Std 3 (09:40): Ku 7A fällt aus",
+   "Std 3 (09:40): Schönberg erkunden; Ku 7A fällt aus",
+   "Std 4 (10:25): Ku 7A fällt aus",
+   "Std 4 (10:25): Schönberg erkunden; Ku 7A fällt aus",
+   "Std 5 (11:40): Schönberg erkunden",
+   "Std 6 (12:25): Schönberg erkunden"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Roh",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): Ma 10C fällt aus",
+   "Std 1 (07:40): Schulhofgestaltung; Ma 10C fällt aus",
+   "Std 2 (08:25): Ma 10C fällt aus",
+   "Std 2 (08:25): Schulhofgestaltung; Ma 10C fällt aus",
+   "Std 3 (09:40): Ph 8C fällt aus",
+   "Std 3 (09:40): Schulhofgestaltung; Ph 8C fällt aus",
+   "Std 4 (10:25): Ph 8C fällt aus",
+   "Std 4 (10:25): Schulhofgestaltung; Ph 8C fällt aus",
+   "Std 5 (11:40): Schulhofgestaltung",
+   "Std 6 (12:25): Schulhofgestaltung",
+   "Std 7 (13:40): Ma 9B fällt aus",
+   "Std 8 (14:25): Ma 9B fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Schuc",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): phil2 12A-12E fällt aus",
+   "Std 1 (07:40): Angeln; phil2 12A-12E fällt aus",
+   "Std 2 (08:25): phil2 12A-12E fällt aus",
+   "Std 2 (08:25): Angeln; phil2 12A-12E fällt aus",
+   "Std 3 (09:40): phil1 11A-11D fällt aus",
+   "Std 3 (09:40): Angeln; phil1 11A-11D fällt aus",
+   "Std 4 (10:25): phil1 11A-11D fällt aus",
+   "Std 4 (10:25): Angeln; phil1 11A-11D fällt aus",
+   "Std 5 (11:40): Angeln",
+   "Std 6 (12:25): Angeln"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "See",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): B VK fällt aus",
+   "Std 1 (07:40): Beutelmanufaktur; B VK fällt aus",
+   "Std 2 (08:25): B VK fällt aus",
+   "Std 2 (08:25): Beutelmanufaktur; B VK fällt aus",
+   "Std 3 (09:40): Beutelmanufaktur",
+   "Std 4 (10:25): Beutelmanufaktur",
+   "Std 5 (11:40): Beutelmanufaktur",
+   "Std 6 (12:25): Beutelmanufaktur",
+   "Std 7 (13:40): Bio 10A fällt aus",
+   "Std 8 (14:25): Bio 10A fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Ter",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): BIO1 11A-11D fällt aus",
+   "Std 1 (07:40): Orga-Team; BIO1 11A-11D fällt aus",
+   "Std 2 (08:25): BIO1 11A-11D fällt aus",
+   "Std 2 (08:25): Orga-Team; BIO1 11A-11D fällt aus",
+   "Std 3 (09:40): dsp1 11A-11D fällt aus",
+   "Std 3 (09:40): Orga-Team; dsp1 11A-11D fällt aus",
+   "Std 4 (10:25): dsp1 11A-11D fällt aus",
+   "Std 4 (10:25): Orga-Team; dsp1 11A-11D fällt aus",
+   "Std 5 (11:40): Orga-Team",
+   "Std 6 (12:25): Orga-Team"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Tie",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): De 9A fällt aus",
+   "Std 1 (07:40): Schulbibliothek; De 9A fällt aus",
+   "Std 2 (08:25): De 9A fällt aus",
+   "Std 2 (08:25): Schulbibliothek; De 9A fällt aus",
+   "Std 3 (09:40): Ge 9C fällt aus",
+   "Std 3 (09:40): Schulbibliothek; Ge 9C fällt aus",
+   "Std 4 (10:25): Ge 9C fällt aus",
+   "Std 4 (10:25): Schulbibliothek; Ge 9C fällt aus",
+   "Std 5 (11:40): Ge 8D fällt aus",
+   "Std 5 (11:40): Schulbibliothek; Ge 8D fällt aus",
+   "Std 6 (12:25): Ge 8D fällt aus",
+   "Std 6 (12:25): Schulbibliothek; Ge 8D fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Tuh",
+  "datum": "Mittwoch, 08. Juli 2026",
+  "date_key": "20260708",
+  "changes": [
+   "Std 1 (07:40): Klimakoffer",
+   "Std 2 (08:25): Klimakoffer",
+   "Std 3 (09:40): De 10B fällt aus",
+   "Std 3 (09:40): Klimakoffer; De 10B fällt aus",
+   "Std 4 (10:25): De 10B fällt aus",
+   "Std 4 (10:25): Klimakoffer; De 10B fällt aus",
+   "Std 5 (11:40): De 7D fällt aus",
+   "Std 5 (11:40): Klimakoffer; De 7D fällt aus",
+   "Std 6 (12:25): De 7D fällt aus",
+   "Std 6 (12:25): Klimakoffer; De 7D fällt aus",
+   "Std 7 (13:40): GS02 7A-7E,8A-8D fällt aus",
+   "Std 8 (14:25): GS02 7A-7E,8A-8D fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Bes",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Ph 9D fällt aus",
+   "Std 1 (07:40): Schulhofgestaltung; Ph 9D fällt aus",
+   "Std 2 (08:25): Ph 9D fällt aus",
+   "Std 2 (08:25): Schulhofgestaltung; Ph 9D fällt aus",
+   "Std 3 (09:40): PH1 12A-12E fällt aus",
+   "Std 3 (09:40): Schulhofgestaltung; PH1 12A-12E fällt aus",
+   "Std 4 (10:25): PH1 12A-12E fällt aus",
+   "Std 4 (10:25): Schulhofgestaltung; PH1 12A-12E fällt aus",
+   "Std 5 (11:40): Schulhofgestaltung",
+   "Std 6 (12:25): Schulhofgestaltung"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Bir",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Upcycling",
+   "Std 2 (08:25): Upcycling",
+   "Std 3 (09:40): Upcycling",
+   "Std 4 (10:25): Upcycling",
+   "Std 5 (11:40): Mu 10C fällt aus",
+   "Std 5 (11:40): Upcycling; Mu 10C fällt aus",
+   "Std 6 (12:25): Mu 10C fällt aus",
+   "Std 6 (12:25): Upcycling; Mu 10C fällt aus",
+   "Std 7 (13:40): Mu 10B fällt aus",
+   "Std 8 (14:25): Mu 10B fällt aus",
+   "Std 9 (15:40): mue2 11A-11D fällt aus",
+   "Std 10 (16:25): mue2 11A-11D fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Bob",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Ch 10C fällt aus",
+   "Std 1 (07:40): Cheerleading; Ch 10C fällt aus",
+   "Std 2 (08:25): Ch 10C fällt aus",
+   "Std 2 (08:25): Cheerleading; Ch 10C fällt aus",
+   "Std 3 (09:40): Cheerleading",
+   "Std 4 (10:25): Cheerleading",
+   "Std 5 (11:40): Ch 8D fällt aus",
+   "Std 5 (11:40): Cheerleading; Ch 8D fällt aus",
+   "Std 6 (12:25): Ch 8D fällt aus",
+   "Std 6 (12:25): Cheerleading; Ch 8D fällt aus",
+   "Std 7 (13:40): Ph 8A fällt aus",
+   "Std 8 (14:25): Ph 8A fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Bri",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Ma 10D fällt aus",
+   "Std 1 (07:40): Makramee; Ma 10D fällt aus",
+   "Std 2 (08:25): Ma 10D fällt aus",
+   "Std 2 (08:25): Makramee; Ma 10D fällt aus",
+   "Std 3 (09:40): ma1 11A-11D fällt aus",
+   "Std 3 (09:40): Makramee; ma1 11A-11D fällt aus",
+   "Std 4 (10:25): ma1 11A-11D fällt aus",
+   "Std 4 (10:25): Makramee; ma1 11A-11D fällt aus",
+   "Std 5 (11:40): MA1 11A-11D fällt aus",
+   "Std 5 (11:40): Makramee; MA1 11A-11D fällt aus",
+   "Std 6 (12:25): MA1 11A-11D fällt aus",
+   "Std 6 (12:25): Makramee; MA1 11A-11D fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Fla",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Buttons und Siebdruck",
+   "Std 2 (08:25): Buttons und Siebdruck",
+   "Std 3 (09:40): ILZ 7C fällt aus",
+   "Std 3 (09:40): Buttons und Siebdruck; ILZ 7C fällt aus",
+   "Std 4 (10:25): KL 7C fällt aus",
+   "Std 4 (10:25): Buttons und Siebdruck; KL 7C fällt aus",
+   "Std 5 (11:40): Buttons und Siebdruck",
+   "Std 6 (12:25): Buttons und Siebdruck"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Hei",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Geo 10A fällt aus",
+   "Std 1 (07:40): Schulrallye und Foto-AG; Geo 10A fällt aus",
+   "Std 2 (08:25): Geo 10A fällt aus",
+   "Std 2 (08:25): Schulrallye und Foto-AG; Geo 10A fällt aus",
+   "Std 3 (09:40): Schulrallye und Foto-AG",
+   "Std 4 (10:25): Schulrallye und Foto-AG",
+   "Std 5 (11:40): Geo 9C fällt aus",
+   "Std 5 (11:40): Schulrallye und Foto-AG; Geo 9C fällt aus",
+   "Std 6 (12:25): Geo 9C fällt aus",
+   "Std 6 (12:25): Schulrallye und Foto-AG; Geo 9C fällt aus",
+   "Std 7 (13:40): geo2 12A-12E fällt aus",
+   "Std 8 (14:25): geo2 12A-12E fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Her",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Kampfsport",
+   "Std 2 (08:25): Kampfsport",
+   "Std 3 (09:40): Kampfsport",
+   "Std 4 (10:25): Kampfsport",
+   "Std 5 (11:40): Sp 9D fällt aus",
+   "Std 5 (11:40): Kampfsport; Sp 9D fällt aus",
+   "Std 6 (12:25): Sp 9D fällt aus",
+   "Std 6 (12:25): Kampfsport; Sp 9D fällt aus",
+   "Std 7 (13:40): Sp 7D fällt aus",
+   "Std 8 (14:25): Sp 7D fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Hofm",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): B VK fällt aus",
+   "Std 1 (07:40): Upcycling; B VK fällt aus",
+   "Std 2 (08:25): B VK fällt aus",
+   "Std 2 (08:25): Upcycling; B VK fällt aus",
+   "Std 3 (09:40): ILZ 7B fällt aus",
+   "Std 3 (09:40): Upcycling; ILZ 7B fällt aus",
+   "Std 4 (10:25): KL 7B fällt aus",
+   "Std 4 (10:25): Upcycling; KL 7B fällt aus",
+   "Std 5 (11:40): Upcycling",
+   "Std 6 (12:25): Upcycling",
+   "Std 7 (13:40): en2 11A-11D fällt aus",
+   "Std 8 (14:25): en2 11A-11D fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Hoh",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Ma 8A fällt aus",
+   "Std 1 (07:40): Schulhofgestaltung; Ma 8A fällt aus",
+   "Std 2 (08:25): Ma 8A fällt aus",
+   "Std 2 (08:25): Schulhofgestaltung; Ma 8A fällt aus",
+   "Std 3 (09:40): Ph 8B fällt aus",
+   "Std 3 (09:40): Schulhofgestaltung; Ph 8B fällt aus",
+   "Std 4 (10:25): Ph 8B fällt aus",
+   "Std 4 (10:25): Schulhofgestaltung; Ph 8B fällt aus",
+   "Std 5 (11:40): Ma 7D fällt aus",
+   "Std 5 (11:40): Schulhofgestaltung; Ma 7D fällt aus",
+   "Std 6 (12:25): Ma 7D fällt aus",
+   "Std 6 (12:25): Schulhofgestaltung; Ma 7D fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Jac",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Stolpersteine",
+   "Std 2 (08:25): Stolpersteine",
+   "Std 3 (09:40): Stolpersteine",
+   "Std 4 (10:25): Stolpersteine",
+   "Std 5 (11:40): Stolpersteine",
+   "Std 6 (12:25): Stolpersteine"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Jur",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Tanzen, Bitte Spiegelsaal nutzen!",
+   "Std 2 (08:25): Tanzen, Bitte Spiegelsaal nutzen!",
+   "Std 3 (09:40): DE2 12A-12E fällt aus",
+   "Std 3 (09:40): Tanzen, Bitte Spiegelsaal nutzen!; DE2 12A-12E fällt aus",
+   "Std 4 (10:25): DE2 12A-12E fällt aus",
+   "Std 4 (10:25): Tanzen, Bitte Spiegelsaal nutzen!; DE2 12A-12E fällt aus",
+   "Std 5 (11:40): De 8C fällt aus",
+   "Std 5 (11:40): Tanzen, Bitte Spiegelsaal nutzen!; De 8C fällt aus",
+   "Std 6 (12:25): De 8C fällt aus",
+   "Std 6 (12:25): Tanzen, Bitte Spiegelsaal nutzen!; De 8C fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Kar",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Kno",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Klimakoffer",
+   "Std 2 (08:25): Klimakoffer",
+   "Std 3 (09:40): Ch 9B fällt aus",
+   "Std 3 (09:40): Klimakoffer; Ch 9B fällt aus",
+   "Std 4 (10:25): Ch 9B fällt aus",
+   "Std 4 (10:25): Klimakoffer; Ch 9B fällt aus",
+   "Std 5 (11:40): AWT 7E fällt aus",
+   "Std 5 (11:40): Klimakoffer; AWT 7E fällt aus",
+   "Std 6 (12:25): AWT 7E fällt aus",
+   "Std 6 (12:25): Klimakoffer; AWT 7E fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Köh",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Span 7B fällt aus",
+   "Std 1 (07:40): Kochen; Span 7B fällt aus",
+   "Std 2 (08:25): Span 7B fällt aus",
+   "Std 2 (08:25): Kochen; Span 7B fällt aus",
+   "Std 3 (09:40): Span 7E fällt aus",
+   "Std 3 (09:40): Kochen; Span 7E fällt aus",
+   "Std 4 (10:25): Span 7E fällt aus",
+   "Std 4 (10:25): Kochen; Span 7E fällt aus",
+   "Std 5 (11:40): Kochen",
+   "Std 6 (12:25): Kochen"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Mue",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Sp 8C fällt aus",
+   "Std 1 (07:40): Schulhofgestaltung; Sp 8C fällt aus",
+   "Std 2 (08:25): Sp 8C fällt aus",
+   "Std 2 (08:25): Schulhofgestaltung; Sp 8C fällt aus",
+   "Std 3 (09:40): Geo 8D fällt aus",
+   "Std 3 (09:40): Schulhofgestaltung; Geo 8D fällt aus",
+   "Std 4 (10:25): Geo 8D fällt aus",
+   "Std 4 (10:25): Schulhofgestaltung; Geo 8D fällt aus",
+   "Std 5 (11:40): Schulhofgestaltung",
+   "Std 6 (12:25): Schulhofgestaltung",
+   "Std 7 (13:40): Sp 7B fällt aus",
+   "Std 8 (14:25): Sp 7B fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Ost",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Beutelmanufaktur",
+   "Std 2 (08:25): Beutelmanufaktur",
+   "Std 3 (09:40): Beutelmanufaktur",
+   "Std 4 (10:25): Beutelmanufaktur",
+   "Std 5 (11:40): De 8A fällt aus",
+   "Std 5 (11:40): Beutelmanufaktur; De 8A fällt aus",
+   "Std 6 (12:25): De 8A fällt aus",
+   "Std 6 (12:25): Beutelmanufaktur; De 8A fällt aus",
+   "Std 7 (13:40): de3 12A-12E fällt aus",
+   "Std 8 (14:25): de3 12A-12E fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Pri",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): En 9B fällt aus",
+   "Std 1 (07:40): Orga-Team; En 9B fällt aus",
+   "Std 2 (08:25): En 9B fällt aus",
+   "Std 2 (08:25): Orga-Team; En 9B fällt aus",
+   "Std 3 (09:40): Ge 7A fällt aus",
+   "Std 3 (09:40): Orga-Team; Ge 7A fällt aus",
+   "Std 4 (10:25): Ge 7A fällt aus",
+   "Std 4 (10:25): Orga-Team; Ge 7A fällt aus",
+   "Std 5 (11:40): EN1 12A-12E fällt aus",
+   "Std 5 (11:40): Orga-Team; EN1 12A-12E fällt aus",
+   "Std 6 (12:25): EN1 12A-12E fällt aus",
+   "Std 6 (12:25): Orga-Team; EN1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Rat",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Schönberg erkunden",
+   "Std 2 (08:25): Schönberg erkunden",
+   "Std 3 (09:40): Schönberg erkunden",
+   "Std 4 (10:25): Schönberg erkunden",
+   "Std 5 (11:40): Schönberg erkunden",
+   "Std 6 (12:25): Schönberg erkunden"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Roh",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Ma 7E fällt aus",
+   "Std 1 (07:40): Schulhofgestaltung; Ma 7E fällt aus",
+   "Std 2 (08:25): Ma 7E fällt aus",
+   "Std 2 (08:25): Schulhofgestaltung; Ma 7E fällt aus",
+   "Std 3 (09:40): Ma 8C fällt aus",
+   "Std 3 (09:40): Schulhofgestaltung; Ma 8C fällt aus",
+   "Std 4 (10:25): Ma 8C fällt aus",
+   "Std 4 (10:25): Schulhofgestaltung; Ma 8C fällt aus",
+   "Std 5 (11:40): MA1 12A-12E fällt aus",
+   "Std 5 (11:40): Schulhofgestaltung; MA1 12A-12E fällt aus",
+   "Std 6 (12:25): MA1 12A-12E fällt aus",
+   "Std 6 (12:25): Schulhofgestaltung; MA1 12A-12E fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Schuc",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Phil 9C fällt aus",
+   "Std 1 (07:40): Angeln; Phil 9C fällt aus",
+   "Std 2 (08:25): Phil 9C fällt aus",
+   "Std 2 (08:25): Angeln; Phil 9C fällt aus",
+   "Std 3 (09:40): GE1 12A-12E fällt aus",
+   "Std 3 (09:40): Angeln; GE1 12A-12E fällt aus",
+   "Std 4 (10:25): GE1 12A-12E fällt aus",
+   "Std 4 (10:25): Angeln; GE1 12A-12E fällt aus",
+   "Std 5 (11:40): GE1 11A-11D fällt aus",
+   "Std 5 (11:40): Angeln; GE1 11A-11D fällt aus",
+   "Std 6 (12:25): GE1 11A-11D fällt aus",
+   "Std 6 (12:25): Angeln; GE1 11A-11D fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "See",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Beutelmanufaktur",
+   "Std 2 (08:25): Beutelmanufaktur",
+   "Std 3 (09:40): BIO1 12A-12E fällt aus",
+   "Std 3 (09:40): Beutelmanufaktur; BIO1 12A-12E fällt aus",
+   "Std 4 (10:25): BIO1 12A-12E fällt aus",
+   "Std 4 (10:25): Beutelmanufaktur; BIO1 12A-12E fällt aus",
+   "Std 5 (11:40): Bio 10B fällt aus",
+   "Std 5 (11:40): Beutelmanufaktur; Bio 10B fällt aus",
+   "Std 6 (12:25): Bio 10B fällt aus",
+   "Std 6 (12:25): Beutelmanufaktur; Bio 10B fällt aus",
+   "Std 7 (13:40): Bio 10D fällt aus",
+   "Std 8 (14:25): Bio 10D fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Ter",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Orga-Team",
+   "Std 2 (08:25): Orga-Team",
+   "Std 3 (09:40): Bio 9C fällt aus",
+   "Std 3 (09:40): Orga-Team; Bio 9C fällt aus",
+   "Std 4 (10:25): Bio 9C fällt aus",
+   "Std 4 (10:25): Orga-Team; Bio 9C fällt aus",
+   "Std 5 (11:40): BIO2 12A-12E fällt aus",
+   "Std 5 (11:40): Orga-Team; BIO2 12A-12E fällt aus",
+   "Std 6 (12:25): BIO2 12A-12E fällt aus",
+   "Std 6 (12:25): Orga-Team; BIO2 12A-12E fällt aus",
+   "Std 7 (13:40): bio1 11A-11D fällt aus",
+   "Std 8 (14:25): bio1 11A-11D fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Tie",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Schulbibliothek",
+   "Std 2 (08:25): Schulbibliothek",
+   "Std 3 (09:40): Schulbibliothek",
+   "Std 4 (10:25): Schulbibliothek",
+   "Std 5 (11:40): Schulbibliothek",
+   "Std 6 (12:25): Schulbibliothek",
+   "Std 7 (13:40): De 8D fällt aus",
+   "Std 8 (14:25): De 8D fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T08:19:15.456391",
+  "lehrer": "Tuh",
+  "datum": "Donnerstag, 09. Juli 2026",
+  "date_key": "20260709",
+  "changes": [
+   "Std 1 (07:40): Klimakoffer",
+   "Std 2 (08:25): Klimakoffer",
+   "Std 3 (09:40): de1 11A-11D fällt aus",
+   "Std 3 (09:40): Klimakoffer; de1 11A-11D fällt aus",
+   "Std 4 (10:25): de1 11A-11D fällt aus",
+   "Std 4 (10:25): Klimakoffer; de1 11A-11D fällt aus",
+   "Std 5 (11:40): Klimakoffer",
+   "Std 6 (12:25): Klimakoffer",
+   "Std 7 (13:40): de2 11A-11D fällt aus",
+   "Std 8 (14:25): de2 11A-11D fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 07:51"
  }
 ]
