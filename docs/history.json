@@ -1,124 +1,5 @@
 [
  {
-  "timestamp": "2026-06-30T08:26:58.375229",
-  "lehrer": "Fech",
-  "datum": "Dienstag, 30. Juni 2026",
-  "date_key": "20260630",
-  "changes": [
-   "Std 3 (09:40): Hausunterricht S. Hamann",
-   "Std 4 (10:25): Hausunterricht S. Hamann",
-   "Std 5 (11:40): Hausunterricht S. Hamann",
-   "Std 7 (13:40): Club1 10A-10D,9A-9D fällt aus",
-   "Std 8 (14:25): Club1 10A-10D,9A-9D fällt aus"
-  ],
-  "zeitstempel": "30.06.2026, 08:08"
- },
- {
-  "timestamp": "2026-06-30T08:26:58.375229",
-  "lehrer": "Fla",
-  "datum": "Dienstag, 30. Juni 2026",
-  "date_key": "20260630",
-  "changes": [
-   "Std 3 (09:40): Bio 7A verlegt nach Mi (01.07.) St.5, Verlegung aufgrund Fußverletzung",
-   "Std 4 (10:25): Bio 7A verlegt nach Mi (01.07.) St.6, Verlegung aufgrund Fußverletzung",
-   "Std 7 (13:40): bio1 12A-12E fällt aus",
-   "Std 8 (14:25): bio1 12A-12E fällt aus"
-  ],
-  "zeitstempel": "30.06.2026, 08:08"
- },
- {
-  "timestamp": "2026-06-30T08:26:58.375229",
-  "lehrer": "Hun",
-  "datum": "Dienstag, 30. Juni 2026",
-  "date_key": "20260630",
-  "changes": [
-   "Std 3 (09:40): As 9C fällt aus",
-   "Std 4 (10:25): As 9C fällt aus",
-   "Std 5 (11:40): für Ph Hun, Verlegung aufgrund Fußverletzung",
-   "Std 6 (12:25): für Ph Hun, Verlegung aufgrund Fußverletzung",
-   "Std 7 (13:40): Clu11 10A-10D,9A-9D fällt aus",
-   "Std 8 (14:25): Clu11 10A-10D,9A-9D fällt aus"
-  ],
-  "zeitstempel": "30.06.2026, 08:08"
- },
- {
-  "timestamp": "2026-06-30T08:26:58.375229",
-  "lehrer": "Käc",
-  "datum": "Dienstag, 30. Juni 2026",
-  "date_key": "20260630",
-  "changes": [
-   "Std 1 (07:40): B VK fällt aus",
-   "Std 2 (08:25): B VK fällt aus",
-   "Std 3 (09:40): B VK fällt aus",
-   "Std 3 (09:40): statt Mi (01.07.) St.5 (En Bis); B VK fällt aus",
-   "Std 4 (10:25): B VK fällt aus",
-   "Std 4 (10:25): statt Mi (01.07.) St.6 (En Bis); B VK fällt aus",
-   "Std 5 (11:40): B VK fällt aus",
-   "Std 5 (11:40): Hausunterricht S. Hamann; B VK fällt aus",
-   "Std 6 (12:25): B VK fällt aus",
-   "Std 6 (12:25): Hausunterricht S. Hamann; B VK fällt aus"
-  ],
-  "zeitstempel": "30.06.2026, 08:08"
- },
- {
-  "timestamp": "2026-06-30T08:26:58.375229",
-  "lehrer": "Fla",
-  "datum": "Mittwoch, 01. Juli 2026",
-  "date_key": "20260701",
-  "changes": [
-   "Std 3 (09:40): für De Fla",
-   "Std 4 (10:25): für De Fla",
-   "Std 5 (11:40): Bio 7A statt Di (30.06.) St.3, Verlegung aufgrund Fußverletzung",
-   "Std 6 (12:25): Bio 7A statt Di (30.06.) St.4, Verlegung aufgrund Fußverletzung"
-  ],
-  "zeitstempel": "30.06.2026, 08:08"
- },
- {
-  "timestamp": "2026-06-30T08:26:58.375229",
-  "lehrer": "Hei",
-  "datum": "Mittwoch, 01. Juli 2026",
-  "date_key": "20260701",
-  "changes": [
-   "Std 3 (09:40): ILZ 8A verlegt nach St.5",
-   "Std 3 (09:40): Geo 7A statt Do (02.07.) St.3, Verlegung aufgrund Fußverletzung; ILZ 8A verlegt nach St.5",
-   "Std 4 (10:25): ILZ 8A verlegt nach St.6",
-   "Std 4 (10:25): Geo 7A statt Do (02.07.) St.4, Verlegung aufgrund Fußverletzung; ILZ 8A verlegt nach St.6",
-   "Std 5 (11:40): geo1 12A-12E fällt aus",
-   "Std 5 (11:40): ILZ 8A verlegt von St.3; geo1 12A-12E fällt aus",
-   "Std 6 (12:25): geo1 12A-12E fällt aus",
-   "Std 6 (12:25): ILZ 8A verlegt von St.4; geo1 12A-12E fällt aus"
-  ],
-  "zeitstempel": "30.06.2026, 08:08"
- },
- {
-  "timestamp": "2026-06-30T08:26:58.375229",
-  "lehrer": "Pri",
-  "datum": "Mittwoch, 01. Juli 2026",
-  "date_key": "20260701",
-  "changes": [
-   "Std 5 (11:40): Ge 7E gehalten am Di (30.06.) St.5",
-   "Std 5 (11:40): Verkündung Gesamtqualifikation 12:15, dann Stellprobe Kirche; Ge 7E gehalten am Di (30.06.) St.5 (Pri)",
-   "Std 6 (12:25): Ge 7E gehalten am Di (30.06.) St.6",
-   "Std 6 (12:25): Verkündung Gesamtqualifikation 12:15, dann Stellprobe Kirche; Ge 7E gehalten am Di (30.06.) St.6 (Pri)",
-   "Std 7 (13:40): Ge 10A fällt aus",
-   "Std 8 (14:25): Ge 10A fällt aus"
-  ],
-  "zeitstempel": "30.06.2026, 08:08"
- },
- {
-  "timestamp": "2026-06-30T08:26:58.375229",
-  "lehrer": "Hei",
-  "datum": "Donnerstag, 02. Juli 2026",
-  "date_key": "20260702",
-  "changes": [
-   "Std 3 (09:40): Geo 7A gehalten am Mi (01.07.) St.3, Verlegung aufgrund Fußverletzung",
-   "Std 3 (09:40): Fr 7A statt Fr (03.07.) St.1; Geo 7A gehalten am Mi (01.07.) St.3, Verlegung aufgrund Fußverletzung",
-   "Std 4 (10:25): Geo 7A gehalten am Mi (01.07.) St.4, Verlegung aufgrund Fußverletzung",
-   "Std 4 (10:25): Fr 7A statt Fr (03.07.) St.2; Geo 7A gehalten am Mi (01.07.) St.4, Verlegung aufgrund Fußverletzung"
-  ],
-  "zeitstempel": "30.06.2026, 08:08"
- },
- {
   "timestamp": "2026-07-01T11:45:39.918455",
   "lehrer": "Bes",
   "datum": "Mittwoch, 01. Juli 2026",
@@ -2358,5 +2239,42 @@
    "Std 8 (14:25): de2 11A-11D fällt aus"
   ],
   "zeitstempel": "07.07.2026, 07:51"
+ },
+ {
+  "timestamp": "2026-07-07T11:20:04.505373",
+  "lehrer": "Bob",
+  "datum": "Freitag, 10. Juli 2026",
+  "date_key": "20260710",
+  "changes": [
+   "Std 1 (07:40): Schulfest",
+   "Std 2 (08:25): Schulfest",
+   "Std 3 (09:40): Schulfest",
+   "Std 4 (10:25): Schulfest",
+   "Std 5 (11:40): Zeugnisausgabe, Hr. Heimrich muss früher los, bitte Aufsicht durch Bob",
+   "Std 6 (12:25): Zeugnisausgabe, Hr. Heimrich muss früher los, bitte Aufsicht durch Bob"
+  ],
+  "zeitstempel": "07.07.2026, 13:17"
+ },
+ {
+  "timestamp": "2026-07-07T11:20:04.505373",
+  "lehrer": "Hei",
+  "datum": "Freitag, 10. Juli 2026",
+  "date_key": "20260710",
+  "changes": [
+   "Std 1 (07:40): Fr 7A fällt aus",
+   "Std 1 (07:40): Schulfest; Fr 7A fällt aus",
+   "Std 2 (08:25): Fr 7A fällt aus",
+   "Std 2 (08:25): Schulfest; Fr 7A fällt aus",
+   "Std 3 (09:40): Fr 10A fällt aus",
+   "Std 3 (09:40): Schulfest; Fr 10A fällt aus",
+   "Std 4 (10:25): Fr 10A fällt aus",
+   "Std 4 (10:25): Schulfest; Fr 10A fällt aus",
+   "Std 5 (11:40): Geo 7A fällt aus",
+   "Std 5 (11:40): Zeugnisausgabe, Hr. Heimrich muss früher los, bitte Aufsicht durch Bob; Geo 7A fällt aus",
+   "Std 6 (12:25): Geo 7A fällt aus",
+   "Std 6 (12:25): Zeugnisausgabe, Hr. Heimrich muss früher los, bitte Aufsicht durch Bob; Geo 7A fällt aus",
+   "Std 9 (15:40): KL 8A fällt aus"
+  ],
+  "zeitstempel": "07.07.2026, 13:17"
  }
 ]

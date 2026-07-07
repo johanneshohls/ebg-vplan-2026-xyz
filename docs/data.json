@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "07.07.2026, 08:22 Uhr",
- "last_changed": "2026-07-07T07:53:00",
+ "generiert": "07.07.2026, 11:20 Uhr",
+ "last_changed": "2026-07-07T13:17:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -22384,7 +22384,7 @@
     },
     "20260710": {
      "datum": "Freitag, 10. Juli 2026",
-     "zeitstempel": "07.07.2026, 07:51",
+     "zeitstempel": "07.07.2026, 13:17",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -22604,6 +22604,22 @@
          "klasse": "",
          "raum": "",
          "info": " Schulfest",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "Zeugnisausgabe, Hr. Heimrich muss früher los, bitte Aufsicht durch Bob",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "Zeugnisausgabe, Hr. Heimrich muss früher los, bitte Aufsicht durch Bob",
          "geaendert": true
         }
        ],
@@ -23056,7 +23072,7 @@
          "fach": "KL",
          "klasse": "8A",
          "raum": "201",
-         "info": "Zeugnisausgabe; Geo 7A fällt aus",
+         "info": "Zeugnisausgabe, Hr. Heimrich muss früher los, bitte Aufsicht durch Bob; Geo 7A fällt aus",
          "geaendert": true
         },
         {
@@ -23072,7 +23088,7 @@
          "fach": "KL",
          "klasse": "8A",
          "raum": "201",
-         "info": "Zeugnisausgabe; Geo 7A fällt aus",
+         "info": "Zeugnisausgabe, Hr. Heimrich muss früher los, bitte Aufsicht durch Bob; Geo 7A fällt aus",
          "geaendert": true
         },
         {
