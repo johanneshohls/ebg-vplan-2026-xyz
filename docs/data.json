@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "07.07.2026, 13:27 Uhr",
- "last_changed": "2026-07-07T13:17:00",
+ "generiert": "07.07.2026, 15:59 Uhr",
+ "last_changed": "2026-07-07T15:51:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -13799,7 +13799,7 @@
     },
     "20260707": {
      "datum": "Dienstag, 07. Juli 2026",
-     "zeitstempel": "07.07.2026, 07:53",
+     "zeitstempel": "07.07.2026, 15:51",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -15976,7 +15976,7 @@
     },
     "20260708": {
      "datum": "Mittwoch, 08. Juli 2026",
-     "zeitstempel": "07.07.2026, 07:51",
+     "zeitstempel": "07.07.2026, 15:51",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -17297,8 +17297,8 @@
          "stunde": "1",
          "fach": "---",
          "klasse": "",
-         "raum": "Tu1",
-         "info": "Tanzen, Bitte Spiegelsaal nutzen!; De 7A fällt aus",
+         "raum": "105",
+         "info": "Tanzen; De 7A fällt aus",
          "geaendert": true
         },
         {
@@ -17313,24 +17313,24 @@
          "stunde": "2",
          "fach": "---",
          "klasse": "",
-         "raum": "Tu1",
-         "info": "Tanzen, Bitte Spiegelsaal nutzen!; De 7A fällt aus",
+         "raum": "105",
+         "info": "Tanzen; De 7A fällt aus",
          "geaendert": true
         },
         {
          "stunde": "3",
          "fach": "---",
          "klasse": "",
-         "raum": "Tu1",
-         "info": "Tanzen, Bitte Spiegelsaal nutzen!",
+         "raum": "105",
+         "info": "Tanzen",
          "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
-         "raum": "Tu1",
-         "info": "Tanzen, Bitte Spiegelsaal nutzen!",
+         "raum": "105",
+         "info": "Tanzen",
          "geaendert": true
         },
         {
@@ -17345,8 +17345,8 @@
          "stunde": "5",
          "fach": "---",
          "klasse": "",
-         "raum": "Tu1",
-         "info": "Tanzen, Bitte Spiegelsaal nutzen!; De 10A fällt aus",
+         "raum": "105",
+         "info": "Tanzen; De 10A fällt aus",
          "geaendert": true
         },
         {
@@ -17361,8 +17361,8 @@
          "stunde": "6",
          "fach": "---",
          "klasse": "",
-         "raum": "Tu1",
-         "info": "Tanzen, Bitte Spiegelsaal nutzen!; De 10A fällt aus",
+         "raum": "105",
+         "info": "Tanzen; De 10A fällt aus",
          "geaendert": true
         },
         {
@@ -17450,7 +17450,7 @@
          "stunde": "1",
          "fach": "---",
          "klasse": "",
-         "raum": "Aula HÜA",
+         "raum": "HÜA",
          "info": " Schülerband",
          "geaendert": true
         },
@@ -17458,7 +17458,7 @@
          "stunde": "2",
          "fach": "---",
          "klasse": "",
-         "raum": "Aula HÜA",
+         "raum": "HÜA",
          "info": " Schülerband",
          "geaendert": true
         },
@@ -17466,7 +17466,7 @@
          "stunde": "3",
          "fach": "---",
          "klasse": "",
-         "raum": "Aula HÜA",
+         "raum": "HÜA",
          "info": " Schülerband",
          "geaendert": true
         },
@@ -17474,7 +17474,7 @@
          "stunde": "4",
          "fach": "---",
          "klasse": "",
-         "raum": "Aula HÜA",
+         "raum": "HÜA",
          "info": " Schülerband",
          "geaendert": true
         },
@@ -17490,7 +17490,7 @@
          "stunde": "5",
          "fach": "---",
          "klasse": "",
-         "raum": "Aula HÜA",
+         "raum": "HÜA",
          "info": " Schülerband; pro31 11A-11D fällt aus",
          "geaendert": true
         },
@@ -17506,7 +17506,7 @@
          "stunde": "6",
          "fach": "---",
          "klasse": "",
-         "raum": "Aula HÜA",
+         "raum": "HÜA",
          "info": " Schülerband; pro31 11A-11D fällt aus",
          "geaendert": true
         },
@@ -19247,7 +19247,7 @@
     },
     "20260709": {
      "datum": "Donnerstag, 09. Juli 2026",
-     "zeitstempel": "07.07.2026, 07:51",
+     "zeitstempel": "07.07.2026, 15:51",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -20715,16 +20715,16 @@
          "stunde": "1",
          "fach": "---",
          "klasse": "",
-         "raum": "Tu1",
-         "info": "Tanzen, Bitte Spiegelsaal nutzen!",
+         "raum": "105",
+         "info": "Tanzen",
          "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
-         "raum": "Tu1",
-         "info": "Tanzen, Bitte Spiegelsaal nutzen!",
+         "raum": "105",
+         "info": "Tanzen",
          "geaendert": true
         },
         {
@@ -20739,8 +20739,8 @@
          "stunde": "3",
          "fach": "---",
          "klasse": "",
-         "raum": "Tu1",
-         "info": "Tanzen, Bitte Spiegelsaal nutzen!; DE2 12A-12E fällt aus",
+         "raum": "105",
+         "info": "Tanzen; DE2 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -20755,8 +20755,8 @@
          "stunde": "4",
          "fach": "---",
          "klasse": "",
-         "raum": "Tu1",
-         "info": "Tanzen, Bitte Spiegelsaal nutzen!; DE2 12A-12E fällt aus",
+         "raum": "105",
+         "info": "Tanzen; DE2 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -20771,8 +20771,8 @@
          "stunde": "5",
          "fach": "---",
          "klasse": "",
-         "raum": "Tu1",
-         "info": "Tanzen, Bitte Spiegelsaal nutzen!; De 8C fällt aus",
+         "raum": "105",
+         "info": "Tanzen; De 8C fällt aus",
          "geaendert": true
         },
         {
@@ -20787,8 +20787,8 @@
          "stunde": "6",
          "fach": "---",
          "klasse": "",
-         "raum": "Tu1",
-         "info": "Tanzen, Bitte Spiegelsaal nutzen!; De 8C fällt aus",
+         "raum": "105",
+         "info": "Tanzen; De 8C fällt aus",
          "geaendert": true
         }
        ],
