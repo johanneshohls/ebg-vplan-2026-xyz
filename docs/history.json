@@ -1,22 +1,5 @@
 [
  {
-  "timestamp": "2026-07-01T11:45:39.918455",
-  "lehrer": "Bes",
-  "datum": "Mittwoch, 01. Juli 2026",
-  "date_key": "20260701",
-  "changes": [
-   "Std 1 (07:40): Ph 9B fällt aus",
-   "Std 2 (08:25): Ph 9B fällt aus",
-   "Std 5 (11:40): Ma 7B verlegt nach Fr (03.07.) St.1",
-   "Std 5 (11:40): Verkündung Gesamtqualifikation, danach Kirche Stellprobe; Ma 7B verlegt nach Fr (03.07.) St.1 (Bes)",
-   "Std 6 (12:25): Ma 7B verlegt nach Fr (03.07.) St.2",
-   "Std 6 (12:25): Verkündung Gesamtqualifikation, danach Kirche Stellprobe; Ma 7B verlegt nach Fr (03.07.) St.2 (Bes)",
-   "Std 7 (13:40): ma2 12A-12E fällt aus",
-   "Std 8 (14:25): ma2 12A-12E fällt aus"
-  ],
-  "zeitstempel": "01.07.2026, 11:51"
- },
- {
   "timestamp": "2026-07-01T20:14:50.056699",
   "lehrer": "Bri",
   "datum": "Freitag, 03. Juli 2026",
