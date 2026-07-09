@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "09.07.2026, 18:16 Uhr",
- "last_changed": "2026-07-07T15:51:00",
+ "generiert": "09.07.2026, 20:04 Uhr",
+ "last_changed": "2026-07-09T21:14:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -22384,7 +22384,7 @@
     },
     "20260710": {
      "datum": "Freitag, 10. Juli 2026",
-     "zeitstempel": "07.07.2026, 13:17",
+     "zeitstempel": "09.07.2026, 21:14",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -22502,39 +22502,7 @@
       "Bir": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest",
-         "geaendert": true
-        },
-        {
          "stunde": "3",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Mu 7A fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "3",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; Mu 7A fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
@@ -22546,7 +22514,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": " Schulfest; Mu 7A fällt aus",
+         "info": "Mu 7A fällt aus",
          "geaendert": true
         },
         {
@@ -22847,6 +22815,38 @@
       "Fla": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "7C",
+         "raum": "001",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "7C",
+         "raum": "001",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "7C",
+         "raum": "001",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "7C",
+         "raum": "001",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "KL",
          "klasse": "7C",
@@ -23006,9 +23006,9 @@
         {
          "stunde": "1",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; Fr 7A fällt aus",
+         "klasse": "8A",
+         "raum": "201",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; Fr 7A fällt aus",
          "geaendert": true
         },
         {
@@ -23022,9 +23022,9 @@
         {
          "stunde": "2",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; Fr 7A fällt aus",
+         "klasse": "8A",
+         "raum": "201",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; Fr 7A fällt aus",
          "geaendert": true
         },
         {
@@ -23038,9 +23038,9 @@
         {
          "stunde": "3",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; Fr 10A fällt aus",
+         "klasse": "8A",
+         "raum": "201",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; Fr 10A fällt aus",
          "geaendert": true
         },
         {
@@ -23054,9 +23054,9 @@
         {
          "stunde": "4",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; Fr 10A fällt aus",
+         "klasse": "8A",
+         "raum": "201",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; Fr 10A fällt aus",
          "geaendert": true
         },
         {
@@ -23107,33 +23107,33 @@
         {
          "stunde": "1",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest",
+         "klasse": "7A",
+         "raum": "002",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
          "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest",
+         "klasse": "7A",
+         "raum": "002",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
          "geaendert": true
         },
         {
          "stunde": "3",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest",
+         "klasse": "7A",
+         "raum": "002",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
          "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest",
+         "klasse": "7A",
+         "raum": "002",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
          "geaendert": true
         },
         {
@@ -23180,9 +23180,9 @@
         {
          "stunde": "1",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; Phil 8A fällt aus",
+         "klasse": "7B",
+         "raum": "003",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; Phil 8A fällt aus",
          "geaendert": true
         },
         {
@@ -23196,25 +23196,25 @@
         {
          "stunde": "2",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; Phil 8A fällt aus",
+         "klasse": "7B",
+         "raum": "003",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; Phil 8A fällt aus",
          "geaendert": true
         },
         {
          "stunde": "3",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest",
+         "klasse": "7B",
+         "raum": "003",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
          "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest",
+         "klasse": "7B",
+         "raum": "003",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
          "geaendert": true
         },
         {
@@ -23356,9 +23356,9 @@
         {
          "stunde": "1",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; En 10A fällt aus",
+         "klasse": "10A",
+         "raum": "102",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; En 10A fällt aus",
          "geaendert": true
         },
         {
@@ -23372,9 +23372,9 @@
         {
          "stunde": "2",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; En 10A fällt aus",
+         "klasse": "10A",
+         "raum": "102",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; En 10A fällt aus",
          "geaendert": true
         },
         {
@@ -23388,9 +23388,9 @@
         {
          "stunde": "3",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; EN2 12A-12E fällt aus",
+         "klasse": "10A",
+         "raum": "102",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; EN2 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -23404,16 +23404,16 @@
         {
          "stunde": "4",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; EN2 12A-12E fällt aus",
+         "klasse": "10A",
+         "raum": "102",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; EN2 12A-12E fällt aus",
          "geaendert": true
         },
         {
          "stunde": "5",
          "fach": "KL",
          "klasse": "10A",
-         "raum": "104",
+         "raum": "102",
          "info": "Zeugnisausgabe",
          "geaendert": true
         },
@@ -23421,7 +23421,7 @@
          "stunde": "6",
          "fach": "KL",
          "klasse": "10A",
-         "raum": "104",
+         "raum": "102",
          "info": "Zeugnisausgabe",
          "geaendert": true
         },
@@ -23447,11 +23447,43 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "10C",
+         "raum": "007",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; dsp1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "dsp1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "10C",
+         "raum": "007",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; dsp1 12A-12E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "10C",
+         "raum": "007",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "10C",
+         "raum": "007",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
          "geaendert": true
         },
         {
@@ -23571,17 +23603,17 @@
         {
          "stunde": "1",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest",
+         "klasse": "8C",
+         "raum": "008",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
          "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest",
+         "klasse": "8C",
+         "raum": "008",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
          "geaendert": true
         },
         {
@@ -23595,9 +23627,9 @@
         {
          "stunde": "3",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; DE2 12A-12E fällt aus",
+         "klasse": "8C",
+         "raum": "008",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; DE2 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -23611,9 +23643,9 @@
         {
          "stunde": "4",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; DE2 12A-12E fällt aus",
+         "klasse": "8C",
+         "raum": "008",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; DE2 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -23729,9 +23761,9 @@
         {
          "stunde": "1",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; Ch 8C fällt aus",
+         "klasse": "7E",
+         "raum": "005",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; Ch 8C fällt aus",
          "geaendert": true
         },
         {
@@ -23745,9 +23777,9 @@
         {
          "stunde": "2",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; Ch 8C fällt aus",
+         "klasse": "7E",
+         "raum": "005",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; Ch 8C fällt aus",
          "geaendert": true
         },
         {
@@ -23761,9 +23793,9 @@
         {
          "stunde": "3",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; Ch 7B fällt aus",
+         "klasse": "7E",
+         "raum": "005",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; Ch 7B fällt aus",
          "geaendert": true
         },
         {
@@ -23777,9 +23809,9 @@
         {
          "stunde": "4",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; Ch 7B fällt aus",
+         "klasse": "7E",
+         "raum": "005",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; Ch 7B fällt aus",
          "geaendert": true
         },
         {
@@ -24119,6 +24151,12 @@
          "uhrzeit": "13:10",
          "ort": "Haus, WCs, Caféteria",
          "info": "entfällt"
+        },
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Puk"
         }
        ]
       },
@@ -24265,9 +24303,9 @@
         {
          "stunde": "1",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; De 8B fällt aus",
+         "klasse": "8B",
+         "raum": "006",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; De 8B fällt aus",
          "geaendert": true
         },
         {
@@ -24281,9 +24319,9 @@
         {
          "stunde": "2",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; De 8B fällt aus",
+         "klasse": "8B",
+         "raum": "006",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; De 8B fällt aus",
          "geaendert": true
         },
         {
@@ -24297,9 +24335,9 @@
         {
          "stunde": "3",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; De 8A fällt aus",
+         "klasse": "8B",
+         "raum": "006",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; De 8A fällt aus",
          "geaendert": true
         },
         {
@@ -24313,9 +24351,9 @@
         {
          "stunde": "4",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; De 8A fällt aus",
+         "klasse": "8B",
+         "raum": "006",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; De 8A fällt aus",
          "geaendert": true
         },
         {
@@ -24355,6 +24393,38 @@
       "Pri": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "10B",
+         "raum": "107",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "10B",
+         "raum": "107",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "10B",
+         "raum": "107",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "10B",
+         "raum": "107",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
@@ -24366,7 +24436,7 @@
          "stunde": "5",
          "fach": "KL",
          "klasse": "10B",
-         "raum": "102",
+         "raum": "107",
          "info": "Zeugnisausgabe; EN1 12A-12E fällt aus",
          "geaendert": true
         },
@@ -24382,7 +24452,7 @@
          "stunde": "6",
          "fach": "KL",
          "klasse": "10B",
-         "raum": "102",
+         "raum": "107",
          "info": "Zeugnisausgabe; EN1 12A-12E fällt aus",
          "geaendert": true
         }
@@ -24400,14 +24470,6 @@
          "geaendert": true
         },
         {
-         "stunde": "1",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; Span 9D fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -24416,31 +24478,7 @@
          "geaendert": true
         },
         {
-         "stunde": "2",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; Span 9D fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "3",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Span 8D fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "3",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; Span 8D fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
@@ -24452,7 +24490,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": " Schulfest; Span 8D fällt aus",
+         "info": "Span 8D fällt aus",
          "geaendert": true
         },
         {
@@ -24485,7 +24523,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Mar"
         }
        ]
       },
@@ -24667,9 +24705,9 @@
         {
          "stunde": "1",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; ILZ 10D fällt aus",
+         "klasse": "10D",
+         "raum": "004",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; ILZ 10D fällt aus",
          "geaendert": true
         },
         {
@@ -24683,9 +24721,9 @@
         {
          "stunde": "2",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; KL 10D fällt aus",
+         "klasse": "10D",
+         "raum": "004",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; KL 10D fällt aus",
          "geaendert": true
         },
         {
@@ -24699,9 +24737,9 @@
         {
          "stunde": "3",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; De 10D fällt aus",
+         "klasse": "10D",
+         "raum": "004",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; De 10D fällt aus",
          "geaendert": true
         },
         {
@@ -24715,9 +24753,9 @@
         {
          "stunde": "4",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; De 10D fällt aus",
+         "klasse": "10D",
+         "raum": "004",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; De 10D fällt aus",
          "geaendert": true
         },
         {
@@ -24896,17 +24934,17 @@
         {
          "stunde": "1",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest",
+         "klasse": "10C",
+         "raum": "007",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
          "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest",
+         "klasse": "10C",
+         "raum": "007",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
          "geaendert": true
         },
         {
@@ -24920,9 +24958,9 @@
         {
          "stunde": "3",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; BIO1 12A-12E fällt aus",
+         "klasse": "10C",
+         "raum": "007",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; BIO1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -24936,9 +24974,9 @@
         {
          "stunde": "4",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; BIO1 12A-12E fällt aus",
+         "klasse": "10C",
+         "raum": "007",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; BIO1 12A-12E fällt aus",
          "geaendert": true
         },
         {
@@ -25121,6 +25159,38 @@
       "Tie": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "8D",
+         "raum": "103",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "8D",
+         "raum": "103",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "8D",
+         "raum": "103",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "8D",
+         "raum": "103",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "KL",
          "klasse": "8D",
@@ -25160,9 +25230,9 @@
         {
          "stunde": "1",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; KL 7D fällt aus",
+         "klasse": "7D",
+         "raum": "106",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; KL 7D fällt aus",
          "geaendert": true
         },
         {
@@ -25176,9 +25246,9 @@
         {
          "stunde": "2",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; ILZ 7D fällt aus",
+         "klasse": "7D",
+         "raum": "106",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; ILZ 7D fällt aus",
          "geaendert": true
         },
         {
@@ -25192,9 +25262,9 @@
         {
          "stunde": "3",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; de1 11A-11D fällt aus",
+         "klasse": "7D",
+         "raum": "106",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; de1 11A-11D fällt aus",
          "geaendert": true
         },
         {
@@ -25208,9 +25278,9 @@
         {
          "stunde": "4",
          "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": " Schulfest; de1 11A-11D fällt aus",
+         "klasse": "7D",
+         "raum": "106",
+         "info": " Schulfest, Treffpunkt 07:40 Uhr zur Anwesenheit; de1 11A-11D fällt aus",
          "geaendert": true
         },
         {
