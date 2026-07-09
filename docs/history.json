@@ -1,16 +1,5 @@
 [
  {
-  "timestamp": "2026-07-02T12:32:14.358636",
-  "lehrer": "Bir",
-  "datum": "Freitag, 03. Juli 2026",
-  "date_key": "20260703",
-  "changes": [
-   "Std 5 (11:40): MUE 11A-11D selbst. (v), Ausgleich für Sommerkonzert",
-   "Std 6 (12:25): MUE 11A-11D selbst. (v), Ausgleich für Sommerkonzert"
-  ],
-  "zeitstempel": "02.07.2026, 14:18"
- },
- {
   "timestamp": "2026-07-03T08:06:25.731743",
   "lehrer": "Bar",
   "datum": "Freitag, 03. Juli 2026",
