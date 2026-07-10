@@ -1,15 +1,5 @@
 [
  {
-  "timestamp": "2026-07-03T08:06:25.731743",
-  "lehrer": "Bar",
-  "datum": "Freitag, 03. Juli 2026",
-  "date_key": "20260703",
-  "changes": [
-   "Planänderung (Details nicht spezifiziert)"
-  ],
-  "zeitstempel": "03.07.2026, 08:52"
- },
- {
   "timestamp": "2026-07-05T20:49:34.347714",
   "lehrer": "Bir",
   "datum": "Montag, 06. Juli 2026",
