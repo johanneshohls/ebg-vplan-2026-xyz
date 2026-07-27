@@ -1,6 +1,6 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "26.07.2026, 22:32 Uhr",
+ "generiert": "27.07.2026, 08:26 Uhr",
  "last_changed": null,
  "lehrer": [
   "Bar",
@@ -63,14 +63,8 @@
   "Tuh",
   "Wag"
  ],
- "aktuelle_kw": "30",
+ "aktuelle_kw": "31",
  "wochen": {
-  "29": {
-   "kw": 29,
-   "montag": "20260713",
-   "freitag": "20260717",
-   "tage": {}
-  },
   "30": {
    "kw": 30,
    "montag": "20260720",
@@ -81,6 +75,12 @@
    "kw": 31,
    "montag": "20260727",
    "freitag": "20260731",
+   "tage": {}
+  },
+  "32": {
+   "kw": 32,
+   "montag": "20260803",
+   "freitag": "20260807",
    "tage": {}
   }
  }
