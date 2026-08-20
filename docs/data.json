@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "20.08.2026, 09:31 Uhr",
- "last_changed": "2026-08-13T11:44:00",
+ "generiert": "20.08.2026, 17:52 Uhr",
+ "last_changed": "2026-08-20T13:39:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -85,7 +85,7 @@
    "tage": {
     "20260824": {
      "datum": "Montag, 24. August 2026",
-     "zeitstempel": "13.08.2026, 11:44",
+     "zeitstempel": "20.08.2026, 13:39",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -95,25 +95,41 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ma",
-         "klasse": "10C",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 10C Fel (für Ma), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ma",
-         "klasse": "10C",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 10C Fel (für Ma), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "ma2",
+         "klasse": "12A-12D",
+         "raum": "105",
+         "info": "für Ma Con, Rücksprache mit L- Convent",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "ma2",
+         "klasse": "12A-12D",
+         "raum": "105",
+         "info": "für Ma Con, Rücksprache mit L- Convent",
+         "geaendert": true
         },
         {
          "stunde": "5",
          "fach": "PH1",
          "klasse": "11D,11A-11C,11E",
-         "raum": "Co3",
+         "raum": "205",
          "info": "",
          "geaendert": false
         },
@@ -121,7 +137,7 @@
          "stunde": "6",
          "fach": "PH1",
          "klasse": "11D,11A-11C,11E",
-         "raum": "Co3",
+         "raum": "205",
          "info": "",
          "geaendert": false
         },
@@ -142,32 +158,25 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Hof1, WCs, Container",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Bir": {
        "entries": [
         {
          "stunde": "1",
-         "fach": "Mu",
-         "klasse": "7D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7D Köh (für Mu), Kennenlerntage, Begrüßung in der Aula",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Mu",
-         "klasse": "7D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7D Köh (für Mu), Kennenlerntage, Begrüßung in der Aula",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -200,6 +209,111 @@
          "raum": "107",
          "info": "",
          "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Bis": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Bob": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 10A Wag (für Ph), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "7B",
+         "raum": "001",
+         "info": "Kennenlerntage, Begrüßung in der Aula; KL 10A Wag (für Ph), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 10A Wag (für Ph), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "7B",
+         "raum": "001",
+         "info": "Kennenlerntage, Begrüßung in der Aula; KL 10A Wag (für Ph), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "KL",
+         "klasse": "7B",
+         "raum": "001",
+         "info": "für AWT Kno, Kennenlerntage, Einweisung IServ; K 09",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "KL",
+         "klasse": "7B",
+         "raum": "001",
+         "info": "für AWT Kno, Kennenlerntage, Belehrungen",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "7B",
+         "raum": "001",
+         "info": "für Ma Mar, Kennenlerntage, Teamtraining mir Frau Jacobs",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 8A Rat",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "7B",
+         "raum": "001",
+         "info": "für Ma Mar, Kennenlerntage, Teamtraining mir Frau Jacobs",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 8A Rat",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 7A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 7A fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -211,80 +325,39 @@
         }
        ]
       },
-      "Bis": {
-       "entries": [],
-       "aufsichten": []
-      },
-      "Bob": {
-       "entries": [
-        {
-         "stunde": "1",
-         "fach": "Ph",
-         "klasse": "10A",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "2",
-         "fach": "Ph",
-         "klasse": "10A",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "Ku",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "6",
-         "fach": "Ku",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "Ku",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "8",
-         "fach": "Ku",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
-        }
-       ],
-       "aufsichten": []
-      },
       "Bod": {
        "entries": [
         {
          "stunde": "1",
-         "fach": "SpMä",
-         "klasse": "7A,7B",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "gesamte Klasse 7A, Kennenlerntage, Begrüßung in der Aula",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "12C",
+         "raum": "K07",
+         "info": "gesamte Klasse 12C, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "SpMä",
-         "klasse": "7A,7B",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "gesamte Klasse 7A, Begrüßung,  Einweisung IServ",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "12C",
+         "raum": "K07",
+         "info": "gesamte Klasse 12C, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -304,29 +377,62 @@
         },
         {
          "stunde": "7",
-         "fach": "SpJu",
-         "klasse": "7C,7D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpJu 7C,7D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "SpJu",
-         "klasse": "7C,7D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpJu 7C,7D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
       },
       "Bom": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "",
+         "raum": "",
+         "info": "Kennenlerntage, Stadtrundgang 7c",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "",
+         "raum": "",
+         "info": "Kennenlerntage, Stadtrundgang 7c",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Bri": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "11E",
+         "raum": "",
+         "info": "gesamte Klasse 11E, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "11E",
+         "raum": "",
+         "info": "gesamte Klasse 11E, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "MA1",
@@ -350,35 +456,83 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "inf2",
-         "klasse": "12A-12D",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "inf2 12A-12D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "Inf",
+         "klasse": "12D",
          "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "info": "1. Schultag-Klassenleiter-/Tutorenstunde; inf2 12A-12D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "inf2",
-         "klasse": "12A-12D",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "inf2 12A-12D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Inf",
+         "klasse": "12D",
          "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "info": "1. Schultag-Klassenleiter-/Tutorenstunde; inf2 12A-12D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "ma2",
-         "klasse": "12A-12D",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 12A-12D Bes, Rücksprache mit L- Convent",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "Inf",
+         "klasse": "",
+         "raum": "K09",
+         "info": "Kennenlerntage, Einweisung IServ; 7b; Ma 12A-12D Bes, Rücksprache mit L- Convent",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "ma2",
-         "klasse": "12A-12D",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 12A-12D Bes, Rücksprache mit L- Convent",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Inf",
+         "klasse": "",
+         "raum": "K09",
+         "info": "Kennenlerntage, Einweisung IServ, 7c; Ma 12A-12D Bes, Rücksprache mit L- Convent",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Inf",
+         "klasse": "",
+         "raum": "K09",
+         "info": "Kennenlerntage, Einweisung IServ; 7a",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Inf",
+         "klasse": "",
+         "raum": "K09",
+         "info": "Kennenlerntage, Einweisung IServ; Kl. 7d",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -407,33 +561,89 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "eRe",
-         "klasse": "10B",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 10B Schud (für eRe), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "eRe",
-         "klasse": "10B",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 10B Schud (für eRe), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe; R 104",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe; R 104",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe; R 104",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe; R 104",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe; R 104",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe; R 104",
+         "geaendert": true
         }
        ],
        "aufsichten": []
       },
-      "Ext 4": {
-       "entries": [],
-       "aufsichten": []
-      },
-      "Ext 5": {
-       "entries": [],
-       "aufsichten": []
-      },
       "Fech": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "",
+         "geaendert": false
+        },
         {
          "stunde": "5",
          "fach": "De",
@@ -457,19 +667,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "En",
-         "klasse": "9D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9D Tie, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "10C",
+         "raum": "204",
+         "info": "für Ma Bes, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "En",
-         "klasse": "9D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9D Tie, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "10C",
+         "raum": "204",
+         "info": "für Ma Bes, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -478,19 +704,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "ere2",
-         "klasse": "11A-11E",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "gesamte Klasse 11D, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "ere2",
-         "klasse": "11A-11E",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "gesamte Klasse 11D, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -514,20 +740,36 @@
       "Fla": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "8C",
+         "raum": "006",
+         "info": "für En Mar, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "8C",
+         "raum": "006",
+         "info": "für En Mar, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "De",
          "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "201",
+         "info": "für De Fla, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "De",
          "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "201",
+         "info": "für De Fla, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -551,6 +793,38 @@
       "Gol": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "Ge",
+         "klasse": "8B",
+         "raum": "K07",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "Ge",
+         "klasse": "8B",
+         "raum": "K07",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "",
+         "raum": "",
+         "info": "Kennenlerntage, Stadtrundgang 7c",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "",
+         "raum": "",
+         "info": "Kennenlerntage, Stadtrundgang 7c",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "ge2",
          "klasse": "11D,11A-11C,11E",
@@ -573,19 +847,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Sk",
-         "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 8D Tuh (für Sk), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "12A",
+         "raum": "201",
+         "info": "gesamte Klasse 12A, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Sk",
-         "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 8D Tuh (für Sk), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "12A",
+         "raum": "201",
+         "info": "gesamte Klasse 12A, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -607,98 +897,146 @@
          "stunde": "5",
          "fach": "GE2",
          "klasse": "12A-12D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Ge Gor, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "GE2",
          "klasse": "12A-12D",
-         "raum": "104",
+         "raum": "Co3",
+         "info": "für Ge Gor, Raumänderung",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": []
+      },
+      "Hei": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 9A verlegt nach St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "ILZ",
+         "klasse": "9A",
+         "raum": "102",
+         "info": "ILZ 9A verlegt von St.3, 1. Schultag-Klassenleiter-/Tutorenstunde; Fr 9A verlegt nach St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 9A verlegt nach St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "ILZ",
+         "klasse": "9A",
+         "raum": "102",
+         "info": "ILZ 9A verlegt von St.4, 1. Schultag-Klassenleiter-/Tutorenstunde; Fr 9A verlegt nach St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 9A verlegt nach St.1, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "Fr",
+         "klasse": "9A",
+         "raum": "Aula",
+         "info": "Fr 9A verlegt von St.1; ILZ 9A verlegt nach St.1, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 9A verlegt nach St.2, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Fr",
+         "klasse": "9A",
+         "raum": "Aula",
+         "info": "Fr 9A verlegt von St.2; ILZ 9A verlegt nach St.2, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "GEO1",
+         "klasse": "11D,11A-11C,11E",
+         "raum": "105",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "GEO1",
+         "klasse": "11D,11A-11C,11E",
+         "raum": "105",
          "info": "",
          "geaendert": false
         }
        ],
        "aufsichten": [
         {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Hof, WCs, Grünes Klassenzimmer",
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "erst Haus, dann Hof2+GLK",
          "info": ""
         }
        ]
-      },
-      "Hei": {
-       "entries": [
-        {
-         "stunde": "1",
-         "fach": "Fr",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "2",
-         "fach": "Fr",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "3",
-         "fach": "ILZ",
-         "klasse": "9A",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "4",
-         "fach": "ILZ",
-         "klasse": "9A",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "GEO1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "6",
-         "fach": "GEO1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
-        }
-       ],
-       "aufsichten": []
       },
       "Her": {
        "entries": [
         {
          "stunde": "1",
-         "fach": "BO",
-         "klasse": "10D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "8A",
+         "raum": "008",
+         "info": "für Ma Sta, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 10D Puk (für BO), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "BO",
-         "klasse": "10D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "8A",
+         "raum": "008",
+         "info": "für Ma Sta, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 10D Puk (für BO), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -733,7 +1071,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof, WCs, Grünes Klassenzimmer",
+         "info": ""
+        }
+       ]
       },
       "Hin": {
        "entries": [],
@@ -743,19 +1088,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "en2",
-         "klasse": "12A-12D",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "8B",
+         "raum": "005",
+         "info": "für Ph Hun, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "gesamte Klasse 12C, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "en2",
-         "klasse": "12A-12D",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "8B",
+         "raum": "005",
+         "info": "für Ph Hun, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "gesamte Klasse 12C, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -774,14 +1135,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Essenraum und Keller",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Hoh": {
        "entries": [],
@@ -789,6 +1143,22 @@
       },
       "Hol": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "11A",
+         "raum": "Co2",
+         "info": "gesamte Klasse 11A, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "11A",
+         "raum": "Co2",
+         "info": "gesamte Klasse 11A, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "En",
@@ -818,6 +1188,144 @@
          "fach": "EN2",
          "klasse": "12A-12D",
          "raum": "007",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Hön": {
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "10D",
+         "raum": "007",
+         "info": "für De Hön, Raumänderung",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "10D",
+         "raum": "007",
+         "info": "für De Hön, Raumänderung",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "DE3",
+         "klasse": "11D,11A-11C,11E",
+         "raum": "Co1",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "DE3",
+         "klasse": "11D,11A-11C,11E",
+         "raum": "Co1",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Hun": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "gesamte Klasse 7A, Kennenlerntage, Begrüßung in der Aula",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 8B Hofm (für Ph), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "gesamte Klasse 7A, Begrüßung,  Einweisung IServ",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 8B Hofm (für Ph), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "KL",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für Geo Schil, Teamtraining  mit Frau Jacobs",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "KL",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für Geo Schil, Teamtraining  mit Frau Jacobs",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "7A",
+         "raum": "",
+         "info": "für Ge Isb, Kennenlerntage, Einweisung IServ; K09",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7C Mue (für Ph), Kennenlerntage, Stadtrundgang",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für Ge Isb, Kennenlerntage, Belehrungen",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7C Mue (für Ph), Kennenlerntage, Stadtrundgang",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "ch2",
+         "klasse": "12A-12D",
+         "raum": "K12",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "8",
+         "fach": "ch2",
+         "klasse": "12A-12D",
+         "raum": "K12",
          "info": "",
          "geaendert": false
         }
@@ -831,120 +1339,23 @@
         }
        ]
       },
-      "Hön": {
-       "entries": [
-        {
-         "stunde": "3",
-         "fach": "De",
-         "klasse": "10D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "4",
-         "fach": "De",
-         "klasse": "10D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "DE3",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "6",
-         "fach": "DE3",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
-        }
-       ],
-       "aufsichten": [
-        {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Hof1, WCs, Container",
-         "info": ""
-        }
-       ]
-      },
-      "Hun": {
-       "entries": [
-        {
-         "stunde": "1",
-         "fach": "Ph",
-         "klasse": "8B",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "2",
-         "fach": "Ph",
-         "klasse": "8B",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "Ph",
-         "klasse": "7C",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "6",
-         "fach": "Ph",
-         "klasse": "7C",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "ch2",
-         "klasse": "12A-12D",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "8",
-         "fach": "ch2",
-         "klasse": "12A-12D",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
-        }
-       ],
-       "aufsichten": []
-      },
       "Isb": {
        "entries": [
         {
          "stunde": "5",
-         "fach": "Ge",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7A Hun (für Ge), Kennenlerntage, Einweisung IServ; K09",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ge",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7A Hun (für Ge), Kennenlerntage, Belehrungen",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -955,6 +1366,22 @@
       },
       "Jur": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "9C",
+         "raum": "106",
+         "info": "für Span OLop, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "9C",
+         "raum": "106",
+         "info": "für Span OLop, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "Phi",
@@ -998,19 +1425,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "mu1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "gesamte Klasse 11A, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "mu1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "gesamte Klasse 11A, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -1018,20 +1445,36 @@
       "Kno": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "8E",
+         "raum": "K12",
+         "info": "für Span Köh, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "8E",
+         "raum": "K12",
+         "info": "für Span Köh, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
-         "fach": "AWT",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7B Bob (für AWT), Kennenlerntage, Einweisung IServ; K 09",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "AWT",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7B Bob (für AWT), Kennenlerntage, Belehrungen",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -1066,82 +1509,149 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof, WCs, Grünes Klassenzimmer",
+         "info": ""
+        }
+       ]
       },
       "Köh": {
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "7D",
+         "raum": "004",
+         "info": "für Mu Bir, Kennenlerntage, Begrüßung in der Aula",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 8E Kno (für Span), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "7D",
+         "raum": "004",
+         "info": "für Mu Bir, Kennenlerntage, Begrüßung in der Aula",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 8E Kno (für Span), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Lat",
+         "fach": "KL",
          "klasse": "7D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "raum": "004",
+         "info": "für Span OLop, Kennenlerntage, Schulrallye",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Lat 7D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Lat",
+         "fach": "KL",
          "klasse": "7D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "raum": "004",
+         "info": "für Span OLop, Kennenlerntage, Schulrallye",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Lat 7D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "7D",
+         "raum": "",
+         "info": "für En Pri, Kennenlerntage, Belehrungen; R 002",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8C OLop",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "7D",
+         "raum": "",
+         "info": "für En Pri, Kennenlerntage, Einweisung IServ; K09",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8C OLop",
+         "geaendert": true
         }
        ],
-       "aufsichten": []
-      },
-      "Lam": {
-       "entries": [],
        "aufsichten": []
       },
       "Lan": {
        "entries": [
         {
          "stunde": "1",
-         "fach": "phil2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "gesamte Klasse 11C, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "12B",
+         "raum": "105",
+         "info": "gesamte Klasse 12B, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "phil2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "gesamte Klasse 11C, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "12B",
+         "raum": "105",
+         "info": "gesamte Klasse 12B, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -1178,10 +1688,16 @@
        ],
        "aufsichten": [
         {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "entfällt, V: OLop"
+        },
+        {
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "für OLop"
         }
        ]
       },
@@ -1189,19 +1705,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "ma2",
-         "klasse": "11D,11A-11C,11E",
+         "fach": "KL",
+         "klasse": "11B",
          "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "info": "gesamte Klasse 11B, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "ma2",
-         "klasse": "11D,11A-11C,11E",
+         "fach": "KL",
+         "klasse": "11B",
          "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "info": "gesamte Klasse 11B, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -1216,8 +1732,113 @@
          "fach": "Ma",
          "klasse": "10B",
          "raum": "204",
-         "info": "",
+         "info": "für Ma Leu, Lehrbuch-Ausgabe; R 104",
          "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
+      "Lie": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Mar": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 8C Fla (für En), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 8C Fla (für En), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "en1 12A-12D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe; R 104; en1 12A-12D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "en1 12A-12D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe; R 104; en1 12A-12D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7B Bob (für Ma), Kennenlerntage, Teamtraining mir Frau Jacobs",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe; R 104; KL 7B Bob (für Ma), Kennenlerntage, Teamtraining mir Frau Jacobs",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7B Bob (für Ma), Kennenlerntage, Teamtraining mir Frau Jacobs",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe; R 104; KL 7B Bob (für Ma), Kennenlerntage, Teamtraining mir Frau Jacobs",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe; R 104",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe; R 104",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -1229,122 +1850,113 @@
         }
        ]
       },
-      "Lie": {
-       "entries": [],
-       "aufsichten": []
-      },
-      "Mar": {
-       "entries": [
-        {
-         "stunde": "1",
-         "fach": "En",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "2",
-         "fach": "En",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "3",
-         "fach": "en1",
-         "klasse": "12A-12D",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "4",
-         "fach": "en1",
-         "klasse": "12A-12D",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "Ma",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "6",
-         "fach": "Ma",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
-        }
-       ],
-       "aufsichten": [
-        {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Haus, WCs, Caféteria",
-         "info": ""
-        }
-       ]
-      },
       "Mue": {
        "entries": [
         {
          "stunde": "1",
-         "fach": "SpJu",
-         "klasse": "7A,7B",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpJu 7A,7B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "7C",
+         "raum": "003",
+         "info": "für Span Puk, Kennenlerntage, Begrüßung in der Aula",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "SpJu",
-         "klasse": "7A,7B",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpJu 7A,7B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "7C",
+         "raum": "003",
+         "info": "für Span Puk, Kennenlerntage, Begrüßung in der Aula",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Geo",
-         "klasse": "9D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "7C",
+         "raum": "003",
+         "info": "für De Tuh, Kennenlerntage, Belehrungen",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9D Tuh (für Geo)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Geo",
-         "klasse": "9D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "7C",
+         "raum": "003",
+         "info": "für De Tuh, Kennenlerntage, Einweisung IServ; K09",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9D Tuh (für Geo)",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "7C",
+         "raum": "",
+         "info": "für Ph Hun, Kennenlerntage, Stadtrundgang",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "7C",
+         "raum": "",
+         "info": "für Ph Hun, Kennenlerntage, Stadtrundgang",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "SpMä",
-         "klasse": "7C,7D",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpMä 7C,7D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "SpMä",
-         "klasse": "7C,7D",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpMä 7C,7D fällt aus",
+         "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof1, WCs, Container",
+         "info": ""
+        }
+       ]
       },
       "Neu": {
        "entries": [],
@@ -1354,43 +1966,65 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
-         "klasse": "9C",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 9C Jur (für Span), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
-         "klasse": "9C",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 9C Jur (für Span), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "7D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7D Köh (für Span), Kennenlerntage, Schulrallye",
+         "geaendert": true
         },
         {
          "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7D Köh (für Span), Kennenlerntage, Schulrallye",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
          "fach": "Span",
-         "klasse": "7D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "klasse": "8C",
+         "raum": "006",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Span",
+         "klasse": "8C",
+         "raum": "006",
+         "info": "für Span Köh",
+         "geaendert": true
         }
        ],
        "aufsichten": [
         {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "entfällt, V: Lan"
+        },
+        {
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "für Lan"
         }
        ]
       },
@@ -1398,26 +2032,42 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9B verlegt nach Di (25.08.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "ILZ",
          "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "103",
+         "info": "ILZ 9B statt Di (25.08.) St.3, 1. Schultag-Klassenleiter-/Tutorenstunde; De 9B verlegt nach Di (25.08.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "De",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9B verlegt nach Di (25.08.) St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "ILZ",
          "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "103",
+         "info": "ILZ 9B statt Di (25.08.) St.4, 1. Schultag-Klassenleiter-/Tutorenstunde; De 9B verlegt nach Di (25.08.) St.4",
+         "geaendert": true
         },
         {
          "stunde": "5",
          "fach": "Bio",
          "klasse": "10C",
          "raum": "204",
-         "info": "",
+         "info": "für Bio Ost, Lehrbuch-Ausgabe; R 104 ab 11.10 Uhr",
          "geaendert": false
         },
         {
@@ -1430,19 +2080,19 @@
         },
         {
          "stunde": "7",
-         "fach": "De",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8A fällt aus, 1. Schulwoche, kein 4. Bl. für 7-9",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "De",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8A fällt aus, 1. Schulwoche, kein 4. Bl. für 7-9",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -1467,19 +2117,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Ch",
-         "klasse": "9C",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 9C fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ch",
-         "klasse": "9C",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 9C fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -1487,117 +2137,165 @@
       "Pri": {
        "entries": [
         {
-         "stunde": "3",
-         "fach": "Ge",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "4",
-         "fach": "Ge",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
-        },
-        {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "7D",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7D Köh (für En), Kennenlerntage, Belehrungen; R 002",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "7D",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7D Köh (für En), Kennenlerntage, Einweisung IServ; K09",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 8E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 8E fällt aus",
+         "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Hof, WCs, Grünes Klassenzimmer",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Puk": {
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
-         "klasse": "7C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7C Mue (für Span), Kennenlerntage, Begrüßung in der Aula",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "10D",
+         "raum": "K04",
+         "info": "für BO Her, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
-         "klasse": "7C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7C Mue (für Span), Kennenlerntage, Begrüßung in der Aula",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "10D",
+         "raum": "K04",
+         "info": "für BO Her, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Präsi",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Präsi 10D verlegt nach Di (25.08.) St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "ILZ",
          "klasse": "10D",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "raum": " ",
+         "info": "ILZ 10D statt Di (25.08.) St.7, Essenraum; Präsi 10D verlegt nach Di (25.08.) St.7",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Präsi",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Präsi 10D verlegt nach Di (25.08.) St.8",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
          "klasse": "10D",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "ILZ 10D statt Di (25.08.) St.8, Essenraum; Lehrbauchausgabe, R 104, 11.50-12.30 Uhr; Präsi 10D verlegt nach Di (25.08.) St.8",
+         "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Essenraum und Keller",
+         "info": ""
+        }
+       ]
       },
       "Rat": {
        "entries": [
         {
          "stunde": "1",
-         "fach": "eRe",
+         "fach": "KL",
          "klasse": "10B",
          "raum": "207",
-         "info": "",
-         "geaendert": false
+         "info": "für eRe Eul, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "eRe",
+         "fach": "KL",
          "klasse": "10B",
          "raum": "207",
-         "info": "",
-         "geaendert": false
+         "info": "für eRe Eul, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "3",
          "fach": "ere1",
          "klasse": "12A-12D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "raum": "K04",
+         "info": "für eRe Rat, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "ere1",
          "klasse": "12A-12D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "raum": "K04",
+         "info": "für eRe Rat, Raumänderung",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Ku",
+         "klasse": "8A",
+         "raum": "003",
+         "info": "für Ku Bob",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ku",
+         "klasse": "8A",
+         "raum": "003",
+         "info": "für Ku Bob",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -1605,20 +2303,36 @@
       "Schil": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "11D",
+         "raum": "Co1",
+         "info": "gesamte Klasse 11D, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "11D",
+         "raum": "Co1",
+         "info": "gesamte Klasse 11D, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
-         "fach": "Geo",
-         "klasse": "7A",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7A Hun (für Geo), Teamtraining  mit Frau Jacobs",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Geo",
-         "klasse": "7A",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7A Hun (für Geo), Teamtraining  mit Frau Jacobs",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -1639,15 +2353,31 @@
        ],
        "aufsichten": [
         {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "erst Haus, dann Hof2+GLK",
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus, WCs, Caféteria",
          "info": ""
         }
        ]
       },
       "Schuc": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "11C",
+         "raum": "Co3",
+         "info": "gesamte Klasse 11C, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "11C",
+         "raum": "Co3",
+         "info": "gesamte Klasse 11C, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "GE1",
@@ -1686,6 +2416,22 @@
       "Schud": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "10B",
+         "raum": "207",
+         "info": "für eRe Eul, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "10B",
+         "raum": "207",
+         "info": "für eRe Eul, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "Ku",
          "klasse": "9C",
@@ -1719,19 +2465,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Ku",
-         "klasse": "9A",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 9A fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ku",
-         "klasse": "9A",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 9A fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -1740,19 +2486,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "geo2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "gesamte Klasse 11E, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "geo2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "gesamte Klasse 11E, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -1793,35 +2539,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ma",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 8A Her (für Ma), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ma",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "3",
-         "fach": "Ma",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "4",
-         "fach": "Ma",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 8A Her (für Ma), 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -1842,19 +2572,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "bio1",
-         "klasse": "12A-12D",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "gesamte Klasse 12A, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "bio1",
-         "klasse": "12A-12D",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "gesamte Klasse 12A, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -1891,8 +2621,8 @@
        ],
        "aufsichten": [
         {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
          "ort": "Hof1, WCs, Container",
          "info": ""
         }
@@ -1901,11 +2631,27 @@
       "Tie": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "En",
+         "klasse": "9D",
+         "raum": "107",
+         "info": "für En Fel, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "En",
+         "klasse": "9D",
+         "raum": "107",
+         "info": "für En Fel, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "De",
          "klasse": "10A",
          "raum": "Co2",
-         "info": "",
+         "info": "für De Tie, Lehrbuch-Ausgabe, R 104",
          "geaendert": false
         },
         {
@@ -1939,39 +2685,99 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "de2",
-         "klasse": "12A-12D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "8D",
+         "raum": "007",
+         "info": "für Sk Gor, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "gesamte Klasse 12B, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "de2",
-         "klasse": "12A-12D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "8D",
+         "raum": "007",
+         "info": "für Sk Gor, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "gesamte Klasse 12B, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "7C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7C Mue (für De), Kennenlerntage, Belehrungen",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "9D",
+         "raum": "K12",
+         "info": "für Geo Mue",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "7C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7C Mue (für De), Kennenlerntage, Einweisung IServ; K09",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Bio",
+         "klasse": "9D",
+         "raum": "K12",
+         "info": "für Geo Mue",
+         "geaendert": true
+        }
+       ],
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof1, WCs, Container",
+         "info": ""
+        }
+       ]
+      },
+      "Wag": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "10A",
+         "raum": "205",
+         "info": "für Ph Bob, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "10A",
+         "raum": "205",
+         "info": "für Ph Bob, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "De",
+         "fach": "En",
          "klasse": "8D",
          "raum": "Aula",
          "info": "",
@@ -1979,17 +2785,12 @@
         },
         {
          "stunde": "6",
-         "fach": "De",
+         "fach": "En",
          "klasse": "8D",
          "raum": "Aula",
          "info": "",
          "geaendert": false
-        }
-       ],
-       "aufsichten": []
-      },
-      "Wag": {
-       "entries": [
+        },
         {
          "stunde": "7",
          "fach": "en1",
@@ -2017,7 +2818,7 @@
     },
     "20260825": {
      "datum": "Dienstag, 25. August 2026",
-     "zeitstempel": "13.08.2026, 11:44",
+     "zeitstempel": "20.08.2026, 13:39",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -2042,22 +2843,6 @@
       },
       "Bes": {
        "entries": [
-        {
-         "stunde": "1",
-         "fach": "Ma",
-         "klasse": "10D",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "2",
-         "fach": "Ma",
-         "klasse": "10D",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
-        },
         {
          "stunde": "5",
          "fach": "ma3",
@@ -2112,20 +2897,36 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "KL",
+         "klasse": "",
+         "raum": "",
+         "info": "Kennenlerntage, Stadtrundgang, 7b",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "KL",
+         "klasse": "",
+         "raum": "",
+         "info": "Kennenlerntage, Stadtrundgang, 7b",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
-         "fach": "Mu",
-         "klasse": "7A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7A Hun (für Mu), Kennenlerntage",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Mu",
-         "klasse": "7A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7A Hun (für Mu), Kennenlerntage",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -2144,7 +2945,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Essenraum und Keller",
+         "info": ""
+        }
+       ]
       },
       "Bis": {
        "entries": [],
@@ -2153,20 +2961,68 @@
       "Bob": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "7B",
+         "raum": "001",
+         "info": "für IMB Kar, Kennenlerntage",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "7B",
+         "raum": "001",
+         "info": "für IMB Kar, Kennenlerntage",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "KL",
+         "klasse": "7B",
+         "raum": "001",
+         "info": "für Span Köh, Kennenlerntage, Stadtrundgang",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "KL",
+         "klasse": "7B",
+         "raum": "001",
+         "info": "für Span Köh, Kennenlerntage, Stadtrundgang",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
-         "fach": "Ph",
-         "klasse": "7D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "7B",
+         "raum": "001",
+         "info": "für De Hön, Kennenlerntage, Schulrallye",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7D Köh (für Ph), Kennenlerntage",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ph",
-         "klasse": "7D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "7B",
+         "raum": "001",
+         "info": "für De Hön, Kennenlerntage, Schulrallye",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7D Köh (für Ph), Kennenlerntage",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -2244,19 +3100,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Bio",
-         "klasse": "7C",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "",
+         "raum": "",
+         "info": "Kennenlerntage, Stadtrundgang, 7d",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Bio",
-         "klasse": "7C",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "",
+         "raum": "",
+         "info": "Kennenlerntage, Stadtrundgang, 7d",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -2276,29 +3132,22 @@
         },
         {
          "stunde": "7",
-         "fach": "Ma",
-         "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9B fällt aus",
+         "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "erst Haus, dann Hof2+GLK",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Bri": {
        "entries": [
@@ -2363,15 +3212,40 @@
        "aufsichten": []
       },
       "Eul": {
-       "entries": [],
-       "aufsichten": []
-      },
-      "Ext 4": {
-       "entries": [],
-       "aufsichten": []
-      },
-      "Ext 5": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe, R 101",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe, R 101",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe, R 101",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe, R 101",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Fech": {
@@ -2380,33 +3254,17 @@
          "stunde": "5",
          "fach": "De",
          "klasse": "9A",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "205",
+         "info": "für De Fech, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "De",
          "klasse": "9A",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "De",
-         "klasse": "8E",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "8",
-         "fach": "De",
-         "klasse": "8E",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "205",
+         "info": "für De Fech, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -2471,26 +3329,65 @@
          "geaendert": false
         },
         {
-         "stunde": "7",
+         "stunde": "5",
          "fach": "ILZ",
          "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "006",
+         "info": "ILZ 8C verlegt von St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "8C",
+         "raum": "006",
+         "info": "ILZ 8C verlegt von St.8",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 8C verlegt nach St.5",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ILZ",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 8C verlegt nach St.6",
+         "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof1, WCs, Container",
+         "info": ""
+        }
+       ]
       },
       "Gol": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "KL",
+         "klasse": "",
+         "raum": "",
+         "info": "Kennenlerntage, Stadtrundgang, 7a",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "KL",
+         "klasse": "",
+         "raum": "",
+         "info": "Kennenlerntage, Stadtrundgang, 7a",
+         "geaendert": true
+        },
         {
          "stunde": "7",
          "fach": "ge3",
@@ -2561,7 +3458,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof, WCs, Grünes Klassenzimmer",
+         "info": ""
+        }
+       ]
       },
       "Hei": {
        "entries": [
@@ -2569,33 +3473,33 @@
          "stunde": "1",
          "fach": "Fr",
          "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "raum": "201",
+         "info": "für Fr Hei, Raumänderung; Lehrbuchausgabe, R 101",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Fr",
          "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "raum": "201",
+         "info": "für Fr Hei, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Fr",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 7A Hun, Kennenlerntage, Stadtrundgang",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Fr",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 7A Hun, Kennenlerntage, Stadtrundgang",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -2614,14 +3518,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Essenraum und Keller",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Her": {
        "entries": [
@@ -2674,14 +3571,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Hof1, WCs, Container",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Hin": {
        "entries": [],
@@ -2692,34 +3582,34 @@
         {
          "stunde": "1",
          "fach": "En",
-         "klasse": "8B",
-         "raum": "008",
+         "klasse": "10D",
+         "raum": "205",
          "info": "",
          "geaendert": false
         },
         {
          "stunde": "2",
          "fach": "En",
+         "klasse": "10D",
+         "raum": "205",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
          "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für En Hofm, Raumänderung",
+         "geaendert": true
         },
         {
-         "stunde": "3",
+         "stunde": "6",
          "fach": "En",
-         "klasse": "10D",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "4",
-         "fach": "En",
-         "klasse": "10D",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "klasse": "8B",
+         "raum": "204",
+         "info": "für En Hofm, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -2730,17 +3620,17 @@
          "stunde": "1",
          "fach": "Ma",
          "klasse": "9D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "K07",
+         "info": "für Ma Hoh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Ma",
          "klasse": "9D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "K07",
+         "info": "für Ma Hoh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -2759,30 +3649,39 @@
          "geaendert": false
         },
         {
-         "stunde": "7",
+         "stunde": "5",
          "fach": "Ma",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "105",
+         "info": "Ma 8D verlegt von St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "8D",
+         "raum": "105",
+         "info": "Ma 8D verlegt von St.8",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8D verlegt nach St.5",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8D verlegt nach St.6",
+         "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Hof, WCs, Grünes Klassenzimmer",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Hol": {
        "entries": [
@@ -2805,37 +3704,44 @@
         {
          "stunde": "3",
          "fach": "fr1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "204",
+         "info": "für Fr Hol, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "fr1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "204",
+         "info": "für Fr Hol, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "7C",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7C Mue (für En), Kennenlerntage",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "7C",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7C Mue (für En), Kennenlerntage",
+         "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": ""
+        }
+       ]
       },
       "Hön": {
        "entries": [
@@ -2857,19 +3763,19 @@
         },
         {
          "stunde": "5",
-         "fach": "De",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7B Bob (für De), Kennenlerntage, Schulrallye",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "De",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7B Bob (für De), Kennenlerntage, Schulrallye",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -2877,20 +3783,68 @@
       "Hun": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für En Isb, Kennenlerntage, Schulrallye",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für En Isb, Kennenlerntage, Schulrallye",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "Fr",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für Fr Hei, Kennenlerntage, Stadtrundgang",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Fr",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für Fr Hei, Kennenlerntage, Stadtrundgang",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
-         "fach": "Ph",
-         "klasse": "8A",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für Mu Bir, Kennenlerntage",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8A Sta, in Rücksprache mit Herrn Hunger",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ph",
-         "klasse": "8A",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für Mu Bir, Kennenlerntage",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8A Sta, in Rücksprache mit Herrn Hunger",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -2909,35 +3863,35 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Essenraum und Keller",
+         "info": ""
+        }
+       ]
       },
       "Isb": {
        "entries": [
         {
          "stunde": "1",
-         "fach": "En",
-         "klasse": "7A",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7A Hun (für En), Kennenlerntage, Schulrallye",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "En",
-         "klasse": "7A",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7A Hun (für En), Kennenlerntage, Schulrallye",
+         "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Hof1, WCs, Container",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Jac": {
        "entries": [],
@@ -2949,17 +3903,17 @@
          "stunde": "1",
          "fach": "Phi",
          "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "006",
+         "info": "für Phi Jur, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Phi",
          "klasse": "9C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "006",
+         "info": "für Phi Jur, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -2978,7 +3932,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof1, WCs, Container",
+         "info": ""
+        }
+       ]
       },
       "Käc": {
        "entries": [],
@@ -2988,17 +3949,49 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "IMB",
-         "klasse": "7B",
-         "raum": "K09",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7B Bob (für IMB), Kennenlerntage",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "Mu",
+         "klasse": "9A",
+         "raum": "107",
+         "info": "für En Mar",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7B Bob (für IMB), Kennenlerntage",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Mu",
+         "klasse": "9A",
+         "raum": "107",
+         "info": "für En Mar",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "Mu",
+         "klasse": "10D",
+         "raum": "106",
          "info": "",
          "geaendert": false
         },
         {
-         "stunde": "2",
-         "fach": "IMB",
-         "klasse": "7B",
-         "raum": "K09",
+         "stunde": "4",
+         "fach": "Mu",
+         "klasse": "10D",
+         "raum": "106",
          "info": "",
          "geaendert": false
         },
@@ -3019,7 +4012,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof, WCs, Grünes Klassenzimmer",
+         "info": ""
+        }
+       ]
       },
       "Kno": {
        "entries": [
@@ -3052,74 +4052,111 @@
          "fach": "Ch",
          "klasse": "8D",
          "raum": "K12",
-         "info": "",
-         "geaendert": false
-        }
-       ],
-       "aufsichten": [
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Hof, WCs, Grünes Klassenzimmer",
-         "info": ""
-        }
-       ]
-      },
-      "Köh": {
-       "entries": [
-        {
-         "stunde": "3",
-         "fach": "Span",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "4",
-         "fach": "Span",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "6",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "KILZ",
-         "klasse": "7D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "8",
-         "fach": "KILZ",
-         "klasse": "7D",
-         "raum": "005",
-         "info": "",
+         "info": "für Ch Kno, Lehrbuch-Ausgabe, R 101",
          "geaendert": false
         }
        ],
        "aufsichten": []
       },
-      "Lam": {
-       "entries": [],
+      "Köh": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "7D",
+         "raum": "004",
+         "info": "für Ma Sta, Kennenlerntage, Stadtrundgang",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "7D",
+         "raum": "004",
+         "info": "für Ma Sta, Kennenlerntage, Stadtrundgang",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7B Bob (für Span), Kennenlerntage, Stadtrundgang",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "KL",
+         "klasse": "7D",
+         "raum": "004",
+         "info": "für Bio See, Kennenlerntage, Teamtraining mit Frau Jacobs",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7B Bob (für Span), Kennenlerntage, Stadtrundgang",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "KL",
+         "klasse": "7D",
+         "raum": "004",
+         "info": "für Bio See, Kennenlerntage, Teamtraining mit Frau Jacobs",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "7D",
+         "raum": "004",
+         "info": "für Ph Bob, Kennenlerntage",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KL",
+         "klasse": "7D",
+         "raum": "004",
+         "info": "für Ph Bob, Kennenlerntage",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 7D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 7D fällt aus",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Lan": {
@@ -3128,36 +4165,43 @@
          "stunde": "1",
          "fach": "w3",
          "klasse": "12A-12D",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "005",
+         "info": "für W Lan, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "w3",
          "klasse": "12A-12D",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "005",
+         "info": "für W Lan, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "3",
          "fach": "Sk",
          "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "007",
+         "info": "für Sk Lan, Raumänderung, Lehrbuchausgabe, R 101",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Sk",
          "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "007",
+         "info": "für Sk Lan, Raumänderung",
+         "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": ""
+        }
+       ]
       },
       "Leu": {
        "entries": [
@@ -3214,7 +4258,7 @@
         {
          "vor_stunde": "7",
          "uhrzeit": "13:10",
-         "ort": "Hof, WCs, Grünes Klassenzimmer",
+         "ort": "Haus, WCs, Caféteria",
          "info": ""
         }
        ]
@@ -3227,26 +4271,58 @@
        "entries": [
         {
          "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 9A Kar (für En)",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
          "fach": "En",
-         "klasse": "9A",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe, R 101; Mu 9A Kar (für En)",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 9A Kar (für En)",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "En",
-         "klasse": "9A",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe, R 101; Mu 9A Kar (für En)",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe, R 101",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Lehrbuch-Ausgabe, R 101",
+         "geaendert": true
         },
         {
          "stunde": "5",
          "fach": "En",
          "klasse": "8E",
          "raum": "103",
-         "info": "",
+         "info": "für En Mar, Lehrbuch-Ausgabe, R 101",
          "geaendert": false
         },
         {
@@ -3259,19 +4335,19 @@
         },
         {
          "stunde": "7",
-         "fach": "En",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "En",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7B fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -3280,61 +4356,86 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "SpMä",
-         "klasse": "8E",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "7C",
+         "raum": "003",
+         "info": "für Span Puk, Kennenlerntage, Teamtraining mit Frau Jacobs",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpMä 8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "SpMä",
-         "klasse": "8E",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "7C",
+         "raum": "003",
+         "info": "für Span Puk, Kennenlerntage, Teamtraining mit Frau Jacobs",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpMä 8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "3",
          "fach": "ILZ",
          "klasse": "7C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "003",
+         "info": "für ILZ Mue, Kennenlerntage, Schulrallye",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "ILZ",
          "klasse": "7C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "003",
+         "info": "für ILZ Mue, Kennenlerntage, Schulrallye",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Geo",
-         "klasse": "8D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "7C",
+         "raum": "003",
+         "info": "für En Hol, Kennenlerntage",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 8D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Geo",
-         "klasse": "8D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "KL",
+         "klasse": "7C",
+         "raum": "003",
+         "info": "für En Hol, Kennenlerntage",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 8D fällt aus",
+         "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Hof1, WCs, Container",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Neu": {
        "entries": [],
@@ -3360,19 +4461,35 @@
         },
         {
          "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
          "fach": "Span",
-         "klasse": "7A",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "klasse": "8B",
+         "raum": "207",
+         "info": "für Ku Rat, in Rücksprache mit Frau Köhler",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7A fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Span",
-         "klasse": "7A",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "klasse": "8B",
+         "raum": "207",
+         "info": "für Ku Rat, in Rücksprache mit Frau Köhler",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -3391,32 +4508,41 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Essenraum und Keller",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Ost": {
        "entries": [
         {
          "stunde": "3",
-         "fach": "ILZ",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 9B gehalten am Mo (24.08.) St.1, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "De",
          "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "006",
+         "info": "De 9B statt Mo (24.08.) St.1; ILZ 9B gehalten am Mo (24.08.) St.1, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "ILZ",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 9B gehalten am Mo (24.08.) St.2, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
          "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "006",
+         "info": "De 9B statt Mo (24.08.) St.2; ILZ 9B gehalten am Mo (24.08.) St.2, 1. Schultag-Klassenleiter-/Tutorenstunde",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -3462,24 +4588,56 @@
         {
          "stunde": "1",
          "fach": "EN2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "106",
+         "info": "für En Pri, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "EN2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "106",
+         "info": "für En Pri, Raumänderung",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "KL",
+         "klasse": "",
+         "raum": "",
+         "info": "Kennenlerntage, Stadtrundgang, 7a",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "KL",
+         "klasse": "",
+         "raum": "",
+         "info": "Kennenlerntage, Stadtrundgang, 7a",
+         "geaendert": true
         }
        ],
        "aufsichten": []
       },
       "Puk": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7C Mue (für Span), Kennenlerntage, Teamtraining mit Frau Jacobs",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7C Mue (für Span), Kennenlerntage, Teamtraining mit Frau Jacobs",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "Span",
@@ -3498,19 +4656,35 @@
         },
         {
          "stunde": "7",
-         "fach": "ILZ",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10D gehalten am Mo (24.08.) St.5, Essenraum",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Präsi",
          "klasse": "10D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "K09",
+         "info": "Präsi 10D statt Mo (24.08.) St.5; ILZ 10D gehalten am Mo (24.08.) St.5, Essenraum",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ILZ",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10D gehalten am Mo (24.08.) St.6, Essenraum; Lehrbauchausgabe, R 104, 11.50-12.30 Uhr",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Präsi",
          "klasse": "10D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "K09",
+         "info": "Präsi 10D statt Mo (24.08.) St.6; ILZ 10D gehalten am Mo (24.08.) St.6, Essenraum; Lehrbauchausgabe, R 104, 11.50-12.30 Uhr",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -3535,19 +4709,35 @@
         },
         {
          "stunde": "3",
-         "fach": "Ku",
-         "klasse": "8B",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8B OLop (für Ku), in Rücksprache mit Frau Köhler",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "KL",
+         "klasse": "",
+         "raum": "",
+         "info": "Kennenlerntage, Stadtrundgang, 7b; Span 8B OLop (für Ku), in Rücksprache mit Frau Köhler",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ku",
-         "klasse": "8B",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8B OLop (für Ku), in Rücksprache mit Frau Köhler",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "KL",
+         "klasse": "",
+         "raum": "",
+         "info": "Kennenlerntage, Stadtrundgang, 7b; Span 8B OLop (für Ku), in Rücksprache mit Frau Köhler",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -3578,14 +4768,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Haus, WCs, Caféteria",
-         "info": ""
-        }
-       ]
+       "aufsichten": []
       },
       "Schuc": {
        "entries": [
@@ -3593,7 +4776,7 @@
          "stunde": "1",
          "fach": "phil2",
          "klasse": "12A-12D",
-         "raum": "201",
+         "raum": "008",
          "info": "",
          "geaendert": false
         },
@@ -3601,7 +4784,7 @@
          "stunde": "2",
          "fach": "phil2",
          "klasse": "12A-12D",
-         "raum": "201",
+         "raum": "008",
          "info": "",
          "geaendert": false
         },
@@ -3625,7 +4808,7 @@
          "stunde": "5",
          "fach": "phil1",
          "klasse": "11D,11A-11C,11E",
-         "raum": "001",
+         "raum": "Co1",
          "info": "",
          "geaendert": false
         },
@@ -3633,7 +4816,7 @@
          "stunde": "6",
          "fach": "phil1",
          "klasse": "11D,11A-11C,11E",
-         "raum": "001",
+         "raum": "Co1",
          "info": "",
          "geaendert": false
         }
@@ -3676,7 +4859,7 @@
         },
         {
          "stunde": "5",
-         "fach": "Ku",
+         "fach": "ILZ",
          "klasse": "10B",
          "raum": "207",
          "info": "",
@@ -3684,7 +4867,7 @@
         },
         {
          "stunde": "6",
-         "fach": "Ku",
+         "fach": "ILZ",
          "klasse": "10B",
          "raum": "207",
          "info": "",
@@ -3713,19 +4896,19 @@
         },
         {
          "stunde": "3",
-         "fach": "Bio",
-         "klasse": "7D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7D Köh (für Bio), Kennenlerntage, Teamtraining mit Frau Jacobs",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Bio",
-         "klasse": "7D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7D Köh (für Bio), Kennenlerntage, Teamtraining mit Frau Jacobs",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -3750,19 +4933,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ma",
-         "klasse": "7D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7D Köh (für Ma), Kennenlerntage, Stadtrundgang",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "KL",
+         "klasse": "",
+         "raum": "",
+         "info": "Kennenlerntage, Stadtrundgang, 7d; KL 7D Köh (für Ma), Kennenlerntage, Stadtrundgang",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ma",
-         "klasse": "7D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KL 7D Köh (für Ma), Kennenlerntage, Stadtrundgang",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KL",
+         "klasse": "",
+         "raum": "",
+         "info": "Kennenlerntage, Stadtrundgang, 7d; KL 7D Köh (für Ma), Kennenlerntage, Stadtrundgang",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -3781,6 +4980,22 @@
          "geaendert": false
         },
         {
+         "stunde": "5",
+         "fach": "Ph",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "für Ph Hun, in Rücksprache mit Herrn Hunger",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ph",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "für Ph Hun, in Rücksprache mit Herrn Hunger",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "IMB",
          "klasse": "9A",
@@ -3797,7 +5012,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "erst Haus, dann Hof2+GLK",
+         "info": ""
+        }
+       ]
       },
       "Sto": {
        "entries": [],
@@ -3837,17 +5059,17 @@
          "stunde": "5",
          "fach": "De",
          "klasse": "9D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "für De Tie, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "De",
          "klasse": "9D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "für De Tie, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -3870,13 +5092,29 @@
         {
          "vor_stunde": "7",
          "uhrzeit": "13:10",
-         "ort": "Haus, WCs, Caféteria",
+         "ort": "Hof, WCs, Grünes Klassenzimmer",
          "info": ""
         }
        ]
       },
       "Tuh": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Bio",
+         "klasse": "8B",
+         "raum": "204",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "Bio",
+         "klasse": "8B",
+         "raum": "204",
+         "info": "für Bio Tuh, Lehrbuch-Ausgabe, R 101",
+         "geaendert": false
+        },
         {
          "stunde": "3",
          "fach": "Bio",
@@ -3890,22 +5128,6 @@
          "fach": "Bio",
          "klasse": "9D",
          "raum": "205",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "Bio",
-         "klasse": "8B",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "6",
-         "fach": "Bio",
-         "klasse": "8B",
-         "raum": "204",
          "info": "",
          "geaendert": false
         },
@@ -3981,9 +5203,9 @@
        ],
        "aufsichten": [
         {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Haus, WCs, Caféteria",
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof1, WCs, Container",
          "info": ""
         }
        ]
