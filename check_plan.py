@@ -49,6 +49,11 @@ STUNDEN_ZEITEN = {
 }
 # Nach wie vielen aufeinanderfolgenden Fehlschlägen eine Monitoring-Warnung gesendet wird
 FETCH_FAIL_ALERT_THRESHOLD = 6  # ~30 min bei 5-min-Intervall
+# Obergrenze für die Wartezeit nach einem ntfy-Rate-Limit (429)
+RATE_LIMIT_MAX_WAIT = 15
+# Ab wie vielen Änderungen in einem Durchlauf das globale Topic nur noch
+# eine Sammelmeldung statt einer Nachricht pro Lehrkraft bekommt
+GLOBAL_SUMMARY_THRESHOLD = 5
 
 
 def fetch_xml(path: str, retries: int = 2) -> ET.Element | None:
@@ -265,6 +270,7 @@ def send_notification(topic: str, title: str, message: str, priority: str = "hig
     """Sendet eine Push-Notification über ntfy.sh (mit Retry + Backoff).
     Gibt True zurück wenn erfolgreich, False wenn alle Versuche fehlschlagen."""
     for attempt in range(1, retries + 1):
+        wait = 2 ** attempt
         try:
             resp = requests.post(
                 f"https://ntfy.sh/{topic}",
@@ -277,13 +283,20 @@ def send_notification(topic: str, title: str, message: str, priority: str = "hig
                 },
                 timeout=10,
             )
+            if resp.status_code == 429:
+                # ntfy.sh drosselt — Retry-After abwarten statt blind zu wiederholen
+                try:
+                    wait = max(wait, int(resp.headers.get("Retry-After", "0")))
+                except ValueError:
+                    pass
+                wait = min(wait, RATE_LIMIT_MAX_WAIT)
+                raise requests.exceptions.HTTPError("429 Rate-Limit", response=resp)
             resp.raise_for_status()
             log.info("Notification gesendet → %s (HTTP %d)", topic, resp.status_code)
             return True
         except Exception as e:
             log.warning("ntfy-Fehler bei %s (Versuch %d/%d): %s", topic, attempt, retries, e)
             if attempt < retries:
-                wait = 2 ** attempt
                 log.info("Warte %ds vor erneutem Versuch...", wait)
                 time.sleep(wait)
 
@@ -343,6 +356,7 @@ def main():
     filter_config = load_filter_config()
     log.info("Filter-Konfiguration geladen: %d Einträge", len(filter_config))
     changed_total = 0
+    global_summary = []
     notification_failures = []
     consecutive_failures = state.get("_consecutive_fetch_failures", 0)
 
@@ -455,14 +469,30 @@ def main():
             if not ok:
                 notification_failures.append({"lehrer": kurz, "datum": datum, "topic": personal_topic})
 
-            # Globale Notification (optional)
-            send_notification(
-                NTFY_TOPIC_PREFIX, title,
-                f"Vertretung für {kurz} am {datum}",
-                priority="default"
-            )
+            # Globales Topic bekommt eine gebündelte Sammelmeldung nach der Schleife —
+            # eine Nachricht pro Lehrkraft läuft bei einem Plan-Neuupload ins ntfy-Rate-Limit.
+            global_summary.append(f"{kurz} am {datum}")
 
             changed_total += 1
+
+            # State sofort schreiben. Bricht der Job danach ab (Timeout, Rate-Limit-Stau),
+            # gelten die bereits verschickten Änderungen trotzdem als quittiert und werden
+            # im nächsten Durchlauf nicht erneut benachrichtigt.
+            save_state(state)
+
+    # Globale Sammelmeldung — eine Nachricht pro Durchlauf statt eine pro Lehrkraft
+    if global_summary:
+        if len(global_summary) <= GLOBAL_SUMMARY_THRESHOLD:
+            body = "\n".join(global_summary)
+        else:
+            body = "\n".join(global_summary[:GLOBAL_SUMMARY_THRESHOLD])
+            body += f"\n… und {len(global_summary) - GLOBAL_SUMMARY_THRESHOLD} weitere"
+        send_notification(
+            NTFY_TOPIC_PREFIX,
+            f"{len(global_summary)} Planänderung(en)",
+            body,
+            priority="default",
+        )
 
     # Alte Einträge aufräumen (> 14 Tage), Metadaten-Keys (mit _ Prefix) behalten
     cutoff = (now - timedelta(days=14)).strftime("%Y%m%d")
