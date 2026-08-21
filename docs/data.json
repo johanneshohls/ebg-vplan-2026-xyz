@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "21.08.2026, 08:01 Uhr",
- "last_changed": "2026-08-20T13:39:00",
+ "generiert": "21.08.2026, 08:45 Uhr",
+ "last_changed": "2026-08-21T10:07:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -85,7 +85,7 @@
    "tage": {
     "20260824": {
      "datum": "Montag, 24. August 2026",
-     "zeitstempel": "20.08.2026, 13:39",
+     "zeitstempel": "21.08.2026, 10:07",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -2818,7 +2818,7 @@
     },
     "20260825": {
      "datum": "Dienstag, 25. August 2026",
-     "zeitstempel": "20.08.2026, 13:39",
+     "zeitstempel": "21.08.2026, 10:07",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -4367,7 +4367,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "SpMä 8E fällt aus",
+         "info": "SpMä 8E Stu",
          "geaendert": true
         },
         {
@@ -4383,7 +4383,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "SpMä 8E fällt aus",
+         "info": "SpMä 8E Stu",
          "geaendert": true
         },
         {
@@ -5026,7 +5026,24 @@
        "aufsichten": []
       },
       "Stu": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "SpMä",
+         "klasse": "8E",
+         "raum": "Tu3",
+         "info": "für SpMä Mue",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "SpMä",
+         "klasse": "8E",
+         "raum": "Tu3",
+         "info": "für SpMä Mue",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Ten": {
