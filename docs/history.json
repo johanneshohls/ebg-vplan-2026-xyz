@@ -1065,5 +1065,546 @@
    "Std 2 (08:25): für SpMä Mue"
   ],
   "zeitstempel": "21.08.2026, 10:07"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Bar",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Std 3 (09:40): Inf 12A-12D Stu, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 4 (10:25): Inf 12A-12D Stu, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Bes",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Std 7 (13:40): GS07 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS07 7A-7D,8A-8E fällt aus"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Bir",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Std 7 (13:40): GS03 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS03 7A-7D,8A-8E fällt aus"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Bob",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Std 6 (12:25): für Ch Bob, Lehrbuch-Ausgabe, R 101"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Bom",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Fech",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Std 4 (10:25): für En Mar",
+   "Std 7 (13:40): GS09 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS09 7A-7D,8A-8E fällt aus"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Fla",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Std 1 (07:40): für De Fla, Raumänderung",
+   "Std 2 (08:25): für De Fla, Raumänderung"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Gol",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Hei",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Std 7 (13:40): GS05 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS05 7A-7D,8A-8E fällt aus"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Her",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Hofm",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Hoh",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Hol",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Hön",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Hun",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Jur",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Std 1 (07:40): De 9C verlegt nach St.3, Lehrbuch-Ausgabe",
+   "Std 1 (07:40): ILZ 9C verlegt von St.3; De 9C verlegt nach St.3, Lehrbuch-Ausgabe",
+   "Std 2 (08:25): De 9C verlegt nach St.4",
+   "Std 2 (08:25): ILZ 9C verlegt von St.4; De 9C verlegt nach St.4",
+   "Std 3 (09:40): ILZ 9C verlegt nach St.1",
+   "Std 3 (09:40): De 9C verlegt von St.1, Lehrbuch-Ausgabe; ILZ 9C verlegt nach St.1",
+   "Std 4 (10:25): ILZ 9C verlegt nach St.2",
+   "Std 4 (10:25): De 9C verlegt von St.2; ILZ 9C verlegt nach St.2"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Lan",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Std 5 (11:40): für Sk Lan, Lehrbuch-Ausgabe"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Leu",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Std 7 (13:40): GS10 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS10 7A-7D,8A-8E fällt aus"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Mar",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Std 3 (09:40): für En Mar, Lehrbuch-Ausgabe",
+   "Std 4 (10:25): De 9A Fech (für En)",
+   "Std 4 (10:25): Lehrbuch-Ausgabe, R 101; De 9A Fech (für En)",
+   "Std 5 (11:40): Lehrbuch-Ausgabe, R 101",
+   "Std 6 (12:25): Lehrbuch-Ausgabe, R 101"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Neu",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Std 7 (13:40): GS06 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS06 7A-7D,8A-8E fällt aus"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Ost",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Std 7 (13:40): GS13 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS13 7A-7D,8A-8E fällt aus"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Pri",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Std 7 (13:40): GS11 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS11 7A-7D,8A-8E fällt aus"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Puk",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Rat",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Schud",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "See",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Std 1 (07:40): Bio 11A-11E Ter, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 2 (08:25): Bio 11A-11E Ter, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Sta",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Stu",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Std 3 (09:40): für Inf Bar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 4 (10:25): für Inf Bar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Ten",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Std 7 (13:40): GS12 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS12 7A-7D,8A-8E fällt aus"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Ter",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Std 1 (07:40): für Bio See, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 2 (08:25): für Bio See, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Tuh",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Std 3 (09:40): für De Tuh, Raumänderung",
+   "Std 4 (10:25): für De Tuh, Raumänderung",
+   "Std 5 (11:40): für De Tuh, Essenraum",
+   "Std 6 (12:25): für De Tuh, Essenraum"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Wag",
+  "datum": "Mittwoch, 26. August 2026",
+  "date_key": "20260826",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Bes",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Bob",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Std 2 (08:25): für ILZ Bob, Lehrbuch-Ausgabe, R 101",
+   "Std 5 (11:40): für Ch Bob, Raumänderung",
+   "Std 6 (12:25): für Ch Bob, Raumänderung"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Bom",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Std 2 (08:25): für Ma Bom, Lehrbuch-Ausgabe, R 101; 09.00 - 09.40 Uhr"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Bri",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Std 5 (11:40): für Ma Käc, Raumänderung",
+   "Std 6 (12:25): für Ma Käc, Raumänderung"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Eul",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Std 3 (09:40): für eRe Rat",
+   "Std 4 (10:25): für eRe Rat"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Gol",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Her",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Hun",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Std 1 (07:40): für KILZ Hun, Lehrbuch-Ausgabe, R 101"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Jur",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Std 3 (09:40): für Phi Jur, Raumänderung",
+   "Std 4 (10:25): für Phi Jur, Raumänderung"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Käc",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Std 5 (11:40): für Ma Käc, Raumänderung",
+   "Std 6 (12:25): für Ma Käc, Raumänderung"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Lan",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Std 1 (07:40): für AWT Lan, kein Raum verfügbar",
+   "Std 2 (08:25): für AWT Lan, kein Raum verfügbar"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Leu",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Mar",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Std 1 (07:40): Lehrbuch-Ausgabe, Jahrgang 7",
+   "Std 2 (08:25): Lehrbuch-Ausgabe, Jahrgang 7",
+   "Std 3 (09:40): Lehrbuch-Ausgabe, Jahrgang 7",
+   "Std 4 (10:25): Lehrbuch-Ausgabe, Jahrgang 7"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Ost",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Pel",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Std 5 (11:40): für Ch Pel, Raumänderung",
+   "Std 6 (12:25): für Ch Pel, Raumänderung"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Rat",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Std 3 (09:40): eRe 8A Eul",
+   "Std 4 (10:25): eRe 8A Eul"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Sta",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Std 4 (10:25): für Ma Sta, Lehrbuch-Ausgabe, R 101"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
+ },
+ {
+  "timestamp": "2026-08-22T05:22:16.044881",
+  "lehrer": "Tuh",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "22.08.2026, 06:55"
  }
 ]
