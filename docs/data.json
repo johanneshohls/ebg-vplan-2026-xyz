@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "23.08.2026, 10:17 Uhr",
- "last_changed": "2026-08-22T06:55:00",
+ "generiert": "23.08.2026, 10:43 Uhr",
+ "last_changed": "2026-08-23T12:36:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -85,7 +85,7 @@
    "tage": {
     "20260824": {
      "datum": "Montag, 24. August 2026",
-     "zeitstempel": "22.08.2026, 06:55",
+     "zeitstempel": "23.08.2026, 12:36",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -1179,17 +1179,17 @@
          "stunde": "5",
          "fach": "EN2",
          "klasse": "12A-12D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für En Hol, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "EN2",
          "klasse": "12A-12D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für En Hol, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -2779,17 +2779,17 @@
          "stunde": "5",
          "fach": "En",
          "klasse": "8D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "007",
+         "info": "für En Wag, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "En",
          "klasse": "8D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "007",
+         "info": "für En Wag, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "7",
