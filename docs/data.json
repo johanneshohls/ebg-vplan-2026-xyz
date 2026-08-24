@@ -1,6 +1,6 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "23.08.2026, 22:00 Uhr",
+ "generiert": "24.08.2026, 05:34 Uhr",
  "last_changed": "2026-08-23T12:36:00",
  "lehrer": [
   "Bar",
@@ -64,14 +64,8 @@
   "Wag",
   "Zec"
  ],
- "aktuelle_kw": "34",
+ "aktuelle_kw": "35",
  "wochen": {
-  "33": {
-   "kw": 33,
-   "montag": "20260810",
-   "freitag": "20260814",
-   "tage": {}
-  },
   "34": {
    "kw": 34,
    "montag": "20260817",
@@ -11055,6 +11049,12 @@
      }
     }
    }
+  },
+  "36": {
+   "kw": 36,
+   "montag": "20260831",
+   "freitag": "20260904",
+   "tage": {}
   }
  }
 }
