@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "24.08.2026, 13:03 Uhr",
- "last_changed": "2026-08-23T12:36:00",
+ "generiert": "24.08.2026, 13:55 Uhr",
+ "last_changed": "2026-08-24T15:19:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -2812,7 +2812,7 @@
     },
     "20260825": {
      "datum": "Dienstag, 25. August 2026",
-     "zeitstempel": "22.08.2026, 06:55",
+     "zeitstempel": "24.08.2026, 15:19",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -3240,7 +3240,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof1, WCs, Container",
+         "info": "für Fla"
+        }
+       ]
       },
       "Fech": {
        "entries": [
@@ -3308,34 +3315,18 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Bio",
-         "klasse": "8A",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "4",
-         "fach": "Bio",
-         "klasse": "8A",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "ILZ",
-         "klasse": "8C",
-         "raum": "006",
-         "info": "ILZ 8C verlegt von St.7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 8A Pel",
          "geaendert": true
         },
         {
-         "stunde": "6",
-         "fach": "ILZ",
-         "klasse": "8C",
-         "raum": "006",
-         "info": "ILZ 8C verlegt von St.8",
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 8A Pel",
          "geaendert": true
         },
         {
@@ -3343,7 +3334,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "ILZ 8C verlegt nach St.5",
+         "info": "ILZ 8C fällt aus",
          "geaendert": true
         },
         {
@@ -3351,7 +3342,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "ILZ 8C verlegt nach St.6",
+         "info": "ILZ 8C fällt aus",
          "geaendert": true
         }
        ],
@@ -3360,7 +3351,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Hof1, WCs, Container",
-         "info": ""
+         "info": "entfällt, V: Eul"
         }
        ]
       },
@@ -4574,7 +4565,24 @@
        "aufsichten": []
       },
       "Pel": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "für Bio Fla",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Bio",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "für Bio Fla",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Pri": {
