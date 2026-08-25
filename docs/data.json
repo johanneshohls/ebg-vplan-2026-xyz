@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "25.08.2026, 07:22 Uhr",
- "last_changed": "2026-08-24T15:19:00",
+ "generiert": "25.08.2026, 08:03 Uhr",
+ "last_changed": "2026-08-25T09:26:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -2812,7 +2812,7 @@
     },
     "20260825": {
      "datum": "Dienstag, 25. August 2026",
-     "zeitstempel": "24.08.2026, 15:19",
+     "zeitstempel": "25.08.2026, 09:26",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -3902,19 +3902,19 @@
         },
         {
          "stunde": "3",
-         "fach": "de2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11D,11A-11C,11E Schil",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "de2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11D,11A-11C,11E Schil",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -4768,6 +4768,22 @@
          "raum": "Co3",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "de2",
+         "klasse": "11A-11E",
+         "raum": "K07",
+         "info": "für De Jur",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "de2",
+         "klasse": "11A-11E",
+         "raum": "K07",
+         "info": "für De Jur",
+         "geaendert": true
         }
        ],
        "aufsichten": []
