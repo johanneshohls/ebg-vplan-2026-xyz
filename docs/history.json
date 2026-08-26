@@ -1690,5 +1690,27 @@
    "Planänderung (Details nicht spezifiziert)"
   ],
   "zeitstempel": "26.08.2026, 11:32"
+ },
+ {
+  "timestamp": "2026-08-26T11:13:10.657676",
+  "lehrer": "Hofm",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Std 1 (07:40): für ILZ Hofm, Es ist kein Raum verfügbar. Bitte im Schulhaus verteilen.",
+   "Std 2 (08:25): für ILZ Hofm, Es ist kein Raum verfügbar. Bitte im Schulhaus verteilen."
+  ],
+  "zeitstempel": "26.08.2026, 13:12"
+ },
+ {
+  "timestamp": "2026-08-26T11:13:10.657676",
+  "lehrer": "Lan",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Std 1 (07:40): für AWT Lan, Raumänderung",
+   "Std 2 (08:25): für AWT Lan, Raumänderung"
+  ],
+  "zeitstempel": "26.08.2026, 13:12"
  }
 ]

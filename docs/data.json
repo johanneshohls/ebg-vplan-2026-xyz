@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "26.08.2026, 10:48 Uhr",
- "last_changed": "2026-08-26T11:32:00",
+ "generiert": "26.08.2026, 11:13 Uhr",
+ "last_changed": "2026-08-26T13:12:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -7317,7 +7317,7 @@
     },
     "20260827": {
      "datum": "Donnerstag, 27. August 2026",
-     "zeitstempel": "26.08.2026, 11:32",
+     "zeitstempel": "26.08.2026, 13:12",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -7990,17 +7990,17 @@
          "stunde": "1",
          "fach": "ILZ",
          "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für ILZ Hofm, Es ist kein Raum verfügbar. Bitte im Schulhaus verteilen.",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "ILZ",
          "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für ILZ Hofm, Es ist kein Raum verfügbar. Bitte im Schulhaus verteilen.",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -8483,16 +8483,16 @@
          "stunde": "1",
          "fach": "AWT",
          "klasse": "8C",
-         "raum": "",
-         "info": "für AWT Lan, kein Raum verfügbar",
+         "raum": "008",
+         "info": "für AWT Lan, Raumänderung",
          "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "AWT",
          "klasse": "8C",
-         "raum": "",
-         "info": "für AWT Lan, kein Raum verfügbar",
+         "raum": "008",
+         "info": "für AWT Lan, Raumänderung",
          "geaendert": true
         },
         {
