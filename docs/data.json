@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "27.08.2026, 00:01 Uhr",
- "last_changed": "2026-08-26T13:12:00",
+ "generiert": "27.08.2026, 16:04 Uhr",
+ "last_changed": "2026-08-27T14:04:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -7317,7 +7317,7 @@
     },
     "20260827": {
      "datum": "Donnerstag, 27. August 2026",
-     "zeitstempel": "26.08.2026, 13:12",
+     "zeitstempel": "27.08.2026, 11:29",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -7845,7 +7845,7 @@
          "stunde": "5",
          "fach": "Ge",
          "klasse": "7B",
-         "raum": "003",
+         "raum": "106",
          "info": "",
          "geaendert": false
         },
@@ -7853,7 +7853,7 @@
          "stunde": "6",
          "fach": "Ge",
          "klasse": "7B",
-         "raum": "003",
+         "raum": "106",
          "info": "",
          "geaendert": false
         }
@@ -8268,7 +8268,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Köh"
+        }
+       ]
       },
       "Isb": {
        "entries": [
@@ -8421,51 +8428,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Lat",
-         "klasse": "7D",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 7D Pel (für Lat)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Lat",
-         "klasse": "7D",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 7D Pel (für Lat)",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8D Stu (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
-         "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8D Stu (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8B Sta (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8B Sta (für Span)",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -8473,7 +8480,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Hun"
         }
        ]
       },
@@ -8780,6 +8787,22 @@
       },
       "Pel": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Bio",
+         "klasse": "7D",
+         "raum": "207",
+         "info": "für Lat Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Bio",
+         "klasse": "7D",
+         "raum": "207",
+         "info": "für Lat Köh",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "Ch",
@@ -9114,6 +9137,22 @@
          "raum": "005",
          "info": "für Ma Sta, Lehrbuch-Ausgabe, R 101",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "8B",
+         "raum": "008",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "8B",
+         "raum": "008",
+         "info": "für Span Köh",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -9123,7 +9162,24 @@
        "aufsichten": []
       },
       "Stu": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "8D",
+         "raum": "102",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "8D",
+         "raum": "102",
+         "info": "für Span Köh",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Ten": {
@@ -9286,7 +9342,7 @@
     },
     "20260828": {
      "datum": "Freitag, 28. August 2026",
-     "zeitstempel": "26.08.2026, 11:32",
+     "zeitstempel": "27.08.2026, 14:04",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -9806,6 +9862,22 @@
       "Hei": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "Geo",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "für Span Köh, Bitt Rücksprache mit L. Schilloing halten.",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Geo",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "für Span Köh, Bitt Rücksprache mit L. Schilloing halten.",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "Fr",
          "klasse": "7A",
@@ -10176,7 +10248,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Köh"
+        }
+       ]
       },
       "Kar": {
        "entries": [
@@ -10279,35 +10358,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 8E Hei (für Span), Bitt Rücksprache mit L. Schilloing halten.",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 8E Hei (für Span), Bitt Rücksprache mit L. Schilloing halten.",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8B OLop",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8B OLop",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -10315,7 +10394,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Käc"
         }
        ]
       },
@@ -10563,6 +10642,22 @@
          "raum": "007",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Span",
+         "klasse": "8B",
+         "raum": "008",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Span",
+         "klasse": "8B",
+         "raum": "008",
+         "info": "für Span Köh",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -10573,7 +10668,7 @@
          "stunde": "3",
          "fach": "de1",
          "klasse": "11D,11A-11C,11E",
-         "raum": "",
+         "raum": "101",
          "info": "",
          "geaendert": false
         },
@@ -10581,7 +10676,7 @@
          "stunde": "4",
          "fach": "de1",
          "klasse": "11D,11A-11C,11E",
-         "raum": "",
+         "raum": "101",
          "info": "",
          "geaendert": false
         },
@@ -11081,7 +11176,7 @@
    "tage": {
     "20260831": {
      "datum": "Montag, 31. August 2026",
-     "zeitstempel": "26.08.2026, 11:32",
+     "zeitstempel": "27.08.2026, 14:04",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -13095,7 +13190,7 @@
     },
     "20260901": {
      "datum": "Dienstag, 01. September 2026",
-     "zeitstempel": "26.08.2026, 11:32",
+     "zeitstempel": "27.08.2026, 14:04",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -15095,7 +15190,7 @@
     },
     "20260902": {
      "datum": "Mittwoch, 02. September 2026",
-     "zeitstempel": "26.08.2026, 11:32",
+     "zeitstempel": "27.08.2026, 14:04",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -15104,7 +15199,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Inf 12A-12D Stu, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+         "info": "Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
          "geaendert": true
         },
         {
@@ -15112,7 +15207,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Inf 12A-12D Stu, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+         "info": "Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
          "geaendert": true
         },
         {
@@ -15120,7 +15215,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Inf 12A-12D Stu, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+         "info": "Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
          "geaendert": true
         },
         {
@@ -15128,7 +15223,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Inf 12A-12D Stu, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+         "info": "Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
          "geaendert": true
         }
        ],
@@ -16788,40 +16883,7 @@
        "aufsichten": []
       },
       "Stu": {
-       "entries": [
-        {
-         "stunde": "3",
-         "fach": "inf3",
-         "klasse": "12A-12D",
-         "raum": "K10",
-         "info": "für Inf Bar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "inf3",
-         "klasse": "12A-12D",
-         "raum": "K10",
-         "info": "für Inf Bar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "inf1",
-         "klasse": "12A-12D",
-         "raum": "K10",
-         "info": "für Inf Bar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "inf1",
-         "klasse": "12A-12D",
-         "raum": "K10",
-         "info": "für Inf Bar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
-         "geaendert": true
-        }
-       ],
+       "entries": [],
        "aufsichten": []
       },
       "Ten": {
@@ -17014,7 +17076,7 @@
     },
     "20260903": {
      "datum": "Donnerstag, 03. September 2026",
-     "zeitstempel": "26.08.2026, 11:32",
+     "zeitstempel": "27.08.2026, 14:04",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -18979,7 +19041,7 @@
     },
     "20260904": {
      "datum": "Freitag, 04. September 2026",
-     "zeitstempel": "26.08.2026, 11:32",
+     "zeitstempel": "27.08.2026, 14:04",
      "lehrer": {
       "Bar": {
        "entries": [

@@ -1712,5 +1712,134 @@
    "Std 2 (08:25): für AWT Lan, Raumänderung"
   ],
   "zeitstempel": "26.08.2026, 13:12"
+ },
+ {
+  "timestamp": "2026-08-27T16:03:45.309920",
+  "lehrer": "Gor",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "27.08.2026, 11:29"
+ },
+ {
+  "timestamp": "2026-08-27T16:03:45.309920",
+  "lehrer": "Köh",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Std 1 (07:40): Bio 7D Pel (für Lat)",
+   "Std 2 (08:25): Bio 7D Pel (für Lat)",
+   "Std 3 (09:40): De 8D Stu (für Span)",
+   "Std 4 (10:25): De 8D Stu (für Span)",
+   "Std 5 (11:40): Ma 8B Sta (für Span)",
+   "Std 6 (12:25): Ma 8B Sta (für Span)"
+  ],
+  "zeitstempel": "27.08.2026, 11:29"
+ },
+ {
+  "timestamp": "2026-08-27T16:03:45.309920",
+  "lehrer": "Pel",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Std 1 (07:40): für Lat Köh",
+   "Std 2 (08:25): für Lat Köh",
+   "Std 5 (11:40): für Ch Pel, Raumänderung",
+   "Std 6 (12:25): für Ch Pel, Raumänderung"
+  ],
+  "zeitstempel": "27.08.2026, 11:29"
+ },
+ {
+  "timestamp": "2026-08-27T16:03:45.309920",
+  "lehrer": "Sta",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Std 4 (10:25): für Ma Sta, Lehrbuch-Ausgabe, R 101",
+   "Std 5 (11:40): für Span Köh",
+   "Std 6 (12:25): für Span Köh"
+  ],
+  "zeitstempel": "27.08.2026, 11:29"
+ },
+ {
+  "timestamp": "2026-08-27T16:03:45.309920",
+  "lehrer": "Stu",
+  "datum": "Donnerstag, 27. August 2026",
+  "date_key": "20260827",
+  "changes": [
+   "Std 3 (09:40): für Span Köh",
+   "Std 4 (10:25): für Span Köh"
+  ],
+  "zeitstempel": "27.08.2026, 11:29"
+ },
+ {
+  "timestamp": "2026-08-27T16:03:45.309920",
+  "lehrer": "Hei",
+  "datum": "Freitag, 28. August 2026",
+  "date_key": "20260828",
+  "changes": [
+   "Std 1 (07:40): für Span Köh, Bitt Rücksprache mit L. Schilloing halten.",
+   "Std 2 (08:25): für Span Köh, Bitt Rücksprache mit L. Schilloing halten."
+  ],
+  "zeitstempel": "27.08.2026, 14:04"
+ },
+ {
+  "timestamp": "2026-08-27T16:03:45.309920",
+  "lehrer": "Köh",
+  "datum": "Freitag, 28. August 2026",
+  "date_key": "20260828",
+  "changes": [
+   "Std 1 (07:40): Geo 8E Hei (für Span), Bitt Rücksprache mit L. Schilloing halten.",
+   "Std 2 (08:25): Geo 8E Hei (für Span), Bitt Rücksprache mit L. Schilloing halten.",
+   "Std 5 (11:40): Span 8B OLop",
+   "Std 6 (12:25): Span 8B OLop"
+  ],
+  "zeitstempel": "27.08.2026, 14:04"
+ },
+ {
+  "timestamp": "2026-08-27T16:03:45.309920",
+  "lehrer": "OLop",
+  "datum": "Freitag, 28. August 2026",
+  "date_key": "20260828",
+  "changes": [
+   "Std 5 (11:40): für Span Köh",
+   "Std 6 (12:25): für Span Köh"
+  ],
+  "zeitstempel": "27.08.2026, 14:04"
+ },
+ {
+  "timestamp": "2026-08-27T16:03:45.309920",
+  "lehrer": "Ost",
+  "datum": "Freitag, 28. August 2026",
+  "date_key": "20260828",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "27.08.2026, 14:04"
+ },
+ {
+  "timestamp": "2026-08-27T16:03:45.309920",
+  "lehrer": "Bar",
+  "datum": "Mittwoch, 02. September 2026",
+  "date_key": "20260902",
+  "changes": [
+   "Std 3 (09:40): Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "27.08.2026, 14:04"
+ },
+ {
+  "timestamp": "2026-08-27T16:03:45.309920",
+  "lehrer": "Stu",
+  "datum": "Mittwoch, 02. September 2026",
+  "date_key": "20260902",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "27.08.2026, 14:04"
  }
 ]
