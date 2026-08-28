@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "28.08.2026, 00:50 Uhr",
- "last_changed": "2026-08-27T14:04:00",
+ "generiert": "28.08.2026, 17:07 Uhr",
+ "last_changed": "2026-08-28T13:58:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -9342,7 +9342,7 @@
     },
     "20260828": {
      "datum": "Freitag, 28. August 2026",
-     "zeitstempel": "27.08.2026, 14:04",
+     "zeitstempel": "28.08.2026, 11:21",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -9866,7 +9866,7 @@
          "fach": "Geo",
          "klasse": "8E",
          "raum": "103",
-         "info": "für Span Köh, Bitt Rücksprache mit L. Schilloing halten.",
+         "info": "für Span Köh",
          "geaendert": true
         },
         {
@@ -9874,7 +9874,7 @@
          "fach": "Geo",
          "klasse": "8E",
          "raum": "103",
-         "info": "für Span Köh, Bitt Rücksprache mit L. Schilloing halten.",
+         "info": "für Span Köh",
          "geaendert": true
         },
         {
@@ -10248,14 +10248,7 @@
          "geaendert": false
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Haus, WCs, Caféteria",
-         "info": "für Köh"
-        }
-       ]
+       "aufsichten": []
       },
       "Kar": {
        "entries": [
@@ -10361,7 +10354,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Geo 8E Hei (für Span), Bitt Rücksprache mit L. Schilloing halten.",
+         "info": "Geo 8E Hei (für Span)",
          "geaendert": true
         },
         {
@@ -10369,7 +10362,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Geo 8E Hei (für Span), Bitt Rücksprache mit L. Schilloing halten.",
+         "info": "Geo 8E Hei (für Span)",
          "geaendert": true
         },
         {
@@ -10394,7 +10387,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": "entfällt, V: Käc"
+         "info": ""
         }
        ]
       },
@@ -11176,7 +11169,7 @@
    "tage": {
     "20260831": {
      "datum": "Montag, 31. August 2026",
-     "zeitstempel": "27.08.2026, 14:04",
+     "zeitstempel": "28.08.2026, 13:58",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -13190,7 +13183,7 @@
     },
     "20260901": {
      "datum": "Dienstag, 01. September 2026",
-     "zeitstempel": "27.08.2026, 14:04",
+     "zeitstempel": "28.08.2026, 13:58",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -15190,41 +15183,41 @@
     },
     "20260902": {
      "datum": "Mittwoch, 02. September 2026",
-     "zeitstempel": "27.08.2026, 14:04",
+     "zeitstempel": "28.08.2026, 13:58",
      "lehrer": {
       "Bar": {
        "entries": [
         {
          "stunde": "3",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
-         "geaendert": true
+         "fach": "inf3",
+         "klasse": "12A-12D",
+         "raum": "K10",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "4",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
-         "geaendert": true
+         "fach": "inf3",
+         "klasse": "12A-12D",
+         "raum": "K10",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
-         "geaendert": true
+         "fach": "inf1",
+         "klasse": "12A-12D",
+         "raum": "K10",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
-         "geaendert": true
+         "fach": "inf1",
+         "klasse": "12A-12D",
+         "raum": "K10",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": []
@@ -15605,7 +15598,7 @@
          "stunde": "5",
          "fach": "span1",
          "klasse": "12A-12D",
-         "raum": "101",
+         "raum": "007",
          "info": "",
          "geaendert": false
         },
@@ -15613,7 +15606,7 @@
          "stunde": "6",
          "fach": "span1",
          "klasse": "12A-12D",
-         "raum": "101",
+         "raum": "007",
          "info": "",
          "geaendert": false
         },
@@ -15727,7 +15720,7 @@
          "stunde": "5",
          "fach": "GE2",
          "klasse": "11A-11E",
-         "raum": "007",
+         "raum": "101",
          "info": "",
          "geaendert": false
         },
@@ -15735,7 +15728,7 @@
          "stunde": "6",
          "fach": "GE2",
          "klasse": "11A-11E",
-         "raum": "007",
+         "raum": "101",
          "info": "",
          "geaendert": false
         },
@@ -17076,7 +17069,7 @@
     },
     "20260903": {
      "datum": "Donnerstag, 03. September 2026",
-     "zeitstempel": "27.08.2026, 14:04",
+     "zeitstempel": "28.08.2026, 13:58",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -17237,7 +17230,7 @@
          "stunde": "5",
          "fach": "Ch",
          "klasse": "7B",
-         "raum": "003",
+         "raum": "201",
          "info": "",
          "geaendert": false
         },
@@ -17245,7 +17238,7 @@
          "stunde": "6",
          "fach": "Ch",
          "klasse": "7B",
-         "raum": "003",
+         "raum": "201",
          "info": "",
          "geaendert": false
         }
@@ -19041,7 +19034,7 @@
     },
     "20260904": {
      "datum": "Freitag, 04. September 2026",
-     "zeitstempel": "27.08.2026, 14:04",
+     "zeitstempel": "28.08.2026, 13:58",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -19392,7 +19385,40 @@
        "aufsichten": []
       },
       "Eul": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "9B",
+         "raum": "204",
+         "info": "für Bio Ost, Bitte Rücksprache mit U. Ostendorf halten.",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Bio",
+         "klasse": "9B",
+         "raum": "204",
+         "info": "für Bio Ost, Bitte Rücksprache mit U. Ostendorf halten.",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "für De Ost, Bitte Rücksprache mit U. Ostendorf halten.",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "für De Ost, Bitte Rücksprache mit U. Ostendorf halten.",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Fech": {
@@ -19438,7 +19464,7 @@
          "stunde": "7",
          "fach": "span1",
          "klasse": "12A-12D",
-         "raum": "101",
+         "raum": "007",
          "info": "",
          "geaendert": false
         },
@@ -19446,7 +19472,7 @@
          "stunde": "8",
          "fach": "span1",
          "klasse": "12A-12D",
-         "raum": "101",
+         "raum": "007",
          "info": "",
          "geaendert": false
         },
@@ -20520,67 +20546,67 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Bio",
-         "klasse": "9B",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9B Eul, Bitte Rücksprache mit U. Ostendorf halten.",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Bio",
-         "klasse": "9B",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9B Eul, Bitte Rücksprache mit U. Ostendorf halten.",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "De",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8A Eul, Bitte Rücksprache mit U. Ostendorf halten.",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "De",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8A Eul, Bitte Rücksprache mit U. Ostendorf halten.",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "de1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "de1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "9",
-         "fach": "KL",
-         "klasse": "9B",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "KL 9B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "10",
-         "fach": "KL",
-         "klasse": "9B",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "KL 9B fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
