@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "30.08.2026, 14:52 Uhr",
- "last_changed": "2026-08-28T13:58:00",
+ "generiert": "30.08.2026, 18:12 Uhr",
+ "last_changed": "2026-08-30T18:51:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -11169,7 +11169,7 @@
    "tage": {
     "20260831": {
      "datum": "Montag, 31. August 2026",
-     "zeitstempel": "28.08.2026, 13:58",
+     "zeitstempel": "30.08.2026, 18:51",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -11497,6 +11497,22 @@
          "raum": "104",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "7D",
+         "raum": "001",
+         "info": "für Lat Köh, Bitte mit L. Schilling abstimmen.",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "7D",
+         "raum": "001",
+         "info": "für Lat Köh, Bitte mit L. Schilling abstimmen.",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12172,51 +12188,51 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Lat",
-         "klasse": "7D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7D Eul (für Lat), Bitte mit L. Schilling abstimmen.",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Lat",
-         "klasse": "7D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7D Eul (für Lat), Bitte mit L. Schilling abstimmen.",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8C Stu (für Span), Aufgaben liegen vor.",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8C Stu (für Span), Aufgaben liegen vor.",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Span",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Span",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12958,7 +12974,24 @@
        "aufsichten": []
       },
       "Stu": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für Span Köh, Aufgaben liegen vor.",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für Span Köh, Aufgaben liegen vor.",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Ten": {
@@ -13183,7 +13216,7 @@
     },
     "20260901": {
      "datum": "Dienstag, 01. September 2026",
-     "zeitstempel": "28.08.2026, 13:58",
+     "zeitstempel": "30.08.2026, 17:03",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -13295,19 +13328,35 @@
         },
         {
          "stunde": "7",
-         "fach": "Club8",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club8 10A-10D,9A-9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Clu10",
+         "klasse": "9A-9D",
+         "raum": "Aula",
+         "info": "Vorstellung Club; Club8 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club8",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club8 10A-10D,9A-9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Clu10",
+         "klasse": "10D,10A-10C",
+         "raum": "Aula",
+         "info": "Vostellung Club; Club8 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -13486,19 +13535,35 @@
         },
         {
          "stunde": "7",
-         "fach": "Ma",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8C Käc",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Clu10",
+         "klasse": "9A-9D",
+         "raum": "Aula",
+         "info": "Vorstellung Club; Ma 8C Käc",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8C Käc",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Clu10",
+         "klasse": "10D,10A-10C",
+         "raum": "Aula",
+         "info": "Vostellung Club; Ma 8C Käc",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13589,19 +13654,35 @@
         },
         {
          "stunde": "7",
-         "fach": "Club6",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club6 10A-10D,9A-9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Clu10",
+         "klasse": "9A-9D",
+         "raum": "Aula",
+         "info": "Vorstellung Club; Club6 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club6",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club6 10A-10D,9A-9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Clu10",
+         "klasse": "10D,10A-10C",
+         "raum": "Aula",
+         "info": "Vostellung Club; Club6 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14167,7 +14248,7 @@
          "fach": "Ma",
          "klasse": "8C",
          "raum": "101",
-         "info": "",
+         "info": "für Ma Käc",
          "geaendert": false
         },
         {
@@ -14175,7 +14256,7 @@
          "fach": "Ma",
          "klasse": "8C",
          "raum": "101",
-         "info": "",
+         "info": "für Ma Käc",
          "geaendert": false
         }
        ],
@@ -14217,19 +14298,35 @@
         },
         {
          "stunde": "7",
-         "fach": "Club4",
-         "klasse": "10A-10D,9A-9D",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club4 10A-10D,9A-9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Clu10",
+         "klasse": "9A-9D",
          "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "info": "Vorstellung Club; Club4 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club4",
-         "klasse": "10A-10D,9A-9D",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club4 10A-10D,9A-9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Clu10",
+         "klasse": "10D,10A-10C",
          "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "info": "Vostellung Club; Club4 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -14314,19 +14411,35 @@
         },
         {
          "stunde": "7",
-         "fach": "Club7",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club7 10A-10D,9A-9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Clu10",
+         "klasse": "9A-9D",
+         "raum": "Aula",
+         "info": "Vorstellung Club; Club7 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club7",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club7 10A-10D,9A-9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Clu10",
+         "klasse": "10D,10A-10C",
+         "raum": "Aula",
+         "info": "Vostellung Club; Club7 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14411,19 +14524,35 @@
         },
         {
          "stunde": "7",
-         "fach": "Club3",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club3 10A-10D,9A-9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Clu10",
+         "klasse": "9A-9D",
+         "raum": "Aula",
+         "info": "Vorstellung Club; Club3 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club3",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club3 10A-10D,9A-9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Clu10",
+         "klasse": "10D,10A-10C",
+         "raum": "Aula",
+         "info": "Vostellung Club; Club3 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -14512,19 +14641,35 @@
         },
         {
          "stunde": "7",
-         "fach": "Club9",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club9 10A-10D,9A-9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Clu10",
+         "klasse": "9A-9D",
+         "raum": "Aula",
+         "info": "Vorstellung Club; Club9 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club9",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club9 10A-10D,9A-9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Clu10",
+         "klasse": "10D,10A-10C",
+         "raum": "Aula",
+         "info": "Vostellung Club; Club9 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14733,19 +14878,35 @@
         },
         {
          "stunde": "7",
-         "fach": "Club5",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club5 10A-10D,9A-9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Clu10",
+         "klasse": "9A-9D",
+         "raum": "Aula",
+         "info": "Vorstellung Club; Club5 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club5",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club5 10A-10D,9A-9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Clu10",
+         "klasse": "10D,10A-10C",
+         "raum": "Aula",
+         "info": "Vostellung Club; Club5 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15098,19 +15259,35 @@
         },
         {
          "stunde": "7",
-         "fach": "Club2",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club2 10A-10D,9A-9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Clu10",
+         "klasse": "9A-9D",
+         "raum": "Aula",
+         "info": "Vorstellung Club; Club2 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club2",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "Tu3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club2 10A-10D,9A-9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Clu10",
+         "klasse": "10D,10A-10C",
+         "raum": "Aula",
+         "info": "Vostellung Club; Club2 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15151,19 +15328,35 @@
         },
         {
          "stunde": "7",
-         "fach": "Club1",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club1 10A-10D,9A-9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Clu10",
+         "klasse": "9A-9D",
+         "raum": "Aula",
+         "info": "Vorstellung Club; Club1 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club1",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club1 10A-10D,9A-9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Clu10",
+         "klasse": "10D,10A-10C",
+         "raum": "Aula",
+         "info": "Vostellung Club; Club1 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -15183,41 +15376,41 @@
     },
     "20260902": {
      "datum": "Mittwoch, 02. September 2026",
-     "zeitstempel": "28.08.2026, 13:58",
+     "zeitstempel": "30.08.2026, 17:03",
      "lehrer": {
       "Bar": {
        "entries": [
         {
          "stunde": "3",
-         "fach": "inf3",
-         "klasse": "12A-12D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "inf3",
-         "klasse": "12A-12D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "inf1",
-         "klasse": "12A-12D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "inf1",
-         "klasse": "12A-12D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15244,17 +15437,17 @@
          "stunde": "7",
          "fach": "GS07",
          "klasse": "7A-7D,8A-8E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für GS07 Bes, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "GS07",
          "klasse": "7A-7D,8A-8E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für GS07 Bes, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -15288,17 +15481,17 @@
          "stunde": "7",
          "fach": "GS03",
          "klasse": "7A-7D,8A-8E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für GS03 Bir, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "GS03",
          "klasse": "7A-7D,8A-8E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für GS03 Bir, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+         "geaendert": true
         },
         {
          "stunde": "9",
@@ -15570,17 +15763,17 @@
          "stunde": "7",
          "fach": "GS09",
          "klasse": "7A-7D,8A-8E",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für GS09 Fech, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "GS09",
          "klasse": "7A-7D,8A-8E",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für GS09 Fech, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -16439,17 +16632,17 @@
          "stunde": "7",
          "fach": "GS06",
          "klasse": "7A-7D,8A-8E",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für GS06 Neu, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "GS06",
          "klasse": "7A-7D,8A-8E",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für GS06 Neu, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16512,17 +16705,17 @@
          "stunde": "7",
          "fach": "GS13",
          "klasse": "7A-7D,8A-8E",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für GS13 Ost, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "GS13",
          "klasse": "7A-7D,8A-8E",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für GS13 Ost, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -16604,6 +16797,22 @@
          "raum": "Co3",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "GS01",
+         "klasse": "",
+         "raum": "",
+         "info": "Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "GS01",
+         "klasse": "",
+         "raum": "",
+         "info": "Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16885,17 +17094,17 @@
          "stunde": "7",
          "fach": "GS12",
          "klasse": "7A-7D,8A-8E",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für GS12 Ten, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "GS12",
          "klasse": "7A-7D,8A-8E",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für GS12 Ten, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -17069,7 +17278,7 @@
     },
     "20260903": {
      "datum": "Donnerstag, 03. September 2026",
-     "zeitstempel": "28.08.2026, 13:58",
+     "zeitstempel": "30.08.2026, 17:03",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -19034,7 +19243,7 @@
     },
     "20260904": {
      "datum": "Freitag, 04. September 2026",
-     "zeitstempel": "28.08.2026, 13:58",
+     "zeitstempel": "30.08.2026, 17:03",
      "lehrer": {
       "Bar": {
        "entries": [

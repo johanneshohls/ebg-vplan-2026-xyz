@@ -271,5 +271,273 @@
    "Planänderung (Details nicht spezifiziert)"
   ],
   "zeitstempel": "28.08.2026, 13:58"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Eul",
+  "datum": "Montag, 31. August 2026",
+  "date_key": "20260831",
+  "changes": [
+   "Std 3 (09:40): für Lat Köh, Bitte mit L. Schilling abstimmen.",
+   "Std 4 (10:25): für Lat Köh, Bitte mit L. Schilling abstimmen."
+  ],
+  "zeitstempel": "30.08.2026, 18:51"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Köh",
+  "datum": "Montag, 31. August 2026",
+  "date_key": "20260831",
+  "changes": [
+   "Std 3 (09:40): De 7D Eul (für Lat), Bitte mit L. Schilling abstimmen.",
+   "Std 4 (10:25): De 7D Eul (für Lat), Bitte mit L. Schilling abstimmen.",
+   "Std 5 (11:40): Ma 8C Stu (für Span), Aufgaben liegen vor.",
+   "Std 6 (12:25): Ma 8C Stu (für Span), Aufgaben liegen vor.",
+   "Std 7 (13:40): Span 8E fällt aus",
+   "Std 8 (14:25): Span 8E fällt aus"
+  ],
+  "zeitstempel": "30.08.2026, 18:51"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Stu",
+  "datum": "Montag, 31. August 2026",
+  "date_key": "20260831",
+  "changes": [
+   "Std 5 (11:40): für Span Köh, Aufgaben liegen vor.",
+   "Std 6 (12:25): für Span Köh, Aufgaben liegen vor."
+  ],
+  "zeitstempel": "30.08.2026, 18:51"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Bir",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 7 (13:40): Club8 10A-10D,9A-9D fällt aus",
+   "Std 7 (13:40): Vorstellung Club; Club8 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club8 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Vostellung Club; Club8 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "30.08.2026, 17:03"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Bri",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 7 (13:40): Ma 8C Käc",
+   "Std 7 (13:40): Vorstellung Club; Ma 8C Käc",
+   "Std 8 (14:25): Ma 8C Käc",
+   "Std 8 (14:25): Vostellung Club; Ma 8C Käc"
+  ],
+  "zeitstempel": "30.08.2026, 17:03"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Fel",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 7 (13:40): Club6 10A-10D,9A-9D fällt aus",
+   "Std 7 (13:40): Vorstellung Club; Club6 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club6 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Vostellung Club; Club6 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "30.08.2026, 17:03"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Käc",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 7 (13:40): für Ma Käc",
+   "Std 8 (14:25): für Ma Käc"
+  ],
+  "zeitstempel": "30.08.2026, 17:03"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Kar",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 7 (13:40): Club4 10A-10D,9A-9D fällt aus",
+   "Std 7 (13:40): Vorstellung Club; Club4 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club4 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Vostellung Club; Club4 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "30.08.2026, 17:03"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Köh",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 7 (13:40): Club7 10A-10D,9A-9D fällt aus",
+   "Std 7 (13:40): Vorstellung Club; Club7 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club7 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Vostellung Club; Club7 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "30.08.2026, 17:03"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Leu",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 7 (13:40): Club3 10A-10D,9A-9D fällt aus",
+   "Std 7 (13:40): Vorstellung Club; Club3 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club3 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Vostellung Club; Club3 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "30.08.2026, 17:03"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Mue",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 7 (13:40): Club9 10A-10D,9A-9D fällt aus",
+   "Std 7 (13:40): Vorstellung Club; Club9 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club9 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Vostellung Club; Club9 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "30.08.2026, 17:03"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Puk",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 7 (13:40): Club5 10A-10D,9A-9D fällt aus",
+   "Std 7 (13:40): Vorstellung Club; Club5 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club5 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Vostellung Club; Club5 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "30.08.2026, 17:03"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Tuh",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 7 (13:40): Club2 10A-10D,9A-9D fällt aus",
+   "Std 7 (13:40): Vorstellung Club; Club2 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club2 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Vostellung Club; Club2 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "30.08.2026, 17:03"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Wag",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 7 (13:40): Club1 10A-10D,9A-9D fällt aus",
+   "Std 7 (13:40): Vorstellung Club; Club1 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club1 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Vostellung Club; Club1 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "30.08.2026, 17:03"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Bar",
+  "datum": "Mittwoch, 02. September 2026",
+  "date_key": "20260902",
+  "changes": [
+   "Std 3 (09:40): Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "30.08.2026, 17:03"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Bes",
+  "datum": "Mittwoch, 02. September 2026",
+  "date_key": "20260902",
+  "changes": [
+   "Std 7 (13:40): für GS07 Bes, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+   "Std 8 (14:25): für GS07 Bes, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung"
+  ],
+  "zeitstempel": "30.08.2026, 17:03"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Bir",
+  "datum": "Mittwoch, 02. September 2026",
+  "date_key": "20260902",
+  "changes": [
+   "Std 7 (13:40): für GS03 Bir, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+   "Std 8 (14:25): für GS03 Bir, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung"
+  ],
+  "zeitstempel": "30.08.2026, 17:03"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Fech",
+  "datum": "Mittwoch, 02. September 2026",
+  "date_key": "20260902",
+  "changes": [
+   "Std 7 (13:40): für GS09 Fech, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+   "Std 8 (14:25): für GS09 Fech, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung"
+  ],
+  "zeitstempel": "30.08.2026, 17:03"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Neu",
+  "datum": "Mittwoch, 02. September 2026",
+  "date_key": "20260902",
+  "changes": [
+   "Std 7 (13:40): für GS06 Neu, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+   "Std 8 (14:25): für GS06 Neu, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung"
+  ],
+  "zeitstempel": "30.08.2026, 17:03"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Ost",
+  "datum": "Mittwoch, 02. September 2026",
+  "date_key": "20260902",
+  "changes": [
+   "Std 7 (13:40): für GS13 Ost, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+   "Std 8 (14:25): für GS13 Ost, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung"
+  ],
+  "zeitstempel": "30.08.2026, 17:03"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Pri",
+  "datum": "Mittwoch, 02. September 2026",
+  "date_key": "20260902",
+  "changes": [
+   "Std 7 (13:40): Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+   "Std 8 (14:25): Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung"
+  ],
+  "zeitstempel": "30.08.2026, 17:03"
+ },
+ {
+  "timestamp": "2026-08-30T18:12:04.550898",
+  "lehrer": "Ten",
+  "datum": "Mittwoch, 02. September 2026",
+  "date_key": "20260902",
+  "changes": [
+   "Std 7 (13:40): für GS12 Ten, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung",
+   "Std 8 (14:25): für GS12 Ten, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung"
+  ],
+  "zeitstempel": "30.08.2026, 17:03"
  }
 ]
