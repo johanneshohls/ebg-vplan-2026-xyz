@@ -1,31 +1,5 @@
 [
  {
-  "timestamp": "2026-08-23T10:43:06.887027",
-  "lehrer": "Hol",
-  "datum": "Montag, 24. August 2026",
-  "date_key": "20260824",
-  "changes": [
-   "Std 1 (07:40): gesamte Klasse 11A, 1. Schultag-Klassenleiter-/Tutorenstunde",
-   "Std 2 (08:25): gesamte Klasse 11A, 1. Schultag-Klassenleiter-/Tutorenstunde",
-   "Std 5 (11:40): für En Hol, Raumänderung",
-   "Std 6 (12:25): für En Hol, Raumänderung"
-  ],
-  "zeitstempel": "23.08.2026, 12:36"
- },
- {
-  "timestamp": "2026-08-23T10:43:06.887027",
-  "lehrer": "Wag",
-  "datum": "Montag, 24. August 2026",
-  "date_key": "20260824",
-  "changes": [
-   "Std 1 (07:40): für Ph Bob, 1. Schultag-Klassenleiter-/Tutorenstunde",
-   "Std 2 (08:25): für Ph Bob, 1. Schultag-Klassenleiter-/Tutorenstunde",
-   "Std 5 (11:40): für En Wag, Raumänderung",
-   "Std 6 (12:25): für En Wag, Raumänderung"
-  ],
-  "zeitstempel": "23.08.2026, 12:36"
- },
- {
   "timestamp": "2026-08-24T13:55:51.781360",
   "lehrer": "Fla",
   "datum": "Dienstag, 25. August 2026",
