@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "30.08.2026, 23:19 Uhr",
- "last_changed": "2026-08-30T18:51:00",
+ "generiert": "31.08.2026, 11:19 Uhr",
+ "last_changed": "2026-08-31T13:01:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -64,14 +64,8 @@
   "Wag",
   "Zec"
  ],
- "aktuelle_kw": "35",
+ "aktuelle_kw": "36",
  "wochen": {
-  "34": {
-   "kw": 34,
-   "montag": "20260817",
-   "freitag": "20260821",
-   "tage": {}
-  },
   "35": {
    "kw": 35,
    "montag": "20260824",
@@ -11169,7 +11163,7 @@
    "tage": {
     "20260831": {
      "datum": "Montag, 31. August 2026",
-     "zeitstempel": "30.08.2026, 18:51",
+     "zeitstempel": "31.08.2026, 13:01",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -13216,7 +13210,7 @@
     },
     "20260901": {
      "datum": "Dienstag, 01. September 2026",
-     "zeitstempel": "30.08.2026, 17:03",
+     "zeitstempel": "31.08.2026, 13:01",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -13337,9 +13331,9 @@
         {
          "stunde": "7",
          "fach": "Clu10",
-         "klasse": "9A-9D",
+         "klasse": "9D,9A-9C",
          "raum": "Aula",
-         "info": "Vorstellung Club; Club8 10A-10D,9A-9D fällt aus",
+         "info": "Vorstellung und Einwahl Club; Club8 10A-10D,9A-9D fällt aus",
          "geaendert": true
         },
         {
@@ -13544,9 +13538,9 @@
         {
          "stunde": "7",
          "fach": "Clu10",
-         "klasse": "9A-9D",
+         "klasse": "9D,9A-9C",
          "raum": "Aula",
-         "info": "Vorstellung Club; Ma 8C Käc",
+         "info": "Vorstellung und Einwahl Club; Ma 8C Käc",
          "geaendert": true
         },
         {
@@ -13610,7 +13604,24 @@
        "aufsichten": []
       },
       "Eul": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Span Köh, Bitte  mit M. Höners abstimmen.",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Span Köh, Bitte  mit M. Höners abstimmen.",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Fech": {
@@ -13653,6 +13664,22 @@
          "geaendert": false
         },
         {
+         "stunde": "5",
+         "fach": "Span",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Span",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "---",
          "klasse": "",
@@ -13663,9 +13690,9 @@
         {
          "stunde": "7",
          "fach": "Clu10",
-         "klasse": "9A-9D",
+         "klasse": "9D,9A-9C",
          "raum": "Aula",
-         "info": "Vorstellung Club; Club6 10A-10D,9A-9D fällt aus",
+         "info": "Vorstellung und Einwahl Club; Club6 10A-10D,9A-9D fällt aus",
          "geaendert": true
         },
         {
@@ -14307,9 +14334,9 @@
         {
          "stunde": "7",
          "fach": "Clu10",
-         "klasse": "9A-9D",
+         "klasse": "9D,9A-9C",
          "raum": "Aula",
-         "info": "Vorstellung Club; Club4 10A-10D,9A-9D fällt aus",
+         "info": "Vorstellung und Einwahl Club; Club4 10A-10D,9A-9D fällt aus",
          "geaendert": true
         },
         {
@@ -14379,35 +14406,35 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7B Eul (für Span), Bitte  mit M. Höners abstimmen.",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7B Eul (für Span), Bitte  mit M. Höners abstimmen.",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8C Fel",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8C Fel",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -14418,27 +14445,11 @@
          "geaendert": true
         },
         {
-         "stunde": "7",
-         "fach": "Clu10",
-         "klasse": "9A-9D",
-         "raum": "Aula",
-         "info": "Vorstellung Club; Club7 10A-10D,9A-9D fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "8",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Club7 10A-10D,9A-9D fällt aus",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Clu10",
-         "klasse": "10D,10A-10C",
-         "raum": "Aula",
-         "info": "Vostellung Club; Club7 10A-10D,9A-9D fällt aus",
          "geaendert": true
         }
        ],
@@ -14533,9 +14544,9 @@
         {
          "stunde": "7",
          "fach": "Clu10",
-         "klasse": "9A-9D",
+         "klasse": "9D,9A-9C",
          "raum": "Aula",
-         "info": "Vorstellung Club; Club3 10A-10D,9A-9D fällt aus",
+         "info": "Vorstellung und Einwahl Club; Club3 10A-10D,9A-9D fällt aus",
          "geaendert": true
         },
         {
@@ -14650,9 +14661,9 @@
         {
          "stunde": "7",
          "fach": "Clu10",
-         "klasse": "9A-9D",
+         "klasse": "9D,9A-9C",
          "raum": "Aula",
-         "info": "Vorstellung Club; Club9 10A-10D,9A-9D fällt aus",
+         "info": "Vorstellung und Einwahl Club; Club9 10A-10D,9A-9D fällt aus",
          "geaendert": true
         },
         {
@@ -14887,9 +14898,9 @@
         {
          "stunde": "7",
          "fach": "Clu10",
-         "klasse": "9A-9D",
+         "klasse": "9D,9A-9C",
          "raum": "Aula",
-         "info": "Vorstellung Club; Club5 10A-10D,9A-9D fällt aus",
+         "info": "Vorstellung und Einwahl Club; Club5 10A-10D,9A-9D fällt aus",
          "geaendert": true
         },
         {
@@ -15268,9 +15279,9 @@
         {
          "stunde": "7",
          "fach": "Clu10",
-         "klasse": "9A-9D",
+         "klasse": "9D,9A-9C",
          "raum": "Aula",
-         "info": "Vorstellung Club; Club2 10A-10D,9A-9D fällt aus",
+         "info": "Vorstellung und Einwahl Club; Club2 10A-10D,9A-9D fällt aus",
          "geaendert": true
         },
         {
@@ -15337,9 +15348,9 @@
         {
          "stunde": "7",
          "fach": "Clu10",
-         "klasse": "9A-9D",
+         "klasse": "9D,9A-9C",
          "raum": "Aula",
-         "info": "Vorstellung Club; Club1 10A-10D,9A-9D fällt aus",
+         "info": "Vorstellung und Einwahl Club; Club1 10A-10D,9A-9D fällt aus",
          "geaendert": true
         },
         {
@@ -15376,7 +15387,7 @@
     },
     "20260902": {
      "datum": "Mittwoch, 02. September 2026",
-     "zeitstempel": "30.08.2026, 17:03",
+     "zeitstempel": "31.08.2026, 13:01",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -15533,6 +15544,22 @@
          "raum": "002",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Ch",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ch",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Span Köh",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -16292,6 +16319,22 @@
       "Kno": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "Ch",
+         "klasse": "8D",
+         "raum": "K12",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ch",
+         "klasse": "8D",
+         "raum": "K12",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "Ch",
          "klasse": "9B",
@@ -16330,35 +16373,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
-         "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 8D Kno (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
-         "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 8D Kno (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 7B Bob (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 7B Bob (für Span)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -17278,7 +17321,7 @@
     },
     "20260903": {
      "datum": "Donnerstag, 03. September 2026",
-     "zeitstempel": "30.08.2026, 17:03",
+     "zeitstempel": "31.08.2026, 13:01",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -19243,7 +19286,7 @@
     },
     "20260904": {
      "datum": "Freitag, 04. September 2026",
-     "zeitstempel": "30.08.2026, 17:03",
+     "zeitstempel": "31.08.2026, 13:01",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -19595,22 +19638,6 @@
       },
       "Eul": {
        "entries": [
-        {
-         "stunde": "3",
-         "fach": "Bio",
-         "klasse": "9B",
-         "raum": "204",
-         "info": "für Bio Ost, Bitte Rücksprache mit U. Ostendorf halten.",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Bio",
-         "klasse": "9B",
-         "raum": "204",
-         "info": "für Bio Ost, Bitte Rücksprache mit U. Ostendorf halten.",
-         "geaendert": true
-        },
         {
          "stunde": "5",
          "fach": "De",
@@ -20758,7 +20785,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 9B Eul, Bitte Rücksprache mit U. Ostendorf halten.",
+         "info": "Bio 9B Ter, Bitte Rücksprache mit U. Ostendorf halten.",
          "geaendert": true
         },
         {
@@ -20766,7 +20793,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 9B Eul, Bitte Rücksprache mit U. Ostendorf halten.",
+         "info": "Bio 9B Ter, Bitte Rücksprache mit U. Ostendorf halten.",
          "geaendert": true
         },
         {
@@ -21099,6 +21126,22 @@
       "Ter": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "9B",
+         "raum": "204",
+         "info": "für Bio Ost, Bitte Rücksprache mit U. Ostendorf halten.",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Bio",
+         "klasse": "9B",
+         "raum": "204",
+         "info": "für Bio Ost, Bitte Rücksprache mit U. Ostendorf halten.",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "thea1",
          "klasse": "11D,11A-11C,11E",
@@ -21290,6 +21333,12 @@
      }
     }
    }
+  },
+  "37": {
+   "kw": 37,
+   "montag": "20260907",
+   "freitag": "20260911",
+   "tage": {}
   }
  }
 }

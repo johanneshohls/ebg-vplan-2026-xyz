@@ -539,5 +539,224 @@
    "Std 8 (14:25): für GS12 Ten, Vorstellung i. d. AULA, Anwesenheitspflicht für alle ohne Koop.Vereinbarung"
   ],
   "zeitstempel": "30.08.2026, 17:03"
+ },
+ {
+  "timestamp": "2026-08-31T11:18:45.993880",
+  "lehrer": "Bir",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 7 (13:40): Club8 10A-10D,9A-9D fällt aus",
+   "Std 7 (13:40): Vorstellung und Einwahl Club; Club8 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club8 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Vostellung Club; Club8 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "31.08.2026, 13:01"
+ },
+ {
+  "timestamp": "2026-08-31T11:18:45.993880",
+  "lehrer": "Bri",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 7 (13:40): Ma 8C Käc",
+   "Std 7 (13:40): Vorstellung und Einwahl Club; Ma 8C Käc",
+   "Std 8 (14:25): Ma 8C Käc",
+   "Std 8 (14:25): Vostellung Club; Ma 8C Käc"
+  ],
+  "zeitstempel": "31.08.2026, 13:01"
+ },
+ {
+  "timestamp": "2026-08-31T11:18:45.993880",
+  "lehrer": "Eul",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 3 (09:40): für Span Köh, Bitte  mit M. Höners abstimmen.",
+   "Std 4 (10:25): für Span Köh, Bitte  mit M. Höners abstimmen."
+  ],
+  "zeitstempel": "31.08.2026, 13:01"
+ },
+ {
+  "timestamp": "2026-08-31T11:18:45.993880",
+  "lehrer": "Fel",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 5 (11:40): für Span Köh",
+   "Std 6 (12:25): für Span Köh",
+   "Std 7 (13:40): Club6 10A-10D,9A-9D fällt aus",
+   "Std 7 (13:40): Vorstellung und Einwahl Club; Club6 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club6 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Vostellung Club; Club6 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "31.08.2026, 13:01"
+ },
+ {
+  "timestamp": "2026-08-31T11:18:45.993880",
+  "lehrer": "Kar",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 7 (13:40): Club4 10A-10D,9A-9D fällt aus",
+   "Std 7 (13:40): Vorstellung und Einwahl Club; Club4 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club4 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Vostellung Club; Club4 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "31.08.2026, 13:01"
+ },
+ {
+  "timestamp": "2026-08-31T11:18:45.993880",
+  "lehrer": "Köh",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 3 (09:40): De 7B Eul (für Span), Bitte  mit M. Höners abstimmen.",
+   "Std 4 (10:25): De 7B Eul (für Span), Bitte  mit M. Höners abstimmen.",
+   "Std 5 (11:40): Span 8C Fel",
+   "Std 6 (12:25): Span 8C Fel",
+   "Std 7 (13:40): Club7 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club7 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "31.08.2026, 13:01"
+ },
+ {
+  "timestamp": "2026-08-31T11:18:45.993880",
+  "lehrer": "Leu",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 7 (13:40): Club3 10A-10D,9A-9D fällt aus",
+   "Std 7 (13:40): Vorstellung und Einwahl Club; Club3 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club3 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Vostellung Club; Club3 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "31.08.2026, 13:01"
+ },
+ {
+  "timestamp": "2026-08-31T11:18:45.993880",
+  "lehrer": "Mue",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 7 (13:40): Club9 10A-10D,9A-9D fällt aus",
+   "Std 7 (13:40): Vorstellung und Einwahl Club; Club9 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club9 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Vostellung Club; Club9 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "31.08.2026, 13:01"
+ },
+ {
+  "timestamp": "2026-08-31T11:18:45.993880",
+  "lehrer": "Puk",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 7 (13:40): Club5 10A-10D,9A-9D fällt aus",
+   "Std 7 (13:40): Vorstellung und Einwahl Club; Club5 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club5 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Vostellung Club; Club5 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "31.08.2026, 13:01"
+ },
+ {
+  "timestamp": "2026-08-31T11:18:45.993880",
+  "lehrer": "Tuh",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 7 (13:40): Club2 10A-10D,9A-9D fällt aus",
+   "Std 7 (13:40): Vorstellung und Einwahl Club; Club2 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club2 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Vostellung Club; Club2 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "31.08.2026, 13:01"
+ },
+ {
+  "timestamp": "2026-08-31T11:18:45.993880",
+  "lehrer": "Wag",
+  "datum": "Dienstag, 01. September 2026",
+  "date_key": "20260901",
+  "changes": [
+   "Std 7 (13:40): Club1 10A-10D,9A-9D fällt aus",
+   "Std 7 (13:40): Vorstellung und Einwahl Club; Club1 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club1 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Vostellung Club; Club1 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "31.08.2026, 13:01"
+ },
+ {
+  "timestamp": "2026-08-31T11:18:45.993880",
+  "lehrer": "Bob",
+  "datum": "Mittwoch, 02. September 2026",
+  "date_key": "20260902",
+  "changes": [
+   "Std 3 (09:40): für Span Köh",
+   "Std 4 (10:25): für Span Köh"
+  ],
+  "zeitstempel": "31.08.2026, 13:01"
+ },
+ {
+  "timestamp": "2026-08-31T11:18:45.993880",
+  "lehrer": "Kno",
+  "datum": "Mittwoch, 02. September 2026",
+  "date_key": "20260902",
+  "changes": [
+   "Std 1 (07:40): für Span Köh",
+   "Std 2 (08:25): für Span Köh"
+  ],
+  "zeitstempel": "31.08.2026, 13:01"
+ },
+ {
+  "timestamp": "2026-08-31T11:18:45.993880",
+  "lehrer": "Köh",
+  "datum": "Mittwoch, 02. September 2026",
+  "date_key": "20260902",
+  "changes": [
+   "Std 1 (07:40): Ch 8D Kno (für Span)",
+   "Std 2 (08:25): Ch 8D Kno (für Span)",
+   "Std 3 (09:40): Ch 7B Bob (für Span)",
+   "Std 4 (10:25): Ch 7B Bob (für Span)"
+  ],
+  "zeitstempel": "31.08.2026, 13:01"
+ },
+ {
+  "timestamp": "2026-08-31T11:18:45.993880",
+  "lehrer": "Eul",
+  "datum": "Freitag, 04. September 2026",
+  "date_key": "20260904",
+  "changes": [
+   "Std 5 (11:40): für De Ost, Bitte Rücksprache mit U. Ostendorf halten.",
+   "Std 6 (12:25): für De Ost, Bitte Rücksprache mit U. Ostendorf halten."
+  ],
+  "zeitstempel": "31.08.2026, 13:01"
+ },
+ {
+  "timestamp": "2026-08-31T11:18:45.993880",
+  "lehrer": "Ost",
+  "datum": "Freitag, 04. September 2026",
+  "date_key": "20260904",
+  "changes": [
+   "Std 3 (09:40): Bio 9B Ter, Bitte Rücksprache mit U. Ostendorf halten.",
+   "Std 4 (10:25): Bio 9B Ter, Bitte Rücksprache mit U. Ostendorf halten.",
+   "Std 5 (11:40): De 8A Eul, Bitte Rücksprache mit U. Ostendorf halten.",
+   "Std 6 (12:25): De 8A Eul, Bitte Rücksprache mit U. Ostendorf halten.",
+   "Std 7 (13:40): De 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 8 (14:25): De 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 9 (15:40): KL 9B fällt aus",
+   "Std 10 (16:25): KL 9B fällt aus"
+  ],
+  "zeitstempel": "31.08.2026, 13:01"
+ },
+ {
+  "timestamp": "2026-08-31T11:18:45.993880",
+  "lehrer": "Ter",
+  "datum": "Freitag, 04. September 2026",
+  "date_key": "20260904",
+  "changes": [
+   "Std 3 (09:40): für Bio Ost, Bitte Rücksprache mit U. Ostendorf halten.",
+   "Std 4 (10:25): für Bio Ost, Bitte Rücksprache mit U. Ostendorf halten."
+  ],
+  "zeitstempel": "31.08.2026, 13:01"
  }
 ]
