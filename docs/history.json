@@ -1,29 +1,5 @@
 [
  {
-  "timestamp": "2026-08-24T13:55:51.781360",
-  "lehrer": "Fla",
-  "datum": "Dienstag, 25. August 2026",
-  "date_key": "20260825",
-  "changes": [
-   "Std 3 (09:40): Bio 8A Pel",
-   "Std 4 (10:25): Bio 8A Pel",
-   "Std 7 (13:40): ILZ 8C fällt aus",
-   "Std 8 (14:25): ILZ 8C fällt aus"
-  ],
-  "zeitstempel": "24.08.2026, 15:19"
- },
- {
-  "timestamp": "2026-08-24T13:55:51.781360",
-  "lehrer": "Pel",
-  "datum": "Dienstag, 25. August 2026",
-  "date_key": "20260825",
-  "changes": [
-   "Std 3 (09:40): für Bio Fla",
-   "Std 4 (10:25): für Bio Fla"
-  ],
-  "zeitstempel": "24.08.2026, 15:19"
- },
- {
   "timestamp": "2026-08-25T08:03:01.537567",
   "lehrer": "Jur",
   "datum": "Dienstag, 25. August 2026",
