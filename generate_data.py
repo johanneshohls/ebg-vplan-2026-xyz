@@ -13,7 +13,10 @@ import os
 import sys
 import time
 from datetime import datetime, timedelta
-from xml.etree import ElementTree as ET
+# defusedxml statt xml.etree: schützt vor XXE und Entity-Expansion (Billion Laughs)
+import defusedxml.ElementTree as ET
+from xml.etree.ElementTree import Element as XMLElement  # nur für Typangaben
+from defusedxml.common import DefusedXmlException
 
 BASE_URL = os.environ.get("PLAN_URL", "https://www.stundenplan24.de/40062811/wplan")
 PLAN_USER = os.environ.get("PLAN_USER", "lehrer")
@@ -23,7 +26,7 @@ HEADERS = {"User-Agent": "Vertretungsplan-Notify/2.0"}
 OUTPUT = os.environ.get("OUTPUT_FILE", "docs/data.json")
 
 
-def fetch_xml(path: str, retries: int = 2) -> ET.Element | None:
+def fetch_xml(path: str, retries: int = 2) -> XMLElement | None:
     """Ruft eine XML-Datei vom Stundenplan-Server ab (mit Retry + Backoff)."""
     url = f"{BASE_URL}/{path}"
     for attempt in range(1, retries + 1):
@@ -42,6 +45,9 @@ def fetch_xml(path: str, retries: int = 2) -> ET.Element | None:
             print(f"  ✗ Verbindungsfehler bei {path} (Versuch {attempt}/{retries})")
         except requests.exceptions.HTTPError as e:
             print(f"  ✗ HTTP-Fehler {e.response.status_code} bei {path} (Versuch {attempt}/{retries})")
+        except DefusedXmlException as e:
+            print(f"  ✗ Unsicheres XML von {path} abgewiesen: {type(e).__name__}")
+            return None
         except ET.ParseError:
             print(f"  ✗ Ungültiges XML von {path}")
             return None

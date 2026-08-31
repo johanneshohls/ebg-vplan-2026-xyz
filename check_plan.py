@@ -22,7 +22,10 @@ import sys
 import time
 from pathlib import Path
 from datetime import datetime, timedelta
-from xml.etree import ElementTree as ET
+# defusedxml statt xml.etree: schützt vor XXE und Entity-Expansion (Billion Laughs)
+import defusedxml.ElementTree as ET
+from xml.etree.ElementTree import Element as XMLElement  # nur für Typangaben
+from defusedxml.common import DefusedXmlException
 
 # --- Logging ---
 logging.basicConfig(
@@ -56,7 +59,7 @@ RATE_LIMIT_MAX_WAIT = 15
 GLOBAL_SUMMARY_THRESHOLD = 5
 
 
-def fetch_xml(path: str, retries: int = 2) -> ET.Element | None:
+def fetch_xml(path: str, retries: int = 2) -> XMLElement | None:
     """Ruft eine XML-Datei vom Stundenplan-Server ab (mit Retry + Backoff)."""
     url = f"{BASE_URL}/{path}"
     for attempt in range(1, retries + 1):
@@ -75,6 +78,9 @@ def fetch_xml(path: str, retries: int = 2) -> ET.Element | None:
             log.warning("Verbindungsfehler bei %s (Versuch %d/%d)", path, attempt, retries)
         except requests.exceptions.HTTPError as e:
             log.warning("HTTP-Fehler %d bei %s (Versuch %d/%d)", e.response.status_code, path, attempt, retries)
+        except DefusedXmlException as e:
+            log.error("Unsicheres XML von %s abgewiesen: %s", path, type(e).__name__)
+            return None
         except ET.ParseError:
             log.error("Ungültiges XML von %s", path)
             return None
