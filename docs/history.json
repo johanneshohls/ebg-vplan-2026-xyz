@@ -1,29 +1,5 @@
 [
  {
-  "timestamp": "2026-08-25T08:03:01.537567",
-  "lehrer": "Jur",
-  "datum": "Dienstag, 25. August 2026",
-  "date_key": "20260825",
-  "changes": [
-   "Std 1 (07:40): für Phi Jur, Raumänderung",
-   "Std 2 (08:25): für Phi Jur, Raumänderung",
-   "Std 3 (09:40): De 11D,11A-11C,11E Schil",
-   "Std 4 (10:25): De 11D,11A-11C,11E Schil"
-  ],
-  "zeitstempel": "25.08.2026, 09:26"
- },
- {
-  "timestamp": "2026-08-25T08:03:01.537567",
-  "lehrer": "Schil",
-  "datum": "Dienstag, 25. August 2026",
-  "date_key": "20260825",
-  "changes": [
-   "Std 3 (09:40): für De Jur",
-   "Std 4 (10:25): für De Jur"
-  ],
-  "zeitstempel": "25.08.2026, 09:26"
- },
- {
   "timestamp": "2026-08-26T09:35:13.526463",
   "lehrer": "Kno",
   "datum": "Donnerstag, 27. August 2026",
