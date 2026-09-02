@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "02.09.2026, 09:15 Uhr",
- "last_changed": "2026-08-31T13:01:00",
+ "generiert": "02.09.2026, 13:41 Uhr",
+ "last_changed": "2026-09-02T13:58:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -15387,7 +15387,7 @@
     },
     "20260902": {
      "datum": "Mittwoch, 02. September 2026",
-     "zeitstempel": "31.08.2026, 13:01",
+     "zeitstempel": "02.09.2026, 11:29",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -17321,7 +17321,7 @@
     },
     "20260903": {
      "datum": "Donnerstag, 03. September 2026",
-     "zeitstempel": "31.08.2026, 13:01",
+     "zeitstempel": "02.09.2026, 13:58",
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -17482,17 +17482,17 @@
          "stunde": "5",
          "fach": "Ch",
          "klasse": "7B",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "raum": "K12",
+         "info": "für Ch Bob, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Ch",
          "klasse": "7B",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "raum": "K12",
+         "info": "für Ch Bob, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -17633,6 +17633,22 @@
       },
       "Con": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "IMB",
+         "klasse": "7D",
+         "raum": "K10",
+         "info": "für Lat Köh, nur Lat-Gr.",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "IMB",
+         "klasse": "7D",
+         "raum": "K10",
+         "info": "für Lat Köh, nur Lat-Gr.",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "inf2",
@@ -17904,6 +17920,22 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "KILZ",
+         "klasse": "9A",
+         "raum": "105",
+         "info": "KILZ 9A verlegt von St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "KILZ",
+         "klasse": "9A",
+         "raum": "105",
+         "info": "KILZ 9A verlegt von St.8",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Fr",
          "klasse": "9A",
@@ -17921,19 +17953,19 @@
         },
         {
          "stunde": "7",
-         "fach": "KILZ",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 9A verlegt nach St.3",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "KILZ",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 9A verlegt nach St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -18201,10 +18233,34 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Köh"
+        }
+       ]
       },
       "Hun": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "Ph",
+         "klasse": "8B",
+         "raum": "008",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ph",
+         "klasse": "8B",
+         "raum": "008",
+         "info": "für Span Köh",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Isb": {
@@ -18245,7 +18301,24 @@
        "aufsichten": []
       },
       "Jac": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "7D",
+         "raum": "005",
+         "info": "für ILZ Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "7D",
+         "raum": "005",
+         "info": "für ILZ Köh",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Jur": {
@@ -18306,17 +18379,17 @@
          "stunde": "1",
          "fach": "KILZ",
          "klasse": "8E",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "raum": "207",
+         "info": "für KILZ Kno, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "KILZ",
          "klasse": "8E",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "raum": "207",
+         "info": "für KILZ Kno, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -18338,17 +18411,17 @@
          "stunde": "5",
          "fach": "Ch",
          "klasse": "8B",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Ch Kno, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Ch",
          "klasse": "8B",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Ch Kno, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -18357,51 +18430,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Lat",
-         "klasse": "7D",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "IMB 7D Con (für Lat), nur Lat-Gr.",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Lat",
-         "klasse": "7D",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "IMB 7D Con (für Lat), nur Lat-Gr.",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8B Hun (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8B Hun (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "ILZ",
-         "klasse": "7D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7D Jac",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "ILZ",
-         "klasse": "7D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7D Jac",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -18409,7 +18482,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Hön"
         }
        ]
       },
@@ -18734,19 +18807,19 @@
         },
         {
          "stunde": "3",
-         "fach": "Bio",
-         "klasse": "9A",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9A verlegt nach St.7",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Bio",
-         "klasse": "9A",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9A verlegt nach St.8",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -18762,6 +18835,22 @@
          "klasse": "",
          "raum": "",
          "info": "Ch 9C verlegt nach St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Bio",
+         "klasse": "9A",
+         "raum": "201",
+         "info": "Bio 9A verlegt von St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Bio",
+         "klasse": "9A",
+         "raum": "201",
+         "info": "Bio 9A verlegt von St.4",
          "geaendert": true
         }
        ],
@@ -19286,7 +19375,7 @@
     },
     "20260904": {
      "datum": "Freitag, 04. September 2026",
-     "zeitstempel": "31.08.2026, 13:01",
+     "zeitstempel": "02.09.2026, 13:38",
      "lehrer": {
       "Bar": {
        "entries": [
@@ -19849,6 +19938,22 @@
          "raum": "005",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ge",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "für Span Köh, Bitte  mit F. Priesemuth abstimmen.",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ge",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "für Span Köh, Bitte  mit F. Priesemuth abstimmen.",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20125,6 +20230,22 @@
          "raum": "Co2",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "8D",
+         "raum": "102",
+         "info": "für Span Köh, Bitte mit l. Wagner abstimmen.",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "8D",
+         "raum": "102",
+         "info": "für Span Köh, Bitte mit l. Wagner abstimmen.",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20334,7 +20455,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Köh"
+        }
+       ]
       },
       "Käc": {
        "entries": [
@@ -20359,6 +20487,22 @@
       },
       "Kar": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Mu",
+         "klasse": "8B",
+         "raum": "Aula",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Mu",
+         "klasse": "8B",
+         "raum": "Aula",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "IMB",
@@ -20474,67 +20618,67 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 8B Kar (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 8B Kar (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8D Hol (für Span), Bitte mit l. Wagner abstimmen.",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
-         "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8D Hol (für Span), Bitte mit l. Wagner abstimmen.",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 8E Gor (für Span), Bitte  mit F. Priesemuth abstimmen.",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 8E Gor (für Span), Bitte  mit F. Priesemuth abstimmen.",
+         "geaendert": true
         },
         {
          "stunde": "9",
-         "fach": "KL",
-         "klasse": "7D",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "KL 7D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "10",
-         "fach": "KL",
-         "klasse": "7D",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "KL 7D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -20542,7 +20686,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Jur"
         }
        ]
       },

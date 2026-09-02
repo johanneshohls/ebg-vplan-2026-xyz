@@ -1,37 +1,5 @@
 [
  {
-  "timestamp": "2026-08-26T09:35:13.526463",
-  "lehrer": "Kno",
-  "datum": "Donnerstag, 27. August 2026",
-  "date_key": "20260827",
-  "changes": [
-   "Planänderung (Details nicht spezifiziert)"
-  ],
-  "zeitstempel": "26.08.2026, 11:32"
- },
- {
-  "timestamp": "2026-08-26T11:13:10.657676",
-  "lehrer": "Hofm",
-  "datum": "Donnerstag, 27. August 2026",
-  "date_key": "20260827",
-  "changes": [
-   "Std 1 (07:40): für ILZ Hofm, Es ist kein Raum verfügbar. Bitte im Schulhaus verteilen.",
-   "Std 2 (08:25): für ILZ Hofm, Es ist kein Raum verfügbar. Bitte im Schulhaus verteilen."
-  ],
-  "zeitstempel": "26.08.2026, 13:12"
- },
- {
-  "timestamp": "2026-08-26T11:13:10.657676",
-  "lehrer": "Lan",
-  "datum": "Donnerstag, 27. August 2026",
-  "date_key": "20260827",
-  "changes": [
-   "Std 1 (07:40): für AWT Lan, Raumänderung",
-   "Std 2 (08:25): für AWT Lan, Raumänderung"
-  ],
-  "zeitstempel": "26.08.2026, 13:12"
- },
- {
   "timestamp": "2026-08-27T16:03:45.309920",
   "lehrer": "Gor",
   "datum": "Donnerstag, 27. August 2026",
@@ -710,5 +678,157 @@
    "Std 4 (10:25): für Bio Ost, Bitte Rücksprache mit U. Ostendorf halten."
   ],
   "zeitstempel": "31.08.2026, 13:01"
+ },
+ {
+  "timestamp": "2026-09-02T13:41:16.730725",
+  "lehrer": "Bob",
+  "datum": "Donnerstag, 03. September 2026",
+  "date_key": "20260903",
+  "changes": [
+   "Std 5 (11:40): für Ch Bob, Raumänderung",
+   "Std 6 (12:25): für Ch Bob, Raumänderung"
+  ],
+  "zeitstempel": "02.09.2026, 13:58"
+ },
+ {
+  "timestamp": "2026-09-02T13:41:16.730725",
+  "lehrer": "Con",
+  "datum": "Donnerstag, 03. September 2026",
+  "date_key": "20260903",
+  "changes": [
+   "Std 1 (07:40): für Lat Köh, nur Lat-Gr.",
+   "Std 2 (08:25): für Lat Köh, nur Lat-Gr."
+  ],
+  "zeitstempel": "02.09.2026, 13:58"
+ },
+ {
+  "timestamp": "2026-09-02T13:41:16.730725",
+  "lehrer": "Hei",
+  "datum": "Donnerstag, 03. September 2026",
+  "date_key": "20260903",
+  "changes": [
+   "Std 3 (09:40): KILZ 9A verlegt von St.7",
+   "Std 4 (10:25): KILZ 9A verlegt von St.8",
+   "Std 7 (13:40): KILZ 9A verlegt nach St.3",
+   "Std 8 (14:25): KILZ 9A verlegt nach St.4"
+  ],
+  "zeitstempel": "02.09.2026, 13:58"
+ },
+ {
+  "timestamp": "2026-09-02T13:41:16.730725",
+  "lehrer": "Hun",
+  "datum": "Donnerstag, 03. September 2026",
+  "date_key": "20260903",
+  "changes": [
+   "Std 3 (09:40): für Span Köh",
+   "Std 4 (10:25): für Span Köh"
+  ],
+  "zeitstempel": "02.09.2026, 13:58"
+ },
+ {
+  "timestamp": "2026-09-02T13:41:16.730725",
+  "lehrer": "Jac",
+  "datum": "Donnerstag, 03. September 2026",
+  "date_key": "20260903",
+  "changes": [
+   "Std 5 (11:40): für ILZ Köh",
+   "Std 6 (12:25): für ILZ Köh"
+  ],
+  "zeitstempel": "02.09.2026, 13:58"
+ },
+ {
+  "timestamp": "2026-09-02T13:41:16.730725",
+  "lehrer": "Kno",
+  "datum": "Donnerstag, 03. September 2026",
+  "date_key": "20260903",
+  "changes": [
+   "Std 1 (07:40): für KILZ Kno, Raumänderung",
+   "Std 2 (08:25): für KILZ Kno, Raumänderung",
+   "Std 5 (11:40): für Ch Kno, Raumänderung",
+   "Std 6 (12:25): für Ch Kno, Raumänderung"
+  ],
+  "zeitstempel": "02.09.2026, 13:58"
+ },
+ {
+  "timestamp": "2026-09-02T13:41:16.730725",
+  "lehrer": "Köh",
+  "datum": "Donnerstag, 03. September 2026",
+  "date_key": "20260903",
+  "changes": [
+   "Std 1 (07:40): IMB 7D Con (für Lat), nur Lat-Gr.",
+   "Std 2 (08:25): IMB 7D Con (für Lat), nur Lat-Gr.",
+   "Std 3 (09:40): Ph 8B Hun (für Span)",
+   "Std 4 (10:25): Ph 8B Hun (für Span)",
+   "Std 5 (11:40): ILZ 7D Jac",
+   "Std 6 (12:25): ILZ 7D Jac"
+  ],
+  "zeitstempel": "02.09.2026, 13:58"
+ },
+ {
+  "timestamp": "2026-09-02T13:41:16.730725",
+  "lehrer": "Pel",
+  "datum": "Donnerstag, 03. September 2026",
+  "date_key": "20260903",
+  "changes": [
+   "Std 1 (07:40): Ch 9C verlegt von St.5",
+   "Std 2 (08:25): Ch 9C verlegt von St.6",
+   "Std 3 (09:40): Bio 9A verlegt nach St.7",
+   "Std 4 (10:25): Bio 9A verlegt nach St.8",
+   "Std 5 (11:40): Ch 9C verlegt nach St.1",
+   "Std 6 (12:25): Ch 9C verlegt nach St.2",
+   "Std 7 (13:40): Bio 9A verlegt von St.3",
+   "Std 8 (14:25): Bio 9A verlegt von St.4"
+  ],
+  "zeitstempel": "02.09.2026, 13:58"
+ },
+ {
+  "timestamp": "2026-09-02T13:41:16.730725",
+  "lehrer": "Gor",
+  "datum": "Freitag, 04. September 2026",
+  "date_key": "20260904",
+  "changes": [
+   "Std 5 (11:40): für Span Köh, Bitte  mit F. Priesemuth abstimmen.",
+   "Std 6 (12:25): für Span Köh, Bitte  mit F. Priesemuth abstimmen."
+  ],
+  "zeitstempel": "02.09.2026, 13:38"
+ },
+ {
+  "timestamp": "2026-09-02T13:41:16.730725",
+  "lehrer": "Hol",
+  "datum": "Freitag, 04. September 2026",
+  "date_key": "20260904",
+  "changes": [
+   "Std 3 (09:40): für Span Köh, Bitte mit l. Wagner abstimmen.",
+   "Std 4 (10:25): für Span Köh, Bitte mit l. Wagner abstimmen."
+  ],
+  "zeitstempel": "02.09.2026, 13:38"
+ },
+ {
+  "timestamp": "2026-09-02T13:41:16.730725",
+  "lehrer": "Kar",
+  "datum": "Freitag, 04. September 2026",
+  "date_key": "20260904",
+  "changes": [
+   "Std 1 (07:40): für Span Köh",
+   "Std 2 (08:25): für Span Köh"
+  ],
+  "zeitstempel": "02.09.2026, 13:38"
+ },
+ {
+  "timestamp": "2026-09-02T13:41:16.730725",
+  "lehrer": "Köh",
+  "datum": "Freitag, 04. September 2026",
+  "date_key": "20260904",
+  "changes": [
+   "Std 1 (07:40): Mu 8B Kar (für Span)",
+   "Std 2 (08:25): Mu 8B Kar (für Span)",
+   "Std 3 (09:40): En 8D Hol (für Span), Bitte mit l. Wagner abstimmen.",
+   "Std 4 (10:25): En 8D Hol (für Span), Bitte mit l. Wagner abstimmen.",
+   "Std 5 (11:40): Ge 8E Gor (für Span), Bitte  mit F. Priesemuth abstimmen.",
+   "Std 6 (12:25): Ge 8E Gor (für Span), Bitte  mit F. Priesemuth abstimmen.",
+   "Std 9 (15:40): KL 7D fällt aus",
+   "Std 10 (16:25): KL 7D fällt aus"
+  ],
+  "zeitstempel": "02.09.2026, 13:38"
  }
 ]
