@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "03.09.2026, 13:39 Uhr",
- "last_changed": "2026-09-02T13:58:00",
+ "generiert": "03.09.2026, 17:10 Uhr",
+ "last_changed": "2026-09-03T17:20:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -19416,9 +19416,10 @@
     },
     "20260904": {
      "datum": "Freitag, 04. September 2026",
-     "zeitstempel": "02.09.2026, 13:38",
+     "zeitstempel": "03.09.2026, 17:20",
      "tagesinfo": [
-      "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Hunger"
+      "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Hunger",
+      "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
      ],
      "lehrer": {
       "Bar": {
@@ -20148,51 +20149,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "en2",
-         "klasse": "11A-11E",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "en2",
-         "klasse": "11A-11E",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "En",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8B Sta (für En)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "En",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8B Sta (für En)",
+         "geaendert": true
         },
         {
          "stunde": "9",
-         "fach": "KL",
-         "klasse": "8B",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "KL 8B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "10",
-         "fach": "KL",
-         "klasse": "8B",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "KL 8B fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -20200,7 +20201,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "erst Haus, dann Hof2+GLK",
-         "info": ""
+         "info": "entfällt, V: Pel"
         }
        ]
       },
@@ -21054,7 +21055,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "erst Haus, dann Hof2+GLK",
+         "info": "für Hofm"
+        }
+       ]
       },
       "Pri": {
        "entries": [
@@ -21295,6 +21303,22 @@
          "raum": "204",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "für En Hofm",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "für En Hofm",
+         "geaendert": true
         }
        ],
        "aufsichten": []
