@@ -171,7 +171,28 @@ def make_aufsicht_event(kurz: str, date_str: str, auf: dict, dtstamp: str) -> li
     return lines
 
 
-def build_ical(kurz: str, days: dict[str, dict], dtstamp: str) -> str:
+def make_tagesinfo_event(kurz: str, date_str: str, zeilen: list[str], dtstamp: str) -> list[str]:
+    """Erzeugt einen ganztägigen VEVENT-Block für die Hinweise zum Tag."""
+    if not zeilen:
+        return []
+    tag = datetime.strptime(date_str, "%Y%m%d")
+    folgetag = (tag + timedelta(days=1)).strftime("%Y%m%d")
+    summary = f"Hinweis: {zeilen[0]}" if len(zeilen) == 1 else f"Hinweis: {zeilen[0]} (+{len(zeilen) - 1})"
+    uid = f"{kurz.lower()}-{date_str}-tagesinfo@{DOMAIN}"
+    return [
+        "BEGIN:VEVENT",
+        f"UID:{uid}",
+        f"DTSTAMP:{dtstamp}",
+        f"DTSTART;VALUE=DATE:{date_str}",
+        f"DTEND;VALUE=DATE:{folgetag}",
+        f"SUMMARY:{ical_escape(summary)}",
+        f"DESCRIPTION:{ical_escape(chr(10).join(zeilen))}",
+        "CATEGORIES:Schule,Hinweis",
+        "END:VEVENT",
+    ]
+
+
+def build_ical(kurz: str, days: dict[str, dict], tagesinfos: dict[str, list[str]], dtstamp: str) -> str:
     """Baut den vollständigen iCal-Inhalt für eine Lehrkraft zusammen."""
     lines = [
         "BEGIN:VCALENDAR",
@@ -188,6 +209,8 @@ def build_ical(kurz: str, days: dict[str, dict], dtstamp: str) -> str:
         teacher_data = days[date_str].get(kurz)
         if not teacher_data:
             continue
+
+        lines.extend(make_tagesinfo_event(kurz, date_str, tagesinfos.get(date_str, []), dtstamp))
 
         for entry in teacher_data.get("entries", []):
             lines.extend(make_lesson_event(kurz, date_str, entry, dtstamp))
@@ -225,11 +248,13 @@ def main():
 
     # Tagesdaten aus wochen → tage extrahieren
     days: dict[str, dict] = {}
+    tagesinfos: dict[str, list[str]] = {}
     for woche in data.get("wochen", {}).values():
         for date_str, tag in woche.get("tage", {}).items():
             lehrer_data = tag.get("lehrer", {})
             if lehrer_data:
                 days[date_str] = lehrer_data
+                tagesinfos[date_str] = tag.get("tagesinfo", [])
 
     if not days:
         print("\n\u2717 Keine Plandaten in data.json \u2013 keine .ics-Dateien erzeugt.")
@@ -249,7 +274,7 @@ def main():
         if not has_entries:
             continue
 
-        ical_content = build_ical(kurz, days, dtstamp)
+        ical_content = build_ical(kurz, days, tagesinfos, dtstamp)
         out_path = OUTPUT_DIR / f"{kurz}.ics"
         out_path.write_text(ical_content, encoding="utf-8")
         written += 1

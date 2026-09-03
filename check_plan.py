@@ -104,25 +104,43 @@ def _safe_text(el, default: str = "") -> str:
     return el.text.strip() if el.text else default
 
 
-def parse_daily_plan(date_str: str) -> tuple[dict, str, str]:
+def parse_tagesinfo(root: XMLElement) -> list[str]:
+    """
+    Liest die Hinweise, die für den ganzen Tag gelten (Indiware: <ZusatzInfo>
+    mit einer <ZiZeile> pro Zeile). Leere Zeilen fallen weg.
+    """
+    zeilen = []
+    for zi in root.iter("ZiZeile"):
+        text = _safe_text(zi)
+        if text:
+            zeilen.append(text)
+    return zeilen
+
+
+def parse_daily_plan(date_str: str) -> tuple[dict, str, str, list[str]]:
     """
     Parst den Tagesplan für ein Datum (Format: YYYYMMDD).
-    Gibt zurück: (lehrer_dict, datum_text, zeitstempel)
+    Gibt zurück: (lehrer_dict, datum_text, zeitstempel, tagesinfo)
     lehrer_dict: {kürzel: {hash, entries, changes}}
+    tagesinfo:   Hinweiszeilen, die für den ganzen Tag gelten
     """
     root = fetch_xml(f"wdatenl/WPlanLe_{date_str}.xml")
     if root is None:
-        return {}, "", ""
+        return {}, "", "", []
 
     ts_el = root.find(".//zeitstempel")
     zeitstempel = _safe_text(ts_el)
     datum_el = root.find(".//DatumPlan")
     datum = _safe_text(datum_el, date_str)
+    tagesinfo = parse_tagesinfo(root)
+    # Aufbau des XML einmal je Tag festhalten - hilft, wenn Indiware das Format ändert
+    log.info("XML %s: Wurzel <%s>, Kinder %s, %d Tagesinfo-Zeile(n)",
+             date_str, root.tag, sorted({c.tag for c in root}), len(tagesinfo))
 
     kl_elements = root.findall(".//Kl")
     if not kl_elements:
         log.warning("Unerwartetes XML-Format für %s: keine <Kl>-Elemente gefunden", date_str)
-        return {}, datum, zeitstempel
+        return {}, datum, zeitstempel, tagesinfo
 
     result = {}
 
@@ -191,7 +209,7 @@ def parse_daily_plan(date_str: str) -> tuple[dict, str, str]:
             log.warning("Fehler beim Parsen von Lehrer-Eintrag am %s: %s", date_str, e)
             continue
 
-    return result, datum, zeitstempel
+    return result, datum, zeitstempel, tagesinfo
 
 
 def load_filter_config() -> dict:
@@ -234,7 +252,8 @@ def apply_filter(entries: list[dict], filter_cfg: dict | None) -> list[dict]:
     return result
 
 
-def format_notification(kurz: str, datum: str, data: dict, filter_cfg: dict | None = None) -> tuple[str, str]:
+def format_notification(kurz: str, datum: str, data: dict, filter_cfg: dict | None = None,
+                        tagesinfo: list[str] | None = None) -> tuple[str, str]:
     """Formatiert Titel und Nachricht für die Push-Notification."""
     entries = apply_filter(data["entries"], filter_cfg)
     changes = [e for e in apply_filter(data["changes"], filter_cfg)]
@@ -243,6 +262,12 @@ def format_notification(kurz: str, datum: str, data: dict, filter_cfg: dict | No
     title = f"Plan geändert: {datum}"
 
     lines = []
+
+    # Hinweise für den ganzen Tag stehen vorn - sie betreffen jede Lehrkraft
+    if tagesinfo:
+        lines.append("Hinweis zum Tag:")
+        lines.extend(f" - {z}" for z in tagesinfo)
+        lines.append("")
 
     # Änderungen hervorheben
     if changes:
@@ -405,12 +430,39 @@ def main():
 
     for date_str in dates:
         log.info("--- Prüfe %s ---", date_str)
-        daily, datum, zeitstempel = parse_daily_plan(date_str)
+        daily, datum, zeitstempel, tagesinfo = parse_daily_plan(date_str)
         if not daily:
             log.info("Kein Plan verfügbar für %s", date_str)
             continue
 
         log.info("%d Lehrer geladen, Stand: %s", len(daily), zeitstempel)
+
+        # Hinweise zum Tag: eigener Hash, eigene Meldung auf dem globalen Topic.
+        # Sie gelten für alle - eine Nachricht je Lehrkraft wäre 60-fach dasselbe.
+        info_key = f"_tagesinfo_{date_str}"
+        info_hash = hashlib.sha256("\n".join(tagesinfo).encode()).hexdigest()[:16]
+        old_info_hash = state.get(info_key)
+        if old_info_hash is None:
+            state[info_key] = info_hash
+        elif old_info_hash != info_hash:
+            state[info_key] = info_hash
+            log.info("TAGESINFO geändert für %s: %s", date_str, tagesinfo)
+            history.append({
+                "timestamp": now.isoformat(),
+                "lehrer": "*",
+                "datum": datum,
+                "date_key": date_str,
+                "changes": [f"Hinweis: {z}" for z in tagesinfo] or ["Hinweis zum Tag entfernt"],
+                "zeitstempel": zeitstempel,
+            })
+            if tagesinfo:
+                send_notification(
+                    NTFY_TOPIC_PREFIX,
+                    f"Hinweis zum Tag: {datum}",
+                    "\n".join(tagesinfo),
+                    priority="default",
+                )
+            save_state(state)
 
         for kurz, data in daily.items():
             key = f"{kurz}_{date_str}"
@@ -447,7 +499,7 @@ def main():
                     log.info("Änderungen für %s am %s durch Filter ausgeblendet — keine Notification",
                              kurz, date_str)
                     continue
-            title, message = format_notification(kurz, datum, data, teacher_filter)
+            title, message = format_notification(kurz, datum, data, teacher_filter, tagesinfo)
 
             # Änderung in History aufnehmen
             change_summary = []
@@ -500,9 +552,13 @@ def main():
             priority="default",
         )
 
-    # Alte Einträge aufräumen (> 14 Tage), Metadaten-Keys (mit _ Prefix) behalten
+    # Alte Einträge aufräumen (> 14 Tage). Metadaten-Keys (mit _ Prefix) bleiben,
+    # Tagesinfo-Hashes hängen wie die Lehrer-Hashes am Datum.
     cutoff = (now - timedelta(days=14)).strftime("%Y%m%d")
-    state = {k: v for k, v in state.items() if k.startswith("_") or k.split("_")[-1] >= cutoff}
+    state = {
+        k: v for k, v in state.items()
+        if (k.startswith("_") and not k.startswith("_tagesinfo_")) or k.split("_")[-1] >= cutoff
+    }
 
     # Notification-Fehler für E-Mail-Fallback speichern
     if notification_failures:

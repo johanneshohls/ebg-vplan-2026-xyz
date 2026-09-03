@@ -80,9 +80,14 @@ def parse_daily_plan(date_str: str) -> dict | None:
     ts_el = root.find(".//zeitstempel")
     datum_el = root.find(".//DatumPlan")
 
+    # Hinweise, die für den ganzen Tag gelten (Indiware: <ZusatzInfo><ZiZeile>)
+    tagesinfo = [zi.text.strip() for zi in root.iter("ZiZeile") if zi.text and zi.text.strip()]
+    print(f"    XML-Wurzel <{root.tag}>, Kinder {sorted({c.tag for c in root})}, {len(tagesinfo)} Tagesinfo-Zeile(n)")
+
     day_data = {
         "datum": datum_el.text if datum_el is not None else date_str,
         "zeitstempel": ts_el.text if ts_el is not None else "",
+        "tagesinfo": tagesinfo,
         "lehrer": {},
     }
 

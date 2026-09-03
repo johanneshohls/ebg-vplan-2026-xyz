@@ -298,6 +298,34 @@
       font-weight: 700;
     }
 
+    /* Hinweise zum Tag */
+    .tagesinfo-card {
+      border-left: 3px solid var(--orange);
+    }
+    .tagesinfo-row {
+      display: flex;
+      gap: 12px;
+      padding: 10px 16px;
+      align-items: baseline;
+    }
+    .tagesinfo-row:not(:last-child) {
+      border-bottom: 0.5px solid var(--border);
+    }
+    .tagesinfo-day {
+      flex: 0 0 44px;
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .tagesinfo-row.today .tagesinfo-day { color: var(--orange); }
+    .tagesinfo-text {
+      font-size: 14px;
+      line-height: 1.4;
+    }
+    .tagesinfo-text div + div { margin-top: 3px; }
+
     /* Info badge */
     .info-dot {
       position: absolute;
@@ -1024,6 +1052,27 @@ function setView(view) {
   }
 }
 
+function escapeHtml(s) {
+  return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+
+// Hinweise, die für einen ganzen Tag gelten - eine Karte über dem Plan,
+// eine Zeile je Tag, damit sie in jeder Ansicht gleich aussehen.
+function buildTagesinfoHTML(dayKeys, days, todayStr) {
+  let rows = "";
+  for (const dk of dayKeys) {
+    const zeilen = days[dk]?.tagesinfo || [];
+    if (!zeilen.length) continue;
+    const d = parseDate(dk);
+    const dow = DOW[d.getDay()] || "";
+    rows += `<div class="tagesinfo-row${dk === todayStr ? " today" : ""}">
+      <div class="tagesinfo-day">${dow} ${d.getDate()}.</div>
+      <div class="tagesinfo-text">${zeilen.map(z => `<div>${escapeHtml(z)}</div>`).join("")}</div>
+    </div>`;
+  }
+  return rows ? `<div class="card tagesinfo-card">${rows}</div>` : "";
+}
+
 function buildWeekTableHTML(dayKeys, days, todayStr, grid, maxP, cellBuilder) {
   let h = '<div class="table-scroll"><table class="plan-table">';
   h += '<thead><tr><th class="col-std" style="text-align:left;padding-left:20px"></th>';
@@ -1098,6 +1147,7 @@ function renderRooms() {
     <span>KW ${week.kw} · ${mMon.getDate()}. ${MONTH[mMon.getMonth()]} – ${mFri.getDate()}. ${MONTH[mFri.getMonth()]} ${mFri.getFullYear()}</span>
     <span onclick="changeWeek(1)" style="cursor:pointer;font-size:18px;opacity:${canNext?'1':'0.2'};padding:4px 8px">&rsaquo;</span>
   </div>`;
+  html += buildTagesinfoHTML(dayKeys, days, todayStr);
   html += '<div class="card">' + buildWeekTableHTML(dayKeys, days, todayStr, grid, maxP, e => {
     const isChanged = e.geaendert || e.info;
     const isCancelled = e.fach === "---";
@@ -1152,6 +1202,7 @@ function renderKlassen() {
     <span>KW ${week.kw} · ${mMon.getDate()}. ${MONTH[mMon.getMonth()]} – ${mFri.getDate()}. ${MONTH[mFri.getMonth()]} ${mFri.getFullYear()}</span>
     <span onclick="changeWeek(1)" style="cursor:pointer;font-size:18px;opacity:${canNext?'1':'0.2'};padding:4px 8px">&rsaquo;</span>
   </div>`;
+  html += buildTagesinfoHTML(dayKeys, days, todayStr);
   html += '<div class="card">' + buildWeekTableHTML(dayKeys, days, todayStr, grid, maxP, e => {
     const isChanged = e.geaendert || e.info;
     const isCancelled = e.fach === "---";
@@ -1211,6 +1262,7 @@ function renderFreeRooms() {
     <span onclick="changeWeek(1)" style="cursor:pointer;font-size:18px;opacity:${canNext?'1':'0.2'};padding:4px 8px">&rsaquo;</span>
   </div>`;
 
+  html += buildTagesinfoHTML(dayKeys, days, todayStr);
   html += '<div class="card"><div class="table-scroll"><table class="plan-table"><thead><tr>';
   html += '<th class="col-std" style="text-align:left;padding-left:20px"></th>';
   for (const dk of dayKeys) {
@@ -1480,6 +1532,8 @@ function renderPlan() {
     <span onclick="changeWeek(1)" style="cursor:pointer;font-size:18px;opacity:${canNext ? '1' : '0.2'};padding:4px 8px">&rsaquo;</span>
   </div>`;
 
+  html += buildTagesinfoHTML(dayKeys, days, todayStr);
+
   if (compareMode && compareTeacher) {
     const g1 = buildGrid(currentTeacher);
     const g2 = buildGrid(compareTeacher);
@@ -1526,8 +1580,8 @@ function toggleHistory() {
 function renderHistory() {
   if (!historyData || !currentTeacher) return;
 
-  // Filter für aktuellen Lehrer
-  const items = historyData.filter(h => h.lehrer === currentTeacher);
+  // Filter für aktuellen Lehrer; "*" sind Hinweise zum Tag und gelten für alle
+  const items = historyData.filter(h => h.lehrer === currentTeacher || h.lehrer === "*");
 
   document.getElementById("navTitle").textContent = currentTeacher + " — Verlauf";
   document.getElementById("navSubtitle").textContent = "Letzte 7 Tage";
