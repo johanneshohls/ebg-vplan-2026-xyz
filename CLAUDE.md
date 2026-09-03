@@ -42,22 +42,21 @@ und im Verlauf (Eintrag mit `lehrer: "*"`). Das echte XML hat die Wurzel
 **Auslösung des Workflows:** Der GitHub-Zeitplan (`cron` alle 5 min) feuert in
 der Praxis nur alle 2 bis 3 Stunden. Deshalb stößt der IONOS-VPS
 (`root@87.106.155.168`) den Workflow per `/opt/vplan-trigger.sh` an, Cron
-`*/5 5-20 * * 1-5`. Das Skript liest den Token aus `/root/.vplan-github-token`
-(fine-grained PAT, Repo ebg-vplan-2026-xyz, Actions: Read and write). Fehlt die
-Datei oder ist der Token ungültig, steht es in `/var/log/vplan-trigger.log`
+`*/5 5-20 * * 0-5` (Sonntag bis Freitag, sonntags wegen des Montagsplans). Das Skript liest den Token aus `/root/.vplan-github-token`
+(fine-grained PAT, Repo ebg-vplan-2026-xyz, Actions: Read and write). Seit 03.09.2026 12:46 liegt der Token und der Cron feuert (erster automatischer
+Run 12:50). Fehlt die Datei oder ist der Token ungültig, steht es in `/var/log/vplan-trigger.log`
 mit HTTP-Code. Der alte PAT in der Crontab war seit 23.03.2026 ungültig (2167
 Fehlversuche), der Trigger hat nie funktioniert.
 
 ## Offene Fragen / Blocker
 
-- `/root/.vplan-github-token` auf dem VPS anlegen (Johannes), bis dahin nur der träge GitHub-Zeitplan.
 - ntfy-Topic: öffentlich oder privat? Sicherheitsrelevant bei sensiblen Plandaten.
 
 ---
 
 ## Zuletzt aktualisiert
 
-2026-09-03 (Tagesinfo eingebaut, VPS-Trigger repariert bis auf den Token; defusedxml-Fix vom 31.08. auf main gebracht)
+2026-09-03 (Tagesinfo eingebaut, VPS-Trigger repariert und mit Token aktiv, Cron So-Fr; defusedxml-Fix vom 31.08. auf main gebracht)
 
 2026-03-25 (v1.2 fast fertig: alle Items abgeschlossen bis auf Kurs/Fach-Filterung; generate_ical.py Push-Problem gelöst)
 

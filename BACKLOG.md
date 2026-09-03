@@ -40,4 +40,4 @@ Feature-Erweiterungen: bessere Nutzererfahrung und mehr Kontrolle.
 - [x] E-Mail-Fallback bei fehlgeschlagener Push-Benachrichtigung (3)
 - [x] README mit Setup-Anleitung für eigene Instanzen (2)
 - [x] Hinweise zum Tag (ZusatzInfo) in Web-App, iCal und ntfy (3)
-- [ ] VPS-Trigger: Token-Datei /root/.vplan-github-token anlegen (1)
+- [x] VPS-Trigger: Token-Datei /root/.vplan-github-token anlegen (1)
