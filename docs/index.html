@@ -298,33 +298,35 @@
       font-weight: 700;
     }
 
-    /* Hinweise zum Tag */
-    .tagesinfo-card {
-      border-left: 3px solid var(--orange);
-    }
-    .tagesinfo-row {
-      display: flex;
-      gap: 12px;
-      padding: 10px 16px;
-      align-items: baseline;
-    }
-    .tagesinfo-row:not(:last-child) {
-      border-bottom: 0.5px solid var(--border);
-    }
-    .tagesinfo-day {
-      flex: 0 0 44px;
-      font-size: 12px;
+    /* Hinweise zum Tag: kleiner Punkt am Datum, Tipp öffnet das Info-Fenster */
+    .day-th-wrap { position: relative; }
+    .day-th-wrap.has-tagesinfo { cursor: pointer; }
+    .tagesinfo-badge {
+      position: absolute;
+      top: -2px;
+      right: 2px;
+      min-width: 14px;
+      height: 14px;
+      padding: 0 3px;
+      border-radius: 7px;
+      background: var(--orange);
+      color: #fff;
+      font-size: 9px;
       font-weight: 700;
+      line-height: 14px;
+      text-align: center;
+      letter-spacing: 0;
+      text-transform: none;
+    }
+    .info-sheet .info-title {
+      font-size: 13px;
+      font-weight: 600;
       color: var(--secondary);
       text-transform: uppercase;
       letter-spacing: 0.5px;
+      margin-bottom: 10px;
     }
-    .tagesinfo-row.today .tagesinfo-day { color: var(--orange); }
-    .tagesinfo-text {
-      font-size: 14px;
-      line-height: 1.4;
-    }
-    .tagesinfo-text div + div { margin-top: 3px; }
+    .info-sheet p div + div { margin-top: 8px; }
 
     /* Info badge */
     .info-dot {
@@ -1056,21 +1058,29 @@ function escapeHtml(s) {
   return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
 }
 
-// Hinweise, die für einen ganzen Tag gelten - eine Karte über dem Plan,
-// eine Zeile je Tag, damit sie in jeder Ansicht gleich aussehen.
-function buildTagesinfoHTML(dayKeys, days, todayStr) {
-  let rows = "";
-  for (const dk of dayKeys) {
-    const zeilen = days[dk]?.tagesinfo || [];
-    if (!zeilen.length) continue;
-    const d = parseDate(dk);
-    const dow = DOW[d.getDay()] || "";
-    rows += `<div class="tagesinfo-row${dk === todayStr ? " today" : ""}">
-      <div class="tagesinfo-day">${dow} ${d.getDate()}.</div>
-      <div class="tagesinfo-text">${zeilen.map(z => `<div>${escapeHtml(z)}</div>`).join("")}</div>
-    </div>`;
-  }
-  return rows ? `<div class="card tagesinfo-card">${rows}</div>` : "";
+// Hinweise, die für einen ganzen Tag gelten: ein Punkt am Datum, der Tipp
+// öffnet das Info-Fenster. Die Texte liegen je Tag bereit, damit der
+// Klick-Handler nichts escapen muss.
+const TAGESINFO = {};
+function tagesinfoAttrs(dk, days) {
+  const zeilen = days[dk]?.tagesinfo || [];
+  TAGESINFO[dk] = zeilen;
+  if (!zeilen.length) return { cls: "", badge: "", click: "" };
+  return {
+    cls: " has-tagesinfo",
+    badge: `<div class="tagesinfo-badge">${zeilen.length}</div>`,
+    click: ` onclick="showTagesinfo('${dk}')"`,
+  };
+}
+function showTagesinfo(dk) {
+  const zeilen = TAGESINFO[dk] || [];
+  if (!zeilen.length) return;
+  const d = parseDate(dk);
+  const dow = ["So","Mo","Di","Mi","Do","Fr","Sa"][d.getDay()];
+  document.getElementById("infoText").innerHTML =
+    `<div class="info-title">Hinweise ${dow}, ${d.getDate()}. ${MONTH[d.getMonth()]}</div>` +
+    zeilen.map(z => `<div>${escapeHtml(z)}</div>`).join("");
+  document.getElementById("infoOverlay").classList.add("visible");
 }
 
 function buildWeekTableHTML(dayKeys, days, todayStr, grid, maxP, cellBuilder) {
@@ -1081,7 +1091,8 @@ function buildWeekTableHTML(dayKeys, days, todayStr, grid, maxP, cellBuilder) {
     const dow = DOW[d.getDay()] || "";
     const isToday = dk === todayStr;
     const ts = days[dk]?.zeitstempel || "";
-    h += `<th><div class="day-th-wrap${isToday ? " day-today" : ""}">
+    const ti = tagesinfoAttrs(dk, days);
+    h += `<th><div class="day-th-wrap${isToday ? " day-today" : ""}${ti.cls}"${ti.click}>${ti.badge}
       <div class="day-name">${dow}</div>
       <div class="day-date">${isToday
         ? '<span style="background:var(--today-bg);color:var(--today-text);width:26px;height:26px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:13px">'+d.getDate()+'</span>'
@@ -1147,7 +1158,6 @@ function renderRooms() {
     <span>KW ${week.kw} · ${mMon.getDate()}. ${MONTH[mMon.getMonth()]} – ${mFri.getDate()}. ${MONTH[mFri.getMonth()]} ${mFri.getFullYear()}</span>
     <span onclick="changeWeek(1)" style="cursor:pointer;font-size:18px;opacity:${canNext?'1':'0.2'};padding:4px 8px">&rsaquo;</span>
   </div>`;
-  html += buildTagesinfoHTML(dayKeys, days, todayStr);
   html += '<div class="card">' + buildWeekTableHTML(dayKeys, days, todayStr, grid, maxP, e => {
     const isChanged = e.geaendert || e.info;
     const isCancelled = e.fach === "---";
@@ -1202,7 +1212,6 @@ function renderKlassen() {
     <span>KW ${week.kw} · ${mMon.getDate()}. ${MONTH[mMon.getMonth()]} – ${mFri.getDate()}. ${MONTH[mFri.getMonth()]} ${mFri.getFullYear()}</span>
     <span onclick="changeWeek(1)" style="cursor:pointer;font-size:18px;opacity:${canNext?'1':'0.2'};padding:4px 8px">&rsaquo;</span>
   </div>`;
-  html += buildTagesinfoHTML(dayKeys, days, todayStr);
   html += '<div class="card">' + buildWeekTableHTML(dayKeys, days, todayStr, grid, maxP, e => {
     const isChanged = e.geaendert || e.info;
     const isCancelled = e.fach === "---";
@@ -1262,14 +1271,14 @@ function renderFreeRooms() {
     <span onclick="changeWeek(1)" style="cursor:pointer;font-size:18px;opacity:${canNext?'1':'0.2'};padding:4px 8px">&rsaquo;</span>
   </div>`;
 
-  html += buildTagesinfoHTML(dayKeys, days, todayStr);
   html += '<div class="card"><div class="table-scroll"><table class="plan-table"><thead><tr>';
   html += '<th class="col-std" style="text-align:left;padding-left:20px"></th>';
   for (const dk of dayKeys) {
     const d = parseDate(dk);
     const dow = DOW[d.getDay()] || "";
     const isToday = dk === todayStr;
-    html += `<th><div class="day-th-wrap${isToday ? " day-today" : ""}">
+    const ti = tagesinfoAttrs(dk, days);
+    html += `<th><div class="day-th-wrap${isToday ? " day-today" : ""}${ti.cls}"${ti.click}>${ti.badge}
       <div class="day-name">${dow}</div>
       <div class="day-date">${isToday
         ? '<span style="background:var(--today-bg);color:var(--today-text);width:26px;height:26px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:13px">'+d.getDate()+'</span>'
@@ -1474,7 +1483,8 @@ function renderPlan() {
       const dow = DOW[d.getDay()] || "";
       const isToday = dk === todayStr;
       const ts = days[dk]?.zeitstempel || "";
-      h += `<th><div class="day-th-wrap${isToday ? " day-today" : ""}">
+      const ti = tagesinfoAttrs(dk, days);
+      h += `<th><div class="day-th-wrap${isToday ? " day-today" : ""}${ti.cls}"${ti.click}>${ti.badge}
         <div class="day-name">${dow}</div>
         <div class="day-date">${isToday
           ? '<span style="background:var(--today-bg);color:var(--today-text);width:26px;height:26px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-size:13px">'+d.getDate()+'</span>'
@@ -1531,8 +1541,6 @@ function renderPlan() {
     <span>KW ${week.kw} · ${mMon.getDate()}. ${MONTH[mMon.getMonth()]} – ${mFri.getDate()}. ${MONTH[mFri.getMonth()]} ${mFri.getFullYear()}</span>
     <span onclick="changeWeek(1)" style="cursor:pointer;font-size:18px;opacity:${canNext ? '1' : '0.2'};padding:4px 8px">&rsaquo;</span>
   </div>`;
-
-  html += buildTagesinfoHTML(dayKeys, days, todayStr);
 
   if (compareMode && compareTeacher) {
     const g1 = buildGrid(currentTeacher);
