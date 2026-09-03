@@ -5,5 +5,107 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Ernst-Barlach-Gymnasium – Hin
 X-WR-CALDESC:Persönlicher Vertretungsplan
-X-WR-LASTUPDATED:20260902T220041Z
+X-WR-LASTUPDATED:20260903T054544Z
+BEGIN:VEVENT
+UID:hin-20260824-tagesinfo@ebg-vplan
+DTSTAMP:20260903T054544Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Hinweis: Wir wünschen allen Schulerinnen und Schülern einen guten
+  Start ins neue Jahr. In der ersten Schulwoche finden am Mo und Die die Ke
+ nnenlerntage der Jahrgangsstufe 7 statt. (+7)
+DESCRIPTION:Wir wünschen allen Schulerinnen und Schülern einen guten Star
+ t ins neue Jahr. In der ersten Schulwoche finden am Mo und Die die Kennenl
+ erntage der Jahrgangsstufe 7 statt.\nDes Weiteren entfällt am Montag der 
+ 4. Unterrichtsblock für die Jahrgänge 7 bis 9. Die Jahrgänge 10 bis 12 
+ habe im 4. Block Unterricht lt. Plan.\nIm 1. Block ist für alle Jahrgangs
+ stufen die Klassenleiter-/Tutorenstunde (Belehrungen und div.).\nLehrbucha
+ usgabe:\nJahrgangsstufe 10: 09.40 - 12.30 Uhr\nJahrgangsstufe 12: 12.30 - 
+ 13.10 Uhr\nJahrgangsstufe 11: 4. Block\nGoetheplatz-Aufsicht nach dem 3. B
+ lock: T. Barth
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+BEGIN:VEVENT
+UID:hin-20260825-tagesinfo@ebg-vplan
+DTSTAMP:20260903T054544Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Hinweis: Lehrbuchausgabe: Jahrgang 8 (+1)
+DESCRIPTION:Lehrbuchausgabe: Jahrgang 8\nAufsicht am Goetheplatz nach dem 3
+ . Block: H. Brincker
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+BEGIN:VEVENT
+UID:hin-20260826-tagesinfo@ebg-vplan
+DTSTAMP:20260903T054544Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Hinweis: Lehrbuchausgabe: Jahrtgang 9 (+1)
+DESCRIPTION:Lehrbuchausgabe: Jahrtgang 9\nAufisicht am Goetheplatz nach dem
+  3. Block: F. Priesemuth
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+BEGIN:VEVENT
+UID:hin-20260827-tagesinfo@ebg-vplan
+DTSTAMP:20260903T054544Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Hinweis: Lehrbuchausgabe: Jahrgang 7 (+1)
+DESCRIPTION:Lehrbuchausgabe: Jahrgang 7\nAufisicht am Goetheplatz nach dem 
+ 3. Block: S. Pelka
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+BEGIN:VEVENT
+UID:hin-20260831-tagesinfo@ebg-vplan
+DTSTAMP:20260903T054544Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Hinweis: Aufsicht am Goetheplatz nach dem 3. Block: T. Seemann
+DESCRIPTION:Aufsicht am Goetheplatz nach dem 3. Block: T. Seemann
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+BEGIN:VEVENT
+UID:hin-20260901-tagesinfo@ebg-vplan
+DTSTAMP:20260903T054544Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Hinweis: Aufsicht nach dem 3. Block auf dem Goetheplatz: Dr. G. Sch
+ uchardt (+3)
+DESCRIPTION:Aufsicht nach dem 3. Block auf dem Goetheplatz: Dr. G. Schuchar
+ dt\n4. Block: Club-Vorstellung in der Aula und Einwahl\n7. Stunde: Jahrgan
+ g 9\n8. Stunde: Jahrgang 10
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+BEGIN:VEVENT
+UID:hin-20260902-tagesinfo@ebg-vplan
+DTSTAMP:20260903T054544Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Hinweis: Aufsicht nach dem 3. Block auf dem Goetheplatz: S. Hollatz
+  (+2)
+DESCRIPTION:Aufsicht nach dem 3. Block auf dem Goetheplatz: S. Hollatz\nauf
+ sicht nach dem 4. Block auf dem Goetheplatz: H. Brincker\n4. Block\, Aula:
+  Vorstellung und Einwahl GTS
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+BEGIN:VEVENT
+UID:hin-20260903-tagesinfo@ebg-vplan
+DTSTAMP:20260903T054544Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Knoop (
+ +1)
+DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Knoop\nAufsi
+ cht auf dem goetheplatz nach dem 4. Block: S. Pelka
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+BEGIN:VEVENT
+UID:hin-20260904-tagesinfo@ebg-vplan
+DTSTAMP:20260903T054544Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Hunger
+DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Hunger
+CATEGORIES:Schule,Hinweis
+END:VEVENT
 END:VCALENDAR
