@@ -31,19 +31,35 @@ Prüft alle 5 Minuten ob sich der Vertretungsplan geändert hat, sendet bei Änd
 
 ---
 
-## Aktueller Fokus
+## Aktueller Fokus (Stand 2026-09-03)
 
-**Milestone v1.1** – vollständig abgeschlossen.
+Läuft produktiv. Seit 03.09.2026 kommen die Hinweise zum Tag mit (Indiware
+`<ZusatzInfo><ZiZeile>`): in data.json je Tag als `tagesinfo`, als Karte über dem
+Wochenplan, als ganztägiger iCal-Termin, als Meldung auf dem globalen ntfy-Topic
+und im Verlauf (Eintrag mit `lehrer: "*"`). Das echte XML hat die Wurzel
+`<WplanVp>` mit den Kindern Kopf, FreieTage, Klassen, ZusatzInfo.
 
-Abgeschlossen:
-- iCal-Abo pro Lehrkraft (`generate_ical.py` + Workflow-Integration)
-- Push-Notifications jetzt nur noch bei echten Vertretungen (nicht bei regulären Plan-Uploads)
-- Retry-Logik bei fehlgeschlagener ntfy-Benachrichtigung (3 Versuche, exponentielles Backoff)
-- Strukturiertes Logging via Python `logging` Modul (Timestamp + Level in Workflow-Logs)
-- Parsing-Absicherung gegen unerwartete XML-Formate (try/except pro Lehrer/Stunde, `_safe_text()` Helper)
-- Monitoring: Benachrichtigung nach 6 konsekutiven Fetch-Fehlschlägen (~30 min), Zähler in `state.json`
+**Auslösung des Workflows:** Der GitHub-Zeitplan (`cron` alle 5 min) feuert in
+der Praxis nur alle 2 bis 3 Stunden. Deshalb stößt der IONOS-VPS
+(`root@87.106.155.168`) den Workflow per `/opt/vplan-trigger.sh` an, Cron
+`*/5 5-20 * * 1-5`. Das Skript liest den Token aus `/root/.vplan-github-token`
+(fine-grained PAT, Repo ebg-vplan-2026-xyz, Actions: Read and write). Fehlt die
+Datei oder ist der Token ungültig, steht es in `/var/log/vplan-trigger.log`
+mit HTTP-Code. Der alte PAT in der Crontab war seit 23.03.2026 ungültig (2167
+Fehlversuche), der Trigger hat nie funktioniert.
 
-**Nächster Milestone:** v1.2 (Feature-Erweiterungen)
+## Offene Fragen / Blocker
+
+- `/root/.vplan-github-token` auf dem VPS anlegen (Johannes), bis dahin nur der träge GitHub-Zeitplan.
+- ntfy-Topic: öffentlich oder privat? Sicherheitsrelevant bei sensiblen Plandaten.
+
+---
+
+## Zuletzt aktualisiert
+
+2026-09-03 (Tagesinfo eingebaut, VPS-Trigger repariert bis auf den Token; defusedxml-Fix vom 31.08. auf main gebracht)
+
+2026-03-25 (v1.2 fast fertig: alle Items abgeschlossen bis auf Kurs/Fach-Filterung; generate_ical.py Push-Problem gelöst)
 
 ---
 
