@@ -1098,7 +1098,7 @@ function showTagesinfo(dk) {
 
 // Zeitlinie: liegt in jeder Wochentabelle, die den heutigen Tag zeigt, auf der
 // Höhe der aktuellen Uhrzeit. Innerhalb einer Stunde wird interpoliert, in der
-// Pause zwischen den Zeilen; vor der ersten und nach der letzten Stunde fehlt sie.
+// Pause zwischen den Zeilen; ab 07:25 im Tageskopf, nach der letzten Stunde fehlt sie.
 function nowLineOffset(table) {
   const now = new Date();
   const minutes = now.getHours() * 60 + now.getMinutes();
@@ -1111,7 +1111,15 @@ function nowLineOffset(table) {
     const start = toMin(TIMES[p]), end = toMin(TIMES_END[p]);
     const top = table.offsetTop + row.offsetTop, h = row.offsetHeight;
     if (minutes < start) {
-      if (!prev) return null;
+      if (!prev) {
+        // Ab 07:25 (erste Aufsicht) ist die Linie da: sie wandert durch die
+        // untere Hälfte des Tageskopfs auf die erste Stunde zu.
+        const vorlauf = 15;
+        if (minutes < start - vorlauf) return null;
+        const head = table.querySelector("thead");
+        const weg = head ? head.offsetHeight / 2 : 12;
+        return top - weg + weg * (minutes - (start - vorlauf)) / vorlauf;
+      }
       const span = start - prev.end;
       return prev.bottom + (top - prev.bottom) * (span ? (minutes - prev.end) / span : 1);
     }
