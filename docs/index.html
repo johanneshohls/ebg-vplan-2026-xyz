@@ -391,16 +391,16 @@
       position: absolute;
       left: 0; right: 0;
       height: 0;
-      border-top: 1px solid var(--accent);
-      opacity: 0.45;
+      border-top: 1.5px solid var(--accent);
+      opacity: 0.7;
       pointer-events: none;
       z-index: 5;
     }
     .now-line::before {
       content: "";
       position: absolute;
-      left: 14px; top: -3px;
-      width: 5px; height: 5px;
+      left: 13px; top: -4px;
+      width: 7px; height: 7px;
       border-radius: 50%;
       background: var(--accent);
     }
@@ -1727,9 +1727,21 @@ function getISOWeek(d) {
   } else {
     renderSetup();
   }
+  // Die Home-Bildschirm-App hält index.html lange im Cache. Alle zwei Minuten
+  // wird der ETag der Seite verglichen; eine neue Fassung lädt sich selbst nach.
+  let pageTag = null;
+  async function pageEtag() {
+    try {
+      const r = await fetch(location.pathname + "?_=" + Date.now(), { method: "HEAD", cache: "no-store" });
+      return r.headers.get("ETag") || r.headers.get("Last-Modified");
+    } catch(e) { return null; }
+  }
+  pageTag = await pageEtag();
   setInterval(async () => {
     await doRefresh();
     historyData = await loadHistory();
+    const tag = await pageEtag();
+    if (pageTag && tag && tag !== pageTag) location.reload();
   }, 120000);
 })();
 </script>
