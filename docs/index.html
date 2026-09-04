@@ -385,11 +385,24 @@
       font-size: 13px;
     }
 
-    /* Now line */
-    .now-line td {
-      padding: 0 !important;
-      border-bottom: 2px solid var(--accent) !important;
-      position: relative;
+    /* Zeitlinie: wandert im Laufe des Schultags durch den Plan */
+    .table-scroll { position: relative; }
+    .now-line {
+      position: absolute;
+      left: 0; right: 0;
+      height: 0;
+      border-top: 1px solid var(--accent);
+      opacity: 0.45;
+      pointer-events: none;
+      z-index: 5;
+    }
+    .now-line::before {
+      content: "";
+      position: absolute;
+      left: 14px; top: -3px;
+      width: 5px; height: 5px;
+      border-radius: 50%;
+      background: var(--accent);
     }
 
     /* --- Info Popover --- */
@@ -1083,8 +1096,47 @@ function showTagesinfo(dk) {
   document.getElementById("infoOverlay").classList.add("visible");
 }
 
+// Zeitlinie: liegt in jeder Wochentabelle, die den heutigen Tag zeigt, auf der
+// Höhe der aktuellen Uhrzeit. Innerhalb einer Stunde wird interpoliert, in der
+// Pause zwischen den Zeilen; vor der ersten und nach der letzten Stunde fehlt sie.
+function nowLineOffset(table) {
+  const now = new Date();
+  const minutes = now.getHours() * 60 + now.getMinutes();
+  const toMin = t => { const [h, m] = t.split(":").map(Number); return h * 60 + m; };
+  const rows = [...table.querySelectorAll("tr[data-period]")];
+  if (!rows.length) return null;
+  let prev = null;
+  for (const row of rows) {
+    const p = row.dataset.period;
+    const start = toMin(TIMES[p]), end = toMin(TIMES_END[p]);
+    const top = table.offsetTop + row.offsetTop, h = row.offsetHeight;
+    if (minutes < start) {
+      if (!prev) return null;
+      const span = start - prev.end;
+      return prev.bottom + (top - prev.bottom) * (span ? (minutes - prev.end) / span : 1);
+    }
+    if (minutes < end) return top + h * (minutes - start) / (end - start);
+    prev = { end, bottom: top + h };
+  }
+  return null;
+}
+function placeNowLine() {
+  const now = new Date();
+  const todayStr = now.getFullYear() + String(now.getMonth()+1).padStart(2,"0") + String(now.getDate()).padStart(2,"0");
+  for (const wrap of document.querySelectorAll(".table-scroll")) {
+    const table = wrap.querySelector("table");
+    let line = wrap.querySelector(".now-line");
+    const showsToday = table && wrap.dataset.days && wrap.dataset.days.split(",").includes(todayStr);
+    const y = showsToday ? nowLineOffset(table) : null;
+    if (y === null) { if (line) line.remove(); continue; }
+    if (!line) { line = document.createElement("div"); line.className = "now-line"; wrap.appendChild(line); }
+    line.style.top = y + "px";
+  }
+}
+setInterval(placeNowLine, 60000);
+
 function buildWeekTableHTML(dayKeys, days, todayStr, grid, maxP, cellBuilder) {
-  let h = '<div class="table-scroll"><table class="plan-table">';
+  let h = `<div class="table-scroll" data-days="${dayKeys.join(',')}"><table class="plan-table">`;
   h += '<thead><tr><th class="col-std" style="text-align:left;padding-left:20px"></th>';
   for (const dk of dayKeys) {
     const d = parseDate(dk);
@@ -1103,7 +1155,7 @@ function buildWeekTableHTML(dayKeys, days, todayStr, grid, maxP, cellBuilder) {
   h += '</tr></thead><tbody>';
   for (let pi = 0; pi < maxP; pi++) {
     const period = PERIODS[pi];
-    h += '<tr>';
+    h += `<tr data-period="${period}">`;
     h += `<td class="std-cell"><div class="std-num">${period}</div><div class="std-time">${TIMES[period]||""}</div></td>`;
     for (const dk of dayKeys) {
       const e = grid[dk]?.[period];
@@ -1168,6 +1220,7 @@ function renderRooms() {
     return `<td class="${cls}"${infoClick}>${dot}<div class="subject">${e.fach}</div><div class="klasse">${e.klasse}</div><div class="room">${e.lehrer}</div></td>`;
   }) + '</div>';
   document.getElementById("content").innerHTML = html;
+  placeNowLine();
 }
 
 function renderKlassen() {
@@ -1222,6 +1275,7 @@ function renderKlassen() {
     return `<td class="${cls}"${infoClick}>${dot}<div class="subject">${e.fach}</div><div class="klasse">${e.lehrer}</div><div class="room">${e.raum}</div></td>`;
   }) + '</div>';
   document.getElementById("content").innerHTML = html;
+  placeNowLine();
 }
 
 function renderFreeRooms() {
@@ -1271,7 +1325,7 @@ function renderFreeRooms() {
     <span onclick="changeWeek(1)" style="cursor:pointer;font-size:18px;opacity:${canNext?'1':'0.2'};padding:4px 8px">&rsaquo;</span>
   </div>`;
 
-  html += '<div class="card"><div class="table-scroll"><table class="plan-table"><thead><tr>';
+  html += `<div class="card"><div class="table-scroll" data-days="${dayKeys.join(',')}"><table class="plan-table"><thead><tr>`;
   html += '<th class="col-std" style="text-align:left;padding-left:20px"></th>';
   for (const dk of dayKeys) {
     const d = parseDate(dk);
@@ -1288,7 +1342,7 @@ function renderFreeRooms() {
   html += '</tr></thead><tbody>';
 
   for (const period of PERIODS) {
-    html += '<tr>';
+    html += `<tr data-period="${period}">`;
     html += `<td class="std-cell"><div class="std-num">${period}</div><div class="std-time">${TIMES[period]||""}</div></td>`;
     for (const dk of dayKeys) {
       const occupied = occupiedRooms[dk]?.[period] || new Set();
@@ -1302,6 +1356,7 @@ function renderFreeRooms() {
   }
   html += '</tbody></table></div></div>';
   document.getElementById("content").innerHTML = html;
+  placeNowLine();
 }
 
 function showFreeRoomsDetail(dk, period) {
@@ -1476,7 +1531,7 @@ function renderPlan() {
 
   // Helper: build table HTML for a grid
   function buildTable(grid, aufGrid, maxP) {
-    let h = '<div class="table-scroll"><table class="plan-table">';
+    let h = `<div class="table-scroll" data-days="${dayKeys.join(',')}"><table class="plan-table">`;
     h += '<thead><tr><th class="col-std" style="text-align:left;padding-left:20px"></th>';
     for (const dk of dayKeys) {
       const d = parseDate(dk);
@@ -1514,7 +1569,7 @@ function renderPlan() {
           h += '</tr>';
         }
       }
-      h += '<tr>';
+      h += `<tr data-period="${period}">`;
       h += `<td class="std-cell"><div class="std-num">${period}</div><div class="std-time">${timeStart}</div></td>`;
       for (const dk of dayKeys) {
         const e = grid[dk]?.[period];
@@ -1562,6 +1617,7 @@ function renderPlan() {
   }
 
   document.getElementById("content").innerHTML = html;
+  placeNowLine();
 }
 
 async function loadHistory() {
@@ -1633,6 +1689,7 @@ function renderHistory() {
   }
 
   document.getElementById("content").innerHTML = html;
+  placeNowLine();
 }
 
 function getISOWeek(d) {
