@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "05.09.2026, 22:48 Uhr",
- "last_changed": "2026-09-04T09:58:00",
+ "generiert": "06.09.2026, 09:07 Uhr",
+ "last_changed": "2026-09-06T07:55:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21550,7 +21550,7 @@
    "tage": {
     "20260907": {
      "datum": "Montag, 07. September 2026",
-     "zeitstempel": "04.09.2026, 09:58",
+     "zeitstempel": "06.09.2026, 07:55",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Golla",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -21890,19 +21890,19 @@
         },
         {
          "stunde": "5",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "De 9A verlegt nach Di (08.09.) St.5",
-         "geaendert": true
+         "fach": "De",
+         "klasse": "9A",
+         "raum": "001",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "6",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "De 9A verlegt nach Di (08.09.) St.6",
-         "geaendert": true
+         "fach": "De",
+         "klasse": "9A",
+         "raum": "001",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": []
@@ -22963,22 +22963,6 @@
          "raum": "K12",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "Ch",
-         "klasse": "9A",
-         "raum": "001",
-         "info": "Ch 9A statt Di (08.09.) St.5",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Ch",
-         "klasse": "9A",
-         "raum": "001",
-         "info": "Ch 9A statt Di (08.09.) St.6",
-         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23555,7 +23539,7 @@
     },
     "20260908": {
      "datum": "Dienstag, 08. September 2026",
-     "zeitstempel": "04.09.2026, 09:58",
+     "zeitstempel": "06.09.2026, 07:55",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Convent",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth"
@@ -23931,7 +23915,7 @@
          "fach": "De",
          "klasse": "9A",
          "raum": "001",
-         "info": "De 9A statt Mo (07.09.) St.5",
+         "info": "De 9A statt Mi (09.09.) St.5",
          "geaendert": true
         },
         {
@@ -23939,7 +23923,7 @@
          "fach": "De",
          "klasse": "9A",
          "raum": "001",
-         "info": "De 9A statt Mo (07.09.) St.6",
+         "info": "De 9A statt Mi (09.09.) St.6",
          "geaendert": true
         }
        ],
@@ -25006,7 +24990,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ch 9A gehalten am Mo (07.09.) St.5",
+         "info": "Ch 9A verlegt nach Mi (09.09.) St.5",
          "geaendert": true
         },
         {
@@ -25014,7 +24998,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ch 9A gehalten am Mo (07.09.) St.6",
+         "info": "Ch 9A verlegt nach Mi (09.09.) St.6",
          "geaendert": true
         }
        ],
@@ -25527,7 +25511,7 @@
     },
     "20260909": {
      "datum": "Mittwoch, 09. September 2026",
-     "zeitstempel": "04.09.2026, 09:58",
+     "zeitstempel": "06.09.2026, 07:55",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Ternes",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth",
@@ -25885,19 +25869,19 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "De",
-         "klasse": "9A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9A gehalten am Di (08.09.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "De",
-         "klasse": "9A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9A gehalten am Di (08.09.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -26977,6 +26961,22 @@
          "raum": "K12",
          "info": "Ch 9C statt Di (08.09.) St.4",
          "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Ch",
+         "klasse": "9A",
+         "raum": "001",
+         "info": "Ch 9A statt Di (08.09.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ch",
+         "klasse": "9A",
+         "raum": "001",
+         "info": "Ch 9A statt Di (08.09.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -27544,7 +27544,7 @@
     },
     "20260910": {
      "datum": "Donnerstag, 10. September 2026",
-     "zeitstempel": "04.09.2026, 09:58",
+     "zeitstempel": "06.09.2026, 07:55",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Gordetzki",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -29482,7 +29482,7 @@
     },
     "20260911": {
      "datum": "Freitag, 11. September 2026",
-     "zeitstempel": "04.09.2026, 09:58",
+     "zeitstempel": "06.09.2026, 07:55",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Karow",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"

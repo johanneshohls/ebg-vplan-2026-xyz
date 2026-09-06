@@ -674,5 +674,73 @@
    "Std 4 (10:25): für En Hofm"
   ],
   "zeitstempel": "03.09.2026, 17:20"
+ },
+ {
+  "timestamp": "2026-09-06T09:07:29.024396",
+  "lehrer": "Fech",
+  "datum": "Montag, 07. September 2026",
+  "date_key": "20260907",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "06.09.2026, 07:55"
+ },
+ {
+  "timestamp": "2026-09-06T09:07:29.024396",
+  "lehrer": "Pel",
+  "datum": "Montag, 07. September 2026",
+  "date_key": "20260907",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "06.09.2026, 07:55"
+ },
+ {
+  "timestamp": "2026-09-06T09:07:29.024396",
+  "lehrer": "Fech",
+  "datum": "Dienstag, 08. September 2026",
+  "date_key": "20260908",
+  "changes": [
+   "Std 5 (11:40): De 9A statt Mi (09.09.) St.5",
+   "Std 6 (12:25): De 9A statt Mi (09.09.) St.6"
+  ],
+  "zeitstempel": "06.09.2026, 07:55"
+ },
+ {
+  "timestamp": "2026-09-06T09:07:29.024396",
+  "lehrer": "Pel",
+  "datum": "Dienstag, 08. September 2026",
+  "date_key": "20260908",
+  "changes": [
+   "Std 3 (09:40): Ch 9C verlegt nach Mi (09.09.) St.1",
+   "Std 4 (10:25): Ch 9C verlegt nach Mi (09.09.) St.2",
+   "Std 5 (11:40): Ch 9A verlegt nach Mi (09.09.) St.5",
+   "Std 6 (12:25): Ch 9A verlegt nach Mi (09.09.) St.6"
+  ],
+  "zeitstempel": "06.09.2026, 07:55"
+ },
+ {
+  "timestamp": "2026-09-06T09:07:29.024396",
+  "lehrer": "Fech",
+  "datum": "Mittwoch, 09. September 2026",
+  "date_key": "20260909",
+  "changes": [
+   "Std 5 (11:40): De 9A gehalten am Di (08.09.) St.5",
+   "Std 6 (12:25): De 9A gehalten am Di (08.09.) St.6"
+  ],
+  "zeitstempel": "06.09.2026, 07:55"
+ },
+ {
+  "timestamp": "2026-09-06T09:07:29.024396",
+  "lehrer": "Pel",
+  "datum": "Mittwoch, 09. September 2026",
+  "date_key": "20260909",
+  "changes": [
+   "Std 1 (07:40): Ch 9C statt Di (08.09.) St.3",
+   "Std 2 (08:25): Ch 9C statt Di (08.09.) St.4",
+   "Std 5 (11:40): Ch 9A statt Di (08.09.) St.5",
+   "Std 6 (12:25): Ch 9A statt Di (08.09.) St.6"
+  ],
+  "zeitstempel": "06.09.2026, 07:55"
  }
 ]
