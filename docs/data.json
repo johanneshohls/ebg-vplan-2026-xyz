@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "06.09.2026, 17:44 Uhr",
- "last_changed": "2026-09-06T07:55:00",
+ "generiert": "06.09.2026, 19:31 Uhr",
+ "last_changed": "2026-09-06T20:33:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21550,7 +21550,7 @@
    "tage": {
     "20260907": {
      "datum": "Montag, 07. September 2026",
-     "zeitstempel": "06.09.2026, 07:55",
+     "zeitstempel": "06.09.2026, 20:33",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Golla",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -21866,6 +21866,38 @@
          "raum": "104",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "7D",
+         "raum": "001",
+         "info": "für Lat Köh, Lat.-Gruppe",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "7D",
+         "raum": "001",
+         "info": "für Lat Köh, Lat.-Gruppe",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für Span Köh, Bitte in Rücksprache mit H. Flammann.",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für Span Köh, Bitte in Rücksprache mit H. Flammann.",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -22559,51 +22591,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8E Stu (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8E Stu (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Lat",
-         "klasse": "7D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7D Eul (für Lat), Lat.-Gruppe",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Lat",
-         "klasse": "7D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7D Eul (für Lat), Lat.-Gruppe",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8C Eul (für Span), Bitte in Rücksprache mit H. Flammann.",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8C Eul (für Span), Bitte in Rücksprache mit H. Flammann.",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23330,7 +23362,24 @@
        "aufsichten": []
       },
       "Stu": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "für Span Köh",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Ten": {
@@ -23539,7 +23588,7 @@
     },
     "20260908": {
      "datum": "Dienstag, 08. September 2026",
-     "zeitstempel": "06.09.2026, 07:55",
+     "zeitstempel": "06.09.2026, 20:33",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Convent",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth"
@@ -23568,6 +23617,22 @@
       },
       "Bes": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Span Köh, Bitte in Rücksprache mit H. Marski.",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Span Köh, Bitte in Rücksprache mit H. Marski.",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "ma3",
@@ -23889,7 +23954,24 @@
        "aufsichten": []
       },
       "Eul": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "KILZ",
+         "klasse": "7D",
+         "raum": "005",
+         "info": "für KILZ Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KILZ",
+         "klasse": "7D",
+         "raum": "005",
+         "info": "für KILZ Köh",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Fech": {
@@ -24626,51 +24708,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "KILZ",
-         "klasse": "7D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 7D Eul",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "KILZ",
-         "klasse": "7D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 7D Eul",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7B Bes (für Span), Bitte in Rücksprache mit H. Marski.",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7B Bes (für Span), Bitte in Rücksprache mit H. Marski.",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8C OLop",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8C OLop",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -24910,6 +24992,22 @@
          "raum": "007",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Span",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Span",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für Span Köh",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -25511,7 +25609,7 @@
     },
     "20260909": {
      "datum": "Mittwoch, 09. September 2026",
-     "zeitstempel": "06.09.2026, 07:55",
+     "zeitstempel": "06.09.2026, 20:33",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Ternes",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth",
@@ -27544,7 +27642,7 @@
     },
     "20260910": {
      "datum": "Donnerstag, 10. September 2026",
-     "zeitstempel": "06.09.2026, 07:55",
+     "zeitstempel": "06.09.2026, 20:33",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Gordetzki",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -29482,7 +29580,7 @@
     },
     "20260911": {
      "datum": "Freitag, 11. September 2026",
-     "zeitstempel": "06.09.2026, 07:55",
+     "zeitstempel": "06.09.2026, 20:33",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Karow",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
