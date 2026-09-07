@@ -5,133 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Ernst-Barlach-Gymnasium – Stu
 X-WR-CALDESC:Persönlicher Vertretungsplan
-X-WR-LASTUPDATED:20260906T230442Z
-BEGIN:VEVENT
-UID:stu-20260824-tagesinfo@ebg-vplan
-DTSTAMP:20260906T230442Z
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-SUMMARY:Hinweis: Wir wünschen allen Schulerinnen und Schülern einen guten
-  Start ins neue Jahr. In der ersten Schulwoche finden am Mo und Die die Ke
- nnenlerntage der Jahrgangsstufe 7 statt. (+7)
-DESCRIPTION:Wir wünschen allen Schulerinnen und Schülern einen guten Star
- t ins neue Jahr. In der ersten Schulwoche finden am Mo und Die die Kennenl
- erntage der Jahrgangsstufe 7 statt.\nDes Weiteren entfällt am Montag der 
- 4. Unterrichtsblock für die Jahrgänge 7 bis 9. Die Jahrgänge 10 bis 12 
- habe im 4. Block Unterricht lt. Plan.\nIm 1. Block ist für alle Jahrgangs
- stufen die Klassenleiter-/Tutorenstunde (Belehrungen und div.).\nLehrbucha
- usgabe:\nJahrgangsstufe 10: 09.40 - 12.30 Uhr\nJahrgangsstufe 12: 12.30 - 
- 13.10 Uhr\nJahrgangsstufe 11: 4. Block\nGoetheplatz-Aufsicht nach dem 3. B
- lock: T. Barth
-CATEGORIES:Schule,Hinweis
-END:VEVENT
-BEGIN:VEVENT
-UID:stu-20260825-tagesinfo@ebg-vplan
-DTSTAMP:20260906T230442Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:Hinweis: Lehrbuchausgabe: Jahrgang 8 (+1)
-DESCRIPTION:Lehrbuchausgabe: Jahrgang 8\nAufsicht am Goetheplatz nach dem 3
- . Block: H. Brincker
-CATEGORIES:Schule,Hinweis
-END:VEVENT
-BEGIN:VEVENT
-UID:stu-20260825-std1@ebg-vplan
-DTSTAMP:20260906T230442Z
-DTSTART:20260825T074000
-DTEND:20260825T082500
-SUMMARY:⚠️ SpMä (8E)
-DESCRIPTION:Std. 1: SpMä\\nKlasse: 8E\\nRaum: Tu3\\nInfo: für SpMä Mue\\
- n→ Geändert!
-LOCATION:Tu3
-STATUS:TENTATIVE
-CATEGORIES:Schule,Vertretungsplan
-END:VEVENT
-BEGIN:VEVENT
-UID:stu-20260825-std2@ebg-vplan
-DTSTAMP:20260906T230442Z
-DTSTART:20260825T082500
-DTEND:20260825T091000
-SUMMARY:⚠️ SpMä (8E)
-DESCRIPTION:Std. 2: SpMä\\nKlasse: 8E\\nRaum: Tu3\\nInfo: für SpMä Mue\\
- n→ Geändert!
-LOCATION:Tu3
-STATUS:TENTATIVE
-CATEGORIES:Schule,Vertretungsplan
-END:VEVENT
-BEGIN:VEVENT
-UID:stu-20260826-tagesinfo@ebg-vplan
-DTSTAMP:20260906T230442Z
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-SUMMARY:Hinweis: Lehrbuchausgabe: Jahrtgang 9 (+1)
-DESCRIPTION:Lehrbuchausgabe: Jahrtgang 9\nAufisicht am Goetheplatz nach dem
-  3. Block: F. Priesemuth
-CATEGORIES:Schule,Hinweis
-END:VEVENT
-BEGIN:VEVENT
-UID:stu-20260826-std3@ebg-vplan
-DTSTAMP:20260906T230442Z
-DTSTART:20260826T094000
-DTEND:20260826T102500
-SUMMARY:⚠️ inf3 (12A-12D)
-DESCRIPTION:Std. 3: inf3\\nKlasse: 12A-12D\\nRaum: K10\\nInfo: für Inf Bar
- \, s. IServ: Aufgaben durch FL erteilt\; Anwesenheitspflicht\\n→ Geände
- rt!
-LOCATION:K10
-STATUS:TENTATIVE
-CATEGORIES:Schule,Vertretungsplan
-END:VEVENT
-BEGIN:VEVENT
-UID:stu-20260826-std4@ebg-vplan
-DTSTAMP:20260906T230442Z
-DTSTART:20260826T102500
-DTEND:20260826T111000
-SUMMARY:⚠️ inf3 (12A-12D)
-DESCRIPTION:Std. 4: inf3\\nKlasse: 12A-12D\\nRaum: K10\\nInfo: für Inf Bar
- \, s. IServ: Aufgaben durch FL erteilt\; Anwesenheitspflicht\\n→ Geände
- rt!
-LOCATION:K10
-STATUS:TENTATIVE
-CATEGORIES:Schule,Vertretungsplan
-END:VEVENT
-BEGIN:VEVENT
-UID:stu-20260827-tagesinfo@ebg-vplan
-DTSTAMP:20260906T230442Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:Hinweis: Lehrbuchausgabe: Jahrgang 7 (+1)
-DESCRIPTION:Lehrbuchausgabe: Jahrgang 7\nAufisicht am Goetheplatz nach dem 
- 3. Block: S. Pelka
-CATEGORIES:Schule,Hinweis
-END:VEVENT
-BEGIN:VEVENT
-UID:stu-20260827-std3@ebg-vplan
-DTSTAMP:20260906T230442Z
-DTSTART:20260827T094000
-DTEND:20260827T102500
-SUMMARY:⚠️ De (8D)
-DESCRIPTION:Std. 3: De\\nKlasse: 8D\\nRaum: 102\\nInfo: für Span Köh\\n
- → Geändert!
-LOCATION:102
-STATUS:TENTATIVE
-CATEGORIES:Schule,Vertretungsplan
-END:VEVENT
-BEGIN:VEVENT
-UID:stu-20260827-std4@ebg-vplan
-DTSTAMP:20260906T230442Z
-DTSTART:20260827T102500
-DTEND:20260827T111000
-SUMMARY:⚠️ De (8D)
-DESCRIPTION:Std. 4: De\\nKlasse: 8D\\nRaum: 102\\nInfo: für Span Köh\\n
- → Geändert!
-LOCATION:102
-STATUS:TENTATIVE
-CATEGORIES:Schule,Vertretungsplan
-END:VEVENT
+X-WR-LASTUPDATED:20260907T095513Z
 BEGIN:VEVENT
 UID:stu-20260831-tagesinfo@ebg-vplan
-DTSTAMP:20260906T230442Z
+DTSTAMP:20260907T095513Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Hinweis: Aufsicht am Goetheplatz nach dem 3. Block: T. Seemann
@@ -140,7 +17,7 @@ CATEGORIES:Schule,Hinweis
 END:VEVENT
 BEGIN:VEVENT
 UID:stu-20260831-std5@ebg-vplan
-DTSTAMP:20260906T230442Z
+DTSTAMP:20260907T095513Z
 DTSTART:20260831T114000
 DTEND:20260831T122500
 SUMMARY:⚠️ Ma (8C)
@@ -152,7 +29,7 @@ CATEGORIES:Schule,Vertretungsplan
 END:VEVENT
 BEGIN:VEVENT
 UID:stu-20260831-std6@ebg-vplan
-DTSTAMP:20260906T230442Z
+DTSTAMP:20260907T095513Z
 DTSTART:20260831T122500
 DTEND:20260831T131000
 SUMMARY:⚠️ Ma (8C)
@@ -164,7 +41,7 @@ CATEGORIES:Schule,Vertretungsplan
 END:VEVENT
 BEGIN:VEVENT
 UID:stu-20260901-tagesinfo@ebg-vplan
-DTSTAMP:20260906T230442Z
+DTSTAMP:20260907T095513Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Hinweis: Aufsicht nach dem 3. Block auf dem Goetheplatz: Dr. G. Sch
@@ -176,7 +53,7 @@ CATEGORIES:Schule,Hinweis
 END:VEVENT
 BEGIN:VEVENT
 UID:stu-20260902-tagesinfo@ebg-vplan
-DTSTAMP:20260906T230442Z
+DTSTAMP:20260907T095513Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
 SUMMARY:Hinweis: Aufsicht nach dem 3. Block auf dem Goetheplatz: S. Hollatz
@@ -188,7 +65,7 @@ CATEGORIES:Schule,Hinweis
 END:VEVENT
 BEGIN:VEVENT
 UID:stu-20260903-tagesinfo@ebg-vplan
-DTSTAMP:20260906T230442Z
+DTSTAMP:20260907T095513Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Knoop (
@@ -199,7 +76,7 @@ CATEGORIES:Schule,Hinweis
 END:VEVENT
 BEGIN:VEVENT
 UID:stu-20260904-tagesinfo@ebg-vplan
-DTSTAMP:20260906T230442Z
+DTSTAMP:20260907T095513Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Hunger 
@@ -210,7 +87,7 @@ CATEGORIES:Schule,Hinweis
 END:VEVENT
 BEGIN:VEVENT
 UID:stu-20260907-tagesinfo@ebg-vplan
-DTSTAMP:20260906T230442Z
+DTSTAMP:20260907T095513Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Golla (
@@ -221,7 +98,7 @@ CATEGORIES:Schule,Hinweis
 END:VEVENT
 BEGIN:VEVENT
 UID:stu-20260907-std1@ebg-vplan
-DTSTAMP:20260906T230442Z
+DTSTAMP:20260907T095513Z
 DTSTART:20260907T074000
 DTEND:20260907T082500
 SUMMARY:⚠️ De (8E)
@@ -233,7 +110,7 @@ CATEGORIES:Schule,Vertretungsplan
 END:VEVENT
 BEGIN:VEVENT
 UID:stu-20260907-std2@ebg-vplan
-DTSTAMP:20260906T230442Z
+DTSTAMP:20260907T095513Z
 DTSTART:20260907T082500
 DTEND:20260907T091000
 SUMMARY:⚠️ De (8E)
@@ -245,7 +122,7 @@ CATEGORIES:Schule,Vertretungsplan
 END:VEVENT
 BEGIN:VEVENT
 UID:stu-20260908-tagesinfo@ebg-vplan
-DTSTAMP:20260906T230442Z
+DTSTAMP:20260907T095513Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Convent
@@ -256,7 +133,7 @@ CATEGORIES:Schule,Hinweis
 END:VEVENT
 BEGIN:VEVENT
 UID:stu-20260909-tagesinfo@ebg-vplan
-DTSTAMP:20260906T230442Z
+DTSTAMP:20260907T095513Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Ternes 
@@ -268,7 +145,7 @@ CATEGORIES:Schule,Hinweis
 END:VEVENT
 BEGIN:VEVENT
 UID:stu-20260910-tagesinfo@ebg-vplan
-DTSTAMP:20260906T230442Z
+DTSTAMP:20260907T095513Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Gordetz
@@ -279,7 +156,7 @@ CATEGORIES:Schule,Hinweis
 END:VEVENT
 BEGIN:VEVENT
 UID:stu-20260911-tagesinfo@ebg-vplan
-DTSTAMP:20260906T230442Z
+DTSTAMP:20260907T095513Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Karow (

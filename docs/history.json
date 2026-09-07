@@ -561,5 +561,42 @@
    "Std 6 (12:25): für Span Köh"
   ],
   "zeitstempel": "06.09.2026, 20:33"
+ },
+ {
+  "timestamp": "2026-09-07T09:54:54.489766",
+  "lehrer": "Ost",
+  "datum": "Montag, 07. September 2026",
+  "date_key": "20260907",
+  "changes": [
+   "Std 1 (07:40): De 9B Pel, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 2 (08:25): De 9B Pel, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 5 (11:40): Bio 10C Tuh, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 6 (12:25): Bio 10C Tuh, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 7 (13:40): De 8A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 8 (14:25): De 8A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "07.09.2026, 06:33"
+ },
+ {
+  "timestamp": "2026-09-07T09:54:54.489766",
+  "lehrer": "Pel",
+  "datum": "Montag, 07. September 2026",
+  "date_key": "20260907",
+  "changes": [
+   "Std 1 (07:40): für De Ost, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 2 (08:25): für De Ost, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht"
+  ],
+  "zeitstempel": "07.09.2026, 06:33"
+ },
+ {
+  "timestamp": "2026-09-07T09:54:54.489766",
+  "lehrer": "Tuh",
+  "datum": "Montag, 07. September 2026",
+  "date_key": "20260907",
+  "changes": [
+   "Std 5 (11:40): für Bio Ost, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 6 (12:25): für Bio Ost, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht"
+  ],
+  "zeitstempel": "07.09.2026, 06:33"
  }
 ]
