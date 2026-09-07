@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "07.09.2026, 15:20 Uhr",
- "last_changed": "2026-09-07T06:33:00",
+ "generiert": "07.09.2026, 19:13 Uhr",
+ "last_changed": "2026-09-07T18:14:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10437,7 +10437,7 @@
    "tage": {
     "20260907": {
      "datum": "Montag, 07. September 2026",
-     "zeitstempel": "07.09.2026, 06:33",
+     "zeitstempel": "07.09.2026, 18:14",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Golla",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -10965,7 +10965,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sk 8D verlegt nach Di (08.09.) St.4, Raumänderung",
+         "info": "De 8D verlegt nach Di (08.09.) St.4 (Eul)",
          "geaendert": true
         },
         {
@@ -10973,7 +10973,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sk 8D verlegt nach Di (08.09.) St.3, Raumänderung",
+         "info": "De 8D verlegt nach Di (08.09.) St.3 (Eul), in Rücksprache mit A. Tuhcic",
          "geaendert": true
         },
         {
@@ -12155,7 +12155,7 @@
          "stunde": "7",
          "fach": "Ku",
          "klasse": "9A",
-         "raum": "104",
+         "raum": "205",
          "info": "",
          "geaendert": false
         },
@@ -12163,7 +12163,7 @@
          "stunde": "8",
          "fach": "Ku",
          "klasse": "9A",
-         "raum": "104",
+         "raum": "205",
          "info": "",
          "geaendert": false
         }
@@ -12507,7 +12507,7 @@
     },
     "20260908": {
      "datum": "Dienstag, 08. September 2026",
-     "zeitstempel": "06.09.2026, 20:33",
+     "zeitstempel": "07.09.2026, 18:14",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Convent",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth"
@@ -12889,6 +12889,22 @@
          "raum": "005",
          "info": "für KILZ Köh",
          "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "8D",
+         "raum": "205",
+         "info": "statt Mo (07.09.) St.2 (Sk Gor), in Rücksprache mit A. Tuhcic",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "8D",
+         "raum": "205",
+         "info": "statt Mo (07.09.) St.1 (Sk Gor)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13056,67 +13072,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "GE2",
-         "klasse": "11A-11E",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "2",
-         "fach": "GE2",
-         "klasse": "11A-11E",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "3",
-         "fach": "Sk",
-         "klasse": "8D",
-         "raum": "205",
-         "info": "Sk 8D statt Mo (07.09.) St.2, Raumänderung",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GE2 11A-11E fällt aus",
          "geaendert": true
         },
         {
-         "stunde": "4",
-         "fach": "Sk",
-         "klasse": "8D",
-         "raum": "205",
-         "info": "Sk 8D statt Mo (07.09.) St.1, Raumänderung",
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GE2 11A-11E fällt aus",
          "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "sk2",
-         "klasse": "12A-12D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "sk2 12A-12D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "sk2",
-         "klasse": "12A-12D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "sk2 12A-12D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "w2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "w2 11D,11A-11C,11E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "w2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "w2 11D,11A-11C,11E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -13124,7 +13124,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Hof, WCs, Grünes Klassenzimmer",
-         "info": ""
+         "info": "entfällt, V: Pri"
         }
        ]
       },
@@ -13486,6 +13486,22 @@
          "raum": "006",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Ge",
+         "klasse": "10B",
+         "raum": "102",
+         "info": "für Ge Schud, Weiterarbeit an bereits erteilten Aufgaben",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ge",
+         "klasse": "10B",
+         "raum": "102",
+         "info": "für Ge Schud, Weiterarbeit an bereits erteilten Aufgaben",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14040,7 +14056,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof, WCs, Grünes Klassenzimmer",
+         "info": "für Gor"
+        }
+       ]
       },
       "Puk": {
        "entries": [
@@ -14201,51 +14224,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ku",
-         "klasse": "10C",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 10C fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ku",
-         "klasse": "10C",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 10C fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Ge",
-         "klasse": "10B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10B Isb, Weiterarbeit an bereits erteilten Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ge",
-         "klasse": "10B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10B Isb, Weiterarbeit an bereits erteilten Aufgaben",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "ILZ",
-         "klasse": "10B",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10B Stu",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "ILZ",
-         "klasse": "10B",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10B Stu",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14352,7 +14375,24 @@
        "aufsichten": []
       },
       "Stu": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "10B",
+         "raum": "207",
+         "info": "für ILZ Schud",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "10B",
+         "raum": "207",
+         "info": "für ILZ Schud",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Ten": {
@@ -14528,7 +14568,7 @@
     },
     "20260909": {
      "datum": "Mittwoch, 09. September 2026",
-     "zeitstempel": "06.09.2026, 20:33",
+     "zeitstempel": "07.09.2026, 18:14",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Ternes",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth",
@@ -16561,7 +16601,7 @@
     },
     "20260910": {
      "datum": "Donnerstag, 10. September 2026",
-     "zeitstempel": "06.09.2026, 20:33",
+     "zeitstempel": "07.09.2026, 18:14",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Gordetzki",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -18152,7 +18192,7 @@
          "stunde": "3",
          "fach": "DE2",
          "klasse": "11A-11E",
-         "raum": "004",
+         "raum": "Co1",
          "info": "",
          "geaendert": false
         },
@@ -18160,7 +18200,7 @@
          "stunde": "4",
          "fach": "DE2",
          "klasse": "11A-11E",
-         "raum": "004",
+         "raum": "Co1",
          "info": "",
          "geaendert": false
         },
@@ -18423,7 +18463,7 @@
          "stunde": "3",
          "fach": "de2",
          "klasse": "12A-12D",
-         "raum": "Co1",
+         "raum": "004",
          "info": "",
          "geaendert": false
         },
@@ -18431,7 +18471,7 @@
          "stunde": "4",
          "fach": "de2",
          "klasse": "12A-12D",
-         "raum": "Co1",
+         "raum": "004",
          "info": "",
          "geaendert": false
         },
@@ -18499,7 +18539,7 @@
     },
     "20260911": {
      "datum": "Freitag, 11. September 2026",
-     "zeitstempel": "06.09.2026, 20:33",
+     "zeitstempel": "07.09.2026, 18:14",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Karow",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
@@ -19949,7 +19989,7 @@
          "stunde": "3",
          "fach": "Span",
          "klasse": "9D",
-         "raum": "004",
+         "raum": "102",
          "info": "",
          "geaendert": false
         },
@@ -19957,7 +19997,7 @@
          "stunde": "4",
          "fach": "Span",
          "klasse": "9D",
-         "raum": "004",
+         "raum": "102",
          "info": "",
          "geaendert": false
         },
@@ -20231,7 +20271,7 @@
          "stunde": "3",
          "fach": "De",
          "klasse": "8D",
-         "raum": "102",
+         "raum": "004",
          "info": "",
          "geaendert": false
         },
@@ -20239,7 +20279,7 @@
          "stunde": "4",
          "fach": "De",
          "klasse": "8D",
-         "raum": "102",
+         "raum": "004",
          "info": "",
          "geaendert": false
         },
