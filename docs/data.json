@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "08.09.2026, 13:40 Uhr",
- "last_changed": "2026-09-08T13:01:00",
+ "generiert": "08.09.2026, 17:29 Uhr",
+ "last_changed": "2026-09-08T16:42:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14568,7 +14568,7 @@
     },
     "20260909": {
      "datum": "Mittwoch, 09. September 2026",
-     "zeitstempel": "08.09.2026, 13:01",
+     "zeitstempel": "08.09.2026, 16:42",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Ternes",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth",
@@ -14809,17 +14809,17 @@
          "stunde": "5",
          "fach": "Bio",
          "klasse": "7C",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Bio Bom, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Bio",
          "klasse": "7C",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Bio Bom, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15963,17 +15963,25 @@
          "stunde": "5",
          "fach": "Bio",
          "klasse": "7A",
+         "raum": "102",
+         "info": "für Bio Ost, Raumänderung",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Bio",
+         "klasse": "7A",
          "raum": "204",
-         "info": "",
+         "info": "für Bio Ost, Raumänderung",
          "geaendert": false
         },
         {
          "stunde": "6",
          "fach": "Bio",
          "klasse": "7A",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "102",
+         "info": "für Bio Ost, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "7",

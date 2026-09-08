@@ -518,5 +518,28 @@
    "Std 8 (14:25): sk2 11D,11A-11C,11E fällt aus"
   ],
   "zeitstempel": "08.09.2026, 13:01"
+ },
+ {
+  "timestamp": "2026-09-08T17:28:56.519716",
+  "lehrer": "Bom",
+  "datum": "Mittwoch, 09. September 2026",
+  "date_key": "20260909",
+  "changes": [
+   "Std 5 (11:40): für Bio Bom, Raumänderung",
+   "Std 6 (12:25): für Bio Bom, Raumänderung"
+  ],
+  "zeitstempel": "08.09.2026, 16:42"
+ },
+ {
+  "timestamp": "2026-09-08T17:28:56.519716",
+  "lehrer": "Ost",
+  "datum": "Mittwoch, 09. September 2026",
+  "date_key": "20260909",
+  "changes": [
+   "Std 5 (11:40): für Bio Ost, Raumänderung",
+   "Std 5 (11:40): für Bio Ost, Raumänderung",
+   "Std 6 (12:25): für Bio Ost, Raumänderung"
+  ],
+  "zeitstempel": "08.09.2026, 16:42"
  }
 ]
