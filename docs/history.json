@@ -505,5 +505,18 @@
    "Planänderung (Details nicht spezifiziert)"
   ],
   "zeitstempel": "07.09.2026, 18:14"
+ },
+ {
+  "timestamp": "2026-09-08T13:40:52.870716",
+  "lehrer": "Gor",
+  "datum": "Mittwoch, 09. September 2026",
+  "date_key": "20260909",
+  "changes": [
+   "Std 5 (11:40): GE2 12A-12D fällt aus",
+   "Std 6 (12:25): GE2 12A-12D fällt aus",
+   "Std 7 (13:40): sk2 11D,11A-11C,11E fällt aus",
+   "Std 8 (14:25): sk2 11D,11A-11C,11E fällt aus"
+  ],
+  "zeitstempel": "08.09.2026, 13:01"
  }
 ]

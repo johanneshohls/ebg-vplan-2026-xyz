@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "08.09.2026, 09:19 Uhr",
- "last_changed": "2026-09-07T18:14:00",
+ "generiert": "08.09.2026, 13:40 Uhr",
+ "last_changed": "2026-09-08T13:01:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14568,7 +14568,7 @@
     },
     "20260909": {
      "datum": "Mittwoch, 09. September 2026",
-     "zeitstempel": "07.09.2026, 18:14",
+     "zeitstempel": "08.09.2026, 13:01",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Ternes",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth",
@@ -14962,7 +14962,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Essenraum und Keller",
-         "info": ""
+         "info": "entfällt, V: Rat"
         }
        ]
       },
@@ -15076,35 +15076,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "GE2",
-         "klasse": "12A-12D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GE2 12A-12D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "GE2",
-         "klasse": "12A-12D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GE2 12A-12D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "sk2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "sk2 11D,11A-11C,11E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "sk2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "sk2 11D,11A-11C,11E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16114,7 +16114,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Essenraum und Keller",
+         "info": "für Fech"
+        }
+       ]
       },
       "Schil": {
        "entries": [
