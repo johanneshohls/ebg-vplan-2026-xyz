@@ -389,5 +389,33 @@
    "Std 6 (12:25): für Bio Ost, Raumänderung"
   ],
   "zeitstempel": "08.09.2026, 16:42"
+ },
+ {
+  "timestamp": "2026-09-09T19:49:16.752011",
+  "lehrer": "Bri",
+  "datum": "Donnerstag, 10. September 2026",
+  "date_key": "20260910",
+  "changes": [
+   "Std 1 (07:40): Ma 11D,11A-11C,11E Karow",
+   "Std 2 (08:25): Ma 11D,11A-11C,11E Karow",
+   "Std 3 (09:40): Ma 11D,11A-11C,11E Karow",
+   "Std 4 (10:25): Ma 11D,11A-11C,11E Karow",
+   "Std 5 (11:40): Ma 8C Käc",
+   "Std 6 (12:25): Ma 8C Käc",
+   "Std 7 (13:40): Ma 12A-12D selbst. (v)",
+   "Std 8 (14:25): Ma 12A-12D selbst. (v)"
+  ],
+  "zeitstempel": "09.09.2026, 21:02"
+ },
+ {
+  "timestamp": "2026-09-09T19:49:16.752011",
+  "lehrer": "Käc",
+  "datum": "Donnerstag, 10. September 2026",
+  "date_key": "20260910",
+  "changes": [
+   "Std 5 (11:40): für Ma Käc",
+   "Std 6 (12:25): für Ma Käc"
+  ],
+  "zeitstempel": "09.09.2026, 21:02"
  }
 ]

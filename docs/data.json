@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "09.09.2026, 17:18 Uhr",
- "last_changed": "2026-09-08T16:42:00",
+ "generiert": "09.09.2026, 19:49 Uhr",
+ "last_changed": "2026-09-09T21:02:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16616,7 +16616,7 @@
     },
     "20260910": {
      "datum": "Donnerstag, 10. September 2026",
-     "zeitstempel": "07.09.2026, 18:14",
+     "zeitstempel": "09.09.2026, 21:02",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Gordetzki",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -16881,67 +16881,67 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "MA1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 11D,11A-11C,11E Karow",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "MA1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 11D,11A-11C,11E Karow",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "MA2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 11D,11A-11C,11E Karow",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "MA2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 11D,11A-11C,11E Karow",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Ma",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8C Käc",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ma",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8C Käc",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "ma1",
-         "klasse": "12A-12D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 12A-12D selbst. (v)",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ma1",
-         "klasse": "12A-12D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 12A-12D selbst. (v)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -17631,7 +17631,7 @@
          "fach": "Ma",
          "klasse": "8C",
          "raum": "101",
-         "info": "",
+         "info": "für Ma Käc",
          "geaendert": false
         },
         {
@@ -17639,7 +17639,7 @@
          "fach": "Ma",
          "klasse": "8C",
          "raum": "101",
-         "info": "",
+         "info": "für Ma Käc",
          "geaendert": false
         }
        ],
@@ -17647,6 +17647,43 @@
       },
       "Kar": {
        "entries": [],
+       "aufsichten": []
+      },
+      "Karow": {
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "MA1",
+         "klasse": "11A-11E",
+         "raum": "Co2",
+         "info": "für Ma Bri",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "MA1",
+         "klasse": "11A-11E",
+         "raum": "Co2",
+         "info": "für Ma Bri",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "MA2",
+         "klasse": "11A-11E",
+         "raum": "Co2",
+         "info": "für Ma Bri",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "MA2",
+         "klasse": "11A-11E",
+         "raum": "Co2",
+         "info": "für Ma Bri",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Kno": {
@@ -18384,6 +18421,10 @@
          "geaendert": false
         }
        ],
+       "aufsichten": []
+      },
+      "Stä": {
+       "entries": [],
        "aufsichten": []
       },
       "Sto": {
