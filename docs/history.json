@@ -1,42 +1,5 @@
 [
  {
-  "timestamp": "2026-09-03T17:10:40.297671",
-  "lehrer": "*",
-  "datum": "Freitag, 04. September 2026",
-  "date_key": "20260904",
-  "changes": [
-   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Hunger",
-   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
-  ],
-  "zeitstempel": "03.09.2026, 17:20"
- },
- {
-  "timestamp": "2026-09-03T17:10:40.297671",
-  "lehrer": "Hofm",
-  "datum": "Freitag, 04. September 2026",
-  "date_key": "20260904",
-  "changes": [
-   "Std 1 (07:40): En 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
-   "Std 2 (08:25): En 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
-   "Std 3 (09:40): Ma 8B Sta (für En)",
-   "Std 4 (10:25): Ma 8B Sta (für En)",
-   "Std 9 (15:40): KL 8B fällt aus",
-   "Std 10 (16:25): KL 8B fällt aus"
-  ],
-  "zeitstempel": "03.09.2026, 17:20"
- },
- {
-  "timestamp": "2026-09-03T17:10:40.297671",
-  "lehrer": "Sta",
-  "datum": "Freitag, 04. September 2026",
-  "date_key": "20260904",
-  "changes": [
-   "Std 3 (09:40): für En Hofm",
-   "Std 4 (10:25): für En Hofm"
-  ],
-  "zeitstempel": "03.09.2026, 17:20"
- },
- {
   "timestamp": "2026-09-06T09:07:29.024396",
   "lehrer": "Fech",
   "datum": "Montag, 07. September 2026",
