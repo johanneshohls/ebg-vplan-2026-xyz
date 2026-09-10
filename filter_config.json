@@ -1,0 +1,9 @@
+{
+  "_comment": "Optionale Filter pro Lehrerkürzel. Wird ignoriert wenn leer oder nicht vorhanden.",
+  "_example": {
+    "HOH": {
+      "faecher": ["Ph", "Ma"],
+      "klassen": ["7a", "8b", "9c"]
+    }
+  }
+}
