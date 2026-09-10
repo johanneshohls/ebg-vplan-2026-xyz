@@ -42,11 +42,17 @@ und im Verlauf (Eintrag mit `lehrer: "*"`). Das echte XML hat die Wurzel
 **Auslösung des Workflows:** Der GitHub-Zeitplan (`cron` alle 5 min) feuert in
 der Praxis nur alle 2 bis 3 Stunden. Deshalb stößt der IONOS-VPS
 (`root@87.106.155.168`) den Workflow per `/opt/vplan-trigger.sh` an, Cron
-`*/5 5-20 * * 0-5` (Sonntag bis Freitag, sonntags wegen des Montagsplans). Das Skript liest den Token aus `/root/.vplan-github-token`
-(fine-grained PAT, Repo ebg-vplan-2026-xyz, Actions: Read and write). Seit 03.09.2026 12:46 liegt der Token und der Cron feuert (erster automatischer
-Run 12:50). Fehlt die Datei oder ist der Token ungültig, steht es in `/var/log/vplan-trigger.log`
-mit HTTP-Code. Der alte PAT in der Crontab war seit 23.03.2026 ungültig (2167
-Fehlversuche), der Trigger hat nie funktioniert.
+`*/5 5-20 * * 0-5` (Sonntag bis Freitag, sonntags wegen des Montagsplans). Das Skript liest den Token aus `/root/.vplan-github-token`.
+Fehlt die Datei oder ist der Token ungültig, steht es in `/var/log/vplan-trigger.log`
+mit HTTP-Code.
+
+**Token-Historie:** Der alte PAT in der Crontab war seit 23.03.2026 ungültig (2167
+Fehlversuche). Am 03.09.2026 wurde die Token-Datei angelegt, aber leer (nur ein
+Newline) — der Cron loggte von 03.09. 07:45 bis 10.09. 09:20 durchgehend
+"kein Token", der Trigger feuerte nie. Am 10.09.2026 09:21 wurde ein Token mit
+`workflow`-Scope eingetragen, erster erfolgreicher Dispatch vom VPS: Run
+34449581949. Prüfen lässt sich das an `gh run list` — echte VPS-Läufe haben das
+Event `workflow_dispatch`, nicht `schedule`.
 
 ## Offene Fragen / Blocker
 
