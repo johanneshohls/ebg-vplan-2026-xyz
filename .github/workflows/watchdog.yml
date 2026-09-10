@@ -1,0 +1,35 @@
+name: VPS-Trigger überwachen
+
+# Schaut von außen nach, ob der VPS den Plan-Check noch alle 5 Minuten
+# anstößt. Läuft bewusst über den GitHub-Zeitplan: Der ist zwar ungenau,
+# dafür aber unabhängig vom VPS - genau das braucht ein Watchdog.
+on:
+  schedule:
+    - cron: '17 6,10,14,18 * * *'
+  workflow_dispatch:
+
+permissions:
+  actions: read
+
+jobs:
+  watchdog:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Abhängigkeiten installieren
+        run: pip install requests
+
+      - name: VPS-Trigger prüfen
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python watchdog.py

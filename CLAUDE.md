@@ -47,12 +47,21 @@ Fehlt die Datei oder ist der Token ungültig, steht es in `/var/log/vplan-trigge
 mit HTTP-Code.
 
 **Token-Historie:** Der alte PAT in der Crontab war seit 23.03.2026 ungültig (2167
-Fehlversuche). Am 03.09.2026 wurde die Token-Datei angelegt, aber leer (nur ein
-Newline) — der Cron loggte von 03.09. 07:45 bis 10.09. 09:20 durchgehend
-"kein Token", der Trigger feuerte nie. Am 10.09.2026 09:21 wurde ein Token mit
-`workflow`-Scope eingetragen, erster erfolgreicher Dispatch vom VPS: Run
-34449581949. Prüfen lässt sich das an `gh run list` — echte VPS-Läufe haben das
-Event `workflow_dispatch`, nicht `schedule`.
+Fehlversuche). Am 03.09.2026 12:46 kam ein gültiger Token hinein, der Trigger lief
+sauber - alle 5 Minuten ein `workflow_dispatch`, lückenlos bis 15:35 CEST. Um 15:35
+wurde die Datei dann mit einem leeren Wert überschrieben (1 Byte, nur ein Newline),
+vermutlich ein `echo "$TOKEN" > ...` mit nicht gesetzter Variable aus einer
+SSH-Session heraus. Danach loggte der Cron bis zum 10.09. 09:20 durchgehend
+"kein Token" - eine Woche stiller Ausfall, weil niemand ins Log sah. Seit
+10.09.2026 09:21 liegt wieder ein Token (Johannes' gh-CLI-Token, Scopes `repo` und
+`workflow`, gilt für alle Repos - bei Bedarf gegen einen fine-grained PAT tauschen).
+
+**Ausfall erkennen:** `gh run list` zeigt in der Event-Spalte, woher ein Run kam -
+`workflow_dispatch` heißt VPS, `schedule` heißt GitHub-Zeitplan. Stehen dort nur
+`schedule`-Zeilen, feuert der VPS nicht. Seit 10.09.2026 macht das der Workflow
+`watchdog.yml` automatisch: Er läuft viermal täglich über den GitHub-Zeitplan,
+also unabhängig vom VPS, und meldet per ntfy aufs globale Topic, wenn der letzte
+`workflow_dispatch` mehr als drei Stunden her ist.
 
 ## Offene Fragen / Blocker
 
