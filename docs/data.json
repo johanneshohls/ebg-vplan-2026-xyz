@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "11.09.2026, 07:25 Uhr",
- "last_changed": "2026-09-11T06:24:00",
+ "generiert": "11.09.2026, 07:30 Uhr",
+ "last_changed": "2026-09-11T09:30:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -18597,7 +18597,7 @@
     },
     "20260911": {
      "datum": "Freitag, 11. September 2026",
-     "zeitstempel": "11.09.2026, 06:24",
+     "zeitstempel": "11.09.2026, 09:30",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Karow",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
@@ -18812,7 +18812,7 @@
          "stunde": "1",
          "fach": "Ma",
          "klasse": "9B",
-         "raum": "105",
+         "raum": "Co1",
          "info": "",
          "geaendert": false
         },
@@ -18820,7 +18820,7 @@
          "stunde": "2",
          "fach": "Ma",
          "klasse": "9B",
-         "raum": "105",
+         "raum": "Co1",
          "info": "",
          "geaendert": false
         }
@@ -18927,19 +18927,19 @@
         },
         {
          "stunde": "5",
-         "fach": "De",
-         "klasse": "8E",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8E Hön",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "De",
-         "klasse": "8E",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8E Hön",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -19314,6 +19314,22 @@
          "raum": "003",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "8E",
+         "raum": "004",
+         "info": "für De Fech",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "8E",
+         "raum": "004",
+         "info": "für De Fech",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -20092,7 +20108,7 @@
          "stunde": "1",
          "fach": "geo1",
          "klasse": "11D,11A-11C,11E",
-         "raum": "Co1",
+         "raum": "105",
          "info": "",
          "geaendert": false
         },
@@ -20100,7 +20116,7 @@
          "stunde": "2",
          "fach": "geo1",
          "klasse": "11D,11A-11C,11E",
-         "raum": "Co1",
+         "raum": "105",
          "info": "",
          "geaendert": false
         },
