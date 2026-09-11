@@ -380,5 +380,250 @@
    "Std 6 (12:25): für Ma Käc"
   ],
   "zeitstempel": "09.09.2026, 21:02"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "*",
+  "datum": "Montag, 14. September 2026",
+  "date_key": "20260914",
+  "changes": [
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Besenhard",
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "Eul",
+  "datum": "Montag, 14. September 2026",
+  "date_key": "20260914",
+  "changes": [
+   "Std 1 (07:40): für eRe Eul",
+   "Std 2 (08:25): für eRe Eul",
+   "Std 3 (09:40): für eRe Rat",
+   "Std 4 (10:25): für eRe Rat"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "Fla",
+  "datum": "Montag, 14. September 2026",
+  "date_key": "20260914",
+  "changes": [
+   "Std 5 (11:40): Bio 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 6 (12:25): Bio 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 7 (13:40): KILZ 8C fällt aus",
+   "Std 8 (14:25): KILZ 8C fällt aus"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "Leu",
+  "datum": "Montag, 14. September 2026",
+  "date_key": "20260914",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "Rat",
+  "datum": "Montag, 14. September 2026",
+  "date_key": "20260914",
+  "changes": [
+   "Std 1 (07:40): eRe 10B Eul",
+   "Std 2 (08:25): eRe 10B Eul",
+   "Std 3 (09:40): eRe 12A-12D Eul",
+   "Std 4 (10:25): eRe 12A-12D Eul"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "*",
+  "datum": "Dienstag, 15. September 2026",
+  "date_key": "20260915",
+  "changes": [
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: G. Birzina",
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "Bar",
+  "datum": "Dienstag, 15. September 2026",
+  "date_key": "20260915",
+  "changes": [
+   "Std 5 (11:40): für IMB Con",
+   "Std 6 (12:25): für IMB Con"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "Bes",
+  "datum": "Dienstag, 15. September 2026",
+  "date_key": "20260915",
+  "changes": [
+   "Std 3 (09:40): Ph 10C statt Do (17.09.) St.5",
+   "Std 4 (10:25): Ph 10C statt Do (17.09.) St.6"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "Bob",
+  "datum": "Dienstag, 15. September 2026",
+  "date_key": "20260915",
+  "changes": [
+   "Std 3 (09:40): für As Bob, Raumänderung",
+   "Std 4 (10:25): für As Bob, Raumänderung"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "Con",
+  "datum": "Dienstag, 15. September 2026",
+  "date_key": "20260915",
+  "changes": [
+   "Std 5 (11:40): IMB 10C Bar",
+   "Std 6 (12:25): IMB 10C Bar",
+   "Std 7 (13:40): Ma 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 8 (14:25): Ma 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "Fel",
+  "datum": "Dienstag, 15. September 2026",
+  "date_key": "20260915",
+  "changes": [
+   "Std 3 (09:40): ILZ 10C verlegt nach Do (17.09.) St.5",
+   "Std 4 (10:25): ILZ 10C verlegt nach Do (17.09.) St.6",
+   "Std 7 (13:40): Club6 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club6 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "*",
+  "datum": "Mittwoch, 16. September 2026",
+  "date_key": "20260916",
+  "changes": [
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Hofmann",
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "Bar",
+  "datum": "Mittwoch, 16. September 2026",
+  "date_key": "20260916",
+  "changes": [
+   "Std 1 (07:40): U-Besuch bei M. Bode"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "Bod",
+  "datum": "Mittwoch, 16. September 2026",
+  "date_key": "20260916",
+  "changes": [
+   "Std 1 (07:40): für SpJu Bod, U-Besuch"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "Her",
+  "datum": "Mittwoch, 16. September 2026",
+  "date_key": "20260916",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "Lan",
+  "datum": "Mittwoch, 16. September 2026",
+  "date_key": "20260916",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "Tuh",
+  "datum": "Mittwoch, 16. September 2026",
+  "date_key": "20260916",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "*",
+  "datum": "Donnerstag, 17. September 2026",
+  "date_key": "20260917",
+  "changes": [
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Bobert",
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "Bes",
+  "datum": "Donnerstag, 17. September 2026",
+  "date_key": "20260917",
+  "changes": [
+   "Std 5 (11:40): Ph 10C gehalten am Di (15.09.) St.3",
+   "Std 6 (12:25): Ph 10C gehalten am Di (15.09.) St.4"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "Fel",
+  "datum": "Donnerstag, 17. September 2026",
+  "date_key": "20260917",
+  "changes": [
+   "Std 5 (11:40): ILZ 10C statt Di (15.09.) St.3",
+   "Std 6 (12:25): ILZ 10C statt Di (15.09.) St.4"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "Pri",
+  "datum": "Donnerstag, 17. September 2026",
+  "date_key": "20260917",
+  "changes": [
+   "Std 3 (09:40): En 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): En 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
+ },
+ {
+  "timestamp": "2026-09-11T04:25:11.137238",
+  "lehrer": "Tuh",
+  "datum": "Donnerstag, 17. September 2026",
+  "date_key": "20260917",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "11.09.2026, 06:24"
  }
 ]

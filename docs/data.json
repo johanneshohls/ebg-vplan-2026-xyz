@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "11.09.2026, 04:20 Uhr",
- "last_changed": "2026-09-09T21:02:00",
+ "generiert": "11.09.2026, 04:25 Uhr",
+ "last_changed": "2026-09-11T06:24:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -18595,7 +18595,7 @@
     },
     "20260911": {
      "datum": "Freitag, 11. September 2026",
-     "zeitstempel": "07.09.2026, 18:14",
+     "zeitstempel": "11.09.2026, 06:24",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Karow",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
@@ -19528,6 +19528,10 @@
        ],
        "aufsichten": []
       },
+      "Karow": {
+       "entries": [],
+       "aufsichten": []
+      },
       "Kno": {
        "entries": [
         {
@@ -20245,6 +20249,10 @@
        ],
        "aufsichten": []
       },
+      "Stä": {
+       "entries": [],
+       "aufsichten": []
+      },
       "Sto": {
        "entries": [],
        "aufsichten": []
@@ -20410,8 +20418,11 @@
    "tage": {
     "20260914": {
      "datum": "Montag, 14. September 2026",
-     "zeitstempel": "04.09.2026, 09:58",
-     "tagesinfo": [],
+     "zeitstempel": "11.09.2026, 06:24",
+     "tagesinfo": [
+      "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Besenhard",
+      "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
+     ],
      "lehrer": {
       "Bar": {
        "entries": [
@@ -20713,7 +20724,7 @@
          "fach": "eRe",
          "klasse": "10B",
          "raum": "104",
-         "info": "",
+         "info": "für eRe Eul",
          "geaendert": false
         },
         {
@@ -20721,8 +20732,24 @@
          "fach": "eRe",
          "klasse": "10B",
          "raum": "104",
-         "info": "",
+         "info": "für eRe Eul",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "ere1",
+         "klasse": "12A-12D",
+         "raum": "104",
+         "info": "für eRe Rat",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "ere1",
+         "klasse": "12A-12D",
+         "raum": "104",
+         "info": "für eRe Rat",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20826,35 +20853,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "BIO1",
-         "klasse": "11A-11E",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "BIO1",
-         "klasse": "11A-11E",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "KILZ",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 8C fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "KILZ",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 8C fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -21351,6 +21378,10 @@
        ],
        "aufsichten": []
       },
+      "Karow": {
+       "entries": [],
+       "aufsichten": []
+      },
       "Kno": {
        "entries": [
         {
@@ -21546,7 +21577,7 @@
          "stunde": "3",
          "fach": "Ma",
          "klasse": "9C",
-         "raum": "K09",
+         "raum": "204",
          "info": "",
          "geaendert": false
         },
@@ -21554,7 +21585,7 @@
          "stunde": "4",
          "fach": "Ma",
          "klasse": "9C",
-         "raum": "K09",
+         "raum": "204",
          "info": "",
          "geaendert": false
         },
@@ -21891,35 +21922,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "eRe",
-         "klasse": "10B",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 10B Eul",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "eRe",
-         "klasse": "10B",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 10B Eul",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "ere1",
-         "klasse": "12A-12D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 12A-12D Eul",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "ere1",
-         "klasse": "12A-12D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 12A-12D Eul",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -22178,6 +22209,10 @@
          "geaendert": false
         }
        ],
+       "aufsichten": []
+      },
+      "Stä": {
+       "entries": [],
        "aufsichten": []
       },
       "Sto": {
@@ -22426,8 +22461,11 @@
     },
     "20260915": {
      "datum": "Dienstag, 15. September 2026",
-     "zeitstempel": "04.09.2026, 09:58",
-     "tagesinfo": [],
+     "zeitstempel": "11.09.2026, 06:24",
+     "tagesinfo": [
+      "Aufsicht auf dem Goetheplatz nach dem 3. Block: G. Birzina",
+      "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
+     ],
      "lehrer": {
       "Bar": {
        "entries": [
@@ -22446,6 +22484,22 @@
          "raum": "K10",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "IMB",
+         "klasse": "10C",
+         "raum": "K09",
+         "info": "für IMB Con",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "IMB",
+         "klasse": "10C",
+         "raum": "K09",
+         "info": "für IMB Con",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -22467,6 +22521,22 @@
          "raum": "205",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Ph",
+         "klasse": "10C",
+         "raum": "K09",
+         "info": "Ph 10C statt Do (17.09.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ph",
+         "klasse": "10C",
+         "raum": "K09",
+         "info": "Ph 10C statt Do (17.09.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -22589,17 +22659,17 @@
          "stunde": "3",
          "fach": "As",
          "klasse": "9B",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "raum": "K12",
+         "info": "für As Bob, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "As",
          "klasse": "9B",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "raum": "K12",
+         "info": "für As Bob, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -22783,35 +22853,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "IMB",
-         "klasse": "10C",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "IMB 10C Bar",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "IMB",
-         "klasse": "10C",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "IMB 10C Bar",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "ma2",
-         "klasse": "12A-12D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ma2",
-         "klasse": "12A-12D",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -22849,35 +22919,35 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "ILZ",
-         "klasse": "10C",
-         "raum": "K04",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10C verlegt nach Do (17.09.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "ILZ",
-         "klasse": "10C",
-         "raum": "K04",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10C verlegt nach Do (17.09.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Club6",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "TuSp",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club6 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club6",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "TuSp",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club6 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23468,6 +23538,10 @@
          "info": ""
         }
        ]
+      },
+      "Karow": {
+       "entries": [],
+       "aufsichten": []
       },
       "Kno": {
        "entries": [
@@ -24245,6 +24319,10 @@
          "info": ""
         }
        ]
+      },
+      "Stä": {
+       "entries": [],
+       "aufsichten": []
       },
       "Sto": {
        "entries": [],
@@ -24427,11 +24505,22 @@
     },
     "20260916": {
      "datum": "Mittwoch, 16. September 2026",
-     "zeitstempel": "04.09.2026, 09:58",
-     "tagesinfo": [],
+     "zeitstempel": "11.09.2026, 06:24",
+     "tagesinfo": [
+      "Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Hofmann",
+      "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
+     ],
      "lehrer": {
       "Bar": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Sp",
+         "klasse": "",
+         "raum": "",
+         "info": "U-Besuch bei M. Bode",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "inf3",
@@ -24612,7 +24701,7 @@
          "fach": "SpJu",
          "klasse": "10A,10D",
          "raum": "Tu1",
-         "info": "",
+         "info": "für SpJu Bod, U-Besuch",
          "geaendert": false
         },
         {
@@ -25037,7 +25126,7 @@
          "stunde": "7",
          "fach": "bo4",
          "klasse": "11D,11A-11C,11E",
-         "raum": "K07",
+         "raum": "008",
          "info": "",
          "geaendert": false
         },
@@ -25045,7 +25134,7 @@
          "stunde": "8",
          "fach": "bo4",
          "klasse": "11D,11A-11C,11E",
-         "raum": "K07",
+         "raum": "008",
          "info": "",
          "geaendert": false
         }
@@ -25356,6 +25445,10 @@
        "entries": [],
        "aufsichten": []
       },
+      "Karow": {
+       "entries": [],
+       "aufsichten": []
+      },
       "Kno": {
        "entries": [
         {
@@ -25468,7 +25561,7 @@
          "stunde": "5",
          "fach": "Sk",
          "klasse": "9B",
-         "raum": "004",
+         "raum": "002",
          "info": "",
          "geaendert": false
         },
@@ -25476,7 +25569,7 @@
          "stunde": "6",
          "fach": "Sk",
          "klasse": "9B",
-         "raum": "004",
+         "raum": "002",
          "info": "",
          "geaendert": false
         }
@@ -26115,6 +26208,27 @@
         }
        ]
       },
+      "Stä": {
+       "entries": [
+        {
+         "stunde": "7",
+         "fach": "GS14",
+         "klasse": "7A-7D,8A-8E",
+         "raum": "K07",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "8",
+         "fach": "GS14",
+         "klasse": "7A-7D,8A-8E",
+         "raum": "K07",
+         "info": "",
+         "geaendert": false
+        }
+       ],
+       "aufsichten": []
+      },
       "Sto": {
        "entries": [],
        "aufsichten": []
@@ -26223,7 +26337,7 @@
          "stunde": "5",
          "fach": "De",
          "klasse": "10C",
-         "raum": "002",
+         "raum": "004",
          "info": "",
          "geaendert": false
         },
@@ -26231,7 +26345,7 @@
          "stunde": "6",
          "fach": "De",
          "klasse": "10C",
-         "raum": "002",
+         "raum": "004",
          "info": "",
          "geaendert": false
         }
@@ -26313,8 +26427,11 @@
     },
     "20260917": {
      "datum": "Donnerstag, 17. September 2026",
-     "zeitstempel": "04.09.2026, 09:58",
-     "tagesinfo": [],
+     "zeitstempel": "11.09.2026, 06:24",
+     "tagesinfo": [
+      "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Bobert",
+      "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth"
+     ],
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -26356,19 +26473,19 @@
         },
         {
          "stunde": "5",
-         "fach": "Ph",
-         "klasse": "10C",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 10C gehalten am Di (15.09.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ph",
-         "klasse": "10C",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 10C gehalten am Di (15.09.) St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -26376,7 +26493,13 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Hofm"
+        },
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Hofm"
         }
        ]
       },
@@ -26713,6 +26836,22 @@
          "raum": "002",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "10C",
+         "raum": "007",
+         "info": "ILZ 10C statt Di (15.09.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "10C",
+         "raum": "007",
+         "info": "ILZ 10C statt Di (15.09.) St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -27035,7 +27174,13 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Bes"
+        },
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Bes"
         }
        ]
       },
@@ -27290,6 +27435,10 @@
        "aufsichten": []
       },
       "Kar": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "Karow": {
        "entries": [],
        "aufsichten": []
       },
@@ -27699,19 +27848,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "EN2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "EN2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -28028,6 +28177,10 @@
          "geaendert": false
         }
        ],
+       "aufsichten": []
+      },
+      "Stä": {
+       "entries": [],
        "aufsichten": []
       },
       "Sto": {
@@ -28170,7 +28323,7 @@
          "stunde": "7",
          "fach": "De",
          "klasse": "10C",
-         "raum": "002",
+         "raum": "004",
          "info": "",
          "geaendert": false
         },
@@ -28178,7 +28331,7 @@
          "stunde": "8",
          "fach": "De",
          "klasse": "10C",
-         "raum": "002",
+         "raum": "004",
          "info": "",
          "geaendert": false
         }
@@ -28230,8 +28383,11 @@
     },
     "20260918": {
      "datum": "Freitag, 18. September 2026",
-     "zeitstempel": "04.09.2026, 09:58",
-     "tagesinfo": [],
+     "zeitstempel": "11.09.2026, 06:24",
+     "tagesinfo": [
+      "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Heimrich",
+      "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
+     ],
      "lehrer": {
       "Bar": {
        "entries": [
@@ -29306,6 +29462,10 @@
        ],
        "aufsichten": []
       },
+      "Karow": {
+       "entries": [],
+       "aufsichten": []
+      },
       "Kno": {
        "entries": [
         {
@@ -30053,6 +30213,10 @@
          "geaendert": false
         }
        ],
+       "aufsichten": []
+      },
+      "Stä": {
+       "entries": [],
        "aufsichten": []
       },
       "Sto": {
