@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ernst-Barlach-Gymnasium//Vertretungsplan//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ernst-Barlach-Gymnasium – Stä
+X-WR-CALDESC:Persönlicher Vertretungsplan
+X-WR-LASTUPDATED:20260911T053025Z
+BEGIN:VEVENT
+UID:stä-20260910-tagesinfo@ebg-vplan
+DTSTAMP:20260911T053025Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Gordetz
+ ki (+1)
+DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Gordetzki\nA
+ ufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+BEGIN:VEVENT
+UID:stä-20260911-tagesinfo@ebg-vplan
+DTSTAMP:20260911T053025Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Karow (
+ +1)
+DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Karow\nAufsi
+ cht auf dem Goetheplatz nach dem 4. Block: T. Barth
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+BEGIN:VEVENT
+UID:stä-20260914-tagesinfo@ebg-vplan
+DTSTAMP:20260911T053025Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Besenha
+ rd (+1)
+DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Besenhard\nA
+ ufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+BEGIN:VEVENT
+UID:stä-20260915-tagesinfo@ebg-vplan
+DTSTAMP:20260911T053025Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: G. Birzina
+  (+1)
+DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: G. Birzina\nAuf
+ sicht auf dem Goetheplatz nach dem 4. Block: T. Seemann
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+BEGIN:VEVENT
+UID:stä-20260916-tagesinfo@ebg-vplan
+DTSTAMP:20260911T053025Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Hofmann
+  (+1)
+DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Hofmann\nAuf
+ sicht auf dem Goetheplatz nach dem 4. Block: S. Pelka
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+BEGIN:VEVENT
+UID:stä-20260916-std7@ebg-vplan
+DTSTAMP:20260911T053025Z
+DTSTART:20260916T134000
+DTEND:20260916T142500
+SUMMARY:GS14 (7A-7D\,8A-8E)
+DESCRIPTION:Std. 7: GS14\\nKlasse: 7A-7D\,8A-8E\\nRaum: K07
+LOCATION:K07
+CATEGORIES:Schule,Vertretungsplan
+END:VEVENT
+BEGIN:VEVENT
+UID:stä-20260916-std8@ebg-vplan
+DTSTAMP:20260911T053025Z
+DTSTART:20260916T142500
+DTEND:20260916T151000
+SUMMARY:GS14 (7A-7D\,8A-8E)
+DESCRIPTION:Std. 8: GS14\\nKlasse: 7A-7D\,8A-8E\\nRaum: K07
+LOCATION:K07
+CATEGORIES:Schule,Vertretungsplan
+END:VEVENT
+BEGIN:VEVENT
+UID:stä-20260917-tagesinfo@ebg-vplan
+DTSTAMP:20260911T053025Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Bobert 
+ (+1)
+DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Bobert\nAufs
+ icht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+BEGIN:VEVENT
+UID:stä-20260918-tagesinfo@ebg-vplan
+DTSTAMP:20260911T053025Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Heimric
+ h (+1)
+DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Heimrich\nAu
+ fsicht auf dem Goetheplatz nach dem 4. Block: T. Barth
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+END:VCALENDAR
