@@ -599,5 +599,62 @@
    "Planänderung (Details nicht spezifiziert)"
   ],
   "zeitstempel": "11.09.2026, 09:30"
+ },
+ {
+  "timestamp": "2026-09-13T11:57:29.330940",
+  "lehrer": "Bir",
+  "datum": "Montag, 14. September 2026",
+  "date_key": "20260914",
+  "changes": [
+   "Std 5 (11:40): für De Fech",
+   "Std 6 (12:25): für De Fech"
+  ],
+  "zeitstempel": "13.09.2026, 11:40"
+ },
+ {
+  "timestamp": "2026-09-13T11:57:29.330940",
+  "lehrer": "Fech",
+  "datum": "Montag, 14. September 2026",
+  "date_key": "20260914",
+  "changes": [
+   "Std 5 (11:40): Mu 9A Bir (für De)",
+   "Std 6 (12:25): Mu 9A Bir (für De)",
+   "Std 7 (13:40): De 8B fällt aus",
+   "Std 8 (14:25): De 8B fällt aus"
+  ],
+  "zeitstempel": "13.09.2026, 11:40"
+ },
+ {
+  "timestamp": "2026-09-13T11:57:29.330940",
+  "lehrer": "Fech",
+  "datum": "Dienstag, 15. September 2026",
+  "date_key": "20260915",
+  "changes": [
+   "Std 7 (13:40): De 8E fällt aus",
+   "Std 8 (14:25): De 8E fällt aus"
+  ],
+  "zeitstempel": "13.09.2026, 11:40"
+ },
+ {
+  "timestamp": "2026-09-13T11:57:29.330940",
+  "lehrer": "*",
+  "datum": "Donnerstag, 17. September 2026",
+  "date_key": "20260917",
+  "changes": [
+   "Hinweis: Hausaufsicht in der 1. Pause: Frau Isbrandt (Vertretung für Frau Köhler)",
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Bobert",
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth"
+  ],
+  "zeitstempel": "13.09.2026, 11:40"
+ },
+ {
+  "timestamp": "2026-09-13T11:57:29.330940",
+  "lehrer": "Isb",
+  "datum": "Donnerstag, 17. September 2026",
+  "date_key": "20260917",
+  "changes": [
+   "Std 2 (08:25): für En Isb, Hausaufsicht in der 1. Pause (Vertretung für A. Köhler)"
+  ],
+  "zeitstempel": "13.09.2026, 11:40"
  }
 ]
