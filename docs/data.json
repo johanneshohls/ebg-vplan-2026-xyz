@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "13.09.2026, 14:05 Uhr",
- "last_changed": "2026-09-13T11:40:00",
+ "generiert": "13.09.2026, 14:10 Uhr",
+ "last_changed": "2026-09-13T16:07:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -20436,7 +20436,7 @@
    "tage": {
     "20260914": {
      "datum": "Montag, 14. September 2026",
-     "zeitstempel": "13.09.2026, 11:40",
+     "zeitstempel": "13.09.2026, 16:07",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Besenhard",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
@@ -22495,7 +22495,7 @@
     },
     "20260915": {
      "datum": "Dienstag, 15. September 2026",
-     "zeitstempel": "13.09.2026, 11:40",
+     "zeitstempel": "13.09.2026, 16:07",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: G. Birzina",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -22560,7 +22560,7 @@
          "stunde": "3",
          "fach": "Ph",
          "klasse": "10C",
-         "raum": "K09",
+         "raum": "K12",
          "info": "Ph 10C statt Do (17.09.) St.5",
          "geaendert": true
         },
@@ -22568,7 +22568,7 @@
          "stunde": "4",
          "fach": "Ph",
          "klasse": "10C",
-         "raum": "K09",
+         "raum": "K12",
          "info": "Ph 10C statt Do (17.09.) St.6",
          "geaendert": true
         },
@@ -22693,17 +22693,17 @@
          "stunde": "3",
          "fach": "As",
          "klasse": "9B",
-         "raum": "K12",
-         "info": "für As Bob, Raumänderung",
-         "geaendert": true
+         "raum": "K09",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "4",
          "fach": "As",
          "klasse": "9B",
-         "raum": "K12",
-         "info": "für As Bob, Raumänderung",
-         "geaendert": true
+         "raum": "K09",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "5",
@@ -24539,7 +24539,7 @@
     },
     "20260916": {
      "datum": "Mittwoch, 16. September 2026",
-     "zeitstempel": "13.09.2026, 11:40",
+     "zeitstempel": "13.09.2026, 16:07",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Hofmann",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -24697,17 +24697,17 @@
          "stunde": "1",
          "fach": "As",
          "klasse": "9D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "K09",
+         "info": "für As Bob, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "As",
          "klasse": "9D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "K09",
+         "info": "für As Bob, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -26461,7 +26461,7 @@
     },
     "20260917": {
      "datum": "Donnerstag, 17. September 2026",
-     "zeitstempel": "13.09.2026, 11:40",
+     "zeitstempel": "13.09.2026, 16:07",
      "tagesinfo": [
       "Hausaufsicht in der 1. Pause: Frau Isbrandt (Vertretung für Frau Köhler)",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Bobert",
@@ -28418,7 +28418,7 @@
     },
     "20260918": {
      "datum": "Freitag, 18. September 2026",
-     "zeitstempel": "13.09.2026, 11:40",
+     "zeitstempel": "13.09.2026, 16:07",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Heimrich",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"

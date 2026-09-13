@@ -656,5 +656,37 @@
    "Std 2 (08:25): für En Isb, Hausaufsicht in der 1. Pause (Vertretung für A. Köhler)"
   ],
   "zeitstempel": "13.09.2026, 11:40"
+ },
+ {
+  "timestamp": "2026-09-13T14:10:10.298816",
+  "lehrer": "Bes",
+  "datum": "Dienstag, 15. September 2026",
+  "date_key": "20260915",
+  "changes": [
+   "Std 3 (09:40): Ph 10C statt Do (17.09.) St.5",
+   "Std 4 (10:25): Ph 10C statt Do (17.09.) St.6"
+  ],
+  "zeitstempel": "13.09.2026, 16:07"
+ },
+ {
+  "timestamp": "2026-09-13T14:10:10.298816",
+  "lehrer": "Bob",
+  "datum": "Dienstag, 15. September 2026",
+  "date_key": "20260915",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "13.09.2026, 16:07"
+ },
+ {
+  "timestamp": "2026-09-13T14:10:10.298816",
+  "lehrer": "Bob",
+  "datum": "Mittwoch, 16. September 2026",
+  "date_key": "20260916",
+  "changes": [
+   "Std 1 (07:40): für As Bob, Raumänderung",
+   "Std 2 (08:25): für As Bob, Raumänderung"
+  ],
+  "zeitstempel": "13.09.2026, 16:07"
  }
 ]
