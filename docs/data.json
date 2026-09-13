@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "13.09.2026, 04:05 Uhr",
- "last_changed": "2026-09-11T13:29:00",
+ "generiert": "13.09.2026, 11:57 Uhr",
+ "last_changed": "2026-09-13T11:40:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -20436,7 +20436,7 @@
    "tage": {
     "20260914": {
      "datum": "Montag, 14. September 2026",
-     "zeitstempel": "11.09.2026, 13:29",
+     "zeitstempel": "13.09.2026, 11:40",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Besenhard",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
@@ -20533,6 +20533,22 @@
          "raum": "107",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Mu",
+         "klasse": "9A",
+         "raum": "001",
+         "info": "für De Fech",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Mu",
+         "klasse": "9A",
+         "raum": "001",
+         "info": "für De Fech",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -20776,35 +20792,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "De",
-         "klasse": "9A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 9A Bir (für De)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "De",
-         "klasse": "9A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 9A Bir (für De)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "De",
-         "klasse": "8B",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "De",
-         "klasse": "8B",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8B fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -22479,7 +22495,7 @@
     },
     "20260915": {
      "datum": "Dienstag, 15. September 2026",
-     "zeitstempel": "11.09.2026, 13:29",
+     "zeitstempel": "13.09.2026, 11:40",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: G. Birzina",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -22916,19 +22932,19 @@
        "entries": [
         {
          "stunde": "7",
-         "fach": "De",
-         "klasse": "8E",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "De",
-         "klasse": "8E",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -24523,7 +24539,7 @@
     },
     "20260916": {
      "datum": "Mittwoch, 16. September 2026",
-     "zeitstempel": "11.09.2026, 13:29",
+     "zeitstempel": "13.09.2026, 11:40",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Hofmann",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -26445,8 +26461,9 @@
     },
     "20260917": {
      "datum": "Donnerstag, 17. September 2026",
-     "zeitstempel": "11.09.2026, 13:29",
+     "zeitstempel": "13.09.2026, 11:40",
      "tagesinfo": [
+      "Hausaufsicht in der 1. Pause: Frau Isbrandt (Vertretung für Frau Köhler)",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Bobert",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth"
      ],
@@ -27378,7 +27395,7 @@
          "fach": "En",
          "klasse": "7A",
          "raum": "002",
-         "info": "",
+         "info": "für En Isb, Hausaufsicht in der 1. Pause (Vertretung für A. Köhler)",
          "geaendert": false
         },
         {
@@ -28401,7 +28418,7 @@
     },
     "20260918": {
      "datum": "Freitag, 18. September 2026",
-     "zeitstempel": "11.09.2026, 13:29",
+     "zeitstempel": "13.09.2026, 11:40",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Heimrich",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
