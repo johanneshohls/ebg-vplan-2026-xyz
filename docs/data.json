@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "13.09.2026, 17:00 Uhr",
- "last_changed": "2026-09-13T16:07:00",
+ "generiert": "13.09.2026, 17:05 Uhr",
+ "last_changed": "2026-09-13T19:00:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -22495,7 +22495,7 @@
     },
     "20260915": {
      "datum": "Dienstag, 15. September 2026",
-     "zeitstempel": "13.09.2026, 16:07",
+     "zeitstempel": "13.09.2026, 19:00",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: G. Birzina",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -24087,7 +24087,7 @@
          "stunde": "7",
          "fach": "Club5",
          "klasse": "10A-10D,9A-9D",
-         "raum": "105",
+         "raum": "207",
          "info": "",
          "geaendert": false
         },
@@ -24095,7 +24095,7 @@
          "stunde": "8",
          "fach": "Club5",
          "klasse": "10A-10D,9A-9D",
-         "raum": "105",
+         "raum": "207",
          "info": "",
          "geaendert": false
         }
@@ -24509,17 +24509,17 @@
          "stunde": "7",
          "fach": "Club1",
          "klasse": "10A-10D,9A-9D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "008 007",
+         "info": "für Club1 Wag, Räume 008, 007 und 006",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "Club1",
          "klasse": "10A-10D,9A-9D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "008 007",
+         "info": "für Club1 Wag, Räume 008, 007 und 006",
+         "geaendert": true
         }
        ],
        "aufsichten": [
