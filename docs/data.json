@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "14.09.2026, 09:00 Uhr",
- "last_changed": "2026-09-14T10:14:00",
+ "generiert": "14.09.2026, 09:05 Uhr",
+ "last_changed": "2026-09-14T11:03:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10069,10 +10069,10 @@
    "tage": {
     "20260914": {
      "datum": "Montag, 14. September 2026",
-     "zeitstempel": "14.09.2026, 10:14",
+     "zeitstempel": "14.09.2026, 11:03",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Besenhard",
-      "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
+      "Aufsicht auf dem Goetheplatz nach dem 4. Block: D. Zimmermann"
      ],
      "lehrer": {
       "Bar": {
@@ -12128,7 +12128,7 @@
     },
     "20260915": {
      "datum": "Dienstag, 15. September 2026",
-     "zeitstempel": "14.09.2026, 10:14",
+     "zeitstempel": "14.09.2026, 11:03",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: G. Birzina",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -14172,7 +14172,7 @@
     },
     "20260916": {
      "datum": "Mittwoch, 16. September 2026",
-     "zeitstempel": "14.09.2026, 10:14",
+     "zeitstempel": "14.09.2026, 11:03",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Hofmann",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -16094,7 +16094,7 @@
     },
     "20260917": {
      "datum": "Donnerstag, 17. September 2026",
-     "zeitstempel": "14.09.2026, 10:14",
+     "zeitstempel": "14.09.2026, 11:03",
      "tagesinfo": [
       "Hausaufsicht in der 1. Pause: Frau Isbrandt (Vertretung für Frau Köhler)",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Bobert",
@@ -16235,7 +16235,7 @@
          "fach": "KILZ",
          "klasse": "7B",
          "raum": "",
-         "info": "für KILZ Bob, Bitte im Schulgebäude die Tische nutzen!",
+         "info": "für KILZ Bob, Aula",
          "geaendert": true
         },
         {
@@ -16243,7 +16243,7 @@
          "fach": "KILZ",
          "klasse": "7B",
          "raum": "",
-         "info": "für KILZ Bob, Bitte im Schulgebäude die Tische nutzen!",
+         "info": "für KILZ Bob, Aula",
          "geaendert": true
         },
         {
@@ -16977,18 +16977,18 @@
         {
          "stunde": "1",
          "fach": "DE3",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "K12",
+         "info": "für De Hön, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "DE3",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "K12",
+         "info": "für De Hön, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -17116,17 +17116,17 @@
          "stunde": "1",
          "fach": "KILZ",
          "klasse": "8E",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für KILZ Kno, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "KILZ",
          "klasse": "8E",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für KILZ Kno, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -18051,7 +18051,7 @@
     },
     "20260918": {
      "datum": "Freitag, 18. September 2026",
-     "zeitstempel": "14.09.2026, 10:14",
+     "zeitstempel": "14.09.2026, 11:03",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Heimrich",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
