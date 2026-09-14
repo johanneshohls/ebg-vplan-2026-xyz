@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "14.09.2026, 08:10 Uhr",
- "last_changed": "2026-09-14T09:31:00",
+ "generiert": "14.09.2026, 08:15 Uhr",
+ "last_changed": "2026-09-14T10:14:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10069,7 +10069,7 @@
    "tage": {
     "20260914": {
      "datum": "Montag, 14. September 2026",
-     "zeitstempel": "14.09.2026, 09:31",
+     "zeitstempel": "14.09.2026, 10:14",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Besenhard",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
@@ -12105,17 +12105,17 @@
          "stunde": "7",
          "fach": "En",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "007",
+         "info": "für En Wag, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "En",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "007",
+         "info": "für En Wag, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12128,7 +12128,7 @@
     },
     "20260915": {
      "datum": "Dienstag, 15. September 2026",
-     "zeitstempel": "13.09.2026, 19:00",
+     "zeitstempel": "14.09.2026, 10:14",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: G. Birzina",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -12208,18 +12208,18 @@
         {
          "stunde": "5",
          "fach": "ma3",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "008",
+         "info": "für Ma Bes, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "ma3",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "008",
+         "info": "für Ma Bes, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -12710,17 +12710,17 @@
          "stunde": "1",
          "fach": "GE2",
          "klasse": "11A-11E",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1",
+         "info": "für Ge Gor, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "GE2",
          "klasse": "11A-11E",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1",
+         "info": "für Ge Gor, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -12900,17 +12900,17 @@
          "stunde": "3",
          "fach": "Ma",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "K04",
+         "info": "für Ma Hoh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Ma",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "K04",
+         "info": "für Ma Hoh, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14172,7 +14172,7 @@
     },
     "20260916": {
      "datum": "Mittwoch, 16. September 2026",
-     "zeitstempel": "13.09.2026, 16:07",
+     "zeitstempel": "14.09.2026, 10:14",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Hofmann",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -14704,17 +14704,17 @@
          "stunde": "3",
          "fach": "Sk",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "104",
+         "info": "für Sk Gor, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Sk",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "104",
+         "info": "für Sk Gor, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -14735,18 +14735,18 @@
         {
          "stunde": "7",
          "fach": "sk2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "103",
+         "info": "für Sk Gor, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "sk2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "103",
+         "info": "für Sk Gor, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14894,17 +14894,17 @@
          "stunde": "5",
          "fach": "Ma",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "K04",
+         "info": "für Ma Hoh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Ma",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "K04",
+         "info": "für Ma Hoh, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -15175,17 +15175,17 @@
          "stunde": "1",
          "fach": "Span",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für Span Köh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Span",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für Span Köh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -16094,7 +16094,7 @@
     },
     "20260917": {
      "datum": "Donnerstag, 17. September 2026",
-     "zeitstempel": "13.09.2026, 16:07",
+     "zeitstempel": "14.09.2026, 10:14",
      "tagesinfo": [
       "Hausaufsicht in der 1. Pause: Frau Isbrandt (Vertretung für Frau Köhler)",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Bobert",
@@ -16234,17 +16234,17 @@
          "stunde": "1",
          "fach": "KILZ",
          "klasse": "7B",
-         "raum": "K04",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für KILZ Bob, Bitte im Schulgebäude die Tische nutzen!",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "KILZ",
          "klasse": "7B",
-         "raum": "K04",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für KILZ Bob, Bitte im Schulgebäude die Tische nutzen!",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -16858,17 +16858,17 @@
          "stunde": "1",
          "fach": "Ma",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "K04",
+         "info": "für Ma Hoh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Ma",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "K04",
+         "info": "für Ma Hoh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -17229,17 +17229,17 @@
          "stunde": "5",
          "fach": "AWT",
          "klasse": "10D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für AWT Lan, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "AWT",
          "klasse": "10D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für AWT Lan, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -18012,17 +18012,17 @@
          "stunde": "3",
          "fach": "En",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "K04",
+         "info": "für En Wag, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "En",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "K04",
+         "info": "für En Wag, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -18051,7 +18051,7 @@
     },
     "20260918": {
      "datum": "Freitag, 18. September 2026",
-     "zeitstempel": "13.09.2026, 16:07",
+     "zeitstempel": "14.09.2026, 10:14",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Heimrich",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
@@ -18099,18 +18099,18 @@
         {
          "stunde": "5",
          "fach": "ma3",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "004",
+         "info": "für Ma Bes, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "ma3",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "004",
+         "info": "für Ma Bes, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -18590,17 +18590,17 @@
          "stunde": "3",
          "fach": "Ge",
          "klasse": "9C",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "raum": "101",
+         "info": "für Ge Gor, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Ge",
          "klasse": "9C",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "raum": "101",
+         "info": "für Ge Gor, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -19232,17 +19232,17 @@
          "stunde": "3",
          "fach": "Span",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "005",
+         "info": "für Span Köh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Span",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "005",
+         "info": "für Span Köh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -19970,33 +19970,33 @@
          "stunde": "1",
          "fach": "De",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für De Tuh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "De",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für De Tuh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "3",
          "fach": "de1",
          "klasse": "12A-12D",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für De Tuh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "de1",
          "klasse": "12A-12D",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für De Tuh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "9",
