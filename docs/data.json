@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "14.09.2026, 07:30 Uhr",
- "last_changed": "2026-09-13T19:00:00",
+ "generiert": "14.09.2026, 07:35 Uhr",
+ "last_changed": "2026-09-14T09:31:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10069,7 +10069,7 @@
    "tage": {
     "20260914": {
      "datum": "Montag, 14. September 2026",
-     "zeitstempel": "13.09.2026, 16:07",
+     "zeitstempel": "14.09.2026, 09:31",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Besenhard",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
@@ -10171,7 +10171,7 @@
          "stunde": "5",
          "fach": "Mu",
          "klasse": "9A",
-         "raum": "001",
+         "raum": "107",
          "info": "für De Fech",
          "geaendert": true
         },
@@ -10179,7 +10179,7 @@
          "stunde": "6",
          "fach": "Mu",
          "klasse": "9A",
-         "raum": "001",
+         "raum": "107",
          "info": "für De Fech",
          "geaendert": true
         },
@@ -11361,17 +11361,17 @@
          "stunde": "5",
          "fach": "Geo",
          "klasse": "9D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "106",
+         "info": "für Geo Mue, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Geo",
          "klasse": "9D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "106",
+         "info": "für Geo Mue, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -11469,17 +11469,17 @@
          "stunde": "5",
          "fach": "De",
          "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "001",
+         "info": "für De Ost, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "De",
          "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "001",
+         "info": "für De Ost, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "7",
