@@ -755,5 +755,18 @@
    "Std 8 (14:25): für GS09 Fech"
   ],
   "zeitstempel": "15.09.2026, 07:42"
+ },
+ {
+  "timestamp": "2026-09-15T07:20:14.369174",
+  "lehrer": "Bes",
+  "datum": "Mittwoch, 16. September 2026",
+  "date_key": "20260916",
+  "changes": [
+   "Std 3 (09:40): für De Fech, Bitte Rücksprache mit J. Hohls halten.",
+   "Std 4 (10:25): für De Fech, Bitte Rücksprache mit J. Hohls halten.",
+   "Std 7 (13:40): GS07 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS07 7A-7D,8A-8E fällt aus"
+  ],
+  "zeitstempel": "15.09.2026, 09:17"
  }
 ]
