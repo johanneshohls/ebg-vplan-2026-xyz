@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "15.09.2026, 05:40 Uhr",
- "last_changed": "2026-09-14T11:03:00",
+ "generiert": "15.09.2026, 05:45 Uhr",
+ "last_changed": "2026-09-15T07:42:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14172,7 +14172,7 @@
     },
     "20260916": {
      "datum": "Mittwoch, 16. September 2026",
-     "zeitstempel": "14.09.2026, 11:03",
+     "zeitstempel": "15.09.2026, 07:42",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Hofmann",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -14225,6 +14225,22 @@
       },
       "Bes": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "9A",
+         "raum": "001",
+         "info": "für De Fech, Bitte Rücksprache mit J. Hohls halten.",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "9A",
+         "raum": "001",
+         "info": "für De Fech, Bitte Rücksprache mit J. Hohls halten.",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "Ma",
@@ -14520,51 +14536,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8B Jur",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "De",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8B Jur",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "9A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9A Bes (für De), Bitte Rücksprache mit J. Hohls halten.",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "9A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9A Bes (für De), Bitte Rücksprache mit J. Hohls halten.",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "GS09",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS09 7A-7D,8A-8E Ost",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS09",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS09 7A-7D,8A-8E Ost",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -14572,7 +14588,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Essenraum und Keller",
-         "info": ""
+         "info": "entfällt, V: Köh"
         }
        ]
       },
@@ -15070,6 +15086,22 @@
       "Jur": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "8B",
+         "raum": "008",
+         "info": "für De Fech",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "8B",
+         "raum": "008",
+         "info": "für De Fech",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "De",
          "klasse": "9C",
@@ -15204,7 +15236,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Essenraum und Keller",
+         "info": "für Fech"
+        }
+       ]
       },
       "Lan": {
        "entries": [
@@ -15514,19 +15553,19 @@
         },
         {
          "stunde": "7",
-         "fach": "GS13",
+         "fach": "GS09",
          "klasse": "7A-7D,8A-8E",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "001",
+         "info": "für GS09 Fech",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS13",
+         "fach": "GS09",
          "klasse": "7A-7D,8A-8E",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "001",
+         "info": "für GS09 Fech",
+         "geaendert": true
         }
        ],
        "aufsichten": [
