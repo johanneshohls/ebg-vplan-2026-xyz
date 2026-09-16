@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "16.09.2026, 06:25 Uhr",
- "last_changed": "2026-09-16T06:34:00",
+ "generiert": "16.09.2026, 06:30 Uhr",
+ "last_changed": "2026-09-16T08:29:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14172,7 +14172,7 @@
     },
     "20260916": {
      "datum": "Mittwoch, 16. September 2026",
-     "zeitstempel": "16.09.2026, 06:34",
+     "zeitstempel": "16.09.2026, 08:29",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Hofmann",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -15519,19 +15519,19 @@
        "entries": [
         {
          "stunde": "7",
-         "fach": "GS06",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS06 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS06",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS06 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []

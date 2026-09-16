@@ -760,5 +760,16 @@
    "Std 8 (14:25): Ku 10B fällt aus"
   ],
   "zeitstempel": "16.09.2026, 06:34"
+ },
+ {
+  "timestamp": "2026-09-16T06:30:10.870311",
+  "lehrer": "Neu",
+  "datum": "Mittwoch, 16. September 2026",
+  "date_key": "20260916",
+  "changes": [
+   "Std 7 (13:40): GS06 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS06 7A-7D,8A-8E fällt aus"
+  ],
+  "zeitstempel": "16.09.2026, 08:29"
  }
 ]
