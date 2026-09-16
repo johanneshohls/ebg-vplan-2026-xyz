@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "16.09.2026, 13:00 Uhr",
- "last_changed": "2026-09-16T08:29:00",
+ "generiert": "16.09.2026, 13:05 Uhr",
+ "last_changed": "2026-09-16T15:05:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16156,7 +16156,7 @@
     },
     "20260917": {
      "datum": "Donnerstag, 17. September 2026",
-     "zeitstempel": "14.09.2026, 11:03",
+     "zeitstempel": "16.09.2026, 15:05",
      "tagesinfo": [
       "Hausaufsicht in der 1. Pause: Frau Isbrandt (Vertretung für Frau Köhler)",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Bobert",
@@ -16239,7 +16239,7 @@
          "stunde": "5",
          "fach": "mue2",
          "klasse": "11D,11A-11C,11E",
-         "raum": "107",
+         "raum": "107 106",
          "info": "",
          "geaendert": false
         },
@@ -16247,7 +16247,7 @@
          "stunde": "6",
          "fach": "mue2",
          "klasse": "11D,11A-11C,11E",
-         "raum": "107",
+         "raum": "107 106",
          "info": "",
          "geaendert": false
         },
@@ -17291,7 +17291,7 @@
          "stunde": "5",
          "fach": "AWT",
          "klasse": "10D",
-         "raum": "008",
+         "raum": "Co1",
          "info": "für AWT Lan, Raumänderung",
          "geaendert": true
         },
@@ -17299,7 +17299,7 @@
          "stunde": "6",
          "fach": "AWT",
          "klasse": "10D",
-         "raum": "008",
+         "raum": "Co1",
          "info": "für AWT Lan, Raumänderung",
          "geaendert": true
         }
@@ -17532,7 +17532,7 @@
          "stunde": "5",
          "fach": "KILZ",
          "klasse": "9B",
-         "raum": "106",
+         "raum": "008",
          "info": "",
          "geaendert": false
         },
@@ -17540,7 +17540,7 @@
          "stunde": "6",
          "fach": "KILZ",
          "klasse": "9B",
-         "raum": "106",
+         "raum": "008",
          "info": "",
          "geaendert": false
         },

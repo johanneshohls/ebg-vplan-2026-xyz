@@ -771,5 +771,36 @@
    "Std 8 (14:25): GS06 7A-7D,8A-8E fällt aus"
   ],
   "zeitstempel": "16.09.2026, 08:29"
+ },
+ {
+  "timestamp": "2026-09-16T13:05:45.897573",
+  "lehrer": "Bir",
+  "datum": "Donnerstag, 17. September 2026",
+  "date_key": "20260917",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "16.09.2026, 15:05"
+ },
+ {
+  "timestamp": "2026-09-16T13:05:45.897573",
+  "lehrer": "Lan",
+  "datum": "Donnerstag, 17. September 2026",
+  "date_key": "20260917",
+  "changes": [
+   "Std 5 (11:40): für AWT Lan, Raumänderung",
+   "Std 6 (12:25): für AWT Lan, Raumänderung"
+  ],
+  "zeitstempel": "16.09.2026, 15:05"
+ },
+ {
+  "timestamp": "2026-09-16T13:05:45.897573",
+  "lehrer": "Ost",
+  "datum": "Donnerstag, 17. September 2026",
+  "date_key": "20260917",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "16.09.2026, 15:05"
  }
 ]
