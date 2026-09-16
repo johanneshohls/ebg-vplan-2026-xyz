@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "16.09.2026, 04:30 Uhr",
- "last_changed": "2026-09-15T09:17:00",
+ "generiert": "16.09.2026, 04:35 Uhr",
+ "last_changed": "2026-09-16T06:34:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14172,7 +14172,7 @@
     },
     "20260916": {
      "datum": "Mittwoch, 16. September 2026",
-     "zeitstempel": "15.09.2026, 09:17",
+     "zeitstempel": "16.09.2026, 06:34",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Hofmann",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -14373,6 +14373,22 @@
          "raum": "205",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ph",
+         "klasse": "10B",
+         "raum": "207",
+         "info": "für Ku Schud",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ph",
+         "klasse": "10B",
+         "raum": "207",
+         "info": "für Ku Schud",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14522,7 +14538,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof, WCs, Grünes Klassenzimmer",
+         "info": "für Schud"
+        }
+       ]
       },
       "Epp": {
        "entries": [],
@@ -15745,51 +15768,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "ku1",
-         "klasse": "12A-12D",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "ku1",
-         "klasse": "12A-12D",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Ku",
-         "klasse": "10B",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 10B Bob (für Ku)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ku",
-         "klasse": "10B",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 10B Bob (für Ku)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Ku",
-         "klasse": "10B",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 10B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ku",
-         "klasse": "10B",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 10B fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -15797,7 +15820,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Hof, WCs, Grünes Klassenzimmer",
-         "info": ""
+         "info": "entfällt, V: Con"
         }
        ]
       },
