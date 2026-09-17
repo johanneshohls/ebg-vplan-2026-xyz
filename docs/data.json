@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "17.09.2026, 09:45 Uhr",
- "last_changed": "2026-09-17T06:06:00",
+ "generiert": "17.09.2026, 09:47 Uhr",
+ "last_changed": "2026-09-17T11:47:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -18113,7 +18113,7 @@
     },
     "20260918": {
      "datum": "Freitag, 18. September 2026",
-     "zeitstempel": "17.09.2026, 06:06",
+     "zeitstempel": "17.09.2026, 11:47",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Heimrich",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
@@ -18475,19 +18475,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
-         "klasse": "8E",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8E Ter",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "De",
-         "klasse": "8E",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8E Ter",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -19963,6 +19963,22 @@
       },
       "Ter": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "8E",
+         "raum": "002",
+         "info": "für De Fech",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "8E",
+         "raum": "002",
+         "info": "für De Fech",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "thea1",
