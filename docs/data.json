@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "17.09.2026, 04:05 Uhr",
- "last_changed": "2026-09-17T05:42:00",
+ "generiert": "17.09.2026, 04:10 Uhr",
+ "last_changed": "2026-09-17T06:06:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16156,7 +16156,7 @@
     },
     "20260917": {
      "datum": "Donnerstag, 17. September 2026",
-     "zeitstempel": "17.09.2026, 05:42",
+     "zeitstempel": "17.09.2026, 06:06",
      "tagesinfo": [
       "Hausaufsicht in der 1. Pause: Frau Isbrandt (Vertretung für Frau Köhler)",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Bobert",
@@ -18113,7 +18113,7 @@
     },
     "20260918": {
      "datum": "Freitag, 18. September 2026",
-     "zeitstempel": "17.09.2026, 05:42",
+     "zeitstempel": "17.09.2026, 06:06",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Heimrich",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
@@ -20147,7 +20147,7 @@
    "tage": {
     "20260921": {
      "datum": "Montag, 21. September 2026",
-     "zeitstempel": "17.09.2026, 05:42",
+     "zeitstempel": "17.09.2026, 06:06",
      "tagesinfo": [
       "Jahrgang 10: Gedenkstättenfahrt",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Flammann",
@@ -22202,7 +22202,7 @@
     },
     "20260922": {
      "datum": "Dienstag, 22. September 2026",
-     "zeitstempel": "17.09.2026, 05:42",
+     "zeitstempel": "17.09.2026, 06:06",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: I. Feldhusen",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T.Seemann"
@@ -24148,7 +24148,7 @@
     },
     "20260923": {
      "datum": "Mittwoch, 23. September 2026",
-     "zeitstempel": "17.09.2026, 05:42",
+     "zeitstempel": "17.09.2026, 06:06",
      "tagesinfo": [
       "Casting: 4. Block; Aula",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:C. Bomke",
@@ -25139,19 +25139,19 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "AWT",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 8E verlegt nach Fr (25.09.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "AWT",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 8E verlegt nach Fr (25.09.) St.4",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -25440,6 +25440,22 @@
          "raum": "104",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "En 8E statt Fr (25.09.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "En 8E statt Fr (25.09.) St.4",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -26205,7 +26221,7 @@
     },
     "20260924": {
      "datum": "Donnerstag, 24. September 2026",
-     "zeitstempel": "17.09.2026, 05:42",
+     "zeitstempel": "17.09.2026, 06:06",
      "tagesinfo": [
       "Berufsinfobörse in Wismar: Jahrgang 10, 3.+4. Block (V: N. Hering, K. Lan, O. Stu, A. Eul)",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Schilling",
@@ -28192,8 +28208,9 @@
     },
     "20260925": {
      "datum": "Freitag, 25. September 2026",
-     "zeitstempel": "17.09.2026, 05:42",
+     "zeitstempel": "17.09.2026, 06:06",
      "tagesinfo": [
+      "Wahl des Schülerrats: 2. Block, R 207 (V: H. Marski)",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Fechner",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
      ],
@@ -29148,6 +29165,22 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "AWT",
+         "klasse": "8E",
+         "raum": "006",
+         "info": "AWT 8E statt Mi (23.09.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "AWT",
+         "klasse": "8E",
+         "raum": "006",
+         "info": "AWT 8E statt Mi (23.09.) St.6",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "AWT",
          "klasse": "7C",
@@ -29347,19 +29380,35 @@
         },
         {
          "stunde": "3",
-         "fach": "En",
-         "klasse": "8E",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8E gehalten am Mi (23.09.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "207",
+         "info": "En 8E gehalten am Mi (23.09.) St.5 (Mar)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "En",
-         "klasse": "8E",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8E gehalten am Mi (23.09.) St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "207",
+         "info": "En 8E gehalten am Mi (23.09.) St.6 (Mar)",
+         "geaendert": true
         },
         {
          "stunde": "5",
