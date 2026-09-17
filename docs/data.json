@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "17.09.2026, 13:50 Uhr",
- "last_changed": "2026-09-17T11:47:00",
+ "generiert": "17.09.2026, 13:55 Uhr",
+ "last_changed": "2026-09-17T15:53:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -18113,7 +18113,7 @@
     },
     "20260918": {
      "datum": "Freitag, 18. September 2026",
-     "zeitstempel": "17.09.2026, 11:47",
+     "zeitstempel": "17.09.2026, 15:53",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Heimrich",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
@@ -18175,7 +18175,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Fel"
+        }
+       ]
       },
       "Bir": {
        "entries": [
@@ -18496,51 +18503,51 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "10C",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10C Tuh (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "10C",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 10C Tuh (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "span1",
-         "klasse": "12A-12D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 12A-12D selbst. (v), Arbeit am Stoff der vergangenen Stunden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "span1",
-         "klasse": "12A-12D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 12A-12D selbst. (v), Arbeit am Stoff der vergangenen Stunden",
+         "geaendert": true
         },
         {
          "stunde": "9",
-         "fach": "KL",
-         "klasse": "10C",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "KL 10C fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "10",
-         "fach": "KL",
-         "klasse": "10C",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "KL 10C fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -18548,7 +18555,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Bes"
         }
        ]
       },
@@ -20074,6 +20081,22 @@
          "klasse": "12A-12D",
          "raum": "Co3",
          "info": "für De Tuh, Raumänderung",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "10C",
+         "raum": "006",
+         "info": "für Span Fel",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "10C",
+         "raum": "006",
+         "info": "für Span Fel",
          "geaendert": true
         },
         {
