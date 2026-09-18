@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "18.09.2026, 09:30 Uhr",
- "last_changed": "2026-09-18T10:37:00",
+ "generiert": "18.09.2026, 09:35 Uhr",
+ "last_changed": "2026-09-18T11:31:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -18113,7 +18113,7 @@
     },
     "20260918": {
      "datum": "Freitag, 18. September 2026",
-     "zeitstempel": "18.09.2026, 10:37",
+     "zeitstempel": "18.09.2026, 11:31",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Heimrich",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
@@ -19315,35 +19315,35 @@
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8E Mar (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8E Mar (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "9",
-         "fach": "KL",
-         "klasse": "7D",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "KL 7D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "10",
-         "fach": "KL",
-         "klasse": "7D",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "KL 7D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -19351,7 +19351,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt"
         }
        ]
       },
@@ -19498,6 +19498,22 @@
          "raum": "003",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "für Span Köh",
+         "geaendert": true
         }
        ],
        "aufsichten": []
