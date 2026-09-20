@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "20.09.2026, 09:25 Uhr",
- "last_changed": "2026-09-18T11:31:00",
+ "generiert": "20.09.2026, 09:30 Uhr",
+ "last_changed": "2026-09-20T11:27:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -20202,7 +20202,7 @@
    "tage": {
     "20260921": {
      "datum": "Montag, 21. September 2026",
-     "zeitstempel": "18.09.2026, 10:37",
+     "zeitstempel": "20.09.2026, 11:27",
      "tagesinfo": [
       "Jahrgang 10: Gedenkstättenfahrt",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Flammann",
@@ -20224,11 +20224,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "Ph",
+         "klasse": "8B",
+         "raum": "205",
+         "info": "für Ph Hun",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ma 10C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ph",
+         "klasse": "8B",
+         "raum": "205",
+         "info": "für Ph Hun",
          "geaendert": true
         },
         {
@@ -21001,51 +21017,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ph",
-         "klasse": "8B",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8B Bes",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ph",
-         "klasse": "8B",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8B Bes",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Ph",
-         "klasse": "7C",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 7C Leu",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ph",
-         "klasse": "7C",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 7C Leu",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "ch2",
-         "klasse": "12A-12D",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ch2",
-         "klasse": "12A-12D",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -21053,7 +21069,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Essenraum und Keller",
-         "info": ""
+         "info": "entfällt, V: Tie"
         }
        ]
       },
@@ -21370,6 +21386,22 @@
          "klasse": "",
          "raum": "",
          "info": "Ma 10B fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Ph",
+         "klasse": "7C",
+         "raum": "205",
+         "info": "für Ph Hun",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ph",
+         "klasse": "7C",
+         "raum": "205",
+         "info": "für Ph Hun",
          "geaendert": true
         }
        ],
@@ -22160,7 +22192,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Essenraum und Keller",
+         "info": "für Hun"
+        }
+       ]
       },
       "Tuh": {
        "entries": [
