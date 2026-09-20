@@ -1,26 +1,5 @@
 [
  {
-  "timestamp": "2026-09-13T17:05:10.730396",
-  "lehrer": "Puk",
-  "datum": "Dienstag, 15. September 2026",
-  "date_key": "20260915",
-  "changes": [
-   "Planänderung (Details nicht spezifiziert)"
-  ],
-  "zeitstempel": "13.09.2026, 19:00"
- },
- {
-  "timestamp": "2026-09-13T17:05:10.730396",
-  "lehrer": "Wag",
-  "datum": "Dienstag, 15. September 2026",
-  "date_key": "20260915",
-  "changes": [
-   "Std 7 (13:40): für Club1 Wag, Räume 008, 007 und 006",
-   "Std 8 (14:25): für Club1 Wag, Räume 008, 007 und 006"
-  ],
-  "zeitstempel": "13.09.2026, 19:00"
- },
- {
   "timestamp": "2026-09-14T07:35:12.410110",
   "lehrer": "Bir",
   "datum": "Montag, 14. September 2026",
