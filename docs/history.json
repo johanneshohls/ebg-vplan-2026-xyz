@@ -1,38 +1,5 @@
 [
  {
-  "timestamp": "2026-09-14T07:35:12.410110",
-  "lehrer": "Bir",
-  "datum": "Montag, 14. September 2026",
-  "date_key": "20260914",
-  "changes": [
-   "Std 5 (11:40): für De Fech",
-   "Std 6 (12:25): für De Fech"
-  ],
-  "zeitstempel": "14.09.2026, 09:31"
- },
- {
-  "timestamp": "2026-09-14T07:35:12.410110",
-  "lehrer": "Mue",
-  "datum": "Montag, 14. September 2026",
-  "date_key": "20260914",
-  "changes": [
-   "Std 5 (11:40): für Geo Mue, Raumänderung",
-   "Std 6 (12:25): für Geo Mue, Raumänderung"
-  ],
-  "zeitstempel": "14.09.2026, 09:31"
- },
- {
-  "timestamp": "2026-09-14T07:35:12.410110",
-  "lehrer": "Ost",
-  "datum": "Montag, 14. September 2026",
-  "date_key": "20260914",
-  "changes": [
-   "Std 5 (11:40): für De Ost, Raumänderung",
-   "Std 6 (12:25): für De Ost, Raumänderung"
-  ],
-  "zeitstempel": "14.09.2026, 09:31"
- },
- {
   "timestamp": "2026-09-14T08:15:13.437353",
   "lehrer": "Wag",
   "datum": "Montag, 14. September 2026",
