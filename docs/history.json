@@ -1,49 +1,5 @@
 [
  {
-  "timestamp": "2026-09-14T09:05:10.965914",
-  "lehrer": "*",
-  "datum": "Montag, 14. September 2026",
-  "date_key": "20260914",
-  "changes": [
-   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Besenhard",
-   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: D. Zimmermann"
-  ],
-  "zeitstempel": "14.09.2026, 11:03"
- },
- {
-  "timestamp": "2026-09-14T09:05:10.965914",
-  "lehrer": "Bob",
-  "datum": "Donnerstag, 17. September 2026",
-  "date_key": "20260917",
-  "changes": [
-   "Std 1 (07:40): für KILZ Bob, Aula",
-   "Std 2 (08:25): für KILZ Bob, Aula"
-  ],
-  "zeitstempel": "14.09.2026, 11:03"
- },
- {
-  "timestamp": "2026-09-14T09:05:10.965914",
-  "lehrer": "Hön",
-  "datum": "Donnerstag, 17. September 2026",
-  "date_key": "20260917",
-  "changes": [
-   "Std 1 (07:40): für De Hön, Raumänderung",
-   "Std 2 (08:25): für De Hön, Raumänderung"
-  ],
-  "zeitstempel": "14.09.2026, 11:03"
- },
- {
-  "timestamp": "2026-09-14T09:05:10.965914",
-  "lehrer": "Kno",
-  "datum": "Donnerstag, 17. September 2026",
-  "date_key": "20260917",
-  "changes": [
-   "Std 1 (07:40): für KILZ Kno, Raumänderung",
-   "Std 2 (08:25): für KILZ Kno, Raumänderung"
-  ],
-  "zeitstempel": "14.09.2026, 11:03"
- },
- {
   "timestamp": "2026-09-15T05:45:11.775796",
   "lehrer": "Bes",
   "datum": "Mittwoch, 16. September 2026",
