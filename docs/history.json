@@ -559,5 +559,64 @@
    "Std 4 (10:25): für Ch Pel, Raumänderung"
   ],
   "zeitstempel": "21.09.2026, 08:09"
+ },
+ {
+  "timestamp": "2026-09-21T06:35:11.925108",
+  "lehrer": "Bob",
+  "datum": "Dienstag, 22. September 2026",
+  "date_key": "20260922",
+  "changes": [
+   "Std 5 (11:40): für Ph Hun",
+   "Std 6 (12:25): für Ph Hun"
+  ],
+  "zeitstempel": "21.09.2026, 08:31"
+ },
+ {
+  "timestamp": "2026-09-21T06:35:11.925108",
+  "lehrer": "Hun",
+  "datum": "Dienstag, 22. September 2026",
+  "date_key": "20260922",
+  "changes": [
+   "Std 5 (11:40): Ph 8A Bob",
+   "Std 6 (12:25): Ph 8A Bob",
+   "Std 7 (13:40): Ch 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 8 (14:25): Ch 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "21.09.2026, 08:31"
+ },
+ {
+  "timestamp": "2026-09-21T06:35:11.925108",
+  "lehrer": "Bob",
+  "datum": "Mittwoch, 23. September 2026",
+  "date_key": "20260923",
+  "changes": [
+   "Std 7 (13:40): für Ph Hun",
+   "Std 8 (14:25): für Ph Hun"
+  ],
+  "zeitstempel": "21.09.2026, 08:31"
+ },
+ {
+  "timestamp": "2026-09-21T06:35:11.925108",
+  "lehrer": "Hoh",
+  "datum": "Mittwoch, 23. September 2026",
+  "date_key": "20260923",
+  "changes": [
+   "Std 5 (11:40): für Ph Hun",
+   "Std 6 (12:25): für Ph Hun"
+  ],
+  "zeitstempel": "21.09.2026, 08:31"
+ },
+ {
+  "timestamp": "2026-09-21T06:35:11.925108",
+  "lehrer": "Hun",
+  "datum": "Mittwoch, 23. September 2026",
+  "date_key": "20260923",
+  "changes": [
+   "Std 5 (11:40): Ph 10D Hoh",
+   "Std 6 (12:25): Ph 10D Hoh",
+   "Std 7 (13:40): Ph 11D,11A-11C,11E Bob",
+   "Std 8 (14:25): Ph 11D,11A-11C,11E Bob"
+  ],
+  "zeitstempel": "21.09.2026, 08:31"
  }
 ]

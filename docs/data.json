@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "21.09.2026, 06:30 Uhr",
- "last_changed": "2026-09-21T08:09:00",
+ "generiert": "21.09.2026, 06:35 Uhr",
+ "last_changed": "2026-09-21T08:31:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10205,7 +10205,7 @@
    "tage": {
     "20260921": {
      "datum": "Montag, 21. September 2026",
-     "zeitstempel": "21.09.2026, 08:09",
+     "zeitstempel": "21.09.2026, 08:31",
      "tagesinfo": [
       "Jahrgang 10: Gedenkstättenfahrt",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Flammann",
@@ -12299,7 +12299,7 @@
     },
     "20260922": {
      "datum": "Dienstag, 22. September 2026",
-     "zeitstempel": "18.09.2026, 10:37",
+     "zeitstempel": "21.09.2026, 08:31",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: I. Feldhusen",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T.Seemann"
@@ -12428,6 +12428,12 @@
          "uhrzeit": "09:10",
          "ort": "Essenraum und Keller",
          "info": "entfällt, V: Hön"
+        },
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Essenraum und Keller",
+         "info": "für Hun"
         }
        ]
       },
@@ -12452,6 +12458,22 @@
          "raum": "207",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ph",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "für Ph Hun",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ph",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "für Ph Hun",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -13162,35 +13184,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "Ph",
-         "klasse": "8A",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8A Bob",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ph",
-         "klasse": "8A",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8A Bob",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "ch1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ch1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -13198,7 +13220,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Essenraum und Keller",
-         "info": ""
+         "info": "entfällt, V: Bir"
         }
        ]
       },
@@ -14245,7 +14267,7 @@
     },
     "20260923": {
      "datum": "Mittwoch, 23. September 2026",
-     "zeitstempel": "18.09.2026, 10:37",
+     "zeitstempel": "21.09.2026, 08:31",
      "tagesinfo": [
       "Casting: 4. Block; Aula",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:C. Bomke",
@@ -14423,6 +14445,22 @@
          "raum": "K12",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "ph1",
+         "klasse": "11A-11E",
+         "raum": "205",
+         "info": "für Ph Hun",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "ph1",
+         "klasse": "11A-11E",
+         "raum": "205",
+         "info": "für Ph Hun",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15005,6 +15043,22 @@
          "raum": "103",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ph",
+         "klasse": "10D",
+         "raum": "K10",
+         "info": "für Ph Hun",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ph",
+         "klasse": "10D",
+         "raum": "K10",
+         "info": "für Ph Hun",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -15126,35 +15180,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "Ph",
-         "klasse": "10D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 10D Hoh",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ph",
-         "klasse": "10D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 10D Hoh",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "ph1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 11D,11A-11C,11E Bob",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ph1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 11D,11A-11C,11E Bob",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16318,7 +16372,7 @@
     },
     "20260924": {
      "datum": "Donnerstag, 24. September 2026",
-     "zeitstempel": "18.09.2026, 10:37",
+     "zeitstempel": "21.09.2026, 08:31",
      "tagesinfo": [
       "IServ voraussichtlich nicht erreichbar (Info vom KMZ); kein WLAN, keine edu-Mails, kein IServ",
       "Berufsinfobörse in Wismar: Jahrgang 10, 3.+4. Block (V: N. Hering, K. Lan, O. Stu, A. Eul)",
@@ -18306,7 +18360,7 @@
     },
     "20260925": {
      "datum": "Freitag, 25. September 2026",
-     "zeitstempel": "18.09.2026, 10:37",
+     "zeitstempel": "21.09.2026, 08:31",
      "tagesinfo": [
       "Wahl des Schülerrats: 2. Block, R 207 (V: H. Marski)",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Fechner",
