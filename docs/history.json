@@ -370,5 +370,17 @@
    "Std 8 (14:25): Ph 11D,11A-11C,11E Bob"
   ],
   "zeitstempel": "21.09.2026, 08:31"
+ },
+ {
+  "timestamp": "2026-09-21T11:45:10.603508",
+  "lehrer": "*",
+  "datum": "Montag, 21. September 2026",
+  "date_key": "20260921",
+  "changes": [
+   "Hinweis: Jahrgang 10: Gedenkstättenfahrt",
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Flammann",
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
+  ],
+  "zeitstempel": "21.09.2026, 13:43"
  }
 ]

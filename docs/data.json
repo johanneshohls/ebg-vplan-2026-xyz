@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "21.09.2026, 11:40 Uhr",
- "last_changed": "2026-09-21T08:31:00",
+ "generiert": "21.09.2026, 11:45 Uhr",
+ "last_changed": "2026-09-21T13:43:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10205,11 +10205,11 @@
    "tage": {
     "20260921": {
      "datum": "Montag, 21. September 2026",
-     "zeitstempel": "21.09.2026, 08:31",
+     "zeitstempel": "21.09.2026, 13:43",
      "tagesinfo": [
       "Jahrgang 10: Gedenkstättenfahrt",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Flammann",
-      "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
+      "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
      ],
      "lehrer": {
       "Bar": {
@@ -12299,7 +12299,7 @@
     },
     "20260922": {
      "datum": "Dienstag, 22. September 2026",
-     "zeitstempel": "21.09.2026, 08:31",
+     "zeitstempel": "21.09.2026, 13:43",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: I. Feldhusen",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T.Seemann"
@@ -14267,7 +14267,7 @@
     },
     "20260923": {
      "datum": "Mittwoch, 23. September 2026",
-     "zeitstempel": "21.09.2026, 08:31",
+     "zeitstempel": "21.09.2026, 13:43",
      "tagesinfo": [
       "Casting: 4. Block; Aula",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:C. Bomke",
@@ -16372,7 +16372,7 @@
     },
     "20260924": {
      "datum": "Donnerstag, 24. September 2026",
-     "zeitstempel": "21.09.2026, 08:31",
+     "zeitstempel": "21.09.2026, 13:43",
      "tagesinfo": [
       "IServ voraussichtlich nicht erreichbar (Info vom KMZ); kein WLAN, keine edu-Mails, kein IServ",
       "Berufsinfobörse in Wismar: Jahrgang 10, 3.+4. Block (V: N. Hering, K. Lan, O. Stu, A. Eul)",
@@ -18360,7 +18360,7 @@
     },
     "20260925": {
      "datum": "Freitag, 25. September 2026",
-     "zeitstempel": "21.09.2026, 08:31",
+     "zeitstempel": "21.09.2026, 13:43",
      "tagesinfo": [
       "Wahl des Schülerrats: 2. Block, R 207 (V: H. Marski)",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Fechner",
