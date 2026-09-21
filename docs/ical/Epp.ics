@@ -5,66 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Ernst-Barlach-Gymnasium – Epp
 X-WR-CALDESC:Persönlicher Vertretungsplan
-X-WR-LASTUPDATED:20260920T232403Z
-BEGIN:VEVENT
-UID:epp-20260907-tagesinfo@ebg-vplan
-DTSTAMP:20260920T232403Z
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Golla (
- +1)
-DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Golla\nAufsi
- cht auf dem Goetheplatz nach dem 4. Block: S. Pelka
-CATEGORIES:Schule,Hinweis
-END:VEVENT
-BEGIN:VEVENT
-UID:epp-20260908-tagesinfo@ebg-vplan
-DTSTAMP:20260920T232403Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Convent
-  (+1)
-DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Convent\nAuf
- sicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth
-CATEGORIES:Schule,Hinweis
-END:VEVENT
-BEGIN:VEVENT
-UID:epp-20260909-tagesinfo@ebg-vplan
-DTSTAMP:20260920T232403Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Ternes 
- (+2)
-DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Ternes\nAufs
- icht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth\nBeginn der GTS-
- Kurse
-CATEGORIES:Schule,Hinweis
-END:VEVENT
-BEGIN:VEVENT
-UID:epp-20260910-tagesinfo@ebg-vplan
-DTSTAMP:20260920T232403Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Gordetz
- ki (+1)
-DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Gordetzki\nA
- ufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann
-CATEGORIES:Schule,Hinweis
-END:VEVENT
-BEGIN:VEVENT
-UID:epp-20260911-tagesinfo@ebg-vplan
-DTSTAMP:20260920T232403Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Karow (
- +1)
-DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Karow\nAufsi
- cht auf dem Goetheplatz nach dem 4. Block: T. Barth
-CATEGORIES:Schule,Hinweis
-END:VEVENT
+X-WR-LASTUPDATED:20260921T030026Z
 BEGIN:VEVENT
 UID:epp-20260914-tagesinfo@ebg-vplan
-DTSTAMP:20260920T232403Z
+DTSTAMP:20260921T030026Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Besenha
@@ -75,7 +19,7 @@ CATEGORIES:Schule,Hinweis
 END:VEVENT
 BEGIN:VEVENT
 UID:epp-20260915-tagesinfo@ebg-vplan
-DTSTAMP:20260920T232403Z
+DTSTAMP:20260921T030026Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: G. Birzina
@@ -86,7 +30,7 @@ CATEGORIES:Schule,Hinweis
 END:VEVENT
 BEGIN:VEVENT
 UID:epp-20260916-tagesinfo@ebg-vplan
-DTSTAMP:20260920T232403Z
+DTSTAMP:20260921T030026Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Hofmann
@@ -97,7 +41,7 @@ CATEGORIES:Schule,Hinweis
 END:VEVENT
 BEGIN:VEVENT
 UID:epp-20260917-tagesinfo@ebg-vplan
-DTSTAMP:20260920T232403Z
+DTSTAMP:20260921T030026Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Hinweis: Hausaufsicht in der 1. Pause: Frau Isbrandt (Vertretung f
@@ -109,7 +53,7 @@ CATEGORIES:Schule,Hinweis
 END:VEVENT
 BEGIN:VEVENT
 UID:epp-20260918-tagesinfo@ebg-vplan
-DTSTAMP:20260920T232403Z
+DTSTAMP:20260921T030026Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Heimric
@@ -120,7 +64,7 @@ CATEGORIES:Schule,Hinweis
 END:VEVENT
 BEGIN:VEVENT
 UID:epp-20260921-tagesinfo@ebg-vplan
-DTSTAMP:20260920T232403Z
+DTSTAMP:20260921T030026Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Hinweis: Jahrgang 10: Gedenkstättenfahrt (+2)
@@ -131,7 +75,7 @@ CATEGORIES:Schule,Hinweis
 END:VEVENT
 BEGIN:VEVENT
 UID:epp-20260922-tagesinfo@ebg-vplan
-DTSTAMP:20260920T232403Z
+DTSTAMP:20260921T030026Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: I. Feldhus
@@ -142,7 +86,7 @@ CATEGORIES:Schule,Hinweis
 END:VEVENT
 BEGIN:VEVENT
 UID:epp-20260923-tagesinfo@ebg-vplan
-DTSTAMP:20260920T232403Z
+DTSTAMP:20260921T030026Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Hinweis: Casting: 4. Block\; Aula (+2)
@@ -153,7 +97,7 @@ CATEGORIES:Schule,Hinweis
 END:VEVENT
 BEGIN:VEVENT
 UID:epp-20260924-tagesinfo@ebg-vplan
-DTSTAMP:20260920T232403Z
+DTSTAMP:20260921T030026Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Hinweis: IServ voraussichtlich nicht erreichbar (Info vom KMZ)\; ke
@@ -167,7 +111,7 @@ CATEGORIES:Schule,Hinweis
 END:VEVENT
 BEGIN:VEVENT
 UID:epp-20260925-tagesinfo@ebg-vplan
-DTSTAMP:20260920T232403Z
+DTSTAMP:20260921T030026Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Hinweis: Wahl des Schülerrats: 2. Block\, R 207 (V: H. Marski) (+2
