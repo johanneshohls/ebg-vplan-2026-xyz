@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "21.09.2026, 06:05 Uhr",
- "last_changed": "2026-09-20T11:27:00",
+ "generiert": "21.09.2026, 06:10 Uhr",
+ "last_changed": "2026-09-21T08:09:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10205,7 +10205,7 @@
    "tage": {
     "20260921": {
      "datum": "Montag, 21. September 2026",
-     "zeitstempel": "20.09.2026, 11:27",
+     "zeitstempel": "21.09.2026, 08:09",
      "tagesinfo": [
       "Jahrgang 10: Gedenkstättenfahrt",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Flammann",
@@ -11673,17 +11673,17 @@
          "stunde": "3",
          "fach": "Ch",
          "klasse": "9C",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Ch Pel, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Ch",
          "klasse": "9C",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Ch Pel, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
