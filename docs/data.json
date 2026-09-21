@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "21.09.2026, 15:05 Uhr",
- "last_changed": "2026-09-21T13:43:00",
+ "generiert": "21.09.2026, 15:10 Uhr",
+ "last_changed": "2026-09-21T17:06:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12299,7 +12299,7 @@
     },
     "20260922": {
      "datum": "Dienstag, 22. September 2026",
-     "zeitstempel": "21.09.2026, 13:43",
+     "zeitstempel": "21.09.2026, 17:06",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: I. Feldhusen",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T.Seemann"
@@ -12663,7 +12663,40 @@
        "aufsichten": []
       },
       "Eul": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Fr",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "für Fr Hei, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Fr",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "für Fr Hei, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "Fr",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für Fr Hei, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Fr",
+         "klasse": "7A",
+         "raum": "002",
+         "info": "für Fr Hei, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Fech": {
@@ -12873,61 +12906,54 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Fr",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 8A Eul, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Fr",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 8A Eul, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Fr",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 7A Eul, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Fr",
-         "klasse": "7A",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 7A Eul, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "pro2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Pro2 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "pro2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Pro2 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "1",
-         "uhrzeit": "07:10",
-         "ort": "Haus, WCs, Caféteria",
-         "info": "für Rat"
-        }
-       ]
+       "aufsichten": []
       },
       "Her": {
        "entries": [
@@ -13241,6 +13267,22 @@
          "raum": "006",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Ge",
+         "klasse": "10B",
+         "raum": "102",
+         "info": "für Ge Schud",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ge",
+         "klasse": "10B",
+         "raum": "102",
+         "info": "für Ge Schud",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13789,6 +13831,22 @@
          "raum": "107",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "ILZ",
+         "klasse": "10B",
+         "raum": "207",
+         "info": "für ILZ Schud",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "ILZ",
+         "klasse": "10B",
+         "raum": "207",
+         "info": "für ILZ Schud",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13857,11 +13915,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "Ku",
+         "klasse": "10C",
+         "raum": "207",
+         "info": "für Ku Schud",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "ere2 12A-12D fällt aus, Teilnahme am Abschlusskonzert  am 20.09.",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ku",
+         "klasse": "10C",
+         "raum": "207",
+         "info": "für Ku Schud",
          "geaendert": true
         }
        ],
@@ -13870,7 +13944,7 @@
          "vor_stunde": "1",
          "uhrzeit": "07:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": "entfällt, V: Hei"
+         "info": ""
         }
        ]
       },
@@ -13952,51 +14026,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ku",
-         "klasse": "10C",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 10C Rat",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ku",
-         "klasse": "10C",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 10C Rat",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Ge",
-         "klasse": "10B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10B Isb",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ge",
-         "klasse": "10B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10B Isb",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "ILZ",
-         "klasse": "10B",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10B Pri",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "ILZ",
-         "klasse": "10B",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10B Pri",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14267,7 +14341,7 @@
     },
     "20260923": {
      "datum": "Mittwoch, 23. September 2026",
-     "zeitstempel": "21.09.2026, 13:43",
+     "zeitstempel": "21.09.2026, 17:06",
      "tagesinfo": [
       "Casting: 4. Block; Aula",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:C. Bomke",
@@ -14844,51 +14918,51 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Fr",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 8A Ost, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Fr",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 8A Ost, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "GEO1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 11D,11A-11C,11E Mue, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "GEO1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 11D,11A-11C,11E Mue, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "GS05",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS05 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS05",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS05 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15667,6 +15741,22 @@
          "raum": "Tu2",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "GEO1",
+         "klasse": "11A-11E",
+         "raum": "105",
+         "info": "für Geo Hei, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "GEO1",
+         "klasse": "11A-11E",
+         "raum": "105",
+         "info": "für Geo Hei, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15713,6 +15803,22 @@
          "raum": "Co2",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Fr",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "für Fr Hei, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Fr",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "für Fr Hei, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -16372,7 +16478,7 @@
     },
     "20260924": {
      "datum": "Donnerstag, 24. September 2026",
-     "zeitstempel": "21.09.2026, 13:43",
+     "zeitstempel": "21.09.2026, 17:06",
      "tagesinfo": [
       "IServ voraussichtlich nicht erreichbar (Info vom KMZ); kein WLAN, keine edu-Mails, kein IServ",
       "Berufsinfobörse in Wismar: Jahrgang 10, 3.+4. Block (V: N. Hering, K. Lan, O. Stu, A. Eul)",
@@ -18360,7 +18466,7 @@
     },
     "20260925": {
      "datum": "Freitag, 25. September 2026",
-     "zeitstempel": "21.09.2026, 13:43",
+     "zeitstempel": "21.09.2026, 17:06",
      "tagesinfo": [
       "Wahl des Schülerrats: 2. Block, R 207 (V: H. Marski)",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Fechner",

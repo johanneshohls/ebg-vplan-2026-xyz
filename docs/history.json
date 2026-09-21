@@ -382,5 +382,122 @@
    "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
   ],
   "zeitstempel": "21.09.2026, 13:43"
+ },
+ {
+  "timestamp": "2026-09-21T15:10:12.030102",
+  "lehrer": "Eul",
+  "datum": "Dienstag, 22. September 2026",
+  "date_key": "20260922",
+  "changes": [
+   "Std 1 (07:40): für Fr Hei, s. IServ: Aufgaben durch FL erteilt",
+   "Std 2 (08:25): für Fr Hei, s. IServ: Aufgaben durch FL erteilt",
+   "Std 3 (09:40): für Fr Hei, s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): für Fr Hei, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "21.09.2026, 17:06"
+ },
+ {
+  "timestamp": "2026-09-21T15:10:12.030102",
+  "lehrer": "Hei",
+  "datum": "Dienstag, 22. September 2026",
+  "date_key": "20260922",
+  "changes": [
+   "Std 1 (07:40): Fr 8A Eul, s. IServ: Aufgaben durch FL erteilt",
+   "Std 2 (08:25): Fr 8A Eul, s. IServ: Aufgaben durch FL erteilt",
+   "Std 3 (09:40): Fr 7A Eul, s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): Fr 7A Eul, s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): Pro2 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): Pro2 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "21.09.2026, 17:06"
+ },
+ {
+  "timestamp": "2026-09-21T15:10:12.030102",
+  "lehrer": "Isb",
+  "datum": "Dienstag, 22. September 2026",
+  "date_key": "20260922",
+  "changes": [
+   "Std 3 (09:40): für Ge Schud",
+   "Std 4 (10:25): für Ge Schud"
+  ],
+  "zeitstempel": "21.09.2026, 17:06"
+ },
+ {
+  "timestamp": "2026-09-21T15:10:12.030102",
+  "lehrer": "Pri",
+  "datum": "Dienstag, 22. September 2026",
+  "date_key": "20260922",
+  "changes": [
+   "Std 5 (11:40): für ILZ Schud",
+   "Std 6 (12:25): für ILZ Schud"
+  ],
+  "zeitstempel": "21.09.2026, 17:06"
+ },
+ {
+  "timestamp": "2026-09-21T15:10:12.030102",
+  "lehrer": "Rat",
+  "datum": "Dienstag, 22. September 2026",
+  "date_key": "20260922",
+  "changes": [
+   "Std 1 (07:40): ere2 12A-12D fällt aus, Teilnahme am Abschlusskonzert  am 20.09.",
+   "Std 1 (07:40): für Ku Schud",
+   "Std 2 (08:25): ere2 12A-12D fällt aus, Teilnahme am Abschlusskonzert  am 20.09.",
+   "Std 2 (08:25): für Ku Schud"
+  ],
+  "zeitstempel": "21.09.2026, 17:06"
+ },
+ {
+  "timestamp": "2026-09-21T15:10:12.030102",
+  "lehrer": "Schud",
+  "datum": "Dienstag, 22. September 2026",
+  "date_key": "20260922",
+  "changes": [
+   "Std 1 (07:40): Ku 10C Rat",
+   "Std 2 (08:25): Ku 10C Rat",
+   "Std 3 (09:40): Ge 10B Isb",
+   "Std 4 (10:25): Ge 10B Isb",
+   "Std 5 (11:40): ILZ 10B Pri",
+   "Std 6 (12:25): ILZ 10B Pri"
+  ],
+  "zeitstempel": "21.09.2026, 17:06"
+ },
+ {
+  "timestamp": "2026-09-21T15:10:12.030102",
+  "lehrer": "Hei",
+  "datum": "Mittwoch, 23. September 2026",
+  "date_key": "20260923",
+  "changes": [
+   "Std 3 (09:40): Fr 8A Ost, s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): Fr 8A Ost, s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): Geo 11D,11A-11C,11E Mue, s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): Geo 11D,11A-11C,11E Mue, s. IServ: Aufgaben durch FL erteilt",
+   "Std 7 (13:40): GS05 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS05 7A-7D,8A-8E fällt aus"
+  ],
+  "zeitstempel": "21.09.2026, 17:06"
+ },
+ {
+  "timestamp": "2026-09-21T15:10:12.030102",
+  "lehrer": "Mue",
+  "datum": "Mittwoch, 23. September 2026",
+  "date_key": "20260923",
+  "changes": [
+   "Std 5 (11:40): für Geo Hei, s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): für Geo Hei, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "21.09.2026, 17:06"
+ },
+ {
+  "timestamp": "2026-09-21T15:10:12.030102",
+  "lehrer": "Ost",
+  "datum": "Mittwoch, 23. September 2026",
+  "date_key": "20260923",
+  "changes": [
+   "Std 3 (09:40): für Fr Hei, s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): für Fr Hei, s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): Bio 7A gehalten am Mo (21.09.) St.5",
+   "Std 6 (12:25): Bio 7A gehalten am Mo (21.09.) St.6"
+  ],
+  "zeitstempel": "21.09.2026, 17:06"
  }
 ]
