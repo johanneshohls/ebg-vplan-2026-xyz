@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "22.09.2026, 04:25 Uhr",
- "last_changed": "2026-09-21T17:06:00",
+ "generiert": "22.09.2026, 04:30 Uhr",
+ "last_changed": "2026-09-22T06:30:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12299,10 +12299,10 @@
     },
     "20260922": {
      "datum": "Dienstag, 22. September 2026",
-     "zeitstempel": "21.09.2026, 17:06",
+     "zeitstempel": "22.09.2026, 06:30",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: I. Feldhusen",
-      "Aufsicht auf dem Goetheplatz nach dem 4. Block: T.Seemann"
+      "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
      ],
      "lehrer": {
       "Bar": {
@@ -14341,7 +14341,7 @@
     },
     "20260923": {
      "datum": "Mittwoch, 23. September 2026",
-     "zeitstempel": "21.09.2026, 17:06",
+     "zeitstempel": "22.09.2026, 06:30",
      "tagesinfo": [
       "Casting: 4. Block; Aula",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:C. Bomke",
@@ -16478,12 +16478,12 @@
     },
     "20260924": {
      "datum": "Donnerstag, 24. September 2026",
-     "zeitstempel": "21.09.2026, 17:06",
+     "zeitstempel": "22.09.2026, 06:30",
      "tagesinfo": [
-      "IServ voraussichtlich nicht erreichbar (Info vom KMZ); kein WLAN, keine edu-Mails, kein IServ",
+      "IServ voraussichtlich nicht erreichbar (Info vom KMZ)",
       "Berufsinfobörse in Wismar: Jahrgang 10, 3.+4. Block (V: N. Hering, K. Lan, O. Stu, A. Eul)",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Schilling",
-      "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
+      "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
      ],
      "lehrer": {
       "Bar": {
@@ -18466,7 +18466,7 @@
     },
     "20260925": {
      "datum": "Freitag, 25. September 2026",
-     "zeitstempel": "21.09.2026, 17:06",
+     "zeitstempel": "22.09.2026, 06:30",
      "tagesinfo": [
       "Wahl des Schülerrats: 2. Block, R 207 (V: H. Marski)",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Fechner",
