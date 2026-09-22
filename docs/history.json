@@ -484,5 +484,68 @@
    "Std 6 (12:25): für Geo See, Raumänderung"
   ],
   "zeitstempel": "22.09.2026, 06:44"
+ },
+ {
+  "timestamp": "2026-09-22T11:25:12.297827",
+  "lehrer": "Bes",
+  "datum": "Mittwoch, 23. September 2026",
+  "date_key": "20260923",
+  "changes": [
+   "Std 7 (13:40): GS07 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS07 7A-7D,8A-8E fällt aus"
+  ],
+  "zeitstempel": "22.09.2026, 13:21"
+ },
+ {
+  "timestamp": "2026-09-22T11:25:12.297827",
+  "lehrer": "Bir",
+  "datum": "Mittwoch, 23. September 2026",
+  "date_key": "20260923",
+  "changes": [
+   "Std 3 (09:40): für Sk Lie",
+   "Std 4 (10:25): für Sk Lie",
+   "Std 9 (15:40): mue2 12A-12D fällt aus, Teilnahme am Abschlusskonzert  am 20.09.",
+   "Std 10 (16:25): mue2 12A-12D fällt aus, Teilnahme am Abschlusskonzert  am 20.09."
+  ],
+  "zeitstempel": "22.09.2026, 13:21"
+ },
+ {
+  "timestamp": "2026-09-22T11:25:12.297827",
+  "lehrer": "Con",
+  "datum": "Mittwoch, 23. September 2026",
+  "date_key": "20260923",
+  "changes": [
+   "Std 5 (11:40): für Sk Lie",
+   "Std 6 (12:25): für Sk Lie"
+  ],
+  "zeitstempel": "22.09.2026, 13:21"
+ },
+ {
+  "timestamp": "2026-09-22T11:25:12.297827",
+  "lehrer": "Gor",
+  "datum": "Mittwoch, 23. September 2026",
+  "date_key": "20260923",
+  "changes": [
+   "Std 1 (07:40): für Ge Lie",
+   "Std 2 (08:25): für Ge Lie"
+  ],
+  "zeitstempel": "22.09.2026, 13:21"
+ },
+ {
+  "timestamp": "2026-09-22T11:25:12.297827",
+  "lehrer": "Lie",
+  "datum": "Mittwoch, 23. September 2026",
+  "date_key": "20260923",
+  "changes": [
+   "Std 1 (07:40): Ge 7D Gor",
+   "Std 2 (08:25): Ge 7D Gor",
+   "Std 3 (09:40): Mu 8B Bir (für Sk)",
+   "Std 4 (10:25): Mu 8B Bir (für Sk)",
+   "Std 5 (11:40): Ma 7D Con (für Sk)",
+   "Std 6 (12:25): Ma 7D Con (für Sk)",
+   "Std 7 (13:40): Sk 9A fällt aus",
+   "Std 8 (14:25): Sk 9A fällt aus"
+  ],
+  "zeitstempel": "22.09.2026, 13:21"
  }
 ]

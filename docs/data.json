@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "22.09.2026, 11:20 Uhr",
- "last_changed": "2026-09-22T06:44:00",
+ "generiert": "22.09.2026, 11:25 Uhr",
+ "last_changed": "2026-09-22T13:21:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14341,7 +14341,7 @@
     },
     "20260923": {
      "datum": "Mittwoch, 23. September 2026",
-     "zeitstempel": "22.09.2026, 06:30",
+     "zeitstempel": "22.09.2026, 13:21",
      "tagesinfo": [
       "Casting: 4. Block; Aula",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:C. Bomke",
@@ -14405,19 +14405,19 @@
         },
         {
          "stunde": "7",
-         "fach": "GS07",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS07 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS07",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS07 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -14431,6 +14431,22 @@
       },
       "Bir": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "Mu",
+         "klasse": "8B",
+         "raum": "008",
+         "info": "für Sk Lie",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Mu",
+         "klasse": "8B",
+         "raum": "008",
+         "info": "für Sk Lie",
+         "geaendert": true
+        },
         {
          "stunde": "7",
          "fach": "GS03",
@@ -14699,6 +14715,22 @@
          "raum": "K09",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "7D",
+         "raum": "005",
+         "info": "für Sk Lie",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "7D",
+         "raum": "005",
+         "info": "für Sk Lie",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14879,6 +14911,22 @@
       },
       "Gor": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Ge",
+         "klasse": "7D",
+         "raum": "005",
+         "info": "für Ge Lie",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ge",
+         "klasse": "7D",
+         "raum": "005",
+         "info": "für Ge Lie",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "GE2",
@@ -15567,67 +15615,67 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ge",
-         "klasse": "7D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 7D Gor",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ge",
-         "klasse": "7D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 7D Gor",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Sk",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 8B Bir (für Sk)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Sk",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 8B Bir (für Sk)",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Sk",
-         "klasse": "7D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7D Con (für Sk)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Sk",
-         "klasse": "7D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7D Con (für Sk)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Sk",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 9A fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Sk",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 9A fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
