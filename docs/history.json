@@ -1,53 +1,5 @@
 [
  {
-  "timestamp": "2026-09-15T05:45:11.775796",
-  "lehrer": "Bes",
-  "datum": "Mittwoch, 16. September 2026",
-  "date_key": "20260916",
-  "changes": [
-   "Std 3 (09:40): für De Fech, Bitte Rücksprache mit J. Hohls halten.",
-   "Std 4 (10:25): für De Fech, Bitte Rücksprache mit J. Hohls halten."
-  ],
-  "zeitstempel": "15.09.2026, 07:42"
- },
- {
-  "timestamp": "2026-09-15T05:45:11.775796",
-  "lehrer": "Fech",
-  "datum": "Mittwoch, 16. September 2026",
-  "date_key": "20260916",
-  "changes": [
-   "Std 1 (07:40): De 8B Jur",
-   "Std 2 (08:25): De 8B Jur",
-   "Std 3 (09:40): Ma 9A Bes (für De), Bitte Rücksprache mit J. Hohls halten.",
-   "Std 4 (10:25): Ma 9A Bes (für De), Bitte Rücksprache mit J. Hohls halten.",
-   "Std 7 (13:40): GS09 7A-7D,8A-8E Ost",
-   "Std 8 (14:25): GS09 7A-7D,8A-8E Ost"
-  ],
-  "zeitstempel": "15.09.2026, 07:42"
- },
- {
-  "timestamp": "2026-09-15T05:45:11.775796",
-  "lehrer": "Jur",
-  "datum": "Mittwoch, 16. September 2026",
-  "date_key": "20260916",
-  "changes": [
-   "Std 1 (07:40): für De Fech",
-   "Std 2 (08:25): für De Fech"
-  ],
-  "zeitstempel": "15.09.2026, 07:42"
- },
- {
-  "timestamp": "2026-09-15T05:45:11.775796",
-  "lehrer": "Ost",
-  "datum": "Mittwoch, 16. September 2026",
-  "date_key": "20260916",
-  "changes": [
-   "Std 7 (13:40): für GS09 Fech",
-   "Std 8 (14:25): für GS09 Fech"
-  ],
-  "zeitstempel": "15.09.2026, 07:42"
- },
- {
   "timestamp": "2026-09-15T07:20:14.369174",
   "lehrer": "Bes",
   "datum": "Mittwoch, 16. September 2026",
