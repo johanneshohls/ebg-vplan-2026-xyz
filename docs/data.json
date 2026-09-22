@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "22.09.2026, 04:40 Uhr",
- "last_changed": "2026-09-22T06:30:00",
+ "generiert": "22.09.2026, 04:45 Uhr",
+ "last_changed": "2026-09-22T06:44:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12299,7 +12299,7 @@
     },
     "20260922": {
      "datum": "Dienstag, 22. September 2026",
-     "zeitstempel": "22.09.2026, 06:30",
+     "zeitstempel": "22.09.2026, 06:44",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: I. Feldhusen",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
@@ -13799,17 +13799,17 @@
          "stunde": "5",
          "fach": "Ch",
          "klasse": "9A",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Ch Pel, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Ch",
          "klasse": "9A",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Ch Pel, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14097,17 +14097,17 @@
          "stunde": "5",
          "fach": "Geo",
          "klasse": "9C",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "K07",
+         "info": "für Geo See, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Geo",
          "klasse": "9C",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "K07",
+         "info": "für Geo See, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
