@@ -499,5 +499,29 @@
    "Std 6 (12:25): Bio 7A gehalten am Mo (21.09.) St.6"
   ],
   "zeitstempel": "21.09.2026, 17:06"
+ },
+ {
+  "timestamp": "2026-09-22T04:35:45.968928",
+  "lehrer": "*",
+  "datum": "Dienstag, 22. September 2026",
+  "date_key": "20260922",
+  "changes": [
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: I. Feldhusen",
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
+  ],
+  "zeitstempel": "22.09.2026, 06:30"
+ },
+ {
+  "timestamp": "2026-09-22T04:35:45.968928",
+  "lehrer": "*",
+  "datum": "Donnerstag, 24. September 2026",
+  "date_key": "20260924",
+  "changes": [
+   "Hinweis: IServ voraussichtlich nicht erreichbar (Info vom KMZ)",
+   "Hinweis: Berufsinfobörse in Wismar: Jahrgang 10, 3.+4. Block (V: N. Hering, K. Lan, O. Stu, A. Eul)",
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Schilling",
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
+  ],
+  "zeitstempel": "22.09.2026, 06:30"
  }
 ]
