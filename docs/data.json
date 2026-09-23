@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "23.09.2026, 07:05 Uhr",
- "last_changed": "2026-09-22T13:21:00",
+ "generiert": "23.09.2026, 07:10 Uhr",
+ "last_changed": "2026-09-23T09:07:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14341,7 +14341,7 @@
     },
     "20260923": {
      "datum": "Mittwoch, 23. September 2026",
-     "zeitstempel": "22.09.2026, 13:21",
+     "zeitstempel": "23.09.2026, 09:07",
      "tagesinfo": [
       "Casting: 4. Block; Aula",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:C. Bomke",
@@ -14435,7 +14435,7 @@
          "stunde": "3",
          "fach": "Mu",
          "klasse": "8B",
-         "raum": "008",
+         "raum": "107",
          "info": "für Sk Lie",
          "geaendert": true
         },
@@ -14443,7 +14443,7 @@
          "stunde": "4",
          "fach": "Mu",
          "klasse": "8B",
-         "raum": "008",
+         "raum": "107",
          "info": "für Sk Lie",
          "geaendert": true
         },
@@ -15467,17 +15467,17 @@
          "stunde": "3",
          "fach": "Span",
          "klasse": "8E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für Span Köh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Span",
          "klasse": "8E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für Span Köh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -15678,6 +15678,14 @@
          "geaendert": true
         }
        ],
+       "aufsichten": []
+      },
+      "LX": {
+       "entries": [],
+       "aufsichten": []
+      },
+      "LY": {
+       "entries": [],
        "aufsichten": []
       },
       "Mar": {
