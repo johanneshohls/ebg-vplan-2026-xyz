@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "23.09.2026, 14:30 Uhr",
- "last_changed": "2026-09-23T16:27:00",
+ "generiert": "23.09.2026, 14:35 Uhr",
+ "last_changed": "2026-09-23T16:33:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16550,7 +16550,7 @@
     },
     "20260924": {
      "datum": "Donnerstag, 24. September 2026",
-     "zeitstempel": "23.09.2026, 16:27",
+     "zeitstempel": "23.09.2026, 16:33",
      "tagesinfo": [
       "IServ voraussichtlich nicht erreichbar (Info vom KMZ)",
       "Berufsinfobörse in Wismar: Jahrgang 10, 3.+4. Block (V: N. Hering, K. Lan, O. Stu, A. Eul)",
@@ -16626,51 +16626,51 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "mue2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "107 106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 11D,11A-11C,11E selbst. (v), Arbeit an Mu-Theorie",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "mue2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "107 106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 11D,11A-11C,11E selbst. (v), Arbeit an Mu-Theorie",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Mu",
-         "klasse": "7C",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 7C fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Mu",
-         "klasse": "7C",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 7C fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "9",
-         "fach": "mue1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 11D,11A-11C,11E selbst. (v), Arbeit an Mu-Theorie; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "10",
-         "fach": "mue1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 11D,11A-11C,11E selbst. (v), Arbeit an Mu-Theorie; kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []

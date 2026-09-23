@@ -560,5 +560,20 @@
    "Std 4 (10:25): für De Ost, Raumänderung"
   ],
   "zeitstempel": "23.09.2026, 14:47"
+ },
+ {
+  "timestamp": "2026-09-23T14:35:13.414728",
+  "lehrer": "Bir",
+  "datum": "Donnerstag, 24. September 2026",
+  "date_key": "20260924",
+  "changes": [
+   "Std 5 (11:40): MUE 11D,11A-11C,11E selbst. (v), Arbeit an Mu-Theorie",
+   "Std 6 (12:25): MUE 11D,11A-11C,11E selbst. (v), Arbeit an Mu-Theorie",
+   "Std 7 (13:40): Mu 7C fällt aus",
+   "Std 8 (14:25): Mu 7C fällt aus",
+   "Std 9 (15:40): MUE 11D,11A-11C,11E selbst. (v), Arbeit an Mu-Theorie; kann zu Hause erledigt werden",
+   "Std 10 (16:25): MUE 11D,11A-11C,11E selbst. (v), Arbeit an Mu-Theorie; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "23.09.2026, 16:33"
  }
 ]
