@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "23.09.2026, 07:30 Uhr",
- "last_changed": "2026-09-23T09:07:00",
+ "generiert": "23.09.2026, 07:35 Uhr",
+ "last_changed": "2026-09-23T09:33:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14341,7 +14341,7 @@
     },
     "20260923": {
      "datum": "Mittwoch, 23. September 2026",
-     "zeitstempel": "23.09.2026, 09:07",
+     "zeitstempel": "23.09.2026, 09:33",
      "tagesinfo": [
       "Casting: 4. Block; Aula",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:C. Bomke",
@@ -14449,19 +14449,35 @@
         },
         {
          "stunde": "7",
-         "fach": "GS03",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS03 7A-7D,8A-8E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Thea",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Casting; GS03 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS03",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS03 7A-7D,8A-8E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Thea",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "Casting; GS03 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "9",

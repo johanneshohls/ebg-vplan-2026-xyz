@@ -532,5 +532,22 @@
    "Std 4 (10:25): für Span Köh, Raumänderung"
   ],
   "zeitstempel": "23.09.2026, 09:07"
+ },
+ {
+  "timestamp": "2026-09-23T07:35:10.691761",
+  "lehrer": "Bir",
+  "datum": "Mittwoch, 23. September 2026",
+  "date_key": "20260923",
+  "changes": [
+   "Std 3 (09:40): für Sk Lie",
+   "Std 4 (10:25): für Sk Lie",
+   "Std 7 (13:40): GS03 7A-7D,8A-8E fällt aus",
+   "Std 7 (13:40): Casting; GS03 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS03 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): Casting; GS03 7A-7D,8A-8E fällt aus",
+   "Std 9 (15:40): mue2 12A-12D fällt aus, Teilnahme am Abschlusskonzert  am 20.09.",
+   "Std 10 (16:25): mue2 12A-12D fällt aus, Teilnahme am Abschlusskonzert  am 20.09."
+  ],
+  "zeitstempel": "23.09.2026, 09:33"
  }
 ]
