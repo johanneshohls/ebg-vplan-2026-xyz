@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "23.09.2026, 10:50 Uhr",
- "last_changed": "2026-09-23T09:40:00",
+ "generiert": "23.09.2026, 10:55 Uhr",
+ "last_changed": "2026-09-23T12:54:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14341,7 +14341,7 @@
     },
     "20260923": {
      "datum": "Mittwoch, 23. September 2026",
-     "zeitstempel": "23.09.2026, 09:40",
+     "zeitstempel": "23.09.2026, 12:54",
      "tagesinfo": [
       "Casting: 4. Block; Aula",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:C. Bomke",
@@ -16550,7 +16550,7 @@
     },
     "20260924": {
      "datum": "Donnerstag, 24. September 2026",
-     "zeitstempel": "23.09.2026, 09:40",
+     "zeitstempel": "23.09.2026, 12:54",
      "tagesinfo": [
       "IServ voraussichtlich nicht erreichbar (Info vom KMZ)",
       "Berufsinfobörse in Wismar: Jahrgang 10, 3.+4. Block (V: N. Hering, K. Lan, O. Stu, A. Eul)",
@@ -18546,7 +18546,7 @@
     },
     "20260925": {
      "datum": "Freitag, 25. September 2026",
-     "zeitstempel": "23.09.2026, 09:40",
+     "zeitstempel": "23.09.2026, 12:54",
      "tagesinfo": [
       "Wahl des Schülerrats: 2. Block, R 207 (V: H. Marski)",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Fechner",
@@ -20427,7 +20427,7 @@
    "tage": {
     "20260928": {
      "datum": "Montag, 28. September 2026",
-     "zeitstempel": "23.09.2026, 09:40",
+     "zeitstempel": "23.09.2026, 12:54",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Brincker",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: N. Hering"
@@ -22485,7 +22485,7 @@
     },
     "20260929": {
      "datum": "Dienstag, 29. September 2026",
-     "zeitstempel": "23.09.2026, 09:40",
+     "zeitstempel": "23.09.2026, 12:54",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. O. Lopez",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -24598,7 +24598,7 @@
     },
     "20260930": {
      "datum": "Mittwoch, 30. September 2026",
-     "zeitstempel": "23.09.2026, 09:40",
+     "zeitstempel": "23.09.2026, 12:54",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 12",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Jurat",
@@ -25494,18 +25494,18 @@
         {
          "stunde": "3",
          "fach": "ch1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "205",
+         "info": "für Ch Hun, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "ch1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "205",
+         "info": "für Ch Hun, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -25538,35 +25538,67 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "9C",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9C verlegt nach St.5",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "9C",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9C verlegt nach St.6",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "KILZ",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 9C verlegt nach St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
          "klasse": "9C",
          "raum": "003",
-         "info": "",
-         "geaendert": false
+         "info": "De 9C verlegt von St.3; KILZ 9C verlegt nach St.7",
+         "geaendert": true
         },
         {
          "stunde": "6",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 9C verlegt nach St.8",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "9C",
+         "raum": "003",
+         "info": "De 9C verlegt von St.4; KILZ 9C verlegt nach St.8",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
          "fach": "KILZ",
          "klasse": "9C",
          "raum": "003",
-         "info": "",
-         "geaendert": false
+         "info": "KILZ 9C verlegt von St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "KILZ",
+         "klasse": "9C",
+         "raum": "003",
+         "info": "KILZ 9C verlegt von St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -26039,6 +26071,22 @@
       "Pel": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "9C",
+         "raum": "201",
+         "info": "Bio 9C statt Fr (02.10.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Bio",
+         "klasse": "9C",
+         "raum": "201",
+         "info": "Bio 9C statt Fr (02.10.) St.6",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Ch",
          "klasse": "9A",
@@ -26053,22 +26101,6 @@
          "raum": "K12",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "Bio",
-         "klasse": "9C",
-         "raum": "204",
-         "info": "Bio 9C statt Fr (02.10.) St.5",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Bio",
-         "klasse": "9C",
-         "raum": "204",
-         "info": "Bio 9C statt Fr (02.10.) St.6",
-         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -26624,7 +26656,7 @@
     },
     "20261001": {
      "datum": "Donnerstag, 01. Oktober 2026",
-     "zeitstempel": "23.09.2026, 09:40",
+     "zeitstempel": "23.09.2026, 12:54",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: K. Langendorf",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth"
@@ -28576,7 +28608,7 @@
     },
     "20261002": {
      "datum": "Freitag, 02. Oktober 2026",
-     "zeitstempel": "23.09.2026, 09:40",
+     "zeitstempel": "23.09.2026, 12:54",
      "tagesinfo": [
       "zentraler Nachschreibetermin: 4. Block; Aula",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Leußner",
@@ -30183,7 +30215,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 9C gehalten am Mi (30.09.) St.7",
+         "info": "Bio 9C gehalten am Mi (30.09.) St.3",
          "geaendert": true
         },
         {
@@ -30191,7 +30223,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Bio 9C gehalten am Mi (30.09.) St.8",
+         "info": "Bio 9C gehalten am Mi (30.09.) St.4",
          "geaendert": true
         }
        ],
