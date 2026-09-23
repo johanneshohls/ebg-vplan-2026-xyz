@@ -1,16 +1,5 @@
 [
  {
-  "timestamp": "2026-09-16T06:30:10.870311",
-  "lehrer": "Neu",
-  "datum": "Mittwoch, 16. September 2026",
-  "date_key": "20260916",
-  "changes": [
-   "Std 7 (13:40): GS06 7A-7D,8A-8E fällt aus",
-   "Std 8 (14:25): GS06 7A-7D,8A-8E fällt aus"
-  ],
-  "zeitstempel": "16.09.2026, 08:29"
- },
- {
   "timestamp": "2026-09-16T13:05:45.897573",
   "lehrer": "Bir",
   "datum": "Donnerstag, 17. September 2026",
