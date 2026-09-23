@@ -549,5 +549,15 @@
    "Std 10 (16:25): mue2 12A-12D fällt aus, Teilnahme am Abschlusskonzert  am 20.09."
   ],
   "zeitstempel": "23.09.2026, 09:33"
+ },
+ {
+  "timestamp": "2026-09-23T07:40:11.431482",
+  "lehrer": "Hun",
+  "datum": "Donnerstag, 24. September 2026",
+  "date_key": "20260924",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "23.09.2026, 09:40"
  }
 ]
