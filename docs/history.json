@@ -1,35 +1,5 @@
 [
  {
-  "timestamp": "2026-09-17T13:55:11.131442",
-  "lehrer": "Fel",
-  "datum": "Freitag, 18. September 2026",
-  "date_key": "20260918",
-  "changes": [
-   "Std 5 (11:40): De 10C Tuh (für Span)",
-   "Std 6 (12:25): De 10C Tuh (für Span)",
-   "Std 7 (13:40): Span 12A-12D selbst. (v), Arbeit am Stoff der vergangenen Stunden",
-   "Std 8 (14:25): Span 12A-12D selbst. (v), Arbeit am Stoff der vergangenen Stunden",
-   "Std 9 (15:40): KL 10C fällt aus",
-   "Std 10 (16:25): KL 10C fällt aus"
-  ],
-  "zeitstempel": "17.09.2026, 15:53"
- },
- {
-  "timestamp": "2026-09-17T13:55:11.131442",
-  "lehrer": "Tuh",
-  "datum": "Freitag, 18. September 2026",
-  "date_key": "20260918",
-  "changes": [
-   "Std 1 (07:40): für De Tuh, Raumänderung",
-   "Std 2 (08:25): für De Tuh, Raumänderung",
-   "Std 3 (09:40): für De Tuh, Raumänderung",
-   "Std 4 (10:25): für De Tuh, Raumänderung",
-   "Std 5 (11:40): für Span Fel",
-   "Std 6 (12:25): für Span Fel"
-  ],
-  "zeitstempel": "17.09.2026, 15:53"
- },
- {
   "timestamp": "2026-09-18T05:05:11.248425",
   "lehrer": "Fel",
   "datum": "Freitag, 18. September 2026",
