@@ -1,27 +1,5 @@
 [
  {
-  "timestamp": "2026-09-17T09:50:10.676754",
-  "lehrer": "Fech",
-  "datum": "Freitag, 18. September 2026",
-  "date_key": "20260918",
-  "changes": [
-   "Std 1 (07:40): De 8E Ter",
-   "Std 2 (08:25): De 8E Ter"
-  ],
-  "zeitstempel": "17.09.2026, 11:47"
- },
- {
-  "timestamp": "2026-09-17T09:50:10.676754",
-  "lehrer": "Ter",
-  "datum": "Freitag, 18. September 2026",
-  "date_key": "20260918",
-  "changes": [
-   "Std 1 (07:40): für De Fech",
-   "Std 2 (08:25): für De Fech"
-  ],
-  "zeitstempel": "17.09.2026, 11:47"
- },
- {
   "timestamp": "2026-09-17T13:55:11.131442",
   "lehrer": "Fel",
   "datum": "Freitag, 18. September 2026",
