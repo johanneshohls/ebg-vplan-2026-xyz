@@ -1,27 +1,5 @@
 [
  {
-  "timestamp": "2026-09-17T04:10:10.052806",
-  "lehrer": "Kno",
-  "datum": "Mittwoch, 23. September 2026",
-  "date_key": "20260923",
-  "changes": [
-   "Std 5 (11:40): AWT 8E verlegt nach Fr (25.09.) St.3",
-   "Std 6 (12:25): AWT 8E verlegt nach Fr (25.09.) St.4"
-  ],
-  "zeitstempel": "17.09.2026, 06:06"
- },
- {
-  "timestamp": "2026-09-17T04:10:10.052806",
-  "lehrer": "Mar",
-  "datum": "Mittwoch, 23. September 2026",
-  "date_key": "20260923",
-  "changes": [
-   "Std 5 (11:40): En 8E statt Fr (25.09.) St.3",
-   "Std 6 (12:25): En 8E statt Fr (25.09.) St.4"
-  ],
-  "zeitstempel": "17.09.2026, 06:06"
- },
- {
   "timestamp": "2026-09-17T09:50:10.676754",
   "lehrer": "Fech",
   "datum": "Freitag, 18. September 2026",
