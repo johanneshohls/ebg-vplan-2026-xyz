@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "24.09.2026, 11:25 Uhr",
- "last_changed": "2026-09-23T16:33:00",
+ "generiert": "24.09.2026, 11:30 Uhr",
+ "last_changed": "2026-09-24T13:28:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16550,7 +16550,7 @@
     },
     "20260924": {
      "datum": "Donnerstag, 24. September 2026",
-     "zeitstempel": "23.09.2026, 16:33",
+     "zeitstempel": "24.09.2026, 13:28",
      "tagesinfo": [
       "IServ voraussichtlich nicht erreichbar (Info vom KMZ)",
       "Berufsinfobörse in Wismar: Jahrgang 10, 3.+4. Block (V: N. Hering, K. Lan, O. Stu, A. Eul)",
@@ -18546,7 +18546,7 @@
     },
     "20260925": {
      "datum": "Freitag, 25. September 2026",
-     "zeitstempel": "23.09.2026, 16:27",
+     "zeitstempel": "24.09.2026, 13:28",
      "tagesinfo": [
       "Wahl des Schülerrats: 2. Block, R 207 (V: H. Marski)",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Fechner",
@@ -18631,35 +18631,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Mu",
-         "klasse": "9A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 9A Kar",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Mu",
-         "klasse": "9A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 9A Kar",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Mu",
-         "klasse": "9B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9B Hol (für Mu), bitte in Rücksprache mit F. Priesemuth",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Mu",
-         "klasse": "9B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 9B Hol (für Mu), bitte in Rücksprache mit F. Priesemuth",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -18667,7 +18667,7 @@
          "vor_stunde": "1",
          "uhrzeit": "07:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Pel"
         }
        ]
       },
@@ -19213,6 +19213,22 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "9B",
+         "raum": "107",
+         "info": "für Mu Bir, bitte in Rücksprache mit F. Priesemuth",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "9B",
+         "raum": "107",
+         "info": "für Mu Bir, bitte in Rücksprache mit F. Priesemuth",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "en3",
          "klasse": "11D,11A-11C,11E",
@@ -19448,19 +19464,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "Mu",
+         "klasse": "9A",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Mu",
+         "klasse": "9A",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -19997,7 +20029,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "1",
+         "uhrzeit": "07:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Bir"
+        }
+       ]
       },
       "Pri": {
        "entries": [
@@ -20427,7 +20466,7 @@
    "tage": {
     "20260928": {
      "datum": "Montag, 28. September 2026",
-     "zeitstempel": "23.09.2026, 16:27",
+     "zeitstempel": "24.09.2026, 13:28",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Brincker",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: N. Hering"
@@ -20511,35 +20550,35 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Mu",
-         "klasse": "8A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 8A Her (für Mu)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Mu",
-         "klasse": "8A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 8A Her (für Mu)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Mu",
-         "klasse": "10A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 10A fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Mu",
-         "klasse": "10A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 10A fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20998,6 +21037,22 @@
       },
       "Her": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "AWT",
+         "klasse": "8A",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "AWT",
+         "klasse": "8A",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "BO",
@@ -22485,7 +22540,7 @@
     },
     "20260929": {
      "datum": "Dienstag, 29. September 2026",
-     "zeitstempel": "23.09.2026, 16:27",
+     "zeitstempel": "24.09.2026, 13:28",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. O. Lopez",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -22569,51 +22624,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "mue1",
-         "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 12A-12D selbst. (v), Arbeit an Mu-Theorie; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "mue1",
-         "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 12A-12D selbst. (v), Arbeit an Mu-Theorie; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Mu",
-         "klasse": "8B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 8B Kar",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Mu",
-         "klasse": "8B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 8B Kar",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Club8",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club8 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club8",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club8 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -22621,7 +22676,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Essenraum und Keller",
-         "info": ""
+         "info": "entfällt, V: Gol"
         }
        ]
       },
@@ -23043,7 +23098,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Essenraum und Keller",
+         "info": "für Bir"
+        }
+       ]
       },
       "Gor": {
        "entries": [
@@ -23510,6 +23572,22 @@
          "raum": "K09",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Mu",
+         "klasse": "8B",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Mu",
+         "klasse": "8B",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -24598,7 +24676,7 @@
     },
     "20260930": {
      "datum": "Mittwoch, 30. September 2026",
-     "zeitstempel": "23.09.2026, 16:27",
+     "zeitstempel": "24.09.2026, 13:28",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 12",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Jurat",
@@ -24722,51 +24800,51 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "Mu",
-         "klasse": "7B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7B Köh (für Mu)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Mu",
-         "klasse": "7B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7B Köh (für Mu)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "GS03",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS03 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS03",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS03 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "9",
-         "fach": "mue2",
-         "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 12A-12D selbst. (v), Arbeit an Mu-Theorie; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "10",
-         "fach": "mue2",
-         "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 12A-12D selbst. (v), Arbeit an Mu-Theorie; kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -25701,6 +25779,22 @@
          "raum": "003",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Span",
+         "klasse": "7B",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Span",
+         "klasse": "7B",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -26656,7 +26750,7 @@
     },
     "20261001": {
      "datum": "Donnerstag, 01. Oktober 2026",
-     "zeitstempel": "23.09.2026, 16:27",
+     "zeitstempel": "24.09.2026, 13:28",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: K. Langendorf",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth"
@@ -26730,51 +26824,51 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "mue2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "107 106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 11D,11A-11C,11E selbst. (v), Arbeit an Mu-Theorie",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "mue2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "107 106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 11D,11A-11C,11E selbst. (v), Arbeit an Mu-Theorie",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Mu",
-         "klasse": "7D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 7D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Mu",
-         "klasse": "7D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 7D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "9",
-         "fach": "mue1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 11D,11A-11C,11E selbst. (v), Arbeit an Mu-Theorie; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "10",
-         "fach": "mue1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 11D,11A-11C,11E selbst. (v), Arbeit an Mu-Theorie; kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -28608,7 +28702,7 @@
     },
     "20261002": {
      "datum": "Freitag, 02. Oktober 2026",
-     "zeitstempel": "23.09.2026, 16:27",
+     "zeitstempel": "24.09.2026, 13:28",
      "tagesinfo": [
       "zentraler Nachschreibetermin: 4. Block; Aula",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Leußner",
@@ -28700,51 +28794,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Mu",
-         "klasse": "9A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 9A Kar",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Mu",
-         "klasse": "9A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 9A Kar",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Mu",
-         "klasse": "9B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 9B Mar (für Mu)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Mu",
-         "klasse": "9B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 9B Mar (für Mu)",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -28752,7 +28846,7 @@
          "vor_stunde": "1",
          "uhrzeit": "07:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Pel"
         }
        ]
       },
@@ -29693,6 +29787,22 @@
       "Kar": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "Mu",
+         "klasse": "9A",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Mu",
+         "klasse": "9A",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "IMB",
          "klasse": "7C",
@@ -30034,6 +30144,22 @@
          "raum": "003",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ge",
+         "klasse": "9B",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ge",
+         "klasse": "9B",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -30227,7 +30353,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "1",
+         "uhrzeit": "07:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Bir"
+        }
+       ]
       },
       "Pri": {
        "entries": [

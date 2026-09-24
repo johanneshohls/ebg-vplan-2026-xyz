@@ -531,5 +531,120 @@
    "Std 10 (16:25): MUE 11D,11A-11C,11E selbst. (v), Arbeit an Mu-Theorie; kann zu Hause erledigt werden"
   ],
   "zeitstempel": "23.09.2026, 16:33"
+ },
+ {
+  "timestamp": "2026-09-24T11:30:12.785329",
+  "lehrer": "Bir",
+  "datum": "Freitag, 25. September 2026",
+  "date_key": "20260925",
+  "changes": [
+   "Std 1 (07:40): Mu 9A Kar",
+   "Std 2 (08:25): Mu 9A Kar",
+   "Std 3 (09:40): En 9B Hol (für Mu), bitte in Rücksprache mit F. Priesemuth",
+   "Std 4 (10:25): En 9B Hol (für Mu), bitte in Rücksprache mit F. Priesemuth"
+  ],
+  "zeitstempel": "24.09.2026, 13:28"
+ },
+ {
+  "timestamp": "2026-09-24T11:30:12.785329",
+  "lehrer": "Hol",
+  "datum": "Freitag, 25. September 2026",
+  "date_key": "20260925",
+  "changes": [
+   "Std 3 (09:40): für Mu Bir, bitte in Rücksprache mit F. Priesemuth",
+   "Std 4 (10:25): für Mu Bir, bitte in Rücksprache mit F. Priesemuth"
+  ],
+  "zeitstempel": "24.09.2026, 13:28"
+ },
+ {
+  "timestamp": "2026-09-24T11:30:12.785329",
+  "lehrer": "Kar",
+  "datum": "Freitag, 25. September 2026",
+  "date_key": "20260925",
+  "changes": [
+   "Std 1 (07:40): B VK fällt aus",
+   "Std 1 (07:40): für Mu Bir",
+   "Std 2 (08:25): B VK fällt aus",
+   "Std 2 (08:25): für Mu Bir"
+  ],
+  "zeitstempel": "24.09.2026, 13:28"
+ },
+ {
+  "timestamp": "2026-09-24T11:30:12.785329",
+  "lehrer": "Bir",
+  "datum": "Montag, 28. September 2026",
+  "date_key": "20260928",
+  "changes": [
+   "Std 3 (09:40): AWT 8A Her (für Mu)",
+   "Std 4 (10:25): AWT 8A Her (für Mu)",
+   "Std 7 (13:40): Mu 10A fällt aus",
+   "Std 8 (14:25): Mu 10A fällt aus"
+  ],
+  "zeitstempel": "24.09.2026, 13:28"
+ },
+ {
+  "timestamp": "2026-09-24T11:30:12.785329",
+  "lehrer": "Her",
+  "datum": "Montag, 28. September 2026",
+  "date_key": "20260928",
+  "changes": [
+   "Std 3 (09:40): für Mu Bir",
+   "Std 4 (10:25): für Mu Bir"
+  ],
+  "zeitstempel": "24.09.2026, 13:28"
+ },
+ {
+  "timestamp": "2026-09-24T11:30:12.785329",
+  "lehrer": "Bir",
+  "datum": "Dienstag, 29. September 2026",
+  "date_key": "20260929",
+  "changes": [
+   "Std 1 (07:40): MUE 12A-12D selbst. (v), Arbeit an Mu-Theorie; kann zu Hause erledigt werden",
+   "Std 2 (08:25): MUE 12A-12D selbst. (v), Arbeit an Mu-Theorie; kann zu Hause erledigt werden",
+   "Std 3 (09:40): Mu 8B Kar",
+   "Std 4 (10:25): Mu 8B Kar",
+   "Std 7 (13:40): Club8 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club8 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "24.09.2026, 13:28"
+ },
+ {
+  "timestamp": "2026-09-24T11:30:12.785329",
+  "lehrer": "Kar",
+  "datum": "Dienstag, 29. September 2026",
+  "date_key": "20260929",
+  "changes": [
+   "Std 3 (09:40): für Mu Bir",
+   "Std 4 (10:25): für Mu Bir",
+   "Std 5 (11:40): für Mu Kar, Klausur",
+   "Std 6 (12:25): für Mu Kar, Klausur"
+  ],
+  "zeitstempel": "24.09.2026, 13:28"
+ },
+ {
+  "timestamp": "2026-09-24T11:30:12.785329",
+  "lehrer": "Bir",
+  "datum": "Mittwoch, 30. September 2026",
+  "date_key": "20260930",
+  "changes": [
+   "Std 5 (11:40): Span 7B Köh (für Mu)",
+   "Std 6 (12:25): Span 7B Köh (für Mu)",
+   "Std 7 (13:40): GS03 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS03 7A-7D,8A-8E fällt aus",
+   "Std 9 (15:40): MUE 12A-12D selbst. (v), Arbeit an Mu-Theorie; kann zu Hause erledigt werden",
+   "Std 10 (16:25): MUE 12A-12D selbst. (v), Arbeit an Mu-Theorie; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "24.09.2026, 13:28"
+ },
+ {
+  "timestamp": "2026-09-24T11:30:12.785329",
+  "lehrer": "Köh",
+  "datum": "Mittwoch, 30. September 2026",
+  "date_key": "20260930",
+  "changes": [
+   "Std 5 (11:40): für Mu Bir",
+   "Std 6 (12:25): für Mu Bir"
+  ],
+  "zeitstempel": "24.09.2026, 13:28"
  }
 ]
