@@ -1,18 +1,5 @@
 [
  {
-  "timestamp": "2026-09-18T08:40:15.502846",
-  "lehrer": "*",
-  "datum": "Donnerstag, 24. September 2026",
-  "date_key": "20260924",
-  "changes": [
-   "Hinweis: IServ voraussichtlich nicht erreichbar (Info vom KMZ); kein WLAN, keine edu-Mails, kein IServ",
-   "Hinweis: Berufsinfobörse in Wismar: Jahrgang 10, 3.+4. Block (V: N. Hering, K. Lan, O. Stu, A. Eul)",
-   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Schilling",
-   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
-  ],
-  "zeitstempel": "18.09.2026, 10:37"
- },
- {
   "timestamp": "2026-09-18T09:35:15.778272",
   "lehrer": "Köh",
   "datum": "Freitag, 18. September 2026",
