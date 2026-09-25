@@ -1,20 +1,5 @@
 [
  {
-  "timestamp": "2026-09-18T05:05:11.248425",
-  "lehrer": "Fel",
-  "datum": "Freitag, 18. September 2026",
-  "date_key": "20260918",
-  "changes": [
-   "Std 5 (11:40): De 10C Tuh (für Span)",
-   "Std 6 (12:25): De 10C Tuh (für Span)",
-   "Std 7 (13:40): Span 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
-   "Std 8 (14:25): Span 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
-   "Std 9 (15:40): KL 10C fällt aus",
-   "Std 10 (16:25): KL 10C fällt aus"
-  ],
-  "zeitstempel": "18.09.2026, 06:57"
- },
- {
   "timestamp": "2026-09-18T08:40:15.502846",
   "lehrer": "*",
   "datum": "Donnerstag, 24. September 2026",
