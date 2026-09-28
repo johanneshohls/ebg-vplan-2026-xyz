@@ -1,16 +1,5 @@
 [
  {
-  "timestamp": "2026-09-21T06:10:09.529398",
-  "lehrer": "Pel",
-  "datum": "Montag, 21. September 2026",
-  "date_key": "20260921",
-  "changes": [
-   "Std 3 (09:40): für Ch Pel, Raumänderung",
-   "Std 4 (10:25): für Ch Pel, Raumänderung"
-  ],
-  "zeitstempel": "21.09.2026, 08:09"
- },
- {
   "timestamp": "2026-09-21T06:35:11.925108",
   "lehrer": "Bob",
   "datum": "Dienstag, 22. September 2026",
