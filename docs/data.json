@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "28.09.2026, 15:35 Uhr",
- "last_changed": "2026-09-27T18:37:00",
+ "generiert": "28.09.2026, 15:40 Uhr",
+ "last_changed": "2026-09-28T17:37:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12441,7 +12441,7 @@
     },
     "20260929": {
      "datum": "Dienstag, 29. September 2026",
-     "zeitstempel": "24.09.2026, 13:28",
+     "zeitstempel": "28.09.2026, 17:37",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. O. Lopez",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -12855,7 +12855,40 @@
        "aufsichten": []
       },
       "Eul": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "9B",
+         "raum": "106",
+         "info": "für De Ost",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "9B",
+         "raum": "106",
+         "info": "für De Ost",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "8A",
+         "raum": "101",
+         "info": "für De Ost, Raumänderung",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "8A",
+         "raum": "101",
+         "info": "für De Ost, Raumänderung",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Fech": {
@@ -13931,51 +13964,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
-         "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9B Eul",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "De",
-         "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9B Eul",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "8A",
-         "raum": "101",
-         "info": "für De Ost, Raumänderung",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8A Eul, Raumänderung",
          "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "8A",
-         "raum": "101",
-         "info": "für De Ost, Raumänderung",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8A Eul, Raumänderung",
          "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "bio2",
-         "klasse": "12A-12D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 12A-12D selbst. (v), ?Wiederholung des U-Stoffes der vergangenen Stunden; kann zu Huase erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "bio2",
-         "klasse": "12A-12D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 12A-12D selbst. (v), ?Wiederholung des U-Stoffes der vergangenen Stunden; kann zu Huase erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []
