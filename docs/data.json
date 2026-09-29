@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "29.09.2026, 11:25 Uhr",
- "last_changed": "2026-09-29T11:16:00",
+ "generiert": "29.09.2026, 11:30 Uhr",
+ "last_changed": "2026-09-29T13:27:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14610,7 +14610,7 @@
     },
     "20260930": {
      "datum": "Mittwoch, 30. September 2026",
-     "zeitstempel": "29.09.2026, 09:23",
+     "zeitstempel": "29.09.2026, 13:27",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 12",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Jurat",
@@ -15034,7 +15034,7 @@
          "fach": "GS09",
          "klasse": "7A-7D,8A-8E",
          "raum": "001",
-         "info": "",
+         "info": "für GS09 Fech",
          "geaendert": false
         },
         {
@@ -15042,7 +15042,7 @@
          "fach": "GS09",
          "klasse": "7A-7D,8A-8E",
          "raum": "001",
-         "info": "",
+         "info": "für GS09 Fech",
          "geaendert": false
         }
        ],
@@ -15090,7 +15090,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof1, WCs, Container",
+         "info": "für Ost"
+        }
+       ]
       },
       "Fer": {
        "entries": [],
@@ -15465,6 +15472,22 @@
          "raum": "002",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "7A",
+         "raum": "204",
+         "info": "für Bio Ost",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "7A",
+         "raum": "204",
+         "info": "für Bio Ost",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -16040,51 +16063,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
-         "klasse": "10B",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 10B Rat (für De)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "De",
-         "klasse": "10B",
-         "raum": "Co2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 10B Rat (für De)",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Bio",
-         "klasse": "7A",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7A Hön (für Bio)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Bio",
-         "klasse": "7A",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7A Hön (für Bio)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "GS09",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS09 7A-7D,8A-8E Fech",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS09",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS09 7A-7D,8A-8E Fech",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -16092,7 +16115,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Hof1, WCs, Container",
-         "info": ""
+         "info": "entfällt, V: Fel"
         }
        ]
       },
@@ -16192,6 +16215,22 @@
       },
       "Rat": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "eRe",
+         "klasse": "10B",
+         "raum": "Co2",
+         "info": "für De Ost",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "eRe",
+         "klasse": "10B",
+         "raum": "Co2",
+         "info": "für De Ost",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "Ku",
