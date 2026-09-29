@@ -1,27 +1,5 @@
 [
  {
-  "timestamp": "2026-09-22T04:45:15.044691",
-  "lehrer": "Pel",
-  "datum": "Dienstag, 22. September 2026",
-  "date_key": "20260922",
-  "changes": [
-   "Std 5 (11:40): für Ch Pel, Raumänderung",
-   "Std 6 (12:25): für Ch Pel, Raumänderung"
-  ],
-  "zeitstempel": "22.09.2026, 06:44"
- },
- {
-  "timestamp": "2026-09-22T04:45:15.044691",
-  "lehrer": "See",
-  "datum": "Dienstag, 22. September 2026",
-  "date_key": "20260922",
-  "changes": [
-   "Std 5 (11:40): für Geo See, Raumänderung",
-   "Std 6 (12:25): für Geo See, Raumänderung"
-  ],
-  "zeitstempel": "22.09.2026, 06:44"
- },
- {
   "timestamp": "2026-09-22T11:25:12.297827",
   "lehrer": "Bes",
   "datum": "Mittwoch, 23. September 2026",
