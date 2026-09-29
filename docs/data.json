@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "29.09.2026, 09:15 Uhr",
- "last_changed": "2026-09-29T09:23:00",
+ "generiert": "29.09.2026, 09:20 Uhr",
+ "last_changed": "2026-09-29T11:16:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12441,7 +12441,7 @@
     },
     "20260929": {
      "datum": "Dienstag, 29. September 2026",
-     "zeitstempel": "29.09.2026, 09:23",
+     "zeitstempel": "29.09.2026, 11:16",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. O. Lopez",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -12782,17 +12782,17 @@
          "stunde": "7",
          "fach": "Ma",
          "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Ma Käc, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "Ma",
          "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Ma Käc, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13474,17 +13474,17 @@
          "stunde": "7",
          "fach": "Ma",
          "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Ma Käc, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "Ma",
          "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für Ma Käc, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
