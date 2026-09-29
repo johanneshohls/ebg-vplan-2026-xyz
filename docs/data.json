@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "29.09.2026, 16:20 Uhr",
- "last_changed": "2026-09-29T13:27:00",
+ "generiert": "29.09.2026, 16:25 Uhr",
+ "last_changed": "2026-09-29T18:23:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14610,7 +14610,7 @@
     },
     "20260930": {
      "datum": "Mittwoch, 30. September 2026",
-     "zeitstempel": "29.09.2026, 13:27",
+     "zeitstempel": "29.09.2026, 18:23",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 12",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Jurat",
@@ -14793,17 +14793,17 @@
          "stunde": "1",
          "fach": "As",
          "klasse": "9D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "K12",
+         "info": "für As Bob, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "As",
          "klasse": "9D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "K12",
+         "info": "für As Bob, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "3",
