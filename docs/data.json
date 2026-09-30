@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "30.09.2026, 12:20 Uhr",
- "last_changed": "2026-09-30T08:22:00",
+ "generiert": "30.09.2026, 12:25 Uhr",
+ "last_changed": "2026-09-30T14:25:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14610,7 +14610,7 @@
     },
     "20260930": {
      "datum": "Mittwoch, 30. September 2026",
-     "zeitstempel": "30.09.2026, 07:34",
+     "zeitstempel": "30.09.2026, 14:25",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 12",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Jurat",
@@ -16723,7 +16723,7 @@
     },
     "20261001": {
      "datum": "Donnerstag, 01. Oktober 2026",
-     "zeitstempel": "30.09.2026, 08:22",
+     "zeitstempel": "30.09.2026, 14:25",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: K. Langendorf",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth"
@@ -18703,7 +18703,7 @@
     },
     "20261002": {
      "datum": "Freitag, 02. Oktober 2026",
-     "zeitstempel": "29.09.2026, 09:23",
+     "zeitstempel": "30.09.2026, 14:25",
      "tagesinfo": [
       "zentraler Nachschreibetermin: 4. Block; Aula",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Leußner",
@@ -20856,7 +20856,7 @@
    "tage": {
     "20261005": {
      "datum": "Montag, 05. Oktober 2026",
-     "zeitstempel": "29.09.2026, 09:23",
+     "zeitstempel": "30.09.2026, 14:25",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: Dr. F. Tietje",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
@@ -21161,17 +21161,17 @@
          "stunde": "1",
          "fach": "eRe",
          "klasse": "10B",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für eRe Eul, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "eRe",
          "klasse": "10B",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für eRe Eul, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -21800,18 +21800,18 @@
         {
          "stunde": "1",
          "fach": "mu1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "107",
+         "info": "für Mu Kar, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "mu1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "107",
+         "info": "für Mu Kar, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -22403,17 +22403,17 @@
          "stunde": "1",
          "fach": "eRe",
          "klasse": "10B",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für eRe Eul, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "eRe",
          "klasse": "10B",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für eRe Eul, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -22876,7 +22876,7 @@
     },
     "20261006": {
      "datum": "Dienstag, 06. Oktober 2026",
-     "zeitstempel": "29.09.2026, 09:23",
+     "zeitstempel": "30.09.2026, 14:25",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Höners",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -24848,7 +24848,7 @@
     },
     "20261007": {
      "datum": "Mittwoch, 07. Oktober 2026",
-     "zeitstempel": "29.09.2026, 09:23",
+     "zeitstempel": "30.09.2026, 14:25",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Köhler",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -26913,7 +26913,7 @@
     },
     "20261008": {
      "datum": "Donnerstag, 08. Oktober 2026",
-     "zeitstempel": "29.09.2026, 09:23",
+     "zeitstempel": "30.09.2026, 14:25",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:U. Rathke",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
@@ -26988,18 +26988,18 @@
         {
          "stunde": "5",
          "fach": "mue2",
-         "klasse": "11A-11E",
-         "raum": "",
-         "info": "für MUE Bir, Klausur; Aula",
-         "geaendert": true
+         "klasse": "11D,11A-11C,11E",
+         "raum": "107 106",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "6",
          "fach": "mue2",
-         "klasse": "11A-11E",
-         "raum": "",
-         "info": "für MUE Bir, Klausur; Aula",
-         "geaendert": true
+         "klasse": "11D,11A-11C,11E",
+         "raum": "107 106",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "7",
@@ -28666,18 +28666,18 @@
         },
         {
          "stunde": "5",
-         "fach": "thea2",
-         "klasse": "11A-11E",
-         "raum": "Co3",
-         "info": "für Thea Schil",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Thea 11D,11A-11C,11E selbst. (v)",
          "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "thea2",
-         "klasse": "11A-11E",
-         "raum": "Co3",
-         "info": "für Thea Schil",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Thea 11D,11A-11C,11E selbst. (v)",
          "geaendert": true
         }
        ],
@@ -29003,7 +29003,7 @@
     },
     "20261009": {
      "datum": "Freitag, 09. Oktober 2026",
-     "zeitstempel": "29.09.2026, 09:23",
+     "zeitstempel": "30.09.2026, 14:25",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Marski"
      ],
@@ -29374,20 +29374,36 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "Span1",
+         "klasse": "12A-12D",
+         "raum": "007",
+         "info": "Mündliche Kompetenzprüfung",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Span1",
+         "klasse": "12A-12D",
+         "raum": "007",
+         "info": "Mündliche Kompetenzprüfung",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "span1",
          "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "für Span Fel, Klausur",
-         "geaendert": true
+         "raum": "007",
+         "info": "für Span Fel, Mündliche Kompetenzprüfung",
+         "geaendert": false
         },
         {
          "stunde": "8",
          "fach": "span1",
          "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "für Span Fel, Klausur",
-         "geaendert": true
+         "raum": "007",
+         "info": "für Span Fel, Mündliche Kompetenzprüfung",
+         "geaendert": false
         }
        ],
        "aufsichten": [
@@ -30313,17 +30329,17 @@
          "stunde": "3",
          "fach": "Span",
          "klasse": "7A",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1",
+         "info": "für Span OLop, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Span",
          "klasse": "7A",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "raum": "Co1",
+         "info": "für Span OLop, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -30491,19 +30507,35 @@
         },
         {
          "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9D Sto, Aufgaben bitte mit dem Fachlehrer abstimmen.",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
          "fach": "Span",
-         "klasse": "9D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "klasse": "",
+         "raum": "",
+         "info": "Mündliche Kompetenzprüfung, R 007; Span 9D Sto, Aufgaben bitte mit dem Fachlehrer abstimmen.",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9D Sto, Aufgaben bitte mit dem Fachlehrer abstimmen.",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Span",
-         "klasse": "9D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "klasse": "",
+         "raum": "",
+         "info": "Mündliche Kompetenzprüfung, R 007; Span 9D Sto, Aufgaben bitte mit dem Fachlehrer abstimmen.",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -30519,6 +30551,22 @@
          "klasse": "11A-11E",
          "raum": "K07",
          "info": "für Span Puk, Raumänderung",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Span",
+         "klasse": "",
+         "raum": "",
+         "info": "Mündliche Kompetenzprüfung; R 007",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Span",
+         "klasse": "",
+         "raum": "",
+         "info": "Mündliche Kompetenzprüfung; R 007",
          "geaendert": true
         }
        ],
@@ -30698,7 +30746,24 @@
        "aufsichten": []
       },
       "Sto": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "Span",
+         "klasse": "9D",
+         "raum": "102",
+         "info": "für Span Puk, Aufgaben bitte mit dem Fachlehrer abstimmen.",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Span",
+         "klasse": "9D",
+         "raum": "102",
+         "info": "für Span Puk, Aufgaben bitte mit dem Fachlehrer abstimmen.",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Stu": {
