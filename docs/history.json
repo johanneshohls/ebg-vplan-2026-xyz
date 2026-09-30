@@ -410,5 +410,40 @@
    "Std 6 (12:25): Ch 9D verlegt von St.4"
   ],
   "zeitstempel": "29.09.2026, 18:23"
+ },
+ {
+  "timestamp": "2026-09-30T05:35:13.530506",
+  "lehrer": "Hofm",
+  "datum": "Mittwoch, 30. September 2026",
+  "date_key": "20260930",
+  "changes": [
+   "Std 5 (11:40): für KILZ Hofm, Raumänderung",
+   "Std 6 (12:25): für KILZ Hofm, Raumänderung"
+  ],
+  "zeitstempel": "30.09.2026, 07:34"
+ },
+ {
+  "timestamp": "2026-09-30T05:35:13.530506",
+  "lehrer": "Hön",
+  "datum": "Mittwoch, 30. September 2026",
+  "date_key": "20260930",
+  "changes": [
+   "Std 5 (11:40): für Bio Ost",
+   "Std 6 (12:25): für Bio Ost"
+  ],
+  "zeitstempel": "30.09.2026, 07:34"
+ },
+ {
+  "timestamp": "2026-09-30T05:35:13.530506",
+  "lehrer": "Pel",
+  "datum": "Mittwoch, 30. September 2026",
+  "date_key": "20260930",
+  "changes": [
+   "Std 3 (09:40): Bio 9C statt Fr (02.10.) St.5",
+   "Std 4 (10:25): Bio 9C statt Fr (02.10.) St.6",
+   "Std 5 (11:40): für Ch Pel, Raumänderung",
+   "Std 6 (12:25): für Ch Pel, Raumänderung"
+  ],
+  "zeitstempel": "30.09.2026, 07:34"
  }
 ]

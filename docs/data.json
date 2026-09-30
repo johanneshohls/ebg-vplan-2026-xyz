@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "30.09.2026, 05:30 Uhr",
- "last_changed": "2026-09-29T18:23:00",
+ "generiert": "30.09.2026, 05:35 Uhr",
+ "last_changed": "2026-09-30T07:34:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14610,7 +14610,7 @@
     },
     "20260930": {
      "datum": "Mittwoch, 30. September 2026",
-     "zeitstempel": "29.09.2026, 18:23",
+     "zeitstempel": "30.09.2026, 07:34",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 12",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Jurat",
@@ -15343,17 +15343,17 @@
          "stunde": "5",
          "fach": "KILZ",
          "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "K04",
+         "info": "für KILZ Hofm, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "KILZ",
          "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "K04",
+         "info": "für KILZ Hofm, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15477,7 +15477,7 @@
          "stunde": "5",
          "fach": "De",
          "klasse": "7A",
-         "raum": "204",
+         "raum": "008",
          "info": "für Bio Ost",
          "geaendert": true
         },
@@ -15485,7 +15485,7 @@
          "stunde": "6",
          "fach": "De",
          "klasse": "7A",
-         "raum": "204",
+         "raum": "008",
          "info": "für Bio Ost",
          "geaendert": true
         },
@@ -16141,17 +16141,17 @@
          "stunde": "5",
          "fach": "Ch",
          "klasse": "9A",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Ch Pel, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Ch",
          "klasse": "9A",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Ch Pel, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
