@@ -1,15 +1,5 @@
 [
  {
-  "timestamp": "2026-09-23T07:40:11.431482",
-  "lehrer": "Hun",
-  "datum": "Donnerstag, 24. September 2026",
-  "date_key": "20260924",
-  "changes": [
-   "Planänderung (Details nicht spezifiziert)"
-  ],
-  "zeitstempel": "23.09.2026, 09:40"
- },
- {
   "timestamp": "2026-09-23T12:50:12.433251",
   "lehrer": "Bar",
   "datum": "Dienstag, 29. September 2026",
