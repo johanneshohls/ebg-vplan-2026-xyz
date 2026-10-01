@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "01.10.2026, 00:16 Uhr",
- "last_changed": "2026-09-30T14:25:00",
+ "generiert": "01.10.2026, 03:00 Uhr",
+ "last_changed": "2026-10-01T04:33:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16723,7 +16723,7 @@
     },
     "20261001": {
      "datum": "Donnerstag, 01. Oktober 2026",
-     "zeitstempel": "30.09.2026, 14:25",
+     "zeitstempel": "01.10.2026, 04:33",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: K. Langendorf",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth"
@@ -17472,51 +17472,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ma",
-         "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8D Pel",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ma",
-         "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8D Pel",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Ph",
-         "klasse": "8E",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8E Kno",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ph",
-         "klasse": "8E",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 8E Kno",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Ma",
-         "klasse": "9D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "9D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -17524,7 +17524,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Hof, WCs, Grünes Klassenzimmer",
-         "info": ""
+         "info": "entfällt, V: Sta"
         }
        ]
       },
@@ -17749,6 +17749,22 @@
          "raum": "K12",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Ph",
+         "klasse": "8E",
+         "raum": "204",
+         "info": "für Ph Hoh",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ph",
+         "klasse": "8E",
+         "raum": "204",
+         "info": "für Ph Hoh",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -18145,7 +18161,24 @@
        ]
       },
       "Pel": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Ma",
+         "klasse": "8D",
+         "raum": "102",
+         "info": "für Ma Hoh",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ma",
+         "klasse": "8D",
+         "raum": "102",
+         "info": "für Ma Hoh",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Pri": {
@@ -18497,7 +18530,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof, WCs, Grünes Klassenzimmer",
+         "info": "für Hoh"
+        }
+       ]
       },
       "Stä": {
        "entries": [],

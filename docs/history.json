@@ -402,5 +402,42 @@
    "Std 2 (08:25): für eRe Eul, Raumänderung"
   ],
   "zeitstempel": "30.09.2026, 14:25"
+ },
+ {
+  "timestamp": "2026-10-01T03:00:12.507204",
+  "lehrer": "Hoh",
+  "datum": "Donnerstag, 01. Oktober 2026",
+  "date_key": "20261001",
+  "changes": [
+   "Std 1 (07:40): Ma 8D Pel",
+   "Std 2 (08:25): Ma 8D Pel",
+   "Std 3 (09:40): Ph 8E Kno",
+   "Std 4 (10:25): Ph 8E Kno",
+   "Std 7 (13:40): Ma 9D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 8 (14:25): Ma 9D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "01.10.2026, 04:33"
+ },
+ {
+  "timestamp": "2026-10-01T03:00:12.507204",
+  "lehrer": "Kno",
+  "datum": "Donnerstag, 01. Oktober 2026",
+  "date_key": "20261001",
+  "changes": [
+   "Std 3 (09:40): für Ph Hoh",
+   "Std 4 (10:25): für Ph Hoh"
+  ],
+  "zeitstempel": "01.10.2026, 04:33"
+ },
+ {
+  "timestamp": "2026-10-01T03:00:12.507204",
+  "lehrer": "Pel",
+  "datum": "Donnerstag, 01. Oktober 2026",
+  "date_key": "20261001",
+  "changes": [
+   "Std 1 (07:40): für Ma Hoh",
+   "Std 2 (08:25): für Ma Hoh"
+  ],
+  "zeitstempel": "01.10.2026, 04:33"
  }
 ]
