@@ -358,5 +358,27 @@
    "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth"
   ],
   "zeitstempel": "01.10.2026, 10:37"
+ },
+ {
+  "timestamp": "2026-10-01T13:10:16.997864",
+  "lehrer": "Gor",
+  "datum": "Freitag, 02. Oktober 2026",
+  "date_key": "20261002",
+  "changes": [
+   "Std 1 (07:40): für Ge Isb",
+   "Std 2 (08:25): für Ge Isb"
+  ],
+  "zeitstempel": "01.10.2026, 15:06"
+ },
+ {
+  "timestamp": "2026-10-01T13:10:16.997864",
+  "lehrer": "Isb",
+  "datum": "Freitag, 02. Oktober 2026",
+  "date_key": "20261002",
+  "changes": [
+   "Std 1 (07:40): Ge 10C Gor",
+   "Std 2 (08:25): Ge 10C Gor"
+  ],
+  "zeitstempel": "01.10.2026, 15:06"
  }
 ]

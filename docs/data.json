@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "01.10.2026, 13:05 Uhr",
- "last_changed": "2026-10-01T10:37:00",
+ "generiert": "01.10.2026, 13:10 Uhr",
+ "last_changed": "2026-10-01T15:06:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -18743,7 +18743,7 @@
     },
     "20261002": {
      "datum": "Freitag, 02. Oktober 2026",
-     "zeitstempel": "30.09.2026, 14:25",
+     "zeitstempel": "01.10.2026, 15:06",
      "tagesinfo": [
       "zentraler Nachschreibetermin: 4. Block; Aula",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Leußner",
@@ -19291,16 +19291,16 @@
          "fach": "Ge",
          "klasse": "10C",
          "raum": "104",
-         "info": "",
-         "geaendert": false
+         "info": "für Ge Isb",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Ge",
          "klasse": "10C",
          "raum": "104",
-         "info": "",
-         "geaendert": false
+         "info": "für Ge Isb",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -19714,19 +19714,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ge",
-         "klasse": "10C",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10C Gor",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ge",
-         "klasse": "10C",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10C Gor",
+         "geaendert": true
         }
        ],
        "aufsichten": []
