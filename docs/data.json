@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "01.10.2026, 08:35 Uhr",
- "last_changed": "2026-10-01T07:18:00",
+ "generiert": "01.10.2026, 08:40 Uhr",
+ "last_changed": "2026-10-01T10:37:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -20896,8 +20896,9 @@
    "tage": {
     "20261005": {
      "datum": "Montag, 05. Oktober 2026",
-     "zeitstempel": "01.10.2026, 07:18",
+     "zeitstempel": "01.10.2026, 10:37",
      "tagesinfo": [
+      "Essenausgabe erfolgt heute nur in der 2. Pause!!!",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: Dr. F. Tietje",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth"
      ],
