@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "02.10.2026, 06:45 Uhr",
- "last_changed": "2026-10-01T15:06:00",
+ "generiert": "02.10.2026, 06:50 Uhr",
+ "last_changed": "2026-10-02T08:48:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -18743,7 +18743,7 @@
     },
     "20261002": {
      "datum": "Freitag, 02. Oktober 2026",
-     "zeitstempel": "01.10.2026, 15:06",
+     "zeitstempel": "02.10.2026, 08:48",
      "tagesinfo": [
       "zentraler Nachschreibetermin: 4. Block; Aula",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Leußner",
@@ -20896,7 +20896,7 @@
    "tage": {
     "20261005": {
      "datum": "Montag, 05. Oktober 2026",
-     "zeitstempel": "01.10.2026, 10:37",
+     "zeitstempel": "02.10.2026, 08:48",
      "tagesinfo": [
       "Essenausgabe erfolgt heute nur in der 2. Pause!!!",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: Dr. F. Tietje",
@@ -21197,24 +21197,7 @@
        "aufsichten": []
       },
       "Eul": {
-       "entries": [
-        {
-         "stunde": "1",
-         "fach": "eRe",
-         "klasse": "10B",
-         "raum": "Aula",
-         "info": "für eRe Eul, Raumänderung",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "eRe",
-         "klasse": "10B",
-         "raum": "Aula",
-         "info": "für eRe Eul, Raumänderung",
-         "geaendert": true
-        }
-       ],
+       "entries": [],
        "aufsichten": []
       },
       "Fech": {
@@ -22444,17 +22427,17 @@
          "stunde": "1",
          "fach": "eRe",
          "klasse": "10B",
-         "raum": "Aula",
-         "info": "für eRe Eul, Raumänderung",
-         "geaendert": true
+         "raum": "104",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "2",
          "fach": "eRe",
          "klasse": "10B",
-         "raum": "Aula",
-         "info": "für eRe Eul, Raumänderung",
-         "geaendert": true
+         "raum": "104",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "3",
@@ -22917,7 +22900,7 @@
     },
     "20261006": {
      "datum": "Dienstag, 06. Oktober 2026",
-     "zeitstempel": "30.09.2026, 14:25",
+     "zeitstempel": "02.10.2026, 08:48",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Höners",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -24889,7 +24872,7 @@
     },
     "20261007": {
      "datum": "Mittwoch, 07. Oktober 2026",
-     "zeitstempel": "30.09.2026, 14:25",
+     "zeitstempel": "02.10.2026, 08:48",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Köhler",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -26954,7 +26937,7 @@
     },
     "20261008": {
      "datum": "Donnerstag, 08. Oktober 2026",
-     "zeitstempel": "30.09.2026, 14:25",
+     "zeitstempel": "02.10.2026, 08:48",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:U. Rathke",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
@@ -29044,7 +29027,7 @@
     },
     "20261009": {
      "datum": "Freitag, 09. Oktober 2026",
-     "zeitstempel": "30.09.2026, 14:25",
+     "zeitstempel": "02.10.2026, 08:48",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Marski"
      ],
@@ -29784,19 +29767,35 @@
         },
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7B verlegt nach St.5",
+         "geaendert": true
         },
         {
          "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7B verlegt nach St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
          "fach": "De",
          "klasse": "7B",
          "raum": "003",
-         "info": "",
-         "geaendert": false
+         "info": "De 7B verlegt von St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "De 7B verlegt von St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -29929,20 +29928,36 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
+         "stunde": "3",
          "fach": "Phi",
          "klasse": "7B",
          "raum": "003",
-         "info": "",
-         "geaendert": false
+         "info": "Phi 7B verlegt von St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Phi",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "Phi 7B verlegt von St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phi 7B verlegt nach St.3",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Phi",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phi 7B verlegt nach St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
