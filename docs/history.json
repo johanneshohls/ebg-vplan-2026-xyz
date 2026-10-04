@@ -400,5 +400,79 @@
    "Planänderung (Details nicht spezifiziert)"
   ],
   "zeitstempel": "02.10.2026, 08:48"
+ },
+ {
+  "timestamp": "2026-10-04T13:05:13.648150",
+  "lehrer": "Bir",
+  "datum": "Montag, 05. Oktober 2026",
+  "date_key": "20261005",
+  "changes": [
+   "Std 5 (11:40): Ma 8B Sta (für Mu)",
+   "Std 6 (12:25): Ma 8B Sta (für Mu)",
+   "Std 7 (13:40): Mu 10A selbst. (v), Selbststudium; kann zu Hause erledigt werden",
+   "Std 8 (14:25): Mu 10A selbst. (v), Selbststudium; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "04.10.2026, 15:01"
+ },
+ {
+  "timestamp": "2026-10-04T13:05:13.648150",
+  "lehrer": "Sta",
+  "datum": "Montag, 05. Oktober 2026",
+  "date_key": "20261005",
+  "changes": [
+   "Std 5 (11:40): für Mu Bir",
+   "Std 6 (12:25): für Mu Bir"
+  ],
+  "zeitstempel": "04.10.2026, 15:01"
+ },
+ {
+  "timestamp": "2026-10-04T13:05:13.648150",
+  "lehrer": "Bir",
+  "datum": "Dienstag, 06. Oktober 2026",
+  "date_key": "20261006",
+  "changes": [
+   "Std 1 (07:40): MUE 12A-12D selbst. (v), Projekt mit Frau Reshöft; Anwesenheitspflicht",
+   "Std 2 (08:25): MUE 12A-12D selbst. (v), Projekt mit Frau Reshöft; Anwesenheitspflicht",
+   "Std 5 (11:40): Bio 7A Mue (für Mu), Bitte in Rücksprache mit U. Ostendorf!",
+   "Std 6 (12:25): Bio 7A Mue (für Mu), Bitte in Rücksprache mit U. Ostendorf!",
+   "Std 7 (13:40): Mu 8A fällt aus",
+   "Std 8 (14:25): Mu 8A fällt aus"
+  ],
+  "zeitstempel": "04.10.2026, 15:01"
+ },
+ {
+  "timestamp": "2026-10-04T13:05:13.648150",
+  "lehrer": "Mue",
+  "datum": "Dienstag, 06. Oktober 2026",
+  "date_key": "20261006",
+  "changes": [
+   "Std 5 (11:40): für Mu Bir, Bitte in Rücksprache mit U. Ostendorf!",
+   "Std 6 (12:25): für Mu Bir, Bitte in Rücksprache mit U. Ostendorf!"
+  ],
+  "zeitstempel": "04.10.2026, 15:01"
+ },
+ {
+  "timestamp": "2026-10-04T13:05:13.648150",
+  "lehrer": "Bes",
+  "datum": "Mittwoch, 07. Oktober 2026",
+  "date_key": "20261007",
+  "changes": [
+   "Std 7 (13:40): GS07 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS07 7A-7D,8A-8E fällt aus"
+  ],
+  "zeitstempel": "04.10.2026, 15:01"
+ },
+ {
+  "timestamp": "2026-10-04T13:05:13.648150",
+  "lehrer": "Bir",
+  "datum": "Mittwoch, 07. Oktober 2026",
+  "date_key": "20261007",
+  "changes": [
+   "Std 7 (13:40): GS03 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS03 7A-7D,8A-8E fällt aus",
+   "Std 9 (15:40): MUE 12A-12D selbst. (v), Selbststudium; kann zu Hause erledigt werden",
+   "Std 10 (16:25): MUE 12A-12D selbst. (v), Selbststudium; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "04.10.2026, 15:01"
  }
 ]

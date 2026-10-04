@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "04.10.2026, 13:00 Uhr",
- "last_changed": "2026-10-02T08:48:00",
+ "generiert": "04.10.2026, 13:05 Uhr",
+ "last_changed": "2026-10-04T15:01:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -20896,7 +20896,7 @@
    "tage": {
     "20261005": {
      "datum": "Montag, 05. Oktober 2026",
-     "zeitstempel": "02.10.2026, 08:48",
+     "zeitstempel": "04.10.2026, 15:01",
      "tagesinfo": [
       "Essenausgabe erfolgt heute nur in der 2. Pause!!!",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: Dr. F. Tietje",
@@ -20964,35 +20964,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "Mu",
-         "klasse": "8B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8B Sta (für Mu)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Mu",
-         "klasse": "8B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8B Sta (für Mu)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Mu",
-         "klasse": "10A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 10A selbst. (v), Selbststudium; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Mu",
-         "klasse": "10A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 10A selbst. (v), Selbststudium; kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -22694,6 +22694,22 @@
          "raum": "K10",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "8B",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "8B",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -22900,7 +22916,7 @@
     },
     "20261006": {
      "datum": "Dienstag, 06. Oktober 2026",
-     "zeitstempel": "02.10.2026, 08:48",
+     "zeitstempel": "04.10.2026, 15:01",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Höners",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -22968,51 +22984,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "mue1",
-         "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 12A-12D selbst. (v), Projekt mit Frau Reshöft; Anwesenheitspflicht",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "mue1",
-         "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 12A-12D selbst. (v), Projekt mit Frau Reshöft; Anwesenheitspflicht",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Mu",
-         "klasse": "7A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 7A Mue (für Mu), Bitte in Rücksprache mit U. Ostendorf!",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Mu",
-         "klasse": "7A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 7A Mue (für Mu), Bitte in Rücksprache mit U. Ostendorf!",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Mu",
-         "klasse": "8A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 8A fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Mu",
-         "klasse": "8A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 8A fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -24210,6 +24226,22 @@
          "raum": "004",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Bio",
+         "klasse": "7A",
+         "raum": "204",
+         "info": "für Mu Bir, Bitte in Rücksprache mit U. Ostendorf!",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Bio",
+         "klasse": "7A",
+         "raum": "204",
+         "info": "für Mu Bir, Bitte in Rücksprache mit U. Ostendorf!",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -24872,7 +24904,7 @@
     },
     "20261007": {
      "datum": "Mittwoch, 07. Oktober 2026",
-     "zeitstempel": "02.10.2026, 08:48",
+     "zeitstempel": "04.10.2026, 15:01",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Köhler",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -24935,19 +24967,19 @@
         },
         {
          "stunde": "7",
-         "fach": "GS07",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS07 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS07",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS07 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -24963,35 +24995,35 @@
        "entries": [
         {
          "stunde": "7",
-         "fach": "GS03",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS03 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS03",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS03 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "9",
-         "fach": "mue2",
-         "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 12A-12D selbst. (v), Selbststudium; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "10",
-         "fach": "mue2",
-         "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 12A-12D selbst. (v), Selbststudium; kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -26937,7 +26969,7 @@
     },
     "20261008": {
      "datum": "Donnerstag, 08. Oktober 2026",
-     "zeitstempel": "02.10.2026, 08:48",
+     "zeitstempel": "04.10.2026, 15:01",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:U. Rathke",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
@@ -29027,7 +29059,7 @@
     },
     "20261009": {
      "datum": "Freitag, 09. Oktober 2026",
-     "zeitstempel": "02.10.2026, 08:48",
+     "zeitstempel": "04.10.2026, 15:01",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Marski"
      ],
