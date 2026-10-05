@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "05.10.2026, 10:00 Uhr",
- "last_changed": "2026-10-04T15:01:00",
+ "generiert": "05.10.2026, 10:05 Uhr",
+ "last_changed": "2026-10-05T12:02:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10635,7 +10635,7 @@
    "tage": {
     "20261005": {
      "datum": "Montag, 05. Oktober 2026",
-     "zeitstempel": "04.10.2026, 15:01",
+     "zeitstempel": "05.10.2026, 12:02",
      "tagesinfo": [
       "Essenausgabe erfolgt heute nur in der 2. Pause!!!",
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: Dr. F. Tietje",
@@ -12655,7 +12655,7 @@
     },
     "20261006": {
      "datum": "Dienstag, 06. Oktober 2026",
-     "zeitstempel": "04.10.2026, 15:01",
+     "zeitstempel": "05.10.2026, 12:02",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Höners",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -14643,7 +14643,7 @@
     },
     "20261007": {
      "datum": "Mittwoch, 07. Oktober 2026",
-     "zeitstempel": "04.10.2026, 15:01",
+     "zeitstempel": "05.10.2026, 12:02",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Köhler",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -16708,7 +16708,7 @@
     },
     "20261008": {
      "datum": "Donnerstag, 08. Oktober 2026",
-     "zeitstempel": "04.10.2026, 15:01",
+     "zeitstempel": "05.10.2026, 12:02",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:U. Rathke",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
@@ -16841,17 +16841,17 @@
          "stunde": "1",
          "fach": "ILZ",
          "klasse": "7B",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "raum": "K12",
+         "info": "für ILZ Bob, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "ILZ",
          "klasse": "7B",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "raum": "K12",
+         "info": "für ILZ Bob, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -17823,17 +17823,17 @@
          "stunde": "1",
          "fach": "ILZ",
          "klasse": "8E",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "raum": "K09",
+         "info": "für ILZ Kno, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "ILZ",
          "klasse": "8E",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "raum": "K09",
+         "info": "für ILZ Kno, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -18798,7 +18798,7 @@
     },
     "20261009": {
      "datum": "Freitag, 09. Oktober 2026",
-     "zeitstempel": "04.10.2026, 15:01",
+     "zeitstempel": "05.10.2026, 12:02",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Marski"
      ],
@@ -20763,7 +20763,7 @@
    "tage": {
     "20261012": {
      "datum": "Montag, 12. Oktober 2026",
-     "zeitstempel": "04.10.2026, 15:01",
+     "zeitstempel": "05.10.2026, 12:02",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: U. Ostendorf",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
@@ -22813,7 +22813,7 @@
     },
     "20261013": {
      "datum": "Dienstag, 13. Oktober 2026",
-     "zeitstempel": "04.10.2026, 15:01",
+     "zeitstempel": "05.10.2026, 12:02",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: T. Pukrop",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann",
@@ -24930,7 +24930,7 @@
     },
     "20261014": {
      "datum": "Mittwoch, 14. Oktober 2026",
-     "zeitstempel": "04.10.2026, 15:01",
+     "zeitstempel": "05.10.2026, 12:02",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Pelka",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth",

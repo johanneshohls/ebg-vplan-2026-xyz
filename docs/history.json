@@ -411,5 +411,27 @@
    "Std 10 (16:25): MUE 12A-12D selbst. (v), Selbststudium; kann zu Hause erledigt werden"
   ],
   "zeitstempel": "04.10.2026, 15:01"
+ },
+ {
+  "timestamp": "2026-10-05T10:05:11.269274",
+  "lehrer": "Bob",
+  "datum": "Donnerstag, 08. Oktober 2026",
+  "date_key": "20261008",
+  "changes": [
+   "Std 1 (07:40): für ILZ Bob, Raumänderung",
+   "Std 2 (08:25): für ILZ Bob, Raumänderung"
+  ],
+  "zeitstempel": "05.10.2026, 12:02"
+ },
+ {
+  "timestamp": "2026-10-05T10:05:11.269274",
+  "lehrer": "Kno",
+  "datum": "Donnerstag, 08. Oktober 2026",
+  "date_key": "20261008",
+  "changes": [
+   "Std 1 (07:40): für ILZ Kno, Raumänderung",
+   "Std 2 (08:25): für ILZ Kno, Raumänderung"
+  ],
+  "zeitstempel": "05.10.2026, 12:02"
  }
 ]
