@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "05.10.2026, 10:05 Uhr",
- "last_changed": "2026-10-05T12:02:00",
+ "generiert": "05.10.2026, 10:10 Uhr",
+ "last_changed": "2026-10-05T12:08:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12655,7 +12655,7 @@
     },
     "20261006": {
      "datum": "Dienstag, 06. Oktober 2026",
-     "zeitstempel": "05.10.2026, 12:02",
+     "zeitstempel": "05.10.2026, 12:08",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: M. Höners",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -12775,7 +12775,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Essenraum und Keller",
-         "info": ""
+         "info": "entfällt, V: Fel"
         }
        ]
       },
@@ -13080,7 +13080,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Essenraum und Keller",
+         "info": "für Bir"
+        }
+       ]
       },
       "Fer": {
        "entries": [],
