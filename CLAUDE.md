@@ -31,7 +31,11 @@ Prüft alle 5 Minuten ob sich der Vertretungsplan geändert hat, sendet bei Änd
 
 ---
 
-## Aktueller Fokus (Stand 2026-09-03)
+## Aktueller Fokus (Stand 2026-09-03, geprüft 2026-10-05)
+
+Stand 2026-10-05 (Sprint-Analyse KW41): Kein Commit seit 10.09., läuft. Token-Tausch bleibt Zettel, Kandidat für den Zettel-Tag in den Herbstferien.
+
+Stand 2026-09-28 (Sprint-Analyse KW40): Kein Commit seit 10.09., läuft. Kein Sprint-Invest. Token-Tausch nach KW39-Regel auf den Zettel (siehe Blocker).
 
 Läuft produktiv. Seit 03.09.2026 kommen die Hinweise zum Tag mit (Indiware
 `<ZusatzInfo><ZiZeile>`): in data.json je Tag als `tagesinfo`, als Karte über dem
@@ -66,10 +70,23 @@ also unabhängig vom VPS, und meldet per ntfy aufs globale Topic, wenn der letzt
 ## Offene Fragen / Blocker
 
 - ntfy-Topic: öffentlich oder privat? Sicherheitsrelevant bei sensiblen Plandaten.
+- Der Token in `/root/.vplan-github-token` ist seit 10.09. Johannes' gh-CLI-Token (Scopes `repo` und `workflow`, gilt für alle Repos). Auf einem VPS ist das zu breit — gegen einen fine-grained PAT nur für dieses Repo tauschen. Zettel seit 28.09. (dreimal empfohlen, nicht gemacht — kein Sprint-Punkt mehr, bleibt aber ein zu breiter Schlüssel auf einem Server).
+- `.claude/` liegt untracked im Working Tree — in `.gitignore` aufnehmen.
+- Statuszeile oben sagt "v1.1 läuft produktiv" — BACKLOG.md hat v1.2 komplett abgehakt, Tagesinfo und Watchdog sind live. Beim nächsten Umbau auf v1.2 setzen; der Hinweis unter "Bekannte Bugs" zu `generate_ical.py` ("Push steht aus") ist vermutlich überholt.
 
 ---
 
 ## Zuletzt aktualisiert
+
+2026-10-05 (Sprint-Analyse KW41: unverändert, läuft.)
+
+2026-09-28 (Sprint-Analyse KW40: unverändert, läuft. Token-Tausch nach KW39-Regel auf den Zettel.)
+
+2026-09-21 (Sprint-Analyse KW39: kein Commit seit 10.09., läuft. Token-Tausch zweite Woche offen. Statuszeile v1.1/v1.2 als veraltet markiert.)
+
+2026-09-14 (Sprint-Analyse KW38: Watchdog vom 10.09. nachgetragen — vier Läufe täglich über den GitHub-Zeitplan, ntfy-Alarm wenn der letzte `workflow_dispatch` über drei Stunden her ist; Konsequenz aus dem einwöchigen stillen Ausfall 03.–10.09. Alten Fokus-Block vom 25.03. als "Fokus davor" markiert, doppelte Blocker-/Datumsabschnitte entfernt. Token-Hinweis bei den Blockern ergänzt.)
+
+2026-09-10 (Neuer Token auf dem VPS 09:21; `watchdog.yml` eingebaut)
 
 2026-09-03 (Tagesinfo eingebaut, VPS-Trigger repariert und mit Token aktiv, Cron So-Fr; defusedxml-Fix vom 31.08. auf main gebracht)
 
@@ -115,7 +132,7 @@ also unabhängig vom VPS, und meldet per ntfy aufs globale Topic, wenn der letzt
 
 ---
 
-## Aktueller Fokus (Stand 2026-03-25)
+## Fokus davor (Stand 2026-03-25, historisch — der aktuelle Fokus steht oben)
 
 **Milestone v1.1** — vollständig abgeschlossen.
 **Milestone v1.2** — fast abgeschlossen. Erledigt:
@@ -127,15 +144,4 @@ also unabhängig vom VPS, und meldet per ntfy aufs globale Topic, wenn der letzt
 - [x] E-Mail-Fallback bei fehlgeschlagener ntfy-Benachrichtigung (3 SP)
 - [x] README mit Setup-Anleitung (2 SP)
 
-Noch offen:
-- [ ] Filterung nach eigenem Kurs / Fach in der Benachrichtigung (5 SP)
-
-## Offene Fragen / Blocker
-
-- ntfy-Topic: öffentlich oder privat? Sicherheitsrelevant bei sensiblen Plandaten.
-
----
-
-## Zuletzt aktualisiert
-
-2026-03-25 (v1.2 fast fertig: alle Items abgeschlossen bis auf Kurs/Fach-Filterung; generate_ical.py Push-Problem gelöst)
+- [x] Filterung nach eigenem Kurs / Fach in der Benachrichtigung (5 SP) — laut BACKLOG.md inzwischen erledigt
