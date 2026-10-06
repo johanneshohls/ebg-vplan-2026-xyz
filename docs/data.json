@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "06.10.2026, 12:40 Uhr",
- "last_changed": "2026-10-05T12:08:00",
+ "generiert": "06.10.2026, 12:45 Uhr",
+ "last_changed": "2026-10-06T14:44:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14650,10 +14650,10 @@
     },
     "20261007": {
      "datum": "Mittwoch, 07. Oktober 2026",
-     "zeitstempel": "05.10.2026, 12:02",
+     "zeitstempel": "06.10.2026, 14:44",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Köhler",
-      "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
+      "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
      ],
      "lehrer": {
       "Bar": {
@@ -15199,6 +15199,22 @@
       "Hei": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "Geo",
+         "klasse": "8E",
+         "raum": "105",
+         "info": "für Geo Schil, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Geo",
+         "klasse": "8E",
+         "raum": "105",
+         "info": "für Geo Schil, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "Fr",
          "klasse": "8A",
@@ -15482,6 +15498,22 @@
       "Hön": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "7D",
+         "raum": "005",
+         "info": "für De Schil, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "7D",
+         "raum": "005",
+         "info": "für De Schil, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "DE3",
          "klasse": "11D,11A-11C,11E",
@@ -15619,10 +15651,6 @@
        "aufsichten": []
       },
       "Kar": {
-       "entries": [],
-       "aufsichten": []
-      },
-      "Karow": {
        "entries": [],
        "aufsichten": []
       },
@@ -16207,51 +16235,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Geo",
-         "klasse": "8E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 8E Hei, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Geo",
-         "klasse": "8E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 8E Hei, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "7D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7D Hön, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "7D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7D Hön, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "DE2",
-         "klasse": "12A-12D",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "DE2",
-         "klasse": "12A-12D",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16715,10 +16743,10 @@
     },
     "20261008": {
      "datum": "Donnerstag, 08. Oktober 2026",
-     "zeitstempel": "05.10.2026, 12:02",
+     "zeitstempel": "06.10.2026, 14:44",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:U. Rathke",
-      "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
+      "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
      ],
      "lehrer": {
       "Bar": {
@@ -17820,10 +17848,6 @@
        "entries": [],
        "aufsichten": []
       },
-      "Karow": {
-       "entries": [],
-       "aufsichten": []
-      },
       "Kno": {
        "entries": [
         {
@@ -18805,7 +18829,7 @@
     },
     "20261009": {
      "datum": "Freitag, 09. Oktober 2026",
-     "zeitstempel": "05.10.2026, 12:02",
+     "zeitstempel": "06.10.2026, 14:44",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Marski"
      ],
@@ -19814,10 +19838,6 @@
        ],
        "aufsichten": []
       },
-      "Karow": {
-       "entries": [],
-       "aufsichten": []
-      },
       "Kno": {
        "entries": [
         {
@@ -20770,7 +20790,7 @@
    "tage": {
     "20261012": {
      "datum": "Montag, 12. Oktober 2026",
-     "zeitstempel": "05.10.2026, 12:02",
+     "zeitstempel": "06.10.2026, 14:44",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: U. Ostendorf",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
@@ -21727,10 +21747,6 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
-      },
-      "Karow": {
-       "entries": [],
        "aufsichten": []
       },
       "Kno": {
@@ -22820,7 +22836,7 @@
     },
     "20261013": {
      "datum": "Dienstag, 13. Oktober 2026",
-     "zeitstempel": "05.10.2026, 12:02",
+     "zeitstempel": "06.10.2026, 14:44",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: T. Pukrop",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann",
@@ -23778,19 +23794,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Phi",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phi 9C verlegt nach Mi (14.10.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "KILZ",
          "klasse": "9C",
          "raum": "004",
-         "info": "",
-         "geaendert": false
+         "info": "KILZ 9C statt Mi (14.10.) St.5; Phi 9C verlegt nach Mi (14.10.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Phi",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phi 9C verlegt nach Mi (14.10.) St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "KILZ",
          "klasse": "9C",
          "raum": "004",
-         "info": "",
-         "geaendert": false
+         "info": "KILZ 9C statt Mi (14.10.) St.6; Phi 9C verlegt nach Mi (14.10.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -23898,10 +23930,6 @@
          "info": ""
         }
        ]
-      },
-      "Karow": {
-       "entries": [],
-       "aufsichten": []
       },
       "Kno": {
        "entries": [
@@ -24327,6 +24355,22 @@
       },
       "Pel": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "205",
+         "info": "",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "205",
+         "info": "",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "Bio",
@@ -24937,7 +24981,7 @@
     },
     "20261014": {
      "datum": "Mittwoch, 14. Oktober 2026",
-     "zeitstempel": "05.10.2026, 12:02",
+     "zeitstempel": "06.10.2026, 14:44",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Pelka",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth",
@@ -25925,19 +25969,35 @@
         },
         {
          "stunde": "5",
-         "fach": "KILZ",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 9C gehalten am Di (13.10.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Phi",
          "klasse": "9C",
          "raum": "003",
-         "info": "",
-         "geaendert": false
+         "info": "Phi 9C statt Di (13.10.) St.1; KILZ 9C gehalten am Di (13.10.) St.1",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "KILZ",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 9C gehalten am Di (13.10.) St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Phi",
          "klasse": "9C",
          "raum": "003",
-         "info": "",
-         "geaendert": false
+         "info": "Phi 9C statt Di (13.10.) St.2; KILZ 9C gehalten am Di (13.10.) St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -25964,10 +26024,6 @@
        "aufsichten": []
       },
       "Kar": {
-       "entries": [],
-       "aufsichten": []
-      },
-      "Karow": {
        "entries": [],
        "aufsichten": []
       },

@@ -312,5 +312,64 @@
    "Std 2 (08:25): für ILZ Kno, Raumänderung"
   ],
   "zeitstempel": "05.10.2026, 12:02"
+ },
+ {
+  "timestamp": "2026-10-06T12:45:15.740739",
+  "lehrer": "*",
+  "datum": "Mittwoch, 07. Oktober 2026",
+  "date_key": "20261007",
+  "changes": [
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Köhler",
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
+  ],
+  "zeitstempel": "06.10.2026, 14:44"
+ },
+ {
+  "timestamp": "2026-10-06T12:45:15.740739",
+  "lehrer": "Hei",
+  "datum": "Mittwoch, 07. Oktober 2026",
+  "date_key": "20261007",
+  "changes": [
+   "Std 1 (07:40): für Geo Schil, s. IServ: Aufgaben durch FL erteilt",
+   "Std 2 (08:25): für Geo Schil, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "06.10.2026, 14:44"
+ },
+ {
+  "timestamp": "2026-10-06T12:45:15.740739",
+  "lehrer": "Hön",
+  "datum": "Mittwoch, 07. Oktober 2026",
+  "date_key": "20261007",
+  "changes": [
+   "Std 3 (09:40): für De Schil, s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): für De Schil, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "06.10.2026, 14:44"
+ },
+ {
+  "timestamp": "2026-10-06T12:45:15.740739",
+  "lehrer": "Schil",
+  "datum": "Mittwoch, 07. Oktober 2026",
+  "date_key": "20261007",
+  "changes": [
+   "Std 1 (07:40): Geo 8E Hei, s. IServ: Aufgaben durch FL erteilt",
+   "Std 2 (08:25): Geo 8E Hei, s. IServ: Aufgaben durch FL erteilt",
+   "Std 3 (09:40): De 7D Hön, s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): De 7D Hön, s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): De 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): De 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "06.10.2026, 14:44"
+ },
+ {
+  "timestamp": "2026-10-06T12:45:15.740739",
+  "lehrer": "*",
+  "datum": "Donnerstag, 08. Oktober 2026",
+  "date_key": "20261008",
+  "changes": [
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block:U. Rathke",
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
+  ],
+  "zeitstempel": "06.10.2026, 14:44"
  }
 ]
