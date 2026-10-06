@@ -1,53 +1,5 @@
 [
  {
-  "timestamp": "2026-09-29T11:30:47.093503",
-  "lehrer": "Fech",
-  "datum": "Mittwoch, 30. September 2026",
-  "date_key": "20260930",
-  "changes": [
-   "Std 7 (13:40): für GS09 Fech",
-   "Std 8 (14:25): für GS09 Fech"
-  ],
-  "zeitstempel": "29.09.2026, 13:27"
- },
- {
-  "timestamp": "2026-09-29T11:30:47.093503",
-  "lehrer": "Hön",
-  "datum": "Mittwoch, 30. September 2026",
-  "date_key": "20260930",
-  "changes": [
-   "Std 5 (11:40): für Bio Ost",
-   "Std 6 (12:25): für Bio Ost"
-  ],
-  "zeitstempel": "29.09.2026, 13:27"
- },
- {
-  "timestamp": "2026-09-29T11:30:47.093503",
-  "lehrer": "Ost",
-  "datum": "Mittwoch, 30. September 2026",
-  "date_key": "20260930",
-  "changes": [
-   "Std 1 (07:40): eRe 10B Rat (für De)",
-   "Std 2 (08:25): eRe 10B Rat (für De)",
-   "Std 5 (11:40): De 7A Hön (für Bio)",
-   "Std 6 (12:25): De 7A Hön (für Bio)",
-   "Std 7 (13:40): GS09 7A-7D,8A-8E Fech",
-   "Std 8 (14:25): GS09 7A-7D,8A-8E Fech"
-  ],
-  "zeitstempel": "29.09.2026, 13:27"
- },
- {
-  "timestamp": "2026-09-29T11:30:47.093503",
-  "lehrer": "Rat",
-  "datum": "Mittwoch, 30. September 2026",
-  "date_key": "20260930",
-  "changes": [
-   "Std 1 (07:40): für De Ost",
-   "Std 2 (08:25): für De Ost"
-  ],
-  "zeitstempel": "29.09.2026, 13:27"
- },
- {
   "timestamp": "2026-09-29T16:25:10.876880",
   "lehrer": "Bob",
   "datum": "Mittwoch, 30. September 2026",
