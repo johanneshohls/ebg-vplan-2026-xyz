@@ -371,5 +371,34 @@
    "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
   ],
   "zeitstempel": "06.10.2026, 14:44"
+ },
+ {
+  "timestamp": "2026-10-06T15:35:12.319042",
+  "lehrer": "Pel",
+  "datum": "Mittwoch, 07. Oktober 2026",
+  "date_key": "20261007",
+  "changes": [
+   "Std 1 (07:40): Ch 9A statt Do (08.10.) St.5",
+   "Std 2 (08:25): Ch 9A statt Do (08.10.) St.6",
+   "Std 3 (09:40): für En Wag, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 5 (11:40): Ch 9A statt Di (06.10.) St.5",
+   "Std 6 (12:25): Ch 9A statt Di (06.10.) St.6"
+  ],
+  "zeitstempel": "06.10.2026, 17:33"
+ },
+ {
+  "timestamp": "2026-10-06T15:35:12.319042",
+  "lehrer": "Wag",
+  "datum": "Mittwoch, 07. Oktober 2026",
+  "date_key": "20261007",
+  "changes": [
+   "Std 1 (07:40): En 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 2 (08:25): En 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 3 (09:40): En 10A Pel, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 4 (10:25): En 10A selbst. (v), s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 7 (13:40): En 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 8 (14:25): En 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "06.10.2026, 17:33"
  }
 ]

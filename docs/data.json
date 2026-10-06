@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "06.10.2026, 15:30 Uhr",
- "last_changed": "2026-10-06T14:44:00",
+ "generiert": "06.10.2026, 15:35 Uhr",
+ "last_changed": "2026-10-06T17:33:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14650,7 +14650,7 @@
     },
     "20261007": {
      "datum": "Mittwoch, 07. Oktober 2026",
-     "zeitstempel": "06.10.2026, 14:44",
+     "zeitstempel": "06.10.2026, 17:33",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Köhler",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
@@ -15043,7 +15043,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Essenraum und Keller",
-         "info": "entfällt, V: Wag"
+         "info": "entfällt, V: Ter"
         },
         {
          "vor_stunde": "7",
@@ -16135,6 +16135,14 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "10A",
+         "raum": "Co1",
+         "info": "für En Wag, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Ch",
          "klasse": "9A",
@@ -16554,7 +16562,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Essenraum und Keller",
+         "info": "für Fech"
+        }
+       ]
       },
       "Tie": {
        "entries": [
@@ -16673,51 +16688,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "en1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "en1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "En",
-         "klasse": "10A",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10A Pel, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "En",
-         "klasse": "10A",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10A selbst. (v), s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "EN1",
-         "klasse": "12A-12D",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "EN1",
-         "klasse": "12A-12D",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -16726,12 +16741,6 @@
          "uhrzeit": "13:10",
          "ort": "Hof1, WCs, Container",
          "info": "entfällt, V: Fech"
-        },
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Essenraum und Keller",
-         "info": "für Fech"
         }
        ]
       },
