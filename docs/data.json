@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "06.10.2026, 17:20 Uhr",
- "last_changed": "2026-10-06T17:33:00",
+ "generiert": "06.10.2026, 17:24 Uhr",
+ "last_changed": "2026-10-06T19:20:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14650,7 +14650,7 @@
     },
     "20261007": {
      "datum": "Mittwoch, 07. Oktober 2026",
-     "zeitstempel": "06.10.2026, 17:33",
+     "zeitstempel": "06.10.2026, 19:20",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Köhler",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
@@ -14903,7 +14903,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof1, WCs, Container",
+         "info": "für Wag"
+        }
+       ]
       },
       "Bri": {
        "entries": [
@@ -15023,19 +15030,19 @@
         },
         {
          "stunde": "7",
-         "fach": "GS09",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS09 7A-7D,8A-8E Ost",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS09",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS09 7A-7D,8A-8E Ost",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -15044,12 +15051,6 @@
          "uhrzeit": "11:10",
          "ort": "Essenraum und Keller",
          "info": "entfällt, V: Ter"
-        },
-        {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Hof1, WCs, Container",
-         "info": "für Wag"
         }
        ]
       },
@@ -16095,16 +16096,16 @@
          "fach": "GS09",
          "klasse": "7A-7D,8A-8E",
          "raum": "001",
-         "info": "",
-         "geaendert": false
+         "info": "für GS09 Fech",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "GS09",
          "klasse": "7A-7D,8A-8E",
          "raum": "001",
-         "info": "",
-         "geaendert": false
+         "info": "für GS09 Fech",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -16740,7 +16741,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Hof1, WCs, Container",
-         "info": "entfällt, V: Fech"
+         "info": "entfällt, V: Bom"
         }
        ]
       },
@@ -16752,7 +16753,7 @@
     },
     "20261008": {
      "datum": "Donnerstag, 08. Oktober 2026",
-     "zeitstempel": "06.10.2026, 14:44",
+     "zeitstempel": "06.10.2026, 19:20",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:U. Rathke",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -18838,7 +18839,7 @@
     },
     "20261009": {
      "datum": "Freitag, 09. Oktober 2026",
-     "zeitstempel": "06.10.2026, 14:44",
+     "zeitstempel": "06.10.2026, 19:20",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Marski"
      ],
@@ -19157,35 +19158,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8B Ter, Übung Groß- und Kleinschreibung",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "De",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8B Ter, Übung Groß- und Kleinschreibung",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "De",
-         "klasse": "8E",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 8E Pri (für De)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "De",
-         "klasse": "8E",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 8E Pri (für De)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20346,6 +20347,22 @@
          "raum": "001",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ge",
+         "klasse": "8E",
+         "raum": "004",
+         "info": "für De Fech",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ge",
+         "klasse": "8E",
+         "raum": "004",
+         "info": "für De Fech",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20649,6 +20666,22 @@
       "Ter": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "8B",
+         "raum": "008",
+         "info": "für De Fech, Übung Groß- und Kleinschreibung",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "8B",
+         "raum": "008",
+         "info": "für De Fech, Übung Groß- und Kleinschreibung",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "bio1",
          "klasse": "11D,11A-11C,11E",
@@ -20799,7 +20832,7 @@
    "tage": {
     "20261012": {
      "datum": "Montag, 12. Oktober 2026",
-     "zeitstempel": "06.10.2026, 14:44",
+     "zeitstempel": "06.10.2026, 19:20",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: U. Ostendorf",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
@@ -22845,7 +22878,7 @@
     },
     "20261013": {
      "datum": "Dienstag, 13. Oktober 2026",
-     "zeitstempel": "06.10.2026, 14:44",
+     "zeitstempel": "06.10.2026, 19:20",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: T. Pukrop",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann",
@@ -24990,7 +25023,7 @@
     },
     "20261014": {
      "datum": "Mittwoch, 14. Oktober 2026",
-     "zeitstempel": "06.10.2026, 14:44",
+     "zeitstempel": "06.10.2026, 19:20",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Pelka",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth",

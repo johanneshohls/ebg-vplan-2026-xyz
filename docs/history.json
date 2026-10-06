@@ -385,5 +385,64 @@
    "Std 8 (14:25): En 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
   ],
   "zeitstempel": "06.10.2026, 17:33"
+ },
+ {
+  "timestamp": "2026-10-06T17:24:39.150047",
+  "lehrer": "Fech",
+  "datum": "Mittwoch, 07. Oktober 2026",
+  "date_key": "20261007",
+  "changes": [
+   "Std 5 (11:40): De 9A gehalten am Di (06.10.) St.5",
+   "Std 6 (12:25): De 9A gehalten am Di (06.10.) St.6",
+   "Std 7 (13:40): GS09 7A-7D,8A-8E Ost",
+   "Std 8 (14:25): GS09 7A-7D,8A-8E Ost"
+  ],
+  "zeitstempel": "06.10.2026, 19:20"
+ },
+ {
+  "timestamp": "2026-10-06T17:24:39.150047",
+  "lehrer": "Ost",
+  "datum": "Mittwoch, 07. Oktober 2026",
+  "date_key": "20261007",
+  "changes": [
+   "Std 7 (13:40): für GS09 Fech",
+   "Std 8 (14:25): für GS09 Fech"
+  ],
+  "zeitstempel": "06.10.2026, 19:20"
+ },
+ {
+  "timestamp": "2026-10-06T17:24:39.150047",
+  "lehrer": "Fech",
+  "datum": "Freitag, 09. Oktober 2026",
+  "date_key": "20261009",
+  "changes": [
+   "Std 1 (07:40): De 8B Ter, Übung Groß- und Kleinschreibung",
+   "Std 2 (08:25): De 8B Ter, Übung Groß- und Kleinschreibung",
+   "Std 5 (11:40): Ge 8E Pri (für De)",
+   "Std 6 (12:25): Ge 8E Pri (für De)"
+  ],
+  "zeitstempel": "06.10.2026, 19:20"
+ },
+ {
+  "timestamp": "2026-10-06T17:24:39.150047",
+  "lehrer": "Pri",
+  "datum": "Freitag, 09. Oktober 2026",
+  "date_key": "20261009",
+  "changes": [
+   "Std 5 (11:40): für De Fech",
+   "Std 6 (12:25): für De Fech"
+  ],
+  "zeitstempel": "06.10.2026, 19:20"
+ },
+ {
+  "timestamp": "2026-10-06T17:24:39.150047",
+  "lehrer": "Ter",
+  "datum": "Freitag, 09. Oktober 2026",
+  "date_key": "20261009",
+  "changes": [
+   "Std 1 (07:40): für De Fech, Übung Groß- und Kleinschreibung",
+   "Std 2 (08:25): für De Fech, Übung Groß- und Kleinschreibung"
+  ],
+  "zeitstempel": "06.10.2026, 19:20"
  }
 ]
