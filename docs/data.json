@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "07.10.2026, 15:45 Uhr",
- "last_changed": "2026-10-07T11:18:00",
+ "generiert": "07.10.2026, 15:50 Uhr",
+ "last_changed": "2026-10-07T17:45:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14650,7 +14650,7 @@
     },
     "20261007": {
      "datum": "Mittwoch, 07. Oktober 2026",
-     "zeitstempel": "07.10.2026, 11:16",
+     "zeitstempel": "07.10.2026, 17:45",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Köhler",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
@@ -16753,7 +16753,7 @@
     },
     "20261008": {
      "datum": "Donnerstag, 08. Oktober 2026",
-     "zeitstempel": "07.10.2026, 11:18",
+     "zeitstempel": "07.10.2026, 17:45",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:U. Rathke",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -18880,7 +18880,7 @@
     },
     "20261009": {
      "datum": "Freitag, 09. Oktober 2026",
-     "zeitstempel": "07.10.2026, 11:01",
+     "zeitstempel": "07.10.2026, 17:45",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Marski"
      ],
@@ -20906,7 +20906,7 @@
    "tage": {
     "20261012": {
      "datum": "Montag, 12. Oktober 2026",
-     "zeitstempel": "07.10.2026, 11:01",
+     "zeitstempel": "07.10.2026, 17:45",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: U. Ostendorf",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
@@ -22372,7 +22372,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 10D verlegt nach Di (13.10.) St.1",
+         "info": "Span 10D verlegt nach Di (13.10.) St.6",
          "geaendert": true
         },
         {
@@ -22380,7 +22380,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 10D verlegt nach Di (13.10.) St.2",
+         "info": "Span 10D verlegt nach Di (13.10.) St.5",
          "geaendert": true
         },
         {
@@ -22952,11 +22952,10 @@
     },
     "20261013": {
      "datum": "Dienstag, 13. Oktober 2026",
-     "zeitstempel": "07.10.2026, 11:01",
+     "zeitstempel": "07.10.2026, 17:45",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: T. Pukrop",
-      "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann",
-      "Projekt \"Gastroburner\": 9a, 2. Block (Gruppe 1) und 3. Block (Gruppe 2)"
+      "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
      ],
      "lehrer": {
       "Bar": {
@@ -24260,7 +24259,7 @@
          "fach": "En",
          "klasse": "9A",
          "raum": "006",
-         "info": "für En Mar, Gruppe 2 beim Projekt",
+         "info": "",
          "geaendert": false
         },
         {
@@ -24268,7 +24267,7 @@
          "fach": "En",
          "klasse": "9A",
          "raum": "006",
-         "info": "für En Mar, Gruppe 2 beim Projekt",
+         "info": "",
          "geaendert": false
         },
         {
@@ -24406,17 +24405,17 @@
          "stunde": "1",
          "fach": "De",
          "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "003",
+         "info": "für De Ost, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "De",
          "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "003",
+         "info": "für De Ost, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -24492,7 +24491,7 @@
          "fach": "Bio",
          "klasse": "9A",
          "raum": "201",
-         "info": "für Bio Pel, Gruppe 1 beim Projekt",
+         "info": "",
          "geaendert": false
         },
         {
@@ -24500,7 +24499,7 @@
          "fach": "Bio",
          "klasse": "9A",
          "raum": "201",
-         "info": "für Bio Pel, Gruppe 1 beim Projekt",
+         "info": "",
          "geaendert": false
         },
         {
@@ -24563,18 +24562,18 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
+         "fach": "Geo",
          "klasse": "10D",
-         "raum": "003",
-         "info": "Span 10D statt Mo (12.10.) St.3",
+         "raum": "106",
+         "info": "Geo 10D verlegt von St.5",
          "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
+         "fach": "Geo",
          "klasse": "10D",
-         "raum": "003",
-         "info": "Span 10D statt Mo (12.10.) St.4",
+         "raum": "106",
+         "info": "Geo 10D verlegt von St.6",
          "geaendert": true
         },
         {
@@ -24595,19 +24594,35 @@
         },
         {
          "stunde": "5",
-         "fach": "Geo",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 10D verlegt nach St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Span",
          "klasse": "10D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "Span 10D statt Mo (12.10.) St.4; Geo 10D verlegt nach St.1",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Geo",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 10D verlegt nach St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Span",
          "klasse": "10D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "Span 10D statt Mo (12.10.) St.3; Geo 10D verlegt nach St.2",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -25097,11 +25112,10 @@
     },
     "20261014": {
      "datum": "Mittwoch, 14. Oktober 2026",
-     "zeitstempel": "07.10.2026, 11:01",
+     "zeitstempel": "07.10.2026, 17:45",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Pelka",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth",
-      "Projekt \"Gastroburner\": 9b, 2. Block (Gruppe 1) und 3. Block (Gruppe 2)",
       "2. Block: Schülervertretersitzung in Co3"
      ],
      "lehrer": {
@@ -26151,7 +26165,7 @@
          "fach": "Ch",
          "klasse": "9B",
          "raum": "K12",
-         "info": "für Ch Kno, Gruppe 1 beim Projekt",
+         "info": "",
          "geaendert": false
         },
         {
@@ -26159,7 +26173,7 @@
          "fach": "Ch",
          "klasse": "9B",
          "raum": "K12",
-         "info": "für Ch Kno, Gruppe 1 beim Projekt",
+         "info": "",
          "geaendert": false
         },
         {
@@ -26257,7 +26271,7 @@
          "fach": "Sk",
          "klasse": "9B",
          "raum": "002",
-         "info": "für Sk Lan, Gruppe 2 beim Projekt",
+         "info": "",
          "geaendert": false
         },
         {
@@ -26265,7 +26279,7 @@
          "fach": "Sk",
          "klasse": "9B",
          "raum": "002",
-         "info": "für Sk Lan, Gruppe 2 beim Projekt",
+         "info": "",
          "geaendert": false
         }
        ],
