@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "07.10.2026, 09:00 Uhr",
- "last_changed": "2026-10-07T10:52:00",
+ "generiert": "07.10.2026, 09:05 Uhr",
+ "last_changed": "2026-10-07T11:01:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14650,7 +14650,7 @@
     },
     "20261007": {
      "datum": "Mittwoch, 07. Oktober 2026",
-     "zeitstempel": "06.10.2026, 19:20",
+     "zeitstempel": "07.10.2026, 11:01",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Köhler",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
@@ -16753,7 +16753,7 @@
     },
     "20261008": {
      "datum": "Donnerstag, 08. Oktober 2026",
-     "zeitstempel": "07.10.2026, 10:52",
+     "zeitstempel": "07.10.2026, 11:01",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:U. Rathke",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -18848,7 +18848,7 @@
     },
     "20261009": {
      "datum": "Freitag, 09. Oktober 2026",
-     "zeitstempel": "07.10.2026, 10:52",
+     "zeitstempel": "07.10.2026, 11:01",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Marski"
      ],
@@ -20743,17 +20743,17 @@
          "stunde": "5",
          "fach": "Bio",
          "klasse": "10D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Bio Ter, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Bio",
          "klasse": "10D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Bio Ter, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -20874,7 +20874,7 @@
    "tage": {
     "20261012": {
      "datum": "Montag, 12. Oktober 2026",
-     "zeitstempel": "07.10.2026, 10:52",
+     "zeitstempel": "07.10.2026, 11:01",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: U. Ostendorf",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
@@ -22920,7 +22920,7 @@
     },
     "20261013": {
      "datum": "Dienstag, 13. Oktober 2026",
-     "zeitstempel": "07.10.2026, 10:52",
+     "zeitstempel": "07.10.2026, 11:01",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: T. Pukrop",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann",
@@ -25065,7 +25065,7 @@
     },
     "20261014": {
      "datum": "Mittwoch, 14. Oktober 2026",
-     "zeitstempel": "07.10.2026, 10:52",
+     "zeitstempel": "07.10.2026, 11:01",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Pelka",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth",
