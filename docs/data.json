@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "07.10.2026, 09:15 Uhr",
- "last_changed": "2026-10-07T11:01:00",
+ "generiert": "07.10.2026, 09:20 Uhr",
+ "last_changed": "2026-10-07T11:18:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14650,7 +14650,7 @@
     },
     "20261007": {
      "datum": "Mittwoch, 07. Oktober 2026",
-     "zeitstempel": "07.10.2026, 11:01",
+     "zeitstempel": "07.10.2026, 11:16",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Köhler",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
@@ -15910,19 +15910,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Sk",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 9A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Sk",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 9A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16753,7 +16753,7 @@
     },
     "20261008": {
      "datum": "Donnerstag, 08. Oktober 2026",
-     "zeitstempel": "07.10.2026, 11:01",
+     "zeitstempel": "07.10.2026, 11:18",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:U. Rathke",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -17990,6 +17990,22 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "Präsi",
+         "klasse": "10A",
+         "raum": "K09",
+         "info": "für Präsi Wag, Weiterarbeit an U-Stoff des letzten Blocks",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Präsi",
+         "klasse": "10A",
+         "raum": "K09",
+         "info": "für Präsi Wag, Weiterarbeit an U-Stoff des letzten Blocks",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "AWT",
          "klasse": "10A",
@@ -18769,6 +18785,22 @@
       "Tuh": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "8D",
+         "raum": "102",
+         "info": "für En Wag",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "8D",
+         "raum": "102",
+         "info": "für En Wag",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "de2",
          "klasse": "12A-12D",
@@ -18807,35 +18839,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "En",
-         "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8D Tuh (für En)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "En",
-         "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8D Tuh (für En)",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Präsi",
-         "klasse": "10A",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Präsi 10A Lan, Weiterarbeit an U-Stoff des letzten Blocks",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Präsi",
-         "klasse": "10A",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Präsi 10A Lan, Weiterarbeit an U-Stoff des letzten Blocks",
+         "geaendert": true
         }
        ],
        "aufsichten": []

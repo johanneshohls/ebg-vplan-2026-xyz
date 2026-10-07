@@ -464,5 +464,53 @@
    "Std 6 (12:25): für Bio Ter, Raumänderung"
   ],
   "zeitstempel": "07.10.2026, 11:01"
+ },
+ {
+  "timestamp": "2026-10-07T09:20:16.617657",
+  "lehrer": "Lie",
+  "datum": "Mittwoch, 07. Oktober 2026",
+  "date_key": "20261007",
+  "changes": [
+   "Std 7 (13:40): Sk 9A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 8 (14:25): Sk 9A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "07.10.2026, 11:16"
+ },
+ {
+  "timestamp": "2026-10-07T09:20:16.617657",
+  "lehrer": "Lan",
+  "datum": "Donnerstag, 08. Oktober 2026",
+  "date_key": "20261008",
+  "changes": [
+   "Std 3 (09:40): für Präsi Wag, Weiterarbeit an U-Stoff des letzten Blocks",
+   "Std 4 (10:25): für Präsi Wag, Weiterarbeit an U-Stoff des letzten Blocks"
+  ],
+  "zeitstempel": "07.10.2026, 11:18"
+ },
+ {
+  "timestamp": "2026-10-07T09:20:16.617657",
+  "lehrer": "Tuh",
+  "datum": "Donnerstag, 08. Oktober 2026",
+  "date_key": "20261008",
+  "changes": [
+   "Std 1 (07:40): für En Wag",
+   "Std 2 (08:25): für En Wag",
+   "Std 3 (09:40): für De Tuh, Klausur",
+   "Std 4 (10:25): für De Tuh, Klausur"
+  ],
+  "zeitstempel": "07.10.2026, 11:18"
+ },
+ {
+  "timestamp": "2026-10-07T09:20:16.617657",
+  "lehrer": "Wag",
+  "datum": "Donnerstag, 08. Oktober 2026",
+  "date_key": "20261008",
+  "changes": [
+   "Std 1 (07:40): De 8D Tuh (für En)",
+   "Std 2 (08:25): De 8D Tuh (für En)",
+   "Std 3 (09:40): Präsi 10A Lan, Weiterarbeit an U-Stoff des letzten Blocks",
+   "Std 4 (10:25): Präsi 10A Lan, Weiterarbeit an U-Stoff des letzten Blocks"
+  ],
+  "zeitstempel": "07.10.2026, 11:18"
  }
 ]
