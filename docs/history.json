@@ -1,27 +1,5 @@
 [
  {
-  "timestamp": "2026-09-30T06:25:10.561234",
-  "lehrer": "Fla",
-  "datum": "Donnerstag, 01. Oktober 2026",
-  "date_key": "20261001",
-  "changes": [
-   "Std 3 (09:40): für De Ost",
-   "Std 4 (10:25): für De Ost"
-  ],
-  "zeitstempel": "30.09.2026, 08:22"
- },
- {
-  "timestamp": "2026-09-30T06:25:10.561234",
-  "lehrer": "Ost",
-  "datum": "Donnerstag, 01. Oktober 2026",
-  "date_key": "20261001",
-  "changes": [
-   "Std 3 (09:40): De 10B Fla",
-   "Std 4 (10:25): De 10B Fla"
-  ],
-  "zeitstempel": "30.09.2026, 08:22"
- },
- {
   "timestamp": "2026-09-30T12:25:12.613317",
   "lehrer": "Eul",
   "datum": "Montag, 05. Oktober 2026",
