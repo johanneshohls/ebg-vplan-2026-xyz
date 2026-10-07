@@ -387,5 +387,69 @@
    "Std 2 (08:25): für De Fech, Übung Groß- und Kleinschreibung"
   ],
   "zeitstempel": "06.10.2026, 19:20"
+ },
+ {
+  "timestamp": "2026-10-07T08:55:14.554951",
+  "lehrer": "Bir",
+  "datum": "Donnerstag, 08. Oktober 2026",
+  "date_key": "20261008",
+  "changes": [
+   "Std 5 (11:40): MUE 11D,11A-11C,11E selbst. (v), Selbststudium",
+   "Std 6 (12:25): MUE 11D,11A-11C,11E selbst. (v), Selbststudium",
+   "Std 7 (13:40): Mu 7C fällt aus",
+   "Std 8 (14:25): Mu 7C fällt aus",
+   "Std 9 (15:40): MUE 11D,11A-11C,11E selbst. (v), Selbststudium: kann zu Hause erledigt werden",
+   "Std 10 (16:25): MUE 11D,11A-11C,11E selbst. (v), Selbststudium: kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "07.10.2026, 10:52"
+ },
+ {
+  "timestamp": "2026-10-07T08:55:14.554951",
+  "lehrer": "Mar",
+  "datum": "Donnerstag, 08. Oktober 2026",
+  "date_key": "20261008",
+  "changes": [
+   "Std 5 (11:40): Wahl der Vertrauenslehrkraft"
+  ],
+  "zeitstempel": "07.10.2026, 10:52"
+ },
+ {
+  "timestamp": "2026-10-07T08:55:14.554951",
+  "lehrer": "Bir",
+  "datum": "Freitag, 09. Oktober 2026",
+  "date_key": "20261009",
+  "changes": [
+   "Std 1 (07:40): Mu 9A Kar",
+   "Std 2 (08:25): Mu 9A Kar",
+   "Std 3 (09:40): Ch 9B Kno (für Mu)",
+   "Std 4 (10:25): Ch 9B Kno (für Mu)"
+  ],
+  "zeitstempel": "07.10.2026, 10:52"
+ },
+ {
+  "timestamp": "2026-10-07T08:55:14.554951",
+  "lehrer": "Kar",
+  "datum": "Freitag, 09. Oktober 2026",
+  "date_key": "20261009",
+  "changes": [
+   "Std 1 (07:40): B VK fällt aus",
+   "Std 1 (07:40): für Mu Bir",
+   "Std 2 (08:25): B VK fällt aus",
+   "Std 2 (08:25): für Mu Bir"
+  ],
+  "zeitstempel": "07.10.2026, 10:52"
+ },
+ {
+  "timestamp": "2026-10-07T08:55:14.554951",
+  "lehrer": "Kno",
+  "datum": "Freitag, 09. Oktober 2026",
+  "date_key": "20261009",
+  "changes": [
+   "Std 3 (09:40): für Mu Bir",
+   "Std 4 (10:25): für Mu Bir",
+   "Std 7 (13:40): für Ch Kno, Klausur; Aula",
+   "Std 8 (14:25): für Ch Kno, Klausur; Aula"
+  ],
+  "zeitstempel": "07.10.2026, 10:52"
  }
 ]

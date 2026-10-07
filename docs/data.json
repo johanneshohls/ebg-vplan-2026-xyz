@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "07.10.2026, 08:50 Uhr",
- "last_changed": "2026-10-06T19:20:00",
+ "generiert": "07.10.2026, 08:55 Uhr",
+ "last_changed": "2026-10-07T10:52:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16753,7 +16753,7 @@
     },
     "20261008": {
      "datum": "Donnerstag, 08. Oktober 2026",
-     "zeitstempel": "06.10.2026, 19:20",
+     "zeitstempel": "07.10.2026, 10:52",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:U. Rathke",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -16827,51 +16827,51 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "mue2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "107 106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 11D,11A-11C,11E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "mue2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "107 106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 11D,11A-11C,11E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Mu",
-         "klasse": "7C",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 7C fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Mu",
-         "klasse": "7C",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 7C fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "9",
-         "fach": "mue1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 11D,11A-11C,11E selbst. (v), Selbststudium: kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "10",
-         "fach": "mue1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "MUE 11D,11A-11C,11E selbst. (v), Selbststudium: kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -18090,7 +18090,16 @@
        "aufsichten": []
       },
       "Mar": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "KL",
+         "klasse": "",
+         "raum": "K09",
+         "info": "Wahl der Vertrauenslehrkraft",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Mue": {
@@ -18839,7 +18848,7 @@
     },
     "20261009": {
      "datum": "Freitag, 09. Oktober 2026",
-     "zeitstempel": "06.10.2026, 19:20",
+     "zeitstempel": "07.10.2026, 10:52",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Marski"
      ],
@@ -18922,35 +18931,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Mu",
-         "klasse": "9A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 9A Kar",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Mu",
-         "klasse": "9A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 9A Kar",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Mu",
-         "klasse": "9B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 9B Kno (für Mu)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Mu",
-         "klasse": "9B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 9B Kno (für Mu)",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -18959,12 +18968,6 @@
          "uhrzeit": "07:10",
          "ort": "Haus, WCs, Caféteria",
          "info": "entfällt, V: Gol"
-        },
-        {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "Haus, WCs, Caféteria",
-         "info": "für Schil"
         }
        ]
       },
@@ -19799,19 +19802,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "Mu",
+         "klasse": "9A",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Mu",
+         "klasse": "9A",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -19846,7 +19865,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Schil"
+        }
+       ]
       },
       "Kno": {
        "entries": [
@@ -19865,6 +19891,22 @@
          "raum": "Co3",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Ch",
+         "klasse": "9B",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ch",
+         "klasse": "9B",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -20496,7 +20538,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": "entfällt, V: Bir"
+         "info": "entfällt, V: Kar"
         }
        ]
       },
@@ -20832,7 +20874,7 @@
    "tage": {
     "20261012": {
      "datum": "Montag, 12. Oktober 2026",
-     "zeitstempel": "06.10.2026, 19:20",
+     "zeitstempel": "07.10.2026, 10:52",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: U. Ostendorf",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
@@ -22878,7 +22920,7 @@
     },
     "20261013": {
      "datum": "Dienstag, 13. Oktober 2026",
-     "zeitstempel": "06.10.2026, 19:20",
+     "zeitstempel": "07.10.2026, 10:52",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: T. Pukrop",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann",
@@ -25023,11 +25065,12 @@
     },
     "20261014": {
      "datum": "Mittwoch, 14. Oktober 2026",
-     "zeitstempel": "06.10.2026, 19:20",
+     "zeitstempel": "07.10.2026, 10:52",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Pelka",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth",
-      "Projekt \"Gastroburner\": 9b, 2. Block (Gruppe 1) und 3. Block (Gruppe 2)"
+      "Projekt \"Gastroburner\": 9b, 2. Block (Gruppe 1) und 3. Block (Gruppe 2)",
+      "2. Block: Schülervertretersitzung in Co3"
      ],
      "lehrer": {
       "Bar": {
