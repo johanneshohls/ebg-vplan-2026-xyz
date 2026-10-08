@@ -481,5 +481,16 @@
    "Std 8 (14:25): Club5 10A-10D,9A-9D fällt aus"
   ],
   "zeitstempel": "07.10.2026, 17:45"
+ },
+ {
+  "timestamp": "2026-10-08T12:15:13.817732",
+  "lehrer": "Bri",
+  "datum": "Mittwoch, 14. Oktober 2026",
+  "date_key": "20261014",
+  "changes": [
+   "Std 3 (09:40): für Ma Bri, Klausur",
+   "Std 4 (10:25): für Ma Bri, Klausur"
+  ],
+  "zeitstempel": "08.10.2026, 14:10"
  }
 ]

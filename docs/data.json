@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "08.10.2026, 12:10 Uhr",
- "last_changed": "2026-10-07T17:45:00",
+ "generiert": "08.10.2026, 12:15 Uhr",
+ "last_changed": "2026-10-08T14:10:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16753,7 +16753,7 @@
     },
     "20261008": {
      "datum": "Donnerstag, 08. Oktober 2026",
-     "zeitstempel": "07.10.2026, 17:45",
+     "zeitstempel": "08.10.2026, 14:10",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block:U. Rathke",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: S. Pelka"
@@ -18880,7 +18880,7 @@
     },
     "20261009": {
      "datum": "Freitag, 09. Oktober 2026",
-     "zeitstempel": "07.10.2026, 17:45",
+     "zeitstempel": "08.10.2026, 14:10",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Marski"
      ],
@@ -20906,7 +20906,7 @@
    "tage": {
     "20261012": {
      "datum": "Montag, 12. Oktober 2026",
-     "zeitstempel": "07.10.2026, 17:45",
+     "zeitstempel": "08.10.2026, 14:10",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: U. Ostendorf",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
@@ -22952,7 +22952,7 @@
     },
     "20261013": {
      "datum": "Dienstag, 13. Oktober 2026",
-     "zeitstempel": "07.10.2026, 17:45",
+     "zeitstempel": "08.10.2026, 14:10",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: T. Pukrop",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -25112,7 +25112,7 @@
     },
     "20261014": {
      "datum": "Mittwoch, 14. Oktober 2026",
-     "zeitstempel": "07.10.2026, 17:45",
+     "zeitstempel": "08.10.2026, 14:10",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Pelka",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth",
@@ -25405,17 +25405,17 @@
          "stunde": "3",
          "fach": "ma1",
          "klasse": "12A-12D",
-         "raum": "",
-         "info": "für Ma Bri, Klausur; Aula",
-         "geaendert": true
+         "raum": "Co2",
+         "info": "für Ma Bri, Klausur",
+         "geaendert": false
         },
         {
          "stunde": "4",
          "fach": "ma1",
          "klasse": "12A-12D",
-         "raum": "",
-         "info": "für Ma Bri, Klausur; Aula",
-         "geaendert": true
+         "raum": "Co2",
+         "info": "für Ma Bri, Klausur",
+         "geaendert": false
         },
         {
          "stunde": "5",
