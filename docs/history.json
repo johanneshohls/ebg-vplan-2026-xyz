@@ -1,25 +1,5 @@
 [
  {
-  "timestamp": "2026-10-02T06:50:11.204030",
-  "lehrer": "Eul",
-  "datum": "Montag, 05. Oktober 2026",
-  "date_key": "20261005",
-  "changes": [
-   "Planänderung (Details nicht spezifiziert)"
-  ],
-  "zeitstempel": "02.10.2026, 08:48"
- },
- {
-  "timestamp": "2026-10-02T06:50:11.204030",
-  "lehrer": "Rat",
-  "datum": "Montag, 05. Oktober 2026",
-  "date_key": "20261005",
-  "changes": [
-   "Planänderung (Details nicht spezifiziert)"
-  ],
-  "zeitstempel": "02.10.2026, 08:48"
- },
- {
   "timestamp": "2026-10-04T13:05:13.648150",
   "lehrer": "Bir",
   "datum": "Montag, 05. Oktober 2026",
