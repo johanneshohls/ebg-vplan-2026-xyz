@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "09.10.2026, 09:15 Uhr",
- "last_changed": "2026-10-08T14:10:00",
+ "generiert": "09.10.2026, 09:20 Uhr",
+ "last_changed": "2026-10-09T11:16:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -18880,7 +18880,7 @@
     },
     "20261009": {
      "datum": "Freitag, 09. Oktober 2026",
-     "zeitstempel": "08.10.2026, 14:10",
+     "zeitstempel": "09.10.2026, 11:16",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Marski"
      ],
@@ -20839,17 +20839,17 @@
          "stunde": "5",
          "fach": "Bio",
          "klasse": "10B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Bio Tuh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Bio",
          "klasse": "10B",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Bio Tuh, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
