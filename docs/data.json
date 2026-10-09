@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "09.10.2026, 09:25 Uhr",
- "last_changed": "2026-10-09T11:16:00",
+ "generiert": "09.10.2026, 09:30 Uhr",
+ "last_changed": "2026-10-09T11:27:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -18880,7 +18880,7 @@
     },
     "20261009": {
      "datum": "Freitag, 09. Oktober 2026",
-     "zeitstempel": "09.10.2026, 11:16",
+     "zeitstempel": "09.10.2026, 11:27",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: H. Marski"
      ],
@@ -20906,7 +20906,7 @@
    "tage": {
     "20261012": {
      "datum": "Montag, 12. Oktober 2026",
-     "zeitstempel": "08.10.2026, 14:10",
+     "zeitstempel": "09.10.2026, 11:27",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: U. Ostendorf",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
@@ -22911,19 +22911,35 @@
         },
         {
          "stunde": "3",
-         "fach": "Fr",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 10A verlegt nach Di (13.10.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "En",
          "klasse": "10A",
          "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "info": "En 10A statt Di (13.10.) St.5, Klausur; Fr 10A verlegt nach Di (13.10.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Fr",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Fr 10A verlegt nach Di (13.10.) St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
          "klasse": "10A",
          "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "info": "En 10A statt Di (13.10.) St.6, Klausur; Fr 10A verlegt nach Di (13.10.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -22952,7 +22968,7 @@
     },
     "20261013": {
      "datum": "Dienstag, 13. Oktober 2026",
-     "zeitstempel": "08.10.2026, 14:10",
+     "zeitstempel": "09.10.2026, 11:27",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: T. Pukrop",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -25064,19 +25080,35 @@
         },
         {
          "stunde": "5",
-         "fach": "En",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10A gehalten am Mo (12.10.) St.3, Klausur",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Fr",
          "klasse": "10A",
          "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "info": "Fr 10A statt Mo (12.10.) St.3; En 10A gehalten am Mo (12.10.) St.3, Klausur",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10A gehalten am Mo (12.10.) St.4, Klausur",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Fr",
          "klasse": "10A",
          "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "info": "Fr 10A statt Mo (12.10.) St.4; En 10A gehalten am Mo (12.10.) St.4, Klausur",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -25112,7 +25144,7 @@
     },
     "20261014": {
      "datum": "Mittwoch, 14. Oktober 2026",
-     "zeitstempel": "08.10.2026, 14:10",
+     "zeitstempel": "09.10.2026, 11:27",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Pelka",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth",
