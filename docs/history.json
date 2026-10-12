@@ -458,5 +458,18 @@
    "Std 8 (14:25): für Sp Her, Klausur"
   ],
   "zeitstempel": "12.10.2026, 10:49"
+ },
+ {
+  "timestamp": "2026-10-12T16:05:11.147167",
+  "lehrer": "Bob",
+  "datum": "Mittwoch, 14. Oktober 2026",
+  "date_key": "20261014",
+  "changes": [
+   "Std 1 (07:40): für As Bob, Raumänderung",
+   "Std 2 (08:25): für As Bob, Raumänderung",
+   "Std 7 (13:40): zentraler Nachreibeterrmin",
+   "Std 8 (14:25): zentraler Nachreibeterrmin"
+  ],
+  "zeitstempel": "12.10.2026, 18:01"
  }
 ]

@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "12.10.2026, 16:00 Uhr",
- "last_changed": "2026-10-12T10:49:00",
+ "generiert": "12.10.2026, 16:05 Uhr",
+ "last_changed": "2026-10-12T18:01:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10343,7 +10343,7 @@
    "tage": {
     "20261012": {
      "datum": "Montag, 12. Oktober 2026",
-     "zeitstempel": "09.10.2026, 13:28",
+     "zeitstempel": "12.10.2026, 18:01",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: U. Ostendorf",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
@@ -12405,7 +12405,7 @@
     },
     "20261013": {
      "datum": "Dienstag, 13. Oktober 2026",
-     "zeitstempel": "12.10.2026, 10:49",
+     "zeitstempel": "12.10.2026, 18:01",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: T. Pukrop",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -13003,7 +13003,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof1, WCs, Container",
+         "info": "für Wag"
+        }
+       ]
       },
       "Gor": {
        "entries": [
@@ -14601,7 +14608,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Hof1, WCs, Container",
-         "info": ""
+         "info": "entfällt, V: Gol"
         }
        ]
       },
@@ -14613,7 +14620,7 @@
     },
     "20261014": {
      "datum": "Mittwoch, 14. Oktober 2026",
-     "zeitstempel": "09.10.2026, 13:28",
+     "zeitstempel": "12.10.2026, 18:01",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Pelka",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth",
@@ -14796,17 +14803,17 @@
          "stunde": "1",
          "fach": "As",
          "klasse": "9D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "K09",
+         "info": "für As Bob, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "As",
          "klasse": "9D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "K09",
+         "info": "für As Bob, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "3",
