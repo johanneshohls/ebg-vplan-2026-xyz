@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "12.10.2026, 08:45 Uhr",
- "last_changed": "2026-10-12T08:52:00",
+ "generiert": "12.10.2026, 08:50 Uhr",
+ "last_changed": "2026-10-12T10:49:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12405,7 +12405,7 @@
     },
     "20261013": {
      "datum": "Dienstag, 13. Oktober 2026",
-     "zeitstempel": "12.10.2026, 08:52",
+     "zeitstempel": "12.10.2026, 10:49",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: T. Pukrop",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -12813,14 +12813,6 @@
          "raum": "",
          "info": "Ma 8C verlegt nach Mi (14.10.) St.6 (Käc)",
          "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "sp3",
-         "klasse": "11A-11E",
-         "raum": "Aula",
-         "info": "für Sp Her, Klausur",
-         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13173,7 +13165,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Sp 11D,11A-11C,11E Bri, Klausur",
+         "info": "Sp 11D,11A-11C,11E Pri, Klausur",
          "geaendert": true
         }
        ],
@@ -14039,6 +14031,14 @@
          "raum": "005",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "8",
+         "fach": "sp3",
+         "klasse": "11A-11E",
+         "raum": "Aula",
+         "info": "für Sp Her, Klausur",
+         "geaendert": true
         }
        ],
        "aufsichten": []
