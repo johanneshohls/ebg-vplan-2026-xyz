@@ -1,27 +1,5 @@
 [
  {
-  "timestamp": "2026-10-05T10:05:11.269274",
-  "lehrer": "Bob",
-  "datum": "Donnerstag, 08. Oktober 2026",
-  "date_key": "20261008",
-  "changes": [
-   "Std 1 (07:40): für ILZ Bob, Raumänderung",
-   "Std 2 (08:25): für ILZ Bob, Raumänderung"
-  ],
-  "zeitstempel": "05.10.2026, 12:02"
- },
- {
-  "timestamp": "2026-10-05T10:05:11.269274",
-  "lehrer": "Kno",
-  "datum": "Donnerstag, 08. Oktober 2026",
-  "date_key": "20261008",
-  "changes": [
-   "Std 1 (07:40): für ILZ Kno, Raumänderung",
-   "Std 2 (08:25): für ILZ Kno, Raumänderung"
-  ],
-  "zeitstempel": "05.10.2026, 12:02"
- },
- {
   "timestamp": "2026-10-06T12:45:15.740739",
   "lehrer": "*",
   "datum": "Mittwoch, 07. Oktober 2026",
