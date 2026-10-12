@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "12.10.2026, 06:50 Uhr",
- "last_changed": "2026-10-09T13:28:00",
+ "generiert": "12.10.2026, 06:55 Uhr",
+ "last_changed": "2026-10-12T08:52:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12405,7 +12405,7 @@
     },
     "20261013": {
      "datum": "Dienstag, 13. Oktober 2026",
-     "zeitstempel": "09.10.2026, 13:28",
+     "zeitstempel": "12.10.2026, 08:52",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: T. Pukrop",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -12675,19 +12675,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Bio",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 7C verlegt nach St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "Ma",
          "klasse": "7C",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "Ma 7C verlegt von St.5; Bio 7C verlegt nach St.5",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Bio",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 7C verlegt nach St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ma",
          "klasse": "7C",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "Ma 7C verlegt von St.6; Bio 7C verlegt nach St.6",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -12707,19 +12723,35 @@
         },
         {
          "stunde": "5",
-         "fach": "Ma",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7C verlegt nach St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Bio",
          "klasse": "7C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "Bio 7C verlegt von St.1; Ma 7C verlegt nach St.1",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ma",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7C verlegt nach St.2",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Bio",
          "klasse": "7C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "Bio 7C verlegt von St.2; Ma 7C verlegt nach St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13979,18 +14011,18 @@
         {
          "stunde": "1",
          "fach": "EN2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "Co1",
+         "info": "für En Pri, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "EN2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "Co1",
+         "info": "für En Pri, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "3",
