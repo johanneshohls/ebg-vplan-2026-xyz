@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "13.10.2026, 07:25 Uhr",
- "last_changed": "2026-10-13T07:19:00",
+ "generiert": "13.10.2026, 07:30 Uhr",
+ "last_changed": "2026-10-13T09:29:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14620,7 +14620,7 @@
     },
     "20261014": {
      "datum": "Mittwoch, 14. Oktober 2026",
-     "zeitstempel": "12.10.2026, 18:01",
+     "zeitstempel": "13.10.2026, 09:29",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Pelka",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth",
@@ -15399,17 +15399,17 @@
          "stunde": "5",
          "fach": "Ma",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Ma Hoh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Ma",
          "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Ma Hoh, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -15996,17 +15996,17 @@
          "stunde": "5",
          "fach": "KILZ",
          "klasse": "7C",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "102",
+         "info": "für KILZ Mue, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "KILZ",
          "klasse": "7C",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "102",
+         "info": "für KILZ Mue, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
