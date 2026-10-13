@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "13.10.2026, 15:25 Uhr",
- "last_changed": "2026-10-13T09:29:00",
+ "generiert": "13.10.2026, 15:30 Uhr",
+ "last_changed": "2026-10-13T17:29:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14620,11 +14620,12 @@
     },
     "20261014": {
      "datum": "Mittwoch, 14. Oktober 2026",
-     "zeitstempel": "13.10.2026, 09:29",
+     "zeitstempel": "13.10.2026, 17:29",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Pelka",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth",
-      "2. Block: Schülervertretersitzung in Co3"
+      "2. Block: Schülervertretersitzung in Co3",
+      "4. Block: zentraler Nachschreibetermin; R 105"
      ],
      "lehrer": {
       "Bar": {
@@ -14830,22 +14831,6 @@
          "raum": "205",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "Inf",
-         "klasse": "",
-         "raum": "103",
-         "info": "zentraler Nachreibeterrmin",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Inf",
-         "klasse": "",
-         "raum": "103",
-         "info": "zentraler Nachreibeterrmin",
-         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14993,22 +14978,6 @@
          "raum": "K09",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "Inf",
-         "klasse": "",
-         "raum": "103",
-         "info": "zentraler Nachreibeterrmin",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Inf",
-         "klasse": "",
-         "raum": "103",
-         "info": "zentraler Nachreibeterrmin",
-         "geaendert": true
         }
        ],
        "aufsichten": []

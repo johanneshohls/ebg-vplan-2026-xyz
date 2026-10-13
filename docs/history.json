@@ -468,5 +468,39 @@
    "Std 6 (12:25): für KILZ Mue, Raumänderung"
   ],
   "zeitstempel": "13.10.2026, 09:29"
+ },
+ {
+  "timestamp": "2026-10-13T15:30:13.063575",
+  "lehrer": "*",
+  "datum": "Mittwoch, 14. Oktober 2026",
+  "date_key": "20261014",
+  "changes": [
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Pelka",
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth",
+   "Hinweis: 2. Block: Schülervertretersitzung in Co3",
+   "Hinweis: 4. Block: zentraler Nachschreibetermin; R 105"
+  ],
+  "zeitstempel": "13.10.2026, 17:29"
+ },
+ {
+  "timestamp": "2026-10-13T15:30:13.063575",
+  "lehrer": "Bob",
+  "datum": "Mittwoch, 14. Oktober 2026",
+  "date_key": "20261014",
+  "changes": [
+   "Std 1 (07:40): für As Bob, Raumänderung",
+   "Std 2 (08:25): für As Bob, Raumänderung"
+  ],
+  "zeitstempel": "13.10.2026, 17:29"
+ },
+ {
+  "timestamp": "2026-10-13T15:30:13.063575",
+  "lehrer": "Con",
+  "datum": "Mittwoch, 14. Oktober 2026",
+  "date_key": "20261014",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "13.10.2026, 17:29"
  }
 ]
