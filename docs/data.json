@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "13.10.2026, 05:15 Uhr",
- "last_changed": "2026-10-12T18:01:00",
+ "generiert": "13.10.2026, 05:20 Uhr",
+ "last_changed": "2026-10-13T07:19:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12405,7 +12405,7 @@
     },
     "20261013": {
      "datum": "Dienstag, 13. Oktober 2026",
-     "zeitstempel": "12.10.2026, 18:01",
+     "zeitstempel": "13.10.2026, 07:19",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: T. Pukrop",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -12802,7 +12802,7 @@
          "stunde": "7",
          "fach": "sp3",
          "klasse": "11A-11E",
-         "raum": "Aula",
+         "raum": "105",
          "info": "für Sp Her, Klausur",
          "geaendert": true
         },
@@ -13508,17 +13508,17 @@
          "stunde": "7",
          "fach": "Club4",
          "klasse": "10A-10D,9A-9D",
-         "raum": "106",
-         "info": "für Club4 Kar, Raumänderung",
-         "geaendert": true
+         "raum": "Aula",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "8",
          "fach": "Club4",
          "klasse": "10A-10D,9A-9D",
-         "raum": "106",
-         "info": "für Club4 Kar, Raumänderung",
-         "geaendert": true
+         "raum": "Aula",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": [
@@ -14043,7 +14043,7 @@
          "stunde": "8",
          "fach": "sp3",
          "klasse": "11A-11E",
-         "raum": "Aula",
+         "raum": "105",
          "info": "für Sp Her, Klausur",
          "geaendert": true
         }
