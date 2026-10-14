@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "14.10.2026, 11:50 Uhr",
- "last_changed": "2026-10-14T09:06:00",
+ "generiert": "14.10.2026, 11:55 Uhr",
+ "last_changed": "2026-10-14T13:53:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14620,7 +14620,7 @@
     },
     "20261014": {
      "datum": "Mittwoch, 14. Oktober 2026",
-     "zeitstempel": "14.10.2026, 09:06",
+     "zeitstempel": "14.10.2026, 13:53",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: F. Priesemuth",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker",
@@ -16098,22 +16098,6 @@
          "raum": "K12",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "Ch",
-         "klasse": "",
-         "raum": "105",
-         "info": "zentraler Nachreibeterrmin",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Ch",
-         "klasse": "",
-         "raum": "105",
-         "info": "zentraler Nachreibeterrmin",
-         "geaendert": true
         }
        ],
        "aufsichten": []

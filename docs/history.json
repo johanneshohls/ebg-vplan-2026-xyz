@@ -330,5 +330,16 @@
    "Hinweis: 4. Block: zentraler Nachschreibetermin; R 105"
   ],
   "zeitstempel": "14.10.2026, 09:06"
+ },
+ {
+  "timestamp": "2026-10-14T11:55:11.057977",
+  "lehrer": "Pel",
+  "datum": "Mittwoch, 14. Oktober 2026",
+  "date_key": "20261014",
+  "changes": [
+   "Std 3 (09:40): für Bio See",
+   "Std 4 (10:25): für Bio See"
+  ],
+  "zeitstempel": "14.10.2026, 13:53"
  }
 ]
