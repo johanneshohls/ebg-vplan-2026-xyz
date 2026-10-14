@@ -414,5 +414,33 @@
    "Planänderung (Details nicht spezifiziert)"
   ],
   "zeitstempel": "13.10.2026, 17:29"
+ },
+ {
+  "timestamp": "2026-10-14T03:10:12.179994",
+  "lehrer": "Pel",
+  "datum": "Mittwoch, 14. Oktober 2026",
+  "date_key": "20261014",
+  "changes": [
+   "Std 3 (09:40): für Bio See",
+   "Std 4 (10:25): für Bio See",
+   "Std 7 (13:40): zentraler Nachreibeterrmin",
+   "Std 8 (14:25): zentraler Nachreibeterrmin"
+  ],
+  "zeitstempel": "14.10.2026, 05:06"
+ },
+ {
+  "timestamp": "2026-10-14T03:10:12.179994",
+  "lehrer": "See",
+  "datum": "Mittwoch, 14. Oktober 2026",
+  "date_key": "20261014",
+  "changes": [
+   "Std 1 (07:40): Bio 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 2 (08:25): Bio 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 3 (09:40): Bio 7D Pel",
+   "Std 4 (10:25): Bio 7D Pel",
+   "Std 5 (11:40): Geo 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): Geo 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "14.10.2026, 05:06"
  }
 ]

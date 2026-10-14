@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "14.10.2026, 03:05 Uhr",
- "last_changed": "2026-10-13T17:29:00",
+ "generiert": "14.10.2026, 03:10 Uhr",
+ "last_changed": "2026-10-14T05:06:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14620,7 +14620,7 @@
     },
     "20261014": {
      "datum": "Mittwoch, 14. Oktober 2026",
-     "zeitstempel": "13.10.2026, 17:29",
+     "zeitstempel": "14.10.2026, 05:06",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Pelka",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth",
@@ -16068,6 +16068,22 @@
       "Pel": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "7D",
+         "raum": "204",
+         "info": "für Bio See",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Bio",
+         "klasse": "7D",
+         "raum": "204",
+         "info": "für Bio See",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Ch",
          "klasse": "9A",
@@ -16309,51 +16325,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "bio2",
-         "klasse": "11A-11E",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "bio2",
-         "klasse": "11A-11E",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Bio",
-         "klasse": "7D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 7D Pel",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Bio",
-         "klasse": "7D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 7D Pel",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "GEO2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "GEO2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
