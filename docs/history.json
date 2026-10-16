@@ -1,16 +1,5 @@
 [
  {
-  "timestamp": "2026-10-09T09:20:47.949888",
-  "lehrer": "Tuh",
-  "datum": "Freitag, 09. Oktober 2026",
-  "date_key": "20261009",
-  "changes": [
-   "Std 5 (11:40): für Bio Tuh, Raumänderung",
-   "Std 6 (12:25): für Bio Tuh, Raumänderung"
-  ],
-  "zeitstempel": "09.10.2026, 11:16"
- },
- {
   "timestamp": "2026-10-09T09:30:10.580278",
   "lehrer": "Wag",
   "datum": "Montag, 12. Oktober 2026",
