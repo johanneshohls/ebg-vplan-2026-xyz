@@ -1,40 +1,5 @@
 [
  {
-  "timestamp": "2026-10-12T08:50:11.276531",
-  "lehrer": "Bri",
-  "datum": "Dienstag, 13. Oktober 2026",
-  "date_key": "20261013",
-  "changes": [
-   "Std 7 (13:40): Ma 8C verlegt nach Mi (14.10.) St.5 (Käc)",
-   "Std 7 (13:40): für Sp Her, Klausur",
-   "Std 8 (14:25): Ma 8C verlegt nach Mi (14.10.) St.6 (Käc)"
-  ],
-  "zeitstempel": "12.10.2026, 10:49"
- },
- {
-  "timestamp": "2026-10-12T08:50:11.276531",
-  "lehrer": "Her",
-  "datum": "Dienstag, 13. Oktober 2026",
-  "date_key": "20261013",
-  "changes": [
-   "Std 7 (13:40): Sp 11D,11A-11C,11E Bri, Klausur",
-   "Std 8 (14:25): Sp 11D,11A-11C,11E Pri, Klausur"
-  ],
-  "zeitstempel": "12.10.2026, 10:49"
- },
- {
-  "timestamp": "2026-10-12T08:50:11.276531",
-  "lehrer": "Pri",
-  "datum": "Dienstag, 13. Oktober 2026",
-  "date_key": "20261013",
-  "changes": [
-   "Std 1 (07:40): für En Pri, Raumänderung",
-   "Std 2 (08:25): für En Pri, Raumänderung",
-   "Std 8 (14:25): für Sp Her, Klausur"
-  ],
-  "zeitstempel": "12.10.2026, 10:49"
- },
- {
   "timestamp": "2026-10-12T16:05:11.147167",
   "lehrer": "Bob",
   "datum": "Mittwoch, 14. Oktober 2026",
