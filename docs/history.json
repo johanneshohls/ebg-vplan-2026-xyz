@@ -1,33 +1,5 @@
 [
  {
-  "timestamp": "2026-10-12T06:55:11.602238",
-  "lehrer": "Bom",
-  "datum": "Dienstag, 13. Oktober 2026",
-  "date_key": "20261013",
-  "changes": [
-   "Std 1 (07:40): Bio 7C verlegt nach St.5",
-   "Std 1 (07:40): Ma 7C verlegt von St.5; Bio 7C verlegt nach St.5",
-   "Std 2 (08:25): Bio 7C verlegt nach St.6",
-   "Std 2 (08:25): Ma 7C verlegt von St.6; Bio 7C verlegt nach St.6",
-   "Std 5 (11:40): Ma 7C verlegt nach St.1",
-   "Std 5 (11:40): Bio 7C verlegt von St.1; Ma 7C verlegt nach St.1",
-   "Std 6 (12:25): Ma 7C verlegt nach St.2",
-   "Std 6 (12:25): Bio 7C verlegt von St.2; Ma 7C verlegt nach St.2"
-  ],
-  "zeitstempel": "12.10.2026, 08:52"
- },
- {
-  "timestamp": "2026-10-12T06:55:11.602238",
-  "lehrer": "Pri",
-  "datum": "Dienstag, 13. Oktober 2026",
-  "date_key": "20261013",
-  "changes": [
-   "Std 1 (07:40): für En Pri, Raumänderung",
-   "Std 2 (08:25): für En Pri, Raumänderung"
-  ],
-  "zeitstempel": "12.10.2026, 08:52"
- },
- {
   "timestamp": "2026-10-12T08:50:11.276531",
   "lehrer": "Bri",
   "datum": "Dienstag, 13. Oktober 2026",
