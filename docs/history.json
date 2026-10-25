@@ -83,5 +83,42 @@
    "Planänderung (Details nicht spezifiziert)"
   ],
   "zeitstempel": "25.10.2026, 13:59"
+ },
+ {
+  "timestamp": "2026-10-25T13:05:09.646497",
+  "lehrer": "Hei",
+  "datum": "Montag, 26. Oktober 2026",
+  "date_key": "20261026",
+  "changes": [
+   "Std 3 (09:40): für ILZ Hei, Raumänderung",
+   "Std 4 (10:25): für ILZ Hei, Raumänderung"
+  ],
+  "zeitstempel": "25.10.2026, 14:03"
+ },
+ {
+  "timestamp": "2026-10-25T13:05:09.646497",
+  "lehrer": "Hin",
+  "datum": "Montag, 26. Oktober 2026",
+  "date_key": "20261026",
+  "changes": [
+   "Std 1 (07:40): für En Mar, Übungsaufgaben",
+   "Std 2 (08:25): für En Mar, Übungsaufgaben"
+  ],
+  "zeitstempel": "25.10.2026, 14:03"
+ },
+ {
+  "timestamp": "2026-10-25T13:05:09.646497",
+  "lehrer": "Mar",
+  "datum": "Montag, 26. Oktober 2026",
+  "date_key": "20261026",
+  "changes": [
+   "Std 1 (07:40): De 8C Hin (für En), Übungsaufgaben",
+   "Std 2 (08:25): De 8C Hin (für En), Übungsaufgaben",
+   "Std 3 (09:40): En 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): En 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): Ph 7B Bob (für Ma)",
+   "Std 6 (12:25): Ph 7B Bob (für Ma)"
+  ],
+  "zeitstempel": "25.10.2026, 14:03"
  }
 ]

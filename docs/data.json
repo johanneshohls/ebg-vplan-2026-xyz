@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "25.10.2026, 13:00 Uhr",
- "last_changed": "2026-10-25T13:59:00",
+ "generiert": "25.10.2026, 13:05 Uhr",
+ "last_changed": "2026-10-25T14:03:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -6379,7 +6379,7 @@
    "tage": {
     "20261026": {
      "datum": "Montag, 26. Oktober 2026",
-     "zeitstempel": "25.10.2026, 13:59",
+     "zeitstempel": "25.10.2026, 14:03",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -7012,7 +7012,7 @@
          "stunde": "3",
          "fach": "ILZ",
          "klasse": "9A",
-         "raum": "008",
+         "raum": "006",
          "info": "für ILZ Hei, Raumänderung",
          "geaendert": true
         },
@@ -7020,7 +7020,7 @@
          "stunde": "4",
          "fach": "ILZ",
          "klasse": "9A",
-         "raum": "008",
+         "raum": "006",
          "info": "für ILZ Hei, Raumänderung",
          "geaendert": true
         },
@@ -7126,22 +7126,6 @@
          "klasse": "8C",
          "raum": "101",
          "info": "für En Mar, Übungsaufgaben",
-         "geaendert": true
-        },
-        {
-         "stunde": "3",
-         "fach": "en1",
-         "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "für En Mar, Klausur",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "en1",
-         "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "für En Mar, Klausur",
          "geaendert": true
         }
        ],
@@ -7670,7 +7654,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 12A-12D Hin, Klausur",
+         "info": "En 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
          "geaendert": true
         },
         {
@@ -7678,7 +7662,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 12A-12D Hin, Klausur",
+         "info": "En 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
          "geaendert": true
         },
         {
