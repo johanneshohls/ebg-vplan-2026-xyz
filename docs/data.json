@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "25.10.2026, 16:40 Uhr",
- "last_changed": "2026-10-25T14:03:00",
+ "generiert": "25.10.2026, 16:45 Uhr",
+ "last_changed": "2026-10-25T17:45:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -6379,7 +6379,7 @@
    "tage": {
     "20261026": {
      "datum": "Montag, 26. Oktober 2026",
-     "zeitstempel": "25.10.2026, 14:03",
+     "zeitstempel": "25.10.2026, 17:45",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -6617,51 +6617,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "SpMä",
-         "klasse": "7A,7B",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpMä 7A,7B Hin",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "SpMä",
-         "klasse": "7A,7B",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpMä 7A,7B Hin",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "sp2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 11D,11A-11C,11E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "sp2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 11D,11A-11C,11E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "SpJu",
-         "klasse": "7C,7D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpJu 7C,7D Hin",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "SpJu",
-         "klasse": "7C,7D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpJu 7C,7D Hin",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -7114,18 +7114,34 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "für En Mar, Übungsaufgaben",
+         "fach": "SpMä",
+         "klasse": "7A,7B",
+         "raum": "Tu2",
+         "info": "für SpMä Bod",
          "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "De",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "für En Mar, Übungsaufgaben",
+         "fach": "SpMä",
+         "klasse": "7A,7B",
+         "raum": "Tu2",
+         "info": "für SpMä Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "SpJu",
+         "klasse": "7C,7D",
+         "raum": "Tu1",
+         "info": "für SpJu Bod",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "SpJu",
+         "klasse": "7C,7D",
+         "raum": "Tu1",
+         "info": "für SpJu Bod",
          "geaendert": true
         }
        ],
@@ -7638,7 +7654,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 8C Hin (für En), Übungsaufgaben",
+         "info": "De 8C Pel (für En), Übungsaufgaben",
          "geaendert": true
         },
         {
@@ -7646,7 +7662,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "De 8C Hin (für En), Übungsaufgaben",
+         "info": "De 8C Pel (für En), Übungsaufgaben",
          "geaendert": true
         },
         {
@@ -7863,6 +7879,22 @@
       },
       "Pel": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für En Mar, Übungsaufgaben",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für En Mar, Übungsaufgaben",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "Ch",
