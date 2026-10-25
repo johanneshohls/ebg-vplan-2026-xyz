@@ -1,1 +1,87 @@
-[]
+[
+ {
+  "timestamp": "2026-10-25T13:00:14.444387",
+  "lehrer": "Bar",
+  "datum": "Montag, 26. Oktober 2026",
+  "date_key": "20261026",
+  "changes": [
+   "Std 5 (11:40): IMB 7D Con, Bitte in Rücksprache mit T. Barth.",
+   "Std 5 (11:40): Hospitation, R 201; IMB 7D Con, Bitte in Rücksprache mit T. Barth.",
+   "Std 6 (12:25): IMB 7D Con, Bitte in Rücksprache mit T. Barth."
+  ],
+  "zeitstempel": "25.10.2026, 13:59"
+ },
+ {
+  "timestamp": "2026-10-25T13:00:14.444387",
+  "lehrer": "Bob",
+  "datum": "Montag, 26. Oktober 2026",
+  "date_key": "20261026",
+  "changes": [
+   "Std 3 (09:40): Ku 8A verlegt von St.5",
+   "Std 4 (10:25): Ku 8A verlegt von St.6",
+   "Std 5 (11:40): Ku 8A verlegt nach St.3",
+   "Std 5 (11:40): für Ma Mar",
+   "Std 6 (12:25): Ku 8A verlegt nach St.4",
+   "Std 6 (12:25): für Ma Mar"
+  ],
+  "zeitstempel": "25.10.2026, 13:59"
+ },
+ {
+  "timestamp": "2026-10-25T13:00:14.444387",
+  "lehrer": "Hin",
+  "datum": "Montag, 26. Oktober 2026",
+  "date_key": "20261026",
+  "changes": [
+   "Std 1 (07:40): für En Mar, Übungsaufgaben",
+   "Std 2 (08:25): für En Mar, Übungsaufgaben",
+   "Std 3 (09:40): für En Mar, Klausur",
+   "Std 4 (10:25): für En Mar, Klausur"
+  ],
+  "zeitstempel": "25.10.2026, 13:59"
+ },
+ {
+  "timestamp": "2026-10-25T13:00:14.444387",
+  "lehrer": "Mar",
+  "datum": "Montag, 26. Oktober 2026",
+  "date_key": "20261026",
+  "changes": [
+   "Std 1 (07:40): De 8C Hin (für En), Übungsaufgaben",
+   "Std 2 (08:25): De 8C Hin (für En), Übungsaufgaben",
+   "Std 3 (09:40): En 12A-12D Hin, Klausur",
+   "Std 4 (10:25): En 12A-12D Hin, Klausur",
+   "Std 5 (11:40): Ph 7B Bob (für Ma)",
+   "Std 6 (12:25): Ph 7B Bob (für Ma)"
+  ],
+  "zeitstempel": "25.10.2026, 13:59"
+ },
+ {
+  "timestamp": "2026-10-25T13:00:14.444387",
+  "lehrer": "Bar",
+  "datum": "Donnerstag, 29. Oktober 2026",
+  "date_key": "20261029",
+  "changes": [
+   "Std 5 (11:40): Hospitation, 8a, R 001"
+  ],
+  "zeitstempel": "25.10.2026, 13:59"
+ },
+ {
+  "timestamp": "2026-10-25T13:00:14.444387",
+  "lehrer": "Hofm",
+  "datum": "Donnerstag, 29. Oktober 2026",
+  "date_key": "20261029",
+  "changes": [
+   "Std 5 (11:40): für En Hofm, Hospitation"
+  ],
+  "zeitstempel": "25.10.2026, 13:59"
+ },
+ {
+  "timestamp": "2026-10-25T13:00:14.444387",
+  "lehrer": "Zec",
+  "datum": "Donnerstag, 29. Oktober 2026",
+  "date_key": "20261029",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "25.10.2026, 13:59"
+ }
+]

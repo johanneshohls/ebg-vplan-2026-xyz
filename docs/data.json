@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "25.10.2026, 12:55 Uhr",
- "last_changed": "2026-10-18T18:56:00",
+ "generiert": "25.10.2026, 13:00 Uhr",
+ "last_changed": "2026-10-25T13:59:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -6379,7 +6379,7 @@
    "tage": {
     "20261026": {
      "datum": "Montag, 26. Oktober 2026",
-     "zeitstempel": "18.10.2026, 18:56",
+     "zeitstempel": "25.10.2026, 13:59",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -6390,6 +6390,14 @@
          "klasse": "",
          "raum": "",
          "info": "IMB 7D Con, Bitte in Rücksprache mit T. Barth.",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "",
+         "info": "Hospitation, R 201; IMB 7D Con, Bitte in Rücksprache mit T. Barth.",
          "geaendert": true
         },
         {
@@ -6556,11 +6564,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Ph",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Ma Mar",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ku 8A verlegt nach St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ph",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Ma Mar",
          "geaendert": true
         },
         {
@@ -7087,7 +7111,40 @@
        ]
       },
       "Hin": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für En Mar, Übungsaufgaben",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für En Mar, Übungsaufgaben",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "en1",
+         "klasse": "12A-12D",
+         "raum": "Aula",
+         "info": "für En Mar, Klausur",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "en1",
+         "klasse": "12A-12D",
+         "raum": "Aula",
+         "info": "für En Mar, Klausur",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Hofm": {
@@ -7594,51 +7651,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "En",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8C Hin (für En), Übungsaufgaben",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "En",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8C Hin (für En), Übungsaufgaben",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "en1",
-         "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "für En Mar, Klausur",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12D Hin, Klausur",
          "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "en1",
-         "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "für En Mar, Klausur",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12D Hin, Klausur",
          "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Ma",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 7B Bob (für Ma)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ma",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 7B Bob (für Ma)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -8474,7 +8531,7 @@
     },
     "20261027": {
      "datum": "Dienstag, 27. Oktober 2026",
-     "zeitstempel": "18.10.2026, 18:56",
+     "zeitstempel": "25.10.2026, 13:59",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -10440,7 +10497,7 @@
     },
     "20261028": {
      "datum": "Mittwoch, 28. Oktober 2026",
-     "zeitstempel": "18.10.2026, 18:56",
+     "zeitstempel": "25.10.2026, 13:59",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -12421,11 +12478,20 @@
     },
     "20261029": {
      "datum": "Donnerstag, 29. Oktober 2026",
-     "zeitstempel": "18.10.2026, 18:56",
+     "zeitstempel": "25.10.2026, 13:59",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Hospitation, 8a, R 001",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Bes": {
@@ -13138,7 +13204,7 @@
          "fach": "En",
          "klasse": "8A",
          "raum": "001",
-         "info": "",
+         "info": "für En Hofm, Hospitation",
          "geaendert": false
         },
         {
@@ -14438,7 +14504,24 @@
        "aufsichten": []
       },
       "Zec": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "SpMä",
+         "klasse": "9A,9B",
+         "raum": "Tu1",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "2",
+         "fach": "SpMä",
+         "klasse": "9A,9B",
+         "raum": "Tu1",
+         "info": "",
+         "geaendert": false
+        }
+       ],
        "aufsichten": []
       }
      }
