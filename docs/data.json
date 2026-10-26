@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "26.10.2026, 08:20 Uhr",
- "last_changed": "2026-10-26T07:25:00",
+ "generiert": "26.10.2026, 08:25 Uhr",
+ "last_changed": "2026-10-26T09:22:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -8243,8 +8243,11 @@
     },
     "20261030": {
      "datum": "Freitag, 30. Oktober 2026",
-     "zeitstempel": "18.10.2026, 18:56",
-     "tagesinfo": [],
+     "zeitstempel": "26.10.2026, 09:22",
+     "tagesinfo": [
+      "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Tuhcic",
+      "Aufsicht auf dem Goetheplatz nach dem 4. Block: entfällt"
+     ],
      "lehrer": {
       "Bar": {
        "entries": [
@@ -8473,7 +8476,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Hof1, WCs, Container",
-         "info": ""
+         "info": "entfällt, V: Hol"
         }
        ]
       },
@@ -8968,7 +8971,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof1, WCs, Container",
+         "info": "für Bom"
+        }
+       ]
       },
       "Hön": {
        "entries": [
@@ -9210,6 +9220,22 @@
          "klasse": "",
          "raum": "",
          "info": "Begleiteter Unterricht : D in der 8a, R 001; Phi 7B verlegt nach St.4 (Jur)",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "De",
+         "klasse": "",
+         "raum": "004",
+         "info": "Nachschreibetermin D",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "De",
+         "klasse": "",
+         "raum": "004",
+         "info": "Nachschreibetermin D",
          "geaendert": true
         }
        ],

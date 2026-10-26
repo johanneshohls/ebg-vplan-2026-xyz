@@ -5,5 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Ernst-Barlach-Gymnasium – Bis
 X-WR-CALDESC:Persönlicher Vertretungsplan
-X-WR-LASTUPDATED:20261026T082023Z
+X-WR-LASTUPDATED:20261026T082525Z
+BEGIN:VEVENT
+UID:bis-20261030-tagesinfo@ebg-vplan
+DTSTAMP:20261026T082525Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Tuhcic 
+ (+1)
+DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Tuhcic\nAufs
+ icht auf dem Goetheplatz nach dem 4. Block: entfällt
+CATEGORIES:Schule,Hinweis
+END:VEVENT
 END:VCALENDAR
