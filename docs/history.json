@@ -174,5 +174,16 @@
    "Std 2 (08:25): für En Mar, Übungsaufgaben"
   ],
   "zeitstempel": "25.10.2026, 17:45"
+ },
+ {
+  "timestamp": "2026-10-26T06:20:10.754420",
+  "lehrer": "Lan",
+  "datum": "Montag, 26. Oktober 2026",
+  "date_key": "20261026",
+  "changes": [
+   "Std 3 (09:40): für Phil Lan, Klausur",
+   "Std 4 (10:25): für Phil Lan, Klausur"
+  ],
+  "zeitstempel": "26.10.2026, 07:16"
  }
 ]

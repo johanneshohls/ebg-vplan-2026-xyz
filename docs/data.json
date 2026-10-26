@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "26.10.2026, 06:15 Uhr",
- "last_changed": "2026-10-25T17:45:00",
+ "generiert": "26.10.2026, 06:20 Uhr",
+ "last_changed": "2026-10-26T07:16:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -78,7 +78,7 @@
    "tage": {
     "20261026": {
      "datum": "Montag, 26. Oktober 2026",
-     "zeitstempel": "25.10.2026, 17:45",
+     "zeitstempel": "26.10.2026, 07:16",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -1259,17 +1259,17 @@
          "stunde": "3",
          "fach": "phil3",
          "klasse": "11A-11E",
-         "raum": "Co3",
+         "raum": "Aula",
          "info": "für Phil Lan, Klausur",
-         "geaendert": false
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "phil3",
          "klasse": "11A-11E",
-         "raum": "Co3",
+         "raum": "Aula",
          "info": "für Phil Lan, Klausur",
-         "geaendert": false
+         "geaendert": true
         },
         {
          "stunde": "5",
