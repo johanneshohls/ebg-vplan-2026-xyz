@@ -5,65 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Ernst-Barlach-Gymnasium – Stä
 X-WR-CALDESC:Persönlicher Vertretungsplan
-X-WR-LASTUPDATED:20261025T220116Z
-BEGIN:VEVENT
-UID:stä-20261012-tagesinfo@ebg-vplan
-DTSTAMP:20261025T220116Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: U. Ostendo
- rf (+1)
-DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: U. Ostendorf\nA
- ufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth
-CATEGORIES:Schule,Hinweis
-END:VEVENT
-BEGIN:VEVENT
-UID:stä-20261013-tagesinfo@ebg-vplan
-DTSTAMP:20261025T220116Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: T. Pukrop 
- (+1)
-DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: T. Pukrop\nAufs
- icht auf dem Goetheplatz nach dem 4. Block: T. Seemann
-CATEGORIES:Schule,Hinweis
-END:VEVENT
-BEGIN:VEVENT
-UID:stä-20261014-tagesinfo@ebg-vplan
-DTSTAMP:20261025T220116Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: F. Priesem
- uth (+3)
-DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: F. Priesemuth\n
- Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker\n2. Block: Sch
- ülervertretersitzung in Co3\n4. Block: zentraler Nachschreibetermin\; R 1
- 05
-CATEGORIES:Schule,Hinweis
-END:VEVENT
-BEGIN:VEVENT
-UID:stä-20261014-std7@ebg-vplan
-DTSTAMP:20261025T220116Z
-DTSTART:20261014T134000
-DTEND:20261014T142500
-SUMMARY:GS14 (7A-7D\,8A-8E)
-DESCRIPTION:Std. 7: GS14\\nKlasse: 7A-7D\,8A-8E\\nRaum: K07
-LOCATION:K07
-CATEGORIES:Schule,Vertretungsplan
-END:VEVENT
-BEGIN:VEVENT
-UID:stä-20261014-std8@ebg-vplan
-DTSTAMP:20261025T220116Z
-DTSTART:20261014T142500
-DTEND:20261014T151000
-SUMMARY:GS14 (7A-7D\,8A-8E)
-DESCRIPTION:Std. 8: GS14\\nKlasse: 7A-7D\,8A-8E\\nRaum: K07
-LOCATION:K07
-CATEGORIES:Schule,Vertretungsplan
-END:VEVENT
+X-WR-LASTUPDATED:20261026T040026Z
 BEGIN:VEVENT
 UID:stä-20261028-std7@ebg-vplan
-DTSTAMP:20261025T220116Z
+DTSTAMP:20261026T040026Z
 DTSTART:20261028T134000
 DTEND:20261028T142500
 SUMMARY:GS14 (7A-7D\,8A-8E)
@@ -73,7 +18,7 @@ CATEGORIES:Schule,Vertretungsplan
 END:VEVENT
 BEGIN:VEVENT
 UID:stä-20261028-std8@ebg-vplan
-DTSTAMP:20261025T220116Z
+DTSTAMP:20261026T040026Z
 DTSTART:20261028T142500
 DTEND:20261028T151000
 SUMMARY:GS14 (7A-7D\,8A-8E)
