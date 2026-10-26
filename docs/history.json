@@ -355,5 +355,189 @@
    "Std 2 (08:25): Hospitation Frz 7d, R 002"
   ],
   "zeitstempel": "26.10.2026, 12:38"
+ },
+ {
+  "timestamp": "2026-10-26T13:00:16.131524",
+  "lehrer": "*",
+  "datum": "Montag, 26. Oktober 2026",
+  "date_key": "20261026",
+  "changes": [
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Pelka",
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
+  ],
+  "zeitstempel": "26.10.2026, 13:55"
+ },
+ {
+  "timestamp": "2026-10-26T13:00:16.131524",
+  "lehrer": "Kno",
+  "datum": "Dienstag, 27. Oktober 2026",
+  "date_key": "20261027",
+  "changes": [
+   "Std 5 (11:40): für En Mar",
+   "Std 6 (12:25): für En Mar"
+  ],
+  "zeitstempel": "26.10.2026, 13:55"
+ },
+ {
+  "timestamp": "2026-10-26T13:00:16.131524",
+  "lehrer": "Mar",
+  "datum": "Dienstag, 27. Oktober 2026",
+  "date_key": "20261027",
+  "changes": [
+   "Std 1 (07:40): Bio 9A Pel (für En)",
+   "Std 2 (08:25): Bio 9A Pel (für En)",
+   "Std 5 (11:40): AWT 8E Kno (für En)",
+   "Std 6 (12:25): AWT 8E Kno (für En)",
+   "Std 7 (13:40): En 7B fällt aus",
+   "Std 8 (14:25): En 7B fällt aus"
+  ],
+  "zeitstempel": "26.10.2026, 13:55"
+ },
+ {
+  "timestamp": "2026-10-26T13:00:16.131524",
+  "lehrer": "Pel",
+  "datum": "Dienstag, 27. Oktober 2026",
+  "date_key": "20261027",
+  "changes": [
+   "Std 1 (07:40): für En Mar",
+   "Std 2 (08:25): für En Mar"
+  ],
+  "zeitstempel": "26.10.2026, 13:55"
+ },
+ {
+  "timestamp": "2026-10-26T13:00:16.131524",
+  "lehrer": "Gor",
+  "datum": "Mittwoch, 28. Oktober 2026",
+  "date_key": "20261028",
+  "changes": [
+   "Std 3 (09:40): für En Mar",
+   "Std 4 (10:25): für En Mar"
+  ],
+  "zeitstempel": "26.10.2026, 13:55"
+ },
+ {
+  "timestamp": "2026-10-26T13:00:16.131524",
+  "lehrer": "Hön",
+  "datum": "Mittwoch, 28. Oktober 2026",
+  "date_key": "20261028",
+  "changes": [
+   "Std 1 (07:40): für En Mar",
+   "Std 2 (08:25): für En Mar"
+  ],
+  "zeitstempel": "26.10.2026, 13:55"
+ },
+ {
+  "timestamp": "2026-10-26T13:00:16.131524",
+  "lehrer": "Mar",
+  "datum": "Mittwoch, 28. Oktober 2026",
+  "date_key": "20261028",
+  "changes": [
+   "Std 1 (07:40): De 7B Hön (für En)",
+   "Std 2 (08:25): De 7B Hön (für En)",
+   "Std 3 (09:40): Ge 9A Gor (für En)",
+   "Std 4 (10:25): Ge 9A Gor (für En)",
+   "Std 7 (13:40): Ku 9B Schud (für Ge)",
+   "Std 8 (14:25): Ku 9B Schud (für Ge)"
+  ],
+  "zeitstempel": "26.10.2026, 13:55"
+ },
+ {
+  "timestamp": "2026-10-26T13:00:16.131524",
+  "lehrer": "Schud",
+  "datum": "Mittwoch, 28. Oktober 2026",
+  "date_key": "20261028",
+  "changes": [
+   "Std 7 (13:40): für Ge Mar",
+   "Std 8 (14:25): für Ge Mar"
+  ],
+  "zeitstempel": "26.10.2026, 13:55"
+ },
+ {
+  "timestamp": "2026-10-26T13:00:16.131524",
+  "lehrer": "Bri",
+  "datum": "Freitag, 30. Oktober 2026",
+  "date_key": "20261030",
+  "changes": [
+   "Std 1 (07:40): für Ma Käc, Hospitation",
+   "Std 2 (08:25): Ma 8C Pel, Aufgaben durch FL erteilt",
+   "Std 2 (08:25): Auswertung Hospitation mit Herrn Pohla; Ma 8C Pel, Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "26.10.2026, 13:55"
+ },
+ {
+  "timestamp": "2026-10-26T13:00:16.131524",
+  "lehrer": "Fel",
+  "datum": "Freitag, 30. Oktober 2026",
+  "date_key": "20261030",
+  "changes": [
+   "Std 5 (11:40): für En Mar",
+   "Std 6 (12:25): für En Mar"
+  ],
+  "zeitstempel": "26.10.2026, 13:55"
+ },
+ {
+  "timestamp": "2026-10-26T13:00:16.131524",
+  "lehrer": "Käc",
+  "datum": "Freitag, 30. Oktober 2026",
+  "date_key": "20261030",
+  "changes": [
+   "Std 1 (07:40): für Ma Käc, Hospitation",
+   "Std 2 (08:25): Ma 8C Pel, Aufgaben durch FL erteilt",
+   "Std 2 (08:25): Auswertung Hospitation mit Herrn Pohla; Ma 8C Pel, Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "26.10.2026, 13:55"
+ },
+ {
+  "timestamp": "2026-10-26T13:00:16.131524",
+  "lehrer": "Kar",
+  "datum": "Freitag, 30. Oktober 2026",
+  "date_key": "20261030",
+  "changes": [
+   "Std 1 (07:40): B VK selbst. (v)",
+   "Std 1 (07:40): für Ma Mar",
+   "Std 2 (08:25): B VK fällt aus",
+   "Std 2 (08:25): für Ma Mar"
+  ],
+  "zeitstempel": "26.10.2026, 13:55"
+ },
+ {
+  "timestamp": "2026-10-26T13:00:16.131524",
+  "lehrer": "Mar",
+  "datum": "Freitag, 30. Oktober 2026",
+  "date_key": "20261030",
+  "changes": [
+   "Std 1 (07:40): IMB 7B Kar (für Ma)",
+   "Std 2 (08:25): IMB 7B Kar (für Ma)",
+   "Std 3 (09:40): En 8E Wag",
+   "Std 4 (10:25): En 8E Wag",
+   "Std 5 (11:40): En 8C Fel",
+   "Std 6 (12:25): En 8C Fel",
+   "Std 7 (13:40): GS04 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS04 7A-7D,8A-8E fällt aus"
+  ],
+  "zeitstempel": "26.10.2026, 13:55"
+ },
+ {
+  "timestamp": "2026-10-26T13:00:16.131524",
+  "lehrer": "Pel",
+  "datum": "Freitag, 30. Oktober 2026",
+  "date_key": "20261030",
+  "changes": [
+   "Std 2 (08:25): für Ma Käc, Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "26.10.2026, 13:55"
+ },
+ {
+  "timestamp": "2026-10-26T13:00:16.131524",
+  "lehrer": "Wag",
+  "datum": "Freitag, 30. Oktober 2026",
+  "date_key": "20261030",
+  "changes": [
+   "Std 1 (07:40): Hospitation Frz 7d, R 002",
+   "Std 2 (08:25): Hospitation Frz 7d, R 002",
+   "Std 3 (09:40): für En Mar",
+   "Std 4 (10:25): für En Mar"
+  ],
+  "zeitstempel": "26.10.2026, 13:55"
  }
 ]

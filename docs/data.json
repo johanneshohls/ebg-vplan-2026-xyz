@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "26.10.2026, 12:55 Uhr",
- "last_changed": "2026-10-26T12:38:00",
+ "generiert": "26.10.2026, 13:00 Uhr",
+ "last_changed": "2026-10-26T13:55:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -78,8 +78,11 @@
    "tage": {
     "20261026": {
      "datum": "Montag, 26. Oktober 2026",
-     "zeitstempel": "26.10.2026, 07:25",
-     "tagesinfo": [],
+     "zeitstempel": "26.10.2026, 13:55",
+     "tagesinfo": [
+      "Aufsicht auf dem Goetheplatz nach dem 3. Block: S. Pelka",
+      "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Barth"
+     ],
      "lehrer": {
       "Bar": {
        "entries": [
@@ -2246,7 +2249,7 @@
     },
     "20261027": {
      "datum": "Dienstag, 27. Oktober 2026",
-     "zeitstempel": "26.10.2026, 12:38",
+     "zeitstempel": "26.10.2026, 13:55",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Schuldes",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -2837,7 +2840,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof, WCs, Grünes Klassenzimmer",
+         "info": "für Mar"
+        }
+       ]
       },
       "Her": {
        "entries": [
@@ -3325,6 +3335,22 @@
          "raum": "K12",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "AWT",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "für En Mar",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "AWT",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "für En Mar",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -3502,51 +3528,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "En",
-         "klasse": "9A",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9A Pel (für En)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "En",
-         "klasse": "9A",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9A Pel (für En)",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 8E Kno (für En)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 8E Kno (für En)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "En",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "En",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7B fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -3554,7 +3580,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Hof, WCs, Grünes Klassenzimmer",
-         "info": ""
+         "info": "entfällt, V: Hei"
         }
        ]
       },
@@ -3707,6 +3733,22 @@
       },
       "Pel": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Bio",
+         "klasse": "9A",
+         "raum": "201",
+         "info": "für En Mar",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Bio",
+         "klasse": "9A",
+         "raum": "201",
+         "info": "für En Mar",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "Ch",
@@ -4279,7 +4321,7 @@
     },
     "20261028": {
      "datum": "Mittwoch, 28. Oktober 2026",
-     "zeitstempel": "26.10.2026, 12:38",
+     "zeitstempel": "26.10.2026, 13:55",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Bomke",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth"
@@ -4785,6 +4827,22 @@
       "Gor": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "Ge",
+         "klasse": "9A",
+         "raum": "104",
+         "info": "für En Mar",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ge",
+         "klasse": "9A",
+         "raum": "104",
+         "info": "für En Mar",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "GE2",
          "klasse": "12A-12D",
@@ -5088,6 +5146,22 @@
       },
       "Hön": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für En Mar",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für En Mar",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "DE3",
@@ -5529,51 +5603,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "En",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7B Hön (für En)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "En",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7B Hön (für En)",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "En",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 9A Gor (für En)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "En",
-         "klasse": "9A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 9A Gor (für En)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Ge",
-         "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 9B Schud (für Ge)",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ge",
-         "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 9B Schud (für Ge)",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -5581,7 +5655,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "erst Haus, dann Hof2+GKLZ",
-         "info": ""
+         "info": "entfällt, V: Tie"
         }
        ]
       },
@@ -5903,6 +5977,22 @@
          "raum": "207",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "Ku",
+         "klasse": "9B",
+         "raum": "207",
+         "info": "für Ge Mar",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Ku",
+         "klasse": "9B",
+         "raum": "207",
+         "info": "für Ge Mar",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -6133,7 +6223,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "erst Haus, dann Hof2+GKLZ",
+         "info": "für Mar"
+        }
+       ]
       },
       "Tuh": {
        "entries": [
@@ -6263,7 +6360,7 @@
     },
     "20261029": {
      "datum": "Donnerstag, 29. Oktober 2026",
-     "zeitstempel": "26.10.2026, 12:38",
+     "zeitstempel": "26.10.2026, 13:55",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. -staudte",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
@@ -8332,7 +8429,7 @@
     },
     "20261030": {
      "datum": "Freitag, 30. Oktober 2026",
-     "zeitstempel": "26.10.2026, 12:38",
+     "zeitstempel": "26.10.2026, 13:55",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Tuhcic",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: entfällt"
@@ -8584,7 +8681,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 8C Kar, Aufgaben durch FL erteilt",
+         "info": "Ma 8C Pel, Aufgaben durch FL erteilt",
          "geaendert": true
         },
         {
@@ -8592,7 +8689,7 @@
          "fach": "Ma",
          "klasse": "",
          "raum": "101",
-         "info": "Auswertung Hospitation mit Herrn Pohla; Ma 8C Kar, Aufgaben durch FL erteilt",
+         "info": "Auswertung Hospitation mit Herrn Pohla; Ma 8C Pel, Aufgaben durch FL erteilt",
          "geaendert": true
         }
        ],
@@ -8710,6 +8807,22 @@
          "raum": "K09",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "8C",
+         "raum": "005",
+         "info": "für En Mar",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "8C",
+         "raum": "005",
+         "info": "für En Mar",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -9345,7 +9458,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 8C Kar, Aufgaben durch FL erteilt",
+         "info": "Ma 8C Pel, Aufgaben durch FL erteilt",
          "geaendert": true
         },
         {
@@ -9353,7 +9466,7 @@
          "fach": "Ma",
          "klasse": "",
          "raum": "101",
-         "info": "Auswertung Hospitation mit Herrn Pohla; Ma 8C Kar, Aufgaben durch FL erteilt",
+         "info": "Auswertung Hospitation mit Herrn Pohla; Ma 8C Pel, Aufgaben durch FL erteilt",
          "geaendert": true
         }
        ],
@@ -9363,18 +9476,18 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK selbst. (v)",
+         "geaendert": true
         },
         {
-         "stunde": "2",
-         "fach": "Ma",
-         "klasse": "8C",
-         "raum": "103",
-         "info": "für Ma Käc, Aufgaben durch FL erteilt",
+         "stunde": "1",
+         "fach": "IMB",
+         "klasse": "7B",
+         "raum": "K10",
+         "info": "für Ma Mar",
          "geaendert": true
         },
         {
@@ -9383,6 +9496,14 @@
          "klasse": "",
          "raum": "",
          "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "IMB",
+         "klasse": "7B",
+         "raum": "K10",
+         "info": "für Ma Mar",
          "geaendert": true
         },
         {
@@ -9614,67 +9735,67 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ma",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "IMB 7B Kar (für Ma)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ma",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "IMB 7B Kar (für Ma)",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "En",
-         "klasse": "8E",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8E Wag",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "En",
-         "klasse": "8E",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8E Wag",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "8C",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8C Fel",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "8C",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8C Fel",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "GS04",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS04 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS04",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS04 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -9867,6 +9988,14 @@
       },
       "Pel": {
        "entries": [
+        {
+         "stunde": "2",
+         "fach": "Ma",
+         "klasse": "8C",
+         "raum": "103",
+         "info": "für Ma Käc, Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "Bio",
@@ -10346,6 +10475,22 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "8E",
+         "raum": "006",
+         "info": "für En Mar",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "8E",
+         "raum": "006",
+         "info": "für En Mar",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Fr",
          "klasse": "10A",
@@ -10420,7 +10565,7 @@
    "tage": {
     "20261102": {
      "datum": "Montag, 02. November 2026",
-     "zeitstempel": "26.10.2026, 12:38",
+     "zeitstempel": "26.10.2026, 13:55",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -12465,7 +12610,7 @@
     },
     "20261103": {
      "datum": "Dienstag, 03. November 2026",
-     "zeitstempel": "26.10.2026, 12:38",
+     "zeitstempel": "26.10.2026, 13:55",
      "tagesinfo": [
       "Kuchenbasar der Klasse 8b in der 1.+2. Pause"
      ],
@@ -14497,7 +14642,7 @@
     },
     "20261104": {
      "datum": "Mittwoch, 04. November 2026",
-     "zeitstempel": "26.10.2026, 12:38",
+     "zeitstempel": "26.10.2026, 13:55",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 11"
      ],
@@ -16414,7 +16559,7 @@
     },
     "20261105": {
      "datum": "Donnerstag, 05. November 2026",
-     "zeitstempel": "26.10.2026, 12:38",
+     "zeitstempel": "26.10.2026, 13:55",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -18377,7 +18522,7 @@
     },
     "20261106": {
      "datum": "Freitag, 06. November 2026",
-     "zeitstempel": "26.10.2026, 12:38",
+     "zeitstempel": "26.10.2026, 13:55",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; Aula"
      ],
