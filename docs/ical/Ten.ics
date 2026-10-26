@@ -5,10 +5,32 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Ernst-Barlach-Gymnasium – Ten
 X-WR-CALDESC:Persönlicher Vertretungsplan
-X-WR-LASTUPDATED:20261026T113525Z
+X-WR-LASTUPDATED:20261026T114024Z
+BEGIN:VEVENT
+UID:ten-20261027-tagesinfo@ebg-vplan
+DTSTAMP:20261026T114024Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Schulde
+ s (+1)
+DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Schuldes\nAu
+ fsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+BEGIN:VEVENT
+UID:ten-20261028-tagesinfo@ebg-vplan
+DTSTAMP:20261026T114024Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Bomke (
+ +1)
+DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Bomke\nAufsi
+ cht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth
+CATEGORIES:Schule,Hinweis
+END:VEVENT
 BEGIN:VEVENT
 UID:ten-20261028-std7@ebg-vplan
-DTSTAMP:20261026T113525Z
+DTSTAMP:20261026T114024Z
 DTSTART:20261028T134000
 DTEND:20261028T142500
 SUMMARY:GS12 (7A-7D\,8A-8E)
@@ -18,7 +40,7 @@ CATEGORIES:Schule,Vertretungsplan
 END:VEVENT
 BEGIN:VEVENT
 UID:ten-20261028-std8@ebg-vplan
-DTSTAMP:20261026T113525Z
+DTSTAMP:20261026T114024Z
 DTSTART:20261028T142500
 DTEND:20261028T151000
 SUMMARY:GS12 (7A-7D\,8A-8E)
@@ -27,14 +49,72 @@ LOCATION:004
 CATEGORIES:Schule,Vertretungsplan
 END:VEVENT
 BEGIN:VEVENT
+UID:ten-20261029-tagesinfo@ebg-vplan
+DTSTAMP:20261026T114024Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: L. -staudt
+ e (+1)
+DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: L. -staudte\nAu
+ fsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+BEGIN:VEVENT
 UID:ten-20261030-tagesinfo@ebg-vplan
-DTSTAMP:20261026T113525Z
+DTSTAMP:20261026T114024Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Tuhcic 
  (+1)
 DESCRIPTION:Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Tuhcic\nAufs
  icht auf dem Goetheplatz nach dem 4. Block: entfällt
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+BEGIN:VEVENT
+UID:ten-20261103-tagesinfo@ebg-vplan
+DTSTAMP:20261026T114024Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Hinweis: Kuchenbasar der Klasse 8b in der 1.+2. Pause
+DESCRIPTION:Kuchenbasar der Klasse 8b in der 1.+2. Pause
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+BEGIN:VEVENT
+UID:ten-20261104-tagesinfo@ebg-vplan
+DTSTAMP:20261026T114024Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Hinweis: Kuchenbasar: Jahrgangsstufe 11
+DESCRIPTION:Kuchenbasar: Jahrgangsstufe 11
+CATEGORIES:Schule,Hinweis
+END:VEVENT
+BEGIN:VEVENT
+UID:ten-20261104-std7@ebg-vplan
+DTSTAMP:20261026T114024Z
+DTSTART:20261104T134000
+DTEND:20261104T142500
+SUMMARY:GS12 (7A-7D\,8A-8E)
+DESCRIPTION:Std. 7: GS12\\nKlasse: 7A-7D\,8A-8E\\nRaum: 004
+LOCATION:004
+CATEGORIES:Schule,Vertretungsplan
+END:VEVENT
+BEGIN:VEVENT
+UID:ten-20261104-std8@ebg-vplan
+DTSTAMP:20261026T114024Z
+DTSTART:20261104T142500
+DTEND:20261104T151000
+SUMMARY:GS12 (7A-7D\,8A-8E)
+DESCRIPTION:Std. 8: GS12\\nKlasse: 7A-7D\,8A-8E\\nRaum: 004
+LOCATION:004
+CATEGORIES:Schule,Vertretungsplan
+END:VEVENT
+BEGIN:VEVENT
+UID:ten-20261106-tagesinfo@ebg-vplan
+DTSTAMP:20261026T114024Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Hinweis: 4. Block: zentraler Nachschreibetermin\; Aula
+DESCRIPTION:4. Block: zentraler Nachschreibetermin\; Aula
 CATEGORIES:Schule,Hinweis
 END:VEVENT
 END:VCALENDAR
