@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "27.10.2026, 06:30 Uhr",
- "last_changed": "2026-10-26T13:55:00",
+ "generiert": "27.10.2026, 06:35 Uhr",
+ "last_changed": "2026-10-27T07:32:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -4321,7 +4321,7 @@
     },
     "20261028": {
      "datum": "Mittwoch, 28. Oktober 2026",
-     "zeitstempel": "26.10.2026, 13:55",
+     "zeitstempel": "27.10.2026, 07:32",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Bomke",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth"
@@ -5807,17 +5807,17 @@
          "stunde": "5",
          "fach": "En",
          "klasse": "10B",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "raum": "004",
+         "info": "für En Pri, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "En",
          "klasse": "10B",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "raum": "004",
+         "info": "für En Pri, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -6063,17 +6063,17 @@
          "stunde": "5",
          "fach": "Ma",
          "klasse": "8B",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "K09",
+         "info": "für Ma Sta, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Ma",
          "klasse": "8B",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "K09",
+         "info": "für Ma Sta, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": [
