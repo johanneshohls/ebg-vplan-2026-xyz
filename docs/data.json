@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "27.10.2026, 10:15 Uhr",
- "last_changed": "2026-10-27T07:32:00",
+ "generiert": "27.10.2026, 10:20 Uhr",
+ "last_changed": "2026-10-27T11:16:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -2249,7 +2249,7 @@
     },
     "20261027": {
      "datum": "Dienstag, 27. Oktober 2026",
-     "zeitstempel": "26.10.2026, 13:55",
+     "zeitstempel": "27.10.2026, 11:16",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Schuldes",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: T. Seemann"
@@ -2590,19 +2590,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8B Puk",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8B Puk",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -3838,6 +3838,22 @@
          "raum": "003",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "8B",
+         "raum": "008",
+         "info": "für De Fech",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "8B",
+         "raum": "008",
+         "info": "für De Fech",
+         "geaendert": true
         },
         {
          "stunde": "5",
