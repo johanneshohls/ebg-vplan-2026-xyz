@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "27.10.2026, 10:25 Uhr",
- "last_changed": "2026-10-27T11:16:00",
+ "generiert": "27.10.2026, 10:30 Uhr",
+ "last_changed": "2026-10-27T11:29:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -4337,7 +4337,7 @@
     },
     "20261028": {
      "datum": "Mittwoch, 28. Oktober 2026",
-     "zeitstempel": "27.10.2026, 07:32",
+     "zeitstempel": "27.10.2026, 11:29",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Bomke",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth"
@@ -6376,7 +6376,7 @@
     },
     "20261029": {
      "datum": "Donnerstag, 29. Oktober 2026",
-     "zeitstempel": "26.10.2026, 13:55",
+     "zeitstempel": "27.10.2026, 11:29",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. -staudte",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
@@ -7760,17 +7760,17 @@
          "stunde": "7",
          "fach": "Span",
          "klasse": "9C",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Span OLop, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "Span",
          "klasse": "9C",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Span OLop, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -8445,7 +8445,7 @@
     },
     "20261030": {
      "datum": "Freitag, 30. Oktober 2026",
-     "zeitstempel": "26.10.2026, 13:55",
+     "zeitstempel": "27.10.2026, 11:29",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Tuhcic",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: entfällt"
@@ -8595,17 +8595,17 @@
          "stunde": "5",
          "fach": "As",
          "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "105",
+         "info": "für As Bob, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "As",
          "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "105",
+         "info": "für As Bob, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -8986,16 +8986,16 @@
          "stunde": "1",
          "fach": "Fr",
          "klasse": "7A",
-         "raum": "002",
-         "info": "Fr 7A verlegt von St.3",
+         "raum": "003",
+         "info": "Fr 7A verlegt von St.3, Raumänderung",
          "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Fr",
          "klasse": "7A",
-         "raum": "002",
-         "info": "Fr 7A verlegt von St.4",
+         "raum": "003",
+         "info": "Fr 7A verlegt von St.4, Raumänderung",
          "geaendert": true
         },
         {
@@ -9003,7 +9003,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Fr 7A verlegt nach St.1",
+         "info": "Fr 7A verlegt nach St.1, Raumänderung",
          "geaendert": true
         },
         {
@@ -9011,7 +9011,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Fr 7A verlegt nach St.2",
+         "info": "Fr 7A verlegt nach St.2, Raumänderung",
          "geaendert": true
         },
         {
@@ -9112,7 +9112,7 @@
          "stunde": "3",
          "fach": "En",
          "klasse": "8A",
-         "raum": "007",
+         "raum": "001",
          "info": "En 8A statt Mo (26.10.) St.3",
          "geaendert": true
         },
@@ -9120,7 +9120,7 @@
          "stunde": "4",
          "fach": "En",
          "klasse": "8A",
-         "raum": "007",
+         "raum": "001",
          "info": "En 8A statt Mo (26.10.) St.4",
          "geaendert": true
         },
@@ -9926,7 +9926,7 @@
          "stunde": "3",
          "fach": "Span",
          "klasse": "10B",
-         "raum": "205",
+         "raum": "Aula",
          "info": "Span 10B verlegt von St.1; Span 7A verlegt nach St.1",
          "geaendert": true
         },
@@ -9942,7 +9942,7 @@
          "stunde": "4",
          "fach": "Span",
          "klasse": "10B",
-         "raum": "205",
+         "raum": "Aula",
          "info": "Span 10B verlegt von St.2; Span 7A verlegt nach St.2",
          "geaendert": true
         }
@@ -10122,7 +10122,7 @@
          "stunde": "1",
          "fach": "span1",
          "klasse": "11A-11E",
-         "raum": "005",
+         "raum": "K04",
          "info": "für Span Puk, Raumänderung",
          "geaendert": true
         },
@@ -10130,7 +10130,7 @@
          "stunde": "2",
          "fach": "span1",
          "klasse": "11A-11E",
-         "raum": "005",
+         "raum": "K04",
          "info": "für Span Puk, Raumänderung",
          "geaendert": true
         },
@@ -10307,17 +10307,17 @@
          "stunde": "3",
          "fach": "Ma",
          "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "207",
+         "info": "für Ma Sta, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Ma",
          "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "207",
+         "info": "für Ma Sta, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -10581,7 +10581,7 @@
    "tage": {
     "20261102": {
      "datum": "Montag, 02. November 2026",
-     "zeitstempel": "26.10.2026, 13:55",
+     "zeitstempel": "27.10.2026, 11:29",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -12626,7 +12626,7 @@
     },
     "20261103": {
      "datum": "Dienstag, 03. November 2026",
-     "zeitstempel": "26.10.2026, 13:55",
+     "zeitstempel": "27.10.2026, 11:29",
      "tagesinfo": [
       "Kuchenbasar der Klasse 8b in der 1.+2. Pause"
      ],
@@ -14658,7 +14658,7 @@
     },
     "20261104": {
      "datum": "Mittwoch, 04. November 2026",
-     "zeitstempel": "26.10.2026, 13:55",
+     "zeitstempel": "27.10.2026, 11:29",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 11"
      ],
@@ -16575,7 +16575,7 @@
     },
     "20261105": {
      "datum": "Donnerstag, 05. November 2026",
-     "zeitstempel": "26.10.2026, 13:55",
+     "zeitstempel": "27.10.2026, 11:29",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -18538,7 +18538,7 @@
     },
     "20261106": {
      "datum": "Freitag, 06. November 2026",
-     "zeitstempel": "26.10.2026, 13:55",
+     "zeitstempel": "27.10.2026, 11:29",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; Aula"
      ],
