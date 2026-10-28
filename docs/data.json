@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "28.10.2026, 14:30 Uhr",
- "last_changed": "2026-10-27T13:21:00",
+ "generiert": "28.10.2026, 14:35 Uhr",
+ "last_changed": "2026-10-28T15:34:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12626,7 +12626,7 @@
     },
     "20261103": {
      "datum": "Dienstag, 03. November 2026",
-     "zeitstempel": "27.10.2026, 11:29",
+     "zeitstempel": "28.10.2026, 15:34",
      "tagesinfo": [
       "Kuchenbasar der Klasse 8b in der 1.+2. Pause"
      ],
@@ -12961,6 +12961,22 @@
          "raum": "Co2",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Hospitation",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Hospitation",
+         "geaendert": true
         },
         {
          "stunde": "7",
