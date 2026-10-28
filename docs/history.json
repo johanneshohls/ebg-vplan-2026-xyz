@@ -685,5 +685,16 @@
    "Std 6 (12:25): Hospitation"
   ],
   "zeitstempel": "28.10.2026, 15:34"
+ },
+ {
+  "timestamp": "2026-10-28T14:40:12.559197",
+  "lehrer": "*",
+  "datum": "Donnerstag, 29. Oktober 2026",
+  "date_key": "20261029",
+  "changes": [
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Staudte",
+   "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
+  ],
+  "zeitstempel": "28.10.2026, 15:36"
  }
 ]
