@@ -696,5 +696,42 @@
    "Hinweis: Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
   ],
   "zeitstempel": "28.10.2026, 15:36"
+ },
+ {
+  "timestamp": "2026-10-28T14:55:12.899562",
+  "lehrer": "Schud",
+  "datum": "Freitag, 30. Oktober 2026",
+  "date_key": "20261030",
+  "changes": [
+   "Std 1 (07:40): Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 2 (08:25): Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 5 (11:40): Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 7 (13:40): Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 8 (14:25): Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "28.10.2026, 15:53"
+ },
+ {
+  "timestamp": "2026-10-28T14:55:12.899562",
+  "lehrer": "Bir",
+  "datum": "Montag, 02. November 2026",
+  "date_key": "20261102",
+  "changes": [
+   "Std 7 (13:40): für Mu Bir, Raumänderung",
+   "Std 8 (14:25): für Mu Bir, Raumänderung"
+  ],
+  "zeitstempel": "28.10.2026, 15:53"
+ },
+ {
+  "timestamp": "2026-10-28T14:55:12.899562",
+  "lehrer": "Schuc",
+  "datum": "Montag, 02. November 2026",
+  "date_key": "20261102",
+  "changes": [
+   "Std 7 (13:40): für Phil Schuc, Raumänderung",
+   "Std 8 (14:25): für Phil Schuc, Raumänderung"
+  ],
+  "zeitstempel": "28.10.2026, 15:53"
  }
 ]

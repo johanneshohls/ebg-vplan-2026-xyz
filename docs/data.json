@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "28.10.2026, 14:50 Uhr",
- "last_changed": "2026-10-28T15:36:00",
+ "generiert": "28.10.2026, 14:55 Uhr",
+ "last_changed": "2026-10-28T15:53:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -4337,7 +4337,7 @@
     },
     "20261028": {
      "datum": "Mittwoch, 28. Oktober 2026",
-     "zeitstempel": "27.10.2026, 11:29",
+     "zeitstempel": "28.10.2026, 15:53",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: C. Bomke",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: F. Priesemuth"
@@ -6376,7 +6376,7 @@
     },
     "20261029": {
      "datum": "Donnerstag, 29. Oktober 2026",
-     "zeitstempel": "28.10.2026, 15:36",
+     "zeitstempel": "28.10.2026, 15:53",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Staudte",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
@@ -8445,7 +8445,7 @@
     },
     "20261030": {
      "datum": "Freitag, 30. Oktober 2026",
-     "zeitstempel": "27.10.2026, 11:29",
+     "zeitstempel": "28.10.2026, 15:53",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Tuhcic",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: entfällt"
@@ -8978,7 +8978,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof, WCs, Grünes Klassenzimmer",
+         "info": "für Schud"
+        }
+       ]
       },
       "Hei": {
        "entries": [
@@ -10225,51 +10232,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "ku1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "ku1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "ku1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "ku1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "ku2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ku2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -10277,7 +10284,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Hof, WCs, Grünes Klassenzimmer",
-         "info": ""
+         "info": "entfällt, V: Gor"
         }
        ]
       },
@@ -10581,7 +10588,7 @@
    "tage": {
     "20261102": {
      "datum": "Montag, 02. November 2026",
-     "zeitstempel": "27.10.2026, 11:29",
+     "zeitstempel": "28.10.2026, 15:53",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -10680,17 +10687,17 @@
          "stunde": "7",
          "fach": "Mu",
          "klasse": "10A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "106",
+         "info": "für Mu Bir, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "Mu",
          "klasse": "10A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "106",
+         "info": "für Mu Bir, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12177,17 +12184,17 @@
          "stunde": "7",
          "fach": "phil1",
          "klasse": "12A-12D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für Phil Schuc, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "phil1",
          "klasse": "12A-12D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für Phil Schuc, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12626,7 +12633,7 @@
     },
     "20261103": {
      "datum": "Dienstag, 03. November 2026",
-     "zeitstempel": "28.10.2026, 15:34",
+     "zeitstempel": "28.10.2026, 15:53",
      "tagesinfo": [
       "Kuchenbasar der Klasse 8b in der 1.+2. Pause"
      ],
@@ -14674,7 +14681,7 @@
     },
     "20261104": {
      "datum": "Mittwoch, 04. November 2026",
-     "zeitstempel": "27.10.2026, 13:21",
+     "zeitstempel": "28.10.2026, 15:53",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 11"
      ],
@@ -14736,19 +14743,35 @@
         },
         {
          "stunde": "7",
-         "fach": "GS07",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS07 7A-7D,8A-8E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Ph",
+         "klasse": "10C",
+         "raum": "204",
+         "info": "Ph 10C statt Do (05.11.) St.5; GS07 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS07",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS07 7A-7D,8A-8E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Ph",
+         "klasse": "10C",
+         "raum": "204",
+         "info": "Ph 10C statt Do (05.11.) St.6; GS07 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -15089,19 +15112,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Präsi",
-         "klasse": "10C",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Präsi 10C verlegt nach Do (05.11.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Präsi",
-         "klasse": "10C",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Präsi 10C verlegt nach Do (05.11.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16591,7 +16614,7 @@
     },
     "20261105": {
      "datum": "Donnerstag, 05. November 2026",
-     "zeitstempel": "27.10.2026, 11:29",
+     "zeitstempel": "28.10.2026, 15:53",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -16634,19 +16657,19 @@
         },
         {
          "stunde": "5",
-         "fach": "Ph",
-         "klasse": "10C",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 10C gehalten am Mi (04.11.) St.7",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ph",
-         "klasse": "10C",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 10C gehalten am Mi (04.11.) St.8",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -16924,16 +16947,16 @@
          "stunde": "7",
          "fach": "inf2",
          "klasse": "11A-11E",
-         "raum": "",
-         "info": "für Inf Con, Klausur; Aula",
+         "raum": "Aula",
+         "info": "für Inf Con, Klausur",
          "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "inf2",
          "klasse": "11A-11E",
-         "raum": "",
-         "info": "für Inf Con, Klausur; Aula",
+         "raum": "Aula",
+         "info": "für Inf Con, Klausur",
          "geaendert": true
         }
        ],
@@ -16991,6 +17014,22 @@
          "raum": "002",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Präsi",
+         "klasse": "10C",
+         "raum": "K09",
+         "info": "Präsi 10C statt Mi (04.11.) St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Präsi",
+         "klasse": "10C",
+         "raum": "K09",
+         "info": "Präsi 10C statt Mi (04.11.) St.8",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -17900,19 +17939,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Span",
-         "klasse": "9C",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9C verlegt nach Fr (06.11.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Span",
-         "klasse": "9C",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9C verlegt nach Fr (06.11.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -17954,18 +17993,18 @@
         {
          "stunde": "7",
          "fach": "de1",
-         "klasse": "11A-11E",
-         "raum": "Aula",
-         "info": "für De Ost, Klausur",
-         "geaendert": true
+         "klasse": "11D,11A-11C,11E",
+         "raum": "008",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "8",
          "fach": "de1",
-         "klasse": "11A-11E",
-         "raum": "Aula",
-         "info": "für De Ost, Klausur",
-         "geaendert": true
+         "klasse": "11D,11A-11C,11E",
+         "raum": "008",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": [
@@ -17978,7 +18017,24 @@
        ]
       },
       "Pel": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "7",
+         "fach": "Bio",
+         "klasse": "9C",
+         "raum": "205",
+         "info": "Bio 9C statt Fr (06.11.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Bio",
+         "klasse": "9C",
+         "raum": "205",
+         "info": "Bio 9C statt Fr (06.11.) St.6",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Pri": {
@@ -18211,17 +18267,17 @@
          "stunde": "7",
          "fach": "ku2",
          "klasse": "12A-12D",
-         "raum": "",
-         "info": "für Ku Schud, Klausur; Aula",
-         "geaendert": true
+         "raum": "207",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "8",
          "fach": "ku2",
          "klasse": "12A-12D",
-         "raum": "",
-         "info": "für Ku Schud, Klausur; Aula",
-         "geaendert": true
+         "raum": "207",
+         "info": "",
+         "geaendert": false
         }
        ],
        "aufsichten": []
@@ -18554,7 +18610,7 @@
     },
     "20261106": {
      "datum": "Freitag, 06. November 2026",
-     "zeitstempel": "27.10.2026, 11:29",
+     "zeitstempel": "28.10.2026, 15:53",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; Aula"
      ],
@@ -20052,6 +20108,22 @@
          "raum": "007",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Span",
+         "klasse": "9C",
+         "raum": "007",
+         "info": "Span 9C statt Do (05.11.) St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Span",
+         "klasse": "9C",
+         "raum": "007",
+         "info": "Span 9C statt Do (05.11.) St.8",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20129,19 +20201,19 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "Bio",
-         "klasse": "9C",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9C gehalten am Do (05.11.) St.7",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Bio",
-         "klasse": "9C",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9C gehalten am Do (05.11.) St.8",
+         "geaendert": true
         }
        ],
        "aufsichten": []
