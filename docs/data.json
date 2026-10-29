@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "29.10.2026, 07:40 Uhr",
- "last_changed": "2026-10-28T15:53:00",
+ "generiert": "29.10.2026, 07:45 Uhr",
+ "last_changed": "2026-10-29T08:43:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -6376,7 +6376,7 @@
     },
     "20261029": {
      "datum": "Donnerstag, 29. Oktober 2026",
-     "zeitstempel": "28.10.2026, 15:53",
+     "zeitstempel": "29.10.2026, 08:43",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: L. Staudte",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: H. Brincker"
@@ -8445,7 +8445,7 @@
     },
     "20261030": {
      "datum": "Freitag, 30. Oktober 2026",
-     "zeitstempel": "28.10.2026, 15:53",
+     "zeitstempel": "29.10.2026, 08:43",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Tuhcic",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: entfällt"
@@ -10588,7 +10588,7 @@
    "tage": {
     "20261102": {
      "datum": "Montag, 02. November 2026",
-     "zeitstempel": "28.10.2026, 15:53",
+     "zeitstempel": "29.10.2026, 08:43",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -12633,7 +12633,7 @@
     },
     "20261103": {
      "datum": "Dienstag, 03. November 2026",
-     "zeitstempel": "28.10.2026, 15:53",
+     "zeitstempel": "29.10.2026, 08:43",
      "tagesinfo": [
       "Kuchenbasar der Klasse 8b in der 1.+2. Pause"
      ],
@@ -13399,6 +13399,22 @@
          "raum": "102",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "KILZ",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 10a; Co1",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KILZ",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 10a; Co1",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14633,19 +14649,35 @@
         },
         {
          "stunde": "5",
-         "fach": "En",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10A verlegt nach Fr (06.11.) St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "KILZ",
          "klasse": "10A",
          "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "info": "KILZ 10A statt Fr (06.11.) St.7; En 10A verlegt nach Fr (06.11.) St.7",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10A verlegt nach Fr (06.11.) St.8",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "KILZ",
          "klasse": "10A",
          "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "info": "KILZ 10A statt Fr (06.11.) St.8; En 10A verlegt nach Fr (06.11.) St.8",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -14681,7 +14713,7 @@
     },
     "20261104": {
      "datum": "Mittwoch, 04. November 2026",
-     "zeitstempel": "28.10.2026, 15:53",
+     "zeitstempel": "29.10.2026, 08:43",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 11"
      ],
@@ -16614,7 +16646,7 @@
     },
     "20261105": {
      "datum": "Donnerstag, 05. November 2026",
-     "zeitstempel": "28.10.2026, 15:53",
+     "zeitstempel": "29.10.2026, 08:43",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -18610,7 +18642,7 @@
     },
     "20261106": {
      "datum": "Freitag, 06. November 2026",
-     "zeitstempel": "28.10.2026, 15:53",
+     "zeitstempel": "29.10.2026, 08:43",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; Aula"
      ],
@@ -20664,19 +20696,35 @@
         },
         {
          "stunde": "7",
-         "fach": "KILZ",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 10A gehalten am Di (03.11.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "En",
          "klasse": "10A",
          "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "info": "En 10A statt Di (03.11.) St.5; KILZ 10A gehalten am Di (03.11.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "KILZ",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 10A gehalten am Di (03.11.) St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "En",
          "klasse": "10A",
          "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "info": "En 10A statt Di (03.11.) St.6; KILZ 10A gehalten am Di (03.11.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "9",
