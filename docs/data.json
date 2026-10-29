@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "29.10.2026, 14:35 Uhr",
- "last_changed": "2026-10-29T08:43:00",
+ "generiert": "29.10.2026, 14:40 Uhr",
+ "last_changed": "2026-10-29T15:38:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -8445,7 +8445,7 @@
     },
     "20261030": {
      "datum": "Freitag, 30. Oktober 2026",
-     "zeitstempel": "29.10.2026, 08:43",
+     "zeitstempel": "29.10.2026, 15:38",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Tuhcic",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: entfällt"
@@ -9046,17 +9046,17 @@
          "stunde": "1",
          "fach": "sp3",
          "klasse": "12A-12D",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "raum": "207",
+         "info": "für Sp Her, Sporttheorie",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "sp3",
          "klasse": "12A-12D",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "raum": "207",
+         "info": "für Sp Her, Sporttheorie",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -9078,17 +9078,17 @@
          "stunde": "5",
          "fach": "sp2",
          "klasse": "12A-12D",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "raum": "207",
+         "info": "für Sp Her, Sporttheorie",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "sp2",
          "klasse": "12A-12D",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "raum": "207",
+         "info": "für Sp Her, Sporttheorie",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -10267,7 +10267,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "info": "Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
          "geaendert": true
         },
         {
@@ -10275,7 +10275,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "info": "Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
          "geaendert": true
         }
        ],

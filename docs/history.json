@@ -757,5 +757,33 @@
    "Std 6 (12:25): KILZ 10A statt Fr (06.11.) St.8; En 10A verlegt nach Fr (06.11.) St.8"
   ],
   "zeitstempel": "29.10.2026, 08:43"
+ },
+ {
+  "timestamp": "2026-10-29T14:40:12.618657",
+  "lehrer": "Her",
+  "datum": "Freitag, 30. Oktober 2026",
+  "date_key": "20261030",
+  "changes": [
+   "Std 1 (07:40): für Sp Her, Sporttheorie",
+   "Std 2 (08:25): für Sp Her, Sporttheorie",
+   "Std 5 (11:40): für Sp Her, Sporttheorie",
+   "Std 6 (12:25): für Sp Her, Sporttheorie"
+  ],
+  "zeitstempel": "29.10.2026, 15:38"
+ },
+ {
+  "timestamp": "2026-10-29T14:40:12.618657",
+  "lehrer": "Schud",
+  "datum": "Freitag, 30. Oktober 2026",
+  "date_key": "20261030",
+  "changes": [
+   "Std 1 (07:40): Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 2 (08:25): Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 5 (11:40): Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 7 (13:40): Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 8 (14:25): Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht"
+  ],
+  "zeitstempel": "29.10.2026, 15:38"
  }
 ]
