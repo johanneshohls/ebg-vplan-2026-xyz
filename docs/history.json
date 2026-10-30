@@ -932,5 +932,142 @@
    "Std 5 (11:40): für En Mar, Hospitation"
   ],
   "zeitstempel": "30.10.2026, 07:09"
+ },
+ {
+  "timestamp": "2026-10-30T12:40:12.423421",
+  "lehrer": "Bes",
+  "datum": "Freitag, 30. Oktober 2026",
+  "date_key": "20261030",
+  "changes": [
+   "Std 3 (09:40): für Ma Bes, Raumänderung",
+   "Std 4 (10:25): für Ma Bes, Raumänderung"
+  ],
+  "zeitstempel": "30.10.2026, 13:36"
+ },
+ {
+  "timestamp": "2026-10-30T12:40:12.423421",
+  "lehrer": "Bob",
+  "datum": "Freitag, 30. Oktober 2026",
+  "date_key": "20261030",
+  "changes": [
+   "Std 3 (09:40): Ph 10B gehalten am Di (27.10.) St.5",
+   "Std 4 (10:25): Ph 10B gehalten am Di (27.10.) St.6",
+   "Std 5 (11:40): für As Bob, Raumänderung",
+   "Std 6 (12:25): für As Bob, Raumänderung"
+  ],
+  "zeitstempel": "30.10.2026, 13:36"
+ },
+ {
+  "timestamp": "2026-10-30T12:40:12.423421",
+  "lehrer": "Bir",
+  "datum": "Montag, 02. November 2026",
+  "date_key": "20261102",
+  "changes": [
+   "Std 1 (07:40): für En Mar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 2 (08:25): für En Mar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 7 (13:40): für Mu Bir, Raumänderung",
+   "Std 8 (14:25): für Mu Bir, Raumänderung"
+  ],
+  "zeitstempel": "30.10.2026, 13:36"
+ },
+ {
+  "timestamp": "2026-10-30T12:40:12.423421",
+  "lehrer": "Mar",
+  "datum": "Montag, 02. November 2026",
+  "date_key": "20261102",
+  "changes": [
+   "Std 1 (07:40): En 8C Bir, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 2 (08:25): En 8C Bir, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 3 (09:40): En 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): En 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): Ma 7B See, s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): Ma 7B See, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "30.10.2026, 13:36"
+ },
+ {
+  "timestamp": "2026-10-30T12:40:12.423421",
+  "lehrer": "See",
+  "datum": "Montag, 02. November 2026",
+  "date_key": "20261102",
+  "changes": [
+   "Std 5 (11:40): für Ma Mar, s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): für Ma Mar, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "30.10.2026, 13:36"
+ },
+ {
+  "timestamp": "2026-10-30T12:40:12.423421",
+  "lehrer": "Fel",
+  "datum": "Dienstag, 03. November 2026",
+  "date_key": "20261103",
+  "changes": [
+   "Std 5 (11:40): für En Mar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 6 (12:25): für En Mar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht"
+  ],
+  "zeitstempel": "30.10.2026, 13:36"
+ },
+ {
+  "timestamp": "2026-10-30T12:40:12.423421",
+  "lehrer": "Mar",
+  "datum": "Dienstag, 03. November 2026",
+  "date_key": "20261103",
+  "changes": [
+   "Std 5 (11:40): En 9A Fel, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 6 (12:25): En 9A Fel, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 7 (13:40): En 7B selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 8 (14:25): En 7B selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "30.10.2026, 13:36"
+ },
+ {
+  "timestamp": "2026-10-30T12:40:12.423421",
+  "lehrer": "Kno",
+  "datum": "Mittwoch, 04. November 2026",
+  "date_key": "20261104",
+  "changes": [
+   "Std 1 (07:40): für En Mar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 2 (08:25): für En Mar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht"
+  ],
+  "zeitstempel": "30.10.2026, 13:36"
+ },
+ {
+  "timestamp": "2026-10-30T12:40:12.423421",
+  "lehrer": "Mar",
+  "datum": "Mittwoch, 04. November 2026",
+  "date_key": "20261104",
+  "changes": [
+   "Std 1 (07:40): En 7B Kno, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 2 (08:25): En 7B Kno, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 5 (11:40): En 8E Wag, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 6 (12:25): En 8E Wag, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 7 (13:40): Ge 9B selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 8 (14:25): Ge 9B selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "30.10.2026, 13:36"
+ },
+ {
+  "timestamp": "2026-10-30T12:40:12.423421",
+  "lehrer": "Wag",
+  "datum": "Mittwoch, 04. November 2026",
+  "date_key": "20261104",
+  "changes": [
+   "Std 5 (11:40): für En Mar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 6 (12:25): für En Mar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht"
+  ],
+  "zeitstempel": "30.10.2026, 13:36"
+ },
+ {
+  "timestamp": "2026-10-30T12:40:12.423421",
+  "lehrer": "Mar",
+  "datum": "Donnerstag, 05. November 2026",
+  "date_key": "20261105",
+  "changes": [
+   "Std 5 (11:40): En 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): En 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 7 (13:40): En 8E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 8 (14:25): En 8E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "30.10.2026, 13:36"
  }
 ]
