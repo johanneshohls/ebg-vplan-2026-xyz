@@ -902,5 +902,35 @@
    "Std 4 (10:25): für Inf Bar, s. IServ: Aufgaben durch FL erteil"
   ],
   "zeitstempel": "30.10.2026, 06:42"
+ },
+ {
+  "timestamp": "2026-10-30T06:10:10.930126",
+  "lehrer": "*",
+  "datum": "Freitag, 30. Oktober 2026",
+  "date_key": "20261030",
+  "changes": [
+   "Hinweis zum Tag entfernt"
+  ],
+  "zeitstempel": "30.10.2026, 07:09"
+ },
+ {
+  "timestamp": "2026-10-30T06:10:10.930126",
+  "lehrer": "Bar",
+  "datum": "Donnerstag, 05. November 2026",
+  "date_key": "20261105",
+  "changes": [
+   "Std 5 (11:40): Hospitation"
+  ],
+  "zeitstempel": "30.10.2026, 07:09"
+ },
+ {
+  "timestamp": "2026-10-30T06:10:10.930126",
+  "lehrer": "Mar",
+  "datum": "Donnerstag, 05. November 2026",
+  "date_key": "20261105",
+  "changes": [
+   "Std 5 (11:40): für En Mar, Hospitation"
+  ],
+  "zeitstempel": "30.10.2026, 07:09"
  }
 ]

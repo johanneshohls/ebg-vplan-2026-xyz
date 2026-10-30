@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "30.10.2026, 06:05 Uhr",
- "last_changed": "2026-10-30T06:42:00",
+ "generiert": "30.10.2026, 06:10 Uhr",
+ "last_changed": "2026-10-30T07:09:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -8445,11 +8445,8 @@
     },
     "20261030": {
      "datum": "Freitag, 30. Oktober 2026",
-     "zeitstempel": "30.10.2026, 06:42",
-     "tagesinfo": [
-      "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Tuhcic",
-      "Aufsicht auf dem Goetheplatz nach dem 4. Block: entfällt"
-     ],
+     "zeitstempel": "30.10.2026, 07:09",
+     "tagesinfo": [],
      "lehrer": {
       "Bar": {
        "entries": [
@@ -10604,7 +10601,7 @@
    "tage": {
     "20261102": {
      "datum": "Montag, 02. November 2026",
-     "zeitstempel": "30.10.2026, 06:42",
+     "zeitstempel": "30.10.2026, 07:09",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -12649,7 +12646,7 @@
     },
     "20261103": {
      "datum": "Dienstag, 03. November 2026",
-     "zeitstempel": "30.10.2026, 06:42",
+     "zeitstempel": "30.10.2026, 07:09",
      "tagesinfo": [
       "Kuchenbasar der Klasse 8b in der 1.+2. Pause"
      ],
@@ -14736,7 +14733,7 @@
     },
     "20261104": {
      "datum": "Mittwoch, 04. November 2026",
-     "zeitstempel": "30.10.2026, 06:42",
+     "zeitstempel": "30.10.2026, 07:09",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 11"
      ],
@@ -16701,11 +16698,20 @@
     },
     "20261105": {
      "datum": "Donnerstag, 05. November 2026",
-     "zeitstempel": "30.10.2026, 06:42",
+     "zeitstempel": "30.10.2026, 07:09",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Hospitation",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Bes": {
@@ -16764,7 +16770,13 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Hofm"
+        },
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Hofm"
         }
        ]
       },
@@ -17439,7 +17451,13 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Bes"
+        },
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Bes"
         }
        ]
       },
@@ -17903,7 +17921,7 @@
          "fach": "en1",
          "klasse": "12A-12D",
          "raum": "006",
-         "info": "",
+         "info": "für En Mar, Hospitation",
          "geaendert": false
         },
         {
@@ -18697,7 +18715,7 @@
     },
     "20261106": {
      "datum": "Freitag, 06. November 2026",
-     "zeitstempel": "30.10.2026, 06:42",
+     "zeitstempel": "30.10.2026, 07:09",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; Aula"
      ],
