@@ -785,5 +785,122 @@
    "Std 8 (14:25): Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht"
   ],
   "zeitstempel": "29.10.2026, 15:38"
+ },
+ {
+  "timestamp": "2026-10-30T05:45:13.114015",
+  "lehrer": "Fech",
+  "datum": "Freitag, 30. Oktober 2026",
+  "date_key": "20261030",
+  "changes": [
+   "Std 3 (09:40): für Span Puk, s. IServ: Aufgaben durch FL erteil",
+   "Std 4 (10:25): für Span Puk, s. IServ: Aufgaben durch FL erteil"
+  ],
+  "zeitstempel": "30.10.2026, 06:42"
+ },
+ {
+  "timestamp": "2026-10-30T05:45:13.114015",
+  "lehrer": "Puk",
+  "datum": "Freitag, 30. Oktober 2026",
+  "date_key": "20261030",
+  "changes": [
+   "Std 1 (07:40): Span 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 2 (08:25): Span 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 3 (09:40): Span 9D Fech, s. IServ: Aufgaben durch FL erteil",
+   "Std 4 (10:25): Span 9D Fech, s. IServ: Aufgaben durch FL erteil",
+   "Std 5 (11:40): Span 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): Span 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "30.10.2026, 06:42"
+ },
+ {
+  "timestamp": "2026-10-30T05:45:13.114015",
+  "lehrer": "Bes",
+  "datum": "Dienstag, 03. November 2026",
+  "date_key": "20261103",
+  "changes": [
+   "Std 7 (13:40): für Ph Bes, Raumänderung",
+   "Std 8 (14:25): für Ph Bes, Raumänderung"
+  ],
+  "zeitstempel": "30.10.2026, 06:42"
+ },
+ {
+  "timestamp": "2026-10-30T05:45:13.114015",
+  "lehrer": "Bir",
+  "datum": "Dienstag, 03. November 2026",
+  "date_key": "20261103",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "30.10.2026, 06:42"
+ },
+ {
+  "timestamp": "2026-10-30T05:45:13.114015",
+  "lehrer": "Hun",
+  "datum": "Dienstag, 03. November 2026",
+  "date_key": "20261103",
+  "changes": [
+   "Std 7 (13:40): für Ch Hun, Raumänderung",
+   "Std 8 (14:25): für Ch Hun, Raumänderung"
+  ],
+  "zeitstempel": "30.10.2026, 06:42"
+ },
+ {
+  "timestamp": "2026-10-30T05:45:13.114015",
+  "lehrer": "Rat",
+  "datum": "Dienstag, 03. November 2026",
+  "date_key": "20261103",
+  "changes": [
+   "Std 1 (07:40): für eRe Rat, Klausur",
+   "Std 2 (08:25): für eRe Rat, Klausur"
+  ],
+  "zeitstempel": "30.10.2026, 06:42"
+ },
+ {
+  "timestamp": "2026-10-30T05:45:13.114015",
+  "lehrer": "Schuc",
+  "datum": "Dienstag, 03. November 2026",
+  "date_key": "20261103",
+  "changes": [
+   "Std 1 (07:40): für Phil Schuc, Klausur",
+   "Std 2 (08:25): für Phil Schuc, Klausur",
+   "Std 5 (11:40): für Phil Schuc, Klausur",
+   "Std 6 (12:25): für Phil Schuc, Klausur"
+  ],
+  "zeitstempel": "30.10.2026, 06:42"
+ },
+ {
+  "timestamp": "2026-10-30T05:45:13.114015",
+  "lehrer": "Bar",
+  "datum": "Mittwoch, 04. November 2026",
+  "date_key": "20261104",
+  "changes": [
+   "Std 3 (09:40): Inf 12A-12D Leu, s. IServ: Aufgaben durch FL erteil",
+   "Std 4 (10:25): Inf 12A-12D Leu, s. IServ: Aufgaben durch FL erteil",
+   "Std 5 (11:40): Inf 12A-12D Con, s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): Inf 12A-12D Con, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "30.10.2026, 06:42"
+ },
+ {
+  "timestamp": "2026-10-30T05:45:13.114015",
+  "lehrer": "Con",
+  "datum": "Mittwoch, 04. November 2026",
+  "date_key": "20261104",
+  "changes": [
+   "Std 5 (11:40): für Inf Bar, s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): für Inf Bar, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "30.10.2026, 06:42"
+ },
+ {
+  "timestamp": "2026-10-30T05:45:13.114015",
+  "lehrer": "Leu",
+  "datum": "Mittwoch, 04. November 2026",
+  "date_key": "20261104",
+  "changes": [
+   "Std 3 (09:40): für Inf Bar, s. IServ: Aufgaben durch FL erteil",
+   "Std 4 (10:25): für Inf Bar, s. IServ: Aufgaben durch FL erteil"
+  ],
+  "zeitstempel": "30.10.2026, 06:42"
  }
 ]

@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "30.10.2026, 05:40 Uhr",
- "last_changed": "2026-10-29T15:38:00",
+ "generiert": "30.10.2026, 05:45 Uhr",
+ "last_changed": "2026-10-30T06:42:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -8445,7 +8445,7 @@
     },
     "20261030": {
      "datum": "Freitag, 30. Oktober 2026",
-     "zeitstempel": "29.10.2026, 15:38",
+     "zeitstempel": "30.10.2026, 06:42",
      "tagesinfo": [
       "Aufsicht auf dem Goetheplatz nach dem 3. Block: A. Tuhcic",
       "Aufsicht auf dem Goetheplatz nach dem 4. Block: entfällt"
@@ -8786,6 +8786,22 @@
          "raum": "008",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Span",
+         "klasse": "9D",
+         "raum": "102",
+         "info": "für Span Puk, s. IServ: Aufgaben durch FL erteil",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Span",
+         "klasse": "9D",
+         "raum": "102",
+         "info": "für Span Puk, s. IServ: Aufgaben durch FL erteil",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -10127,51 +10143,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "span1",
-         "klasse": "11A-11E",
-         "raum": "K04",
-         "info": "für Span Puk, Raumänderung",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
          "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "span1",
-         "klasse": "11A-11E",
-         "raum": "K04",
-         "info": "für Span Puk, Raumänderung",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
          "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "9D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9D Fech, s. IServ: Aufgaben durch FL erteil",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
-         "klasse": "9D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9D Fech, s. IServ: Aufgaben durch FL erteil",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "span1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "span1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -10588,7 +10604,7 @@
    "tage": {
     "20261102": {
      "datum": "Montag, 02. November 2026",
-     "zeitstempel": "29.10.2026, 08:43",
+     "zeitstempel": "30.10.2026, 06:42",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -12633,7 +12649,7 @@
     },
     "20261103": {
      "datum": "Dienstag, 03. November 2026",
-     "zeitstempel": "29.10.2026, 08:43",
+     "zeitstempel": "30.10.2026, 06:42",
      "tagesinfo": [
       "Kuchenbasar der Klasse 8b in der 1.+2. Pause"
      ],
@@ -12697,17 +12713,17 @@
          "stunde": "7",
          "fach": "ph1",
          "klasse": "12A-12D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "raum": "105",
+         "info": "für Ph Bes, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "ph1",
          "klasse": "12A-12D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "raum": "105",
+         "info": "für Ph Bes, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -12718,17 +12734,17 @@
          "stunde": "1",
          "fach": "mue1",
          "klasse": "12A-12D",
-         "raum": "107",
-         "info": "für MUE Bir, Klausur",
-         "geaendert": true
+         "raum": "Aula",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "2",
          "fach": "mue1",
          "klasse": "12A-12D",
-         "raum": "107",
-         "info": "für MUE Bir, Klausur",
-         "geaendert": true
+         "raum": "Aula",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "3",
@@ -13135,7 +13151,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Hof1, WCs, Container",
-         "info": ""
+         "info": "entfällt, V: OLop"
         }
        ]
       },
@@ -13537,18 +13553,18 @@
         {
          "stunde": "7",
          "fach": "ch1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "205",
+         "info": "für Ch Hun, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "ch1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "205",
+         "info": "für Ch Hun, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -14068,7 +14084,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof1, WCs, Container",
+         "info": "für Fla"
+        }
+       ]
       },
       "Ost": {
        "entries": [
@@ -14256,17 +14279,17 @@
          "stunde": "1",
          "fach": "ere2",
          "klasse": "12A-12D",
-         "raum": "",
+         "raum": "104",
          "info": "für eRe Rat, Klausur",
-         "geaendert": true
+         "geaendert": false
         },
         {
          "stunde": "2",
          "fach": "ere2",
          "klasse": "12A-12D",
-         "raum": "",
+         "raum": "104",
          "info": "für eRe Rat, Klausur",
-         "geaendert": true
+         "geaendert": false
         },
         {
          "stunde": "5",
@@ -14321,7 +14344,7 @@
          "stunde": "1",
          "fach": "phil2",
          "klasse": "12A-12D",
-         "raum": "Aula",
+         "raum": "Co1",
          "info": "für Phil Schuc, Klausur",
          "geaendert": true
         },
@@ -14329,7 +14352,7 @@
          "stunde": "2",
          "fach": "phil2",
          "klasse": "12A-12D",
-         "raum": "Aula",
+         "raum": "Co1",
          "info": "für Phil Schuc, Klausur",
          "geaendert": true
         },
@@ -14713,7 +14736,7 @@
     },
     "20261104": {
      "datum": "Mittwoch, 04. November 2026",
-     "zeitstempel": "29.10.2026, 08:43",
+     "zeitstempel": "30.10.2026, 06:42",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 11"
      ],
@@ -14722,35 +14745,35 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "inf3",
-         "klasse": "12A-12D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 12A-12D Leu, s. IServ: Aufgaben durch FL erteil",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "inf3",
-         "klasse": "12A-12D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 12A-12D Leu, s. IServ: Aufgaben durch FL erteil",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "inf1",
-         "klasse": "12A-12D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 12A-12D Con, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "inf1",
-         "klasse": "12A-12D",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Inf 12A-12D Con, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15052,6 +15075,22 @@
          "raum": "K09",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "inf1",
+         "klasse": "12A-12D",
+         "raum": "K10",
+         "info": "für Inf Bar, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "inf1",
+         "klasse": "12A-12D",
+         "raum": "K10",
+         "info": "für Inf Bar, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15804,6 +15843,22 @@
          "raum": "Co1",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "inf3",
+         "klasse": "12A-12D",
+         "raum": "K10",
+         "info": "für Inf Bar, s. IServ: Aufgaben durch FL erteil",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "inf3",
+         "klasse": "12A-12D",
+         "raum": "K10",
+         "info": "für Inf Bar, s. IServ: Aufgaben durch FL erteil",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -16646,7 +16701,7 @@
     },
     "20261105": {
      "datum": "Donnerstag, 05. November 2026",
-     "zeitstempel": "29.10.2026, 08:43",
+     "zeitstempel": "30.10.2026, 06:42",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -18642,7 +18697,7 @@
     },
     "20261106": {
      "datum": "Freitag, 06. November 2026",
-     "zeitstempel": "29.10.2026, 08:43",
+     "zeitstempel": "30.10.2026, 06:42",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; Aula"
      ],
@@ -18709,19 +18764,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "Mu",
+         "klasse": "",
+         "raum": "310",
+         "info": "Beratung; B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Mu",
+         "klasse": "",
+         "raum": "310",
+         "info": "Beratung; B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -19702,6 +19773,22 @@
       "Kar": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "Mu",
+         "klasse": "",
+         "raum": "310",
+         "info": "Beratung",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Mu",
+         "klasse": "",
+         "raum": "310",
+         "info": "Beratung",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "IMB",
          "klasse": "7C",
@@ -20560,6 +20647,22 @@
       },
       "Ter": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Mu",
+         "klasse": "",
+         "raum": "310",
+         "info": "Beratung",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Mu",
+         "klasse": "",
+         "raum": "310",
+         "info": "Beratung",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "thea1",
