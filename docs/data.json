@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "31.10.2026, 00:52 Uhr",
- "last_changed": "2026-10-30T13:36:00",
+ "generiert": "31.10.2026, 10:42 Uhr",
+ "last_changed": "2026-10-31T07:02:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14788,7 +14788,7 @@
     },
     "20261104": {
      "datum": "Mittwoch, 04. November 2026",
-     "zeitstempel": "30.10.2026, 13:36",
+     "zeitstempel": "31.10.2026, 07:02",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 11"
      ],
@@ -14800,7 +14800,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Inf 12A-12D Leu, s. IServ: Aufgaben durch FL erteil",
+         "info": "Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
          "geaendert": true
         },
         {
@@ -14808,7 +14808,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Inf 12A-12D Leu, s. IServ: Aufgaben durch FL erteil",
+         "info": "Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
          "geaendert": true
         },
         {
@@ -14816,7 +14816,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Inf 12A-12D Con, s. IServ: Aufgaben durch FL erteilt",
+         "info": "Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
          "geaendert": true
         },
         {
@@ -14824,7 +14824,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Inf 12A-12D Con, s. IServ: Aufgaben durch FL erteilt",
+         "info": "Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
          "geaendert": true
         }
        ],
@@ -15127,22 +15127,6 @@
          "raum": "K09",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "inf1",
-         "klasse": "12A-12D",
-         "raum": "K10",
-         "info": "für Inf Bar, s. IServ: Aufgaben durch FL erteilt",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "inf1",
-         "klasse": "12A-12D",
-         "raum": "K10",
-         "info": "für Inf Bar, s. IServ: Aufgaben durch FL erteilt",
-         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15717,7 +15701,7 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "De",
+         "fach": "Phi",
          "klasse": "9C",
          "raum": "007",
          "info": "",
@@ -15725,7 +15709,7 @@
         },
         {
          "stunde": "4",
-         "fach": "De",
+         "fach": "Phi",
          "klasse": "9C",
          "raum": "007",
          "info": "",
@@ -15918,22 +15902,6 @@
          "raum": "Co1",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "3",
-         "fach": "inf3",
-         "klasse": "12A-12D",
-         "raum": "K10",
-         "info": "für Inf Bar, s. IServ: Aufgaben durch FL erteil",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "inf3",
-         "klasse": "12A-12D",
-         "raum": "K10",
-         "info": "für Inf Bar, s. IServ: Aufgaben durch FL erteil",
-         "geaendert": true
         }
        ],
        "aufsichten": [

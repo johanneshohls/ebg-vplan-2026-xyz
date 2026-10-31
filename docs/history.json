@@ -1069,5 +1069,48 @@
    "Std 8 (14:25): En 8E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
   ],
   "zeitstempel": "30.10.2026, 13:36"
+ },
+ {
+  "timestamp": "2026-10-31T10:42:12.477362",
+  "lehrer": "Bar",
+  "datum": "Mittwoch, 04. November 2026",
+  "date_key": "20261104",
+  "changes": [
+   "Std 3 (09:40): Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "31.10.2026, 07:02"
+ },
+ {
+  "timestamp": "2026-10-31T10:42:12.477362",
+  "lehrer": "Con",
+  "datum": "Mittwoch, 04. November 2026",
+  "date_key": "20261104",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "31.10.2026, 07:02"
+ },
+ {
+  "timestamp": "2026-10-31T10:42:12.477362",
+  "lehrer": "Jur",
+  "datum": "Mittwoch, 04. November 2026",
+  "date_key": "20261104",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "31.10.2026, 07:02"
+ },
+ {
+  "timestamp": "2026-10-31T10:42:12.477362",
+  "lehrer": "Leu",
+  "datum": "Mittwoch, 04. November 2026",
+  "date_key": "20261104",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "31.10.2026, 07:02"
  }
 ]
