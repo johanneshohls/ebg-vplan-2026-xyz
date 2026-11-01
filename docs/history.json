@@ -1112,5 +1112,54 @@
    "Planänderung (Details nicht spezifiziert)"
   ],
   "zeitstempel": "31.10.2026, 07:02"
+ },
+ {
+  "timestamp": "2026-11-01T06:35:10.399462",
+  "lehrer": "Bir",
+  "datum": "Montag, 02. November 2026",
+  "date_key": "20261102",
+  "changes": [
+   "Std 7 (13:40): für Mu Bir, Raumänderung",
+   "Std 8 (14:25): für Mu Bir, Raumänderung"
+  ],
+  "zeitstempel": "01.11.2026, 07:32"
+ },
+ {
+  "timestamp": "2026-11-01T06:35:10.399462",
+  "lehrer": "Hin",
+  "datum": "Montag, 02. November 2026",
+  "date_key": "20261102",
+  "changes": [
+   "Std 1 (07:40): für En Mar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 2 (08:25): für En Mar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 5 (11:40): für Ma Mar, s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): für Ma Mar, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "01.11.2026, 07:32"
+ },
+ {
+  "timestamp": "2026-11-01T06:35:10.399462",
+  "lehrer": "Mar",
+  "datum": "Montag, 02. November 2026",
+  "date_key": "20261102",
+  "changes": [
+   "Std 1 (07:40): En 8C Hin, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 2 (08:25): En 8C Hin, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 3 (09:40): En 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): En 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): Ma 7B Hin, s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): Ma 7B Hin, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "01.11.2026, 07:32"
+ },
+ {
+  "timestamp": "2026-11-01T06:35:10.399462",
+  "lehrer": "See",
+  "datum": "Montag, 02. November 2026",
+  "date_key": "20261102",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "01.11.2026, 07:32"
  }
 ]

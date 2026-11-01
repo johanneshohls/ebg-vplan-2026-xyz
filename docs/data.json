@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "01.11.2026, 06:30 Uhr",
- "last_changed": "2026-10-31T07:02:00",
+ "generiert": "01.11.2026, 06:35 Uhr",
+ "last_changed": "2026-11-01T07:32:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10601,7 +10601,7 @@
    "tage": {
     "20261102": {
      "datum": "Montag, 02. November 2026",
-     "zeitstempel": "30.10.2026, 13:36",
+     "zeitstempel": "01.11.2026, 07:32",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -10680,22 +10680,6 @@
       },
       "Bir": {
        "entries": [
-        {
-         "stunde": "1",
-         "fach": "En",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "für En Mar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "En",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "für En Mar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
-         "geaendert": true
-        },
         {
          "stunde": "3",
          "fach": "Mu",
@@ -11211,7 +11195,40 @@
        ]
       },
       "Hin": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "En",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für En Mar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "En",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für En Mar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Ma Mar, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Ma Mar, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Hofm": {
@@ -11786,7 +11803,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 8C Bir, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+         "info": "En 8C Hin, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
          "geaendert": true
         },
         {
@@ -11794,7 +11811,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 8C Bir, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+         "info": "En 8C Hin, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
          "geaendert": true
         },
         {
@@ -11818,7 +11835,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 7B See, s. IServ: Aufgaben durch FL erteilt",
+         "info": "Ma 7B Hin, s. IServ: Aufgaben durch FL erteilt",
          "geaendert": true
         },
         {
@@ -11826,7 +11843,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 7B See, s. IServ: Aufgaben durch FL erteilt",
+         "info": "Ma 7B Hin, s. IServ: Aufgaben durch FL erteilt",
          "geaendert": true
         }
        ],
@@ -12314,22 +12331,6 @@
          "raum": "103",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "Ma",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "für Ma Mar, s. IServ: Aufgaben durch FL erteilt",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Ma",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "für Ma Mar, s. IServ: Aufgaben durch FL erteilt",
-         "geaendert": true
         }
        ],
        "aufsichten": []
