@@ -1039,5 +1039,15 @@
    "Planänderung (Details nicht spezifiziert)"
   ],
   "zeitstempel": "01.11.2026, 07:32"
+ },
+ {
+  "timestamp": "2026-11-01T15:15:09.960021",
+  "lehrer": "Rat",
+  "datum": "Montag, 02. November 2026",
+  "date_key": "20261102",
+  "changes": [
+   "Std 1 (07:40): eRe 10B selbst. (v), Aufgaben werden ausgegeben. Anwesenheitspflicht!"
+  ],
+  "zeitstempel": "01.11.2026, 16:10"
  }
 ]

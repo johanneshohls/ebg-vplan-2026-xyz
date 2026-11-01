@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "01.11.2026, 15:10 Uhr",
- "last_changed": "2026-11-01T07:32:00",
+ "generiert": "01.11.2026, 15:15 Uhr",
+ "last_changed": "2026-11-01T16:10:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10601,7 +10601,7 @@
    "tage": {
     "20261102": {
      "datum": "Montag, 02. November 2026",
-     "zeitstempel": "01.11.2026, 07:32",
+     "zeitstempel": "01.11.2026, 16:10",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -12099,11 +12099,11 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "eRe",
-         "klasse": "10B",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 10B selbst. (v), Aufgaben werden ausgegeben. Anwesenheitspflicht!",
+         "geaendert": true
         },
         {
          "stunde": "2",
