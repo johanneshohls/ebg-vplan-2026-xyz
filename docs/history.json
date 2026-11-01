@@ -995,5 +995,81 @@
    "Std 1 (07:40): eRe 10B selbst. (v), Aufgaben werden ausgegeben. Anwesenheitspflicht!"
   ],
   "zeitstempel": "01.11.2026, 16:10"
+ },
+ {
+  "timestamp": "2026-11-01T17:30:11.867374",
+  "lehrer": "Jur",
+  "datum": "Dienstag, 03. November 2026",
+  "date_key": "20261103",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "01.11.2026, 18:28"
+ },
+ {
+  "timestamp": "2026-11-01T17:30:11.867374",
+  "lehrer": "Bar",
+  "datum": "Donnerstag, 05. November 2026",
+  "date_key": "20261105",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "01.11.2026, 18:28"
+ },
+ {
+  "timestamp": "2026-11-01T17:30:11.867374",
+  "lehrer": "Bar",
+  "datum": "Freitag, 06. November 2026",
+  "date_key": "20261106",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "01.11.2026, 18:28"
+ },
+ {
+  "timestamp": "2026-11-01T17:30:11.867374",
+  "lehrer": "Hofm",
+  "datum": "Freitag, 06. November 2026",
+  "date_key": "20261106",
+  "changes": [
+   "Std 5 (11:40): für Phi Jur",
+   "Std 6 (12:25): für Phi Jur"
+  ],
+  "zeitstempel": "01.11.2026, 18:28"
+ },
+ {
+  "timestamp": "2026-11-01T17:30:11.867374",
+  "lehrer": "Jur",
+  "datum": "Freitag, 06. November 2026",
+  "date_key": "20261106",
+  "changes": [
+   "Std 5 (11:40): Phi 7B Hofm",
+   "Std 5 (11:40): Hospitation: Herr Pohla, D, R 004; Phi 7B Hofm",
+   "Std 6 (12:25): Phi 7B Hofm",
+   "Std 6 (12:25): Auswertung Hospitation mit Herrn Pohla; Phi 7B Hofm"
+  ],
+  "zeitstempel": "01.11.2026, 18:28"
+ },
+ {
+  "timestamp": "2026-11-01T17:30:11.867374",
+  "lehrer": "Ost",
+  "datum": "Freitag, 06. November 2026",
+  "date_key": "20261106",
+  "changes": [
+   "Std 5 (11:40): für De Ost, Hospitation: Herr Pohla",
+   "Std 6 (12:25): für De Ost, Raumänderung"
+  ],
+  "zeitstempel": "01.11.2026, 18:28"
+ },
+ {
+  "timestamp": "2026-11-01T17:30:11.867374",
+  "lehrer": "Zec",
+  "datum": "Freitag, 06. November 2026",
+  "date_key": "20261106",
+  "changes": [
+   "Std 5 (11:40): Hospitation: Herr Pohla, D, R 004",
+   "Std 6 (12:25): Auswertung Hospitation mit Herrn Pohla"
+  ],
+  "zeitstempel": "01.11.2026, 18:28"
  }
 ]

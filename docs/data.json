@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "01.11.2026, 17:25 Uhr",
- "last_changed": "2026-11-01T16:10:00",
+ "generiert": "01.11.2026, 17:30 Uhr",
+ "last_changed": "2026-11-01T18:28:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10601,7 +10601,7 @@
    "tage": {
     "20261102": {
      "datum": "Montag, 02. November 2026",
-     "zeitstempel": "01.11.2026, 16:10",
+     "zeitstempel": "01.11.2026, 18:28",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -12679,7 +12679,7 @@
     },
     "20261103": {
      "datum": "Dienstag, 03. November 2026",
-     "zeitstempel": "30.10.2026, 13:36",
+     "zeitstempel": "01.11.2026, 18:28",
      "tagesinfo": [
       "Kuchenbasar der Klasse 8b in der 1.+2. Pause"
      ],
@@ -13658,7 +13658,7 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Phi",
+         "fach": "De",
          "klasse": "9C",
          "raum": "004",
          "info": "",
@@ -13666,7 +13666,7 @@
         },
         {
          "stunde": "2",
-         "fach": "Phi",
+         "fach": "De",
          "klasse": "9C",
          "raum": "004",
          "info": "",
@@ -14789,7 +14789,7 @@
     },
     "20261104": {
      "datum": "Mittwoch, 04. November 2026",
-     "zeitstempel": "31.10.2026, 07:02",
+     "zeitstempel": "01.11.2026, 18:28",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 11"
      ],
@@ -16761,20 +16761,11 @@
     },
     "20261105": {
      "datum": "Donnerstag, 05. November 2026",
-     "zeitstempel": "30.10.2026, 13:36",
+     "zeitstempel": "01.11.2026, 18:28",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
-       "entries": [
-        {
-         "stunde": "5",
-         "fach": "En",
-         "klasse": "",
-         "raum": "",
-         "info": "Hospitation",
-         "geaendert": true
-        }
-       ],
+       "entries": [],
        "aufsichten": []
       },
       "Bes": {
@@ -18778,7 +18769,7 @@
     },
     "20261106": {
      "datum": "Freitag, 06. November 2026",
-     "zeitstempel": "30.10.2026, 13:36",
+     "zeitstempel": "01.11.2026, 18:28",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; Aula"
      ],
@@ -18800,14 +18791,6 @@
          "raum": "K10",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "En",
-         "klasse": "",
-         "raum": "",
-         "info": "Auswertung",
-         "geaendert": true
         },
         {
          "stunde": "7",
@@ -19548,6 +19531,22 @@
          "geaendert": false
         },
         {
+         "stunde": "5",
+         "fach": "Phi",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Phi Jur",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Phi",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Phi Jur",
+         "geaendert": true
+        },
+        {
          "stunde": "9",
          "fach": "KL",
          "klasse": "8B",
@@ -19821,19 +19820,35 @@
         },
         {
          "stunde": "5",
-         "fach": "Phi",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phi 7B Hofm",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "Hospitation: Herr Pohla, D, R 004; Phi 7B Hofm",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Phi",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phi 7B Hofm",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "",
+         "raum": "001",
+         "info": "Auswertung Hospitation mit Herrn Pohla; Phi 7B Hofm",
+         "geaendert": true
         },
         {
          "stunde": "9",
@@ -20374,17 +20389,17 @@
          "stunde": "5",
          "fach": "De",
          "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "raum": "004",
+         "info": "für De Ost, Hospitation: Herr Pohla",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "De",
          "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "raum": "004",
+         "info": "für De Ost, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -20970,7 +20985,24 @@
        "aufsichten": []
       },
       "Zec": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "Hospitation: Herr Pohla, D, R 004",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "",
+         "raum": "001",
+         "info": "Auswertung Hospitation mit Herrn Pohla",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       }
      }
