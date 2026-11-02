@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "02.11.2026, 00:38 Uhr",
- "last_changed": "2026-11-01T18:28:00",
+ "generiert": "02.11.2026, 04:00 Uhr",
+ "last_changed": "2026-11-02T04:30:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10595,7 +10595,7 @@
    "tage": {
     "20261102": {
      "datum": "Montag, 02. November 2026",
-     "zeitstempel": "01.11.2026, 18:28",
+     "zeitstempel": "02.11.2026, 04:30",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -10652,6 +10652,22 @@
          "raum": "003",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "7D",
+         "raum": "001",
+         "info": "für Lat Köh, Nur Lat.-Gruppe. Bitte  mit L. Staudte abstimmen.",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "7D",
+         "raum": "001",
+         "info": "für Lat Köh, Nur Lat.-Gruppe. Bitte  mit L. Staudte abstimmen.",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -11616,51 +11632,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
-         "klasse": "8E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8E selbst. (a), s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
-         "klasse": "8E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8E selbst. (a), s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Lat",
-         "klasse": "7D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7D Bes (für Lat), Nur Lat.-Gruppe. Bitte  mit L. Staudte abstimmen.",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Lat",
-         "klasse": "7D",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7D Bes (für Lat), Nur Lat.-Gruppe. Bitte  mit L. Staudte abstimmen.",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8C OLop",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8C OLop",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -11940,6 +11956,22 @@
          "raum": "007",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Span",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Span",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für Span Köh",
+         "geaendert": true
         }
        ],
        "aufsichten": [
