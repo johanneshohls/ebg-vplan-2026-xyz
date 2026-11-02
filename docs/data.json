@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "02.11.2026, 15:25 Uhr",
- "last_changed": "2026-11-02T13:43:00",
+ "generiert": "02.11.2026, 15:30 Uhr",
+ "last_changed": "2026-11-02T16:26:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10595,7 +10595,7 @@
    "tage": {
     "20261102": {
      "datum": "Montag, 02. November 2026",
-     "zeitstempel": "02.11.2026, 04:30",
+     "zeitstempel": "02.11.2026, 16:26",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -12705,7 +12705,7 @@
     },
     "20261103": {
      "datum": "Dienstag, 03. November 2026",
-     "zeitstempel": "02.11.2026, 13:43",
+     "zeitstempel": "02.11.2026, 16:26",
      "tagesinfo": [
       "Kuchenbasar der Klasse 8b in der 1.+2. Pause"
      ],
@@ -14892,7 +14892,7 @@
     },
     "20261104": {
      "datum": "Mittwoch, 04. November 2026",
-     "zeitstempel": "02.11.2026, 13:43",
+     "zeitstempel": "02.11.2026, 16:26",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 11"
      ],
@@ -16877,7 +16877,7 @@
     },
     "20261105": {
      "datum": "Donnerstag, 05. November 2026",
-     "zeitstempel": "02.11.2026, 13:43",
+     "zeitstempel": "02.11.2026, 16:26",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -18885,7 +18885,7 @@
     },
     "20261106": {
      "datum": "Freitag, 06. November 2026",
-     "zeitstempel": "02.11.2026, 13:43",
+     "zeitstempel": "02.11.2026, 16:26",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; Aula"
      ],
@@ -21132,7 +21132,7 @@
    "tage": {
     "20261109": {
      "datum": "Montag, 09. November 2026",
-     "zeitstempel": "02.11.2026, 13:43",
+     "zeitstempel": "02.11.2026, 16:26",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -21280,17 +21280,17 @@
          "stunde": "1",
          "fach": "Ph",
          "klasse": "10A",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Ph Bob, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Ph",
          "klasse": "10A",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für Ph Bob, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -23219,7 +23219,7 @@
     },
     "20261110": {
      "datum": "Dienstag, 10. November 2026",
-     "zeitstempel": "02.11.2026, 13:43",
+     "zeitstempel": "02.11.2026, 16:26",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -25185,7 +25185,7 @@
     },
     "20261111": {
      "datum": "Mittwoch, 11. November 2026",
-     "zeitstempel": "02.11.2026, 13:43",
+     "zeitstempel": "02.11.2026, 16:26",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -27190,7 +27190,7 @@
     },
     "20261112": {
      "datum": "Donnerstag, 12. November 2026",
-     "zeitstempel": "02.11.2026, 13:43",
+     "zeitstempel": "02.11.2026, 16:26",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29252,7 +29252,7 @@
     },
     "20261113": {
      "datum": "Freitag, 13. November 2026",
-     "zeitstempel": "02.11.2026, 13:43",
+     "zeitstempel": "02.11.2026, 16:26",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
