@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "02.11.2026, 12:40 Uhr",
- "last_changed": "2026-11-02T11:37:00",
+ "generiert": "02.11.2026, 12:45 Uhr",
+ "last_changed": "2026-11-02T13:43:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12705,7 +12705,7 @@
     },
     "20261103": {
      "datum": "Dienstag, 03. November 2026",
-     "zeitstempel": "02.11.2026, 11:37",
+     "zeitstempel": "02.11.2026, 13:43",
      "tagesinfo": [
       "Kuchenbasar der Klasse 8b in der 1.+2. Pause"
      ],
@@ -14892,7 +14892,7 @@
     },
     "20261104": {
      "datum": "Mittwoch, 04. November 2026",
-     "zeitstempel": "01.11.2026, 18:28",
+     "zeitstempel": "02.11.2026, 13:43",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 11"
      ],
@@ -15045,7 +15045,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof1, WCs, Container",
+         "info": "für Wag"
+        }
+       ]
       },
       "Bis": {
        "entries": [],
@@ -15073,17 +15080,17 @@
          "stunde": "3",
          "fach": "Ch",
          "klasse": "9D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "raum": "K12",
+         "info": "für Ch Bob, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Ch",
          "klasse": "9D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "raum": "K12",
+         "info": "für Ch Bob, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15365,10 +15372,10 @@
        ],
        "aufsichten": [
         {
-         "vor_stunde": "3",
-         "uhrzeit": "09:10",
-         "ort": "erst Haus, dann Hof2+GKLZ",
-         "info": "für Mar"
+         "vor_stunde": "1",
+         "uhrzeit": "07:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Gol"
         }
        ]
       },
@@ -15428,7 +15435,13 @@
          "vor_stunde": "1",
          "uhrzeit": "07:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Fla"
+        },
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "erst Haus, dann Hof2+GKLZ",
+         "info": "für Mar"
         }
        ]
       },
@@ -15868,17 +15881,17 @@
          "stunde": "3",
          "fach": "Ch",
          "klasse": "9B",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "raum": "205",
+         "info": "für Ch Kno, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Ch",
          "klasse": "9B",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "raum": "205",
+         "info": "für Ch Kno, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -16150,7 +16163,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "erst Haus, dann Hof2+GKLZ",
-         "info": "entfällt, V: Fla"
+         "info": "entfällt, V: Gol"
         }
        ]
       },
@@ -16852,7 +16865,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Hof1, WCs, Container",
-         "info": ""
+         "info": "entfällt, V: Bir"
         }
        ]
       },
@@ -16864,7 +16877,7 @@
     },
     "20261105": {
      "datum": "Donnerstag, 05. November 2026",
-     "zeitstempel": "01.11.2026, 18:28",
+     "zeitstempel": "02.11.2026, 13:43",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -18872,7 +18885,7 @@
     },
     "20261106": {
      "datum": "Freitag, 06. November 2026",
-     "zeitstempel": "02.11.2026, 09:16",
+     "zeitstempel": "02.11.2026, 13:43",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; Aula"
      ],
@@ -21119,7 +21132,7 @@
    "tage": {
     "20261109": {
      "datum": "Montag, 09. November 2026",
-     "zeitstempel": "01.11.2026, 18:28",
+     "zeitstempel": "02.11.2026, 13:43",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -22537,7 +22550,7 @@
          "fach": "De",
          "klasse": "8A",
          "raum": "001",
-         "info": "",
+         "info": "für De Ost, begleiteter Unterricht: L. Zech",
          "geaendert": false
         },
         {
@@ -23182,14 +23195,31 @@
        "aufsichten": []
       },
       "Zec": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "7",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "begleiteter Unterricht: D 8a",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "begleiteter Unterricht: D 8a",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       }
      }
     },
     "20261110": {
      "datum": "Dienstag, 10. November 2026",
-     "zeitstempel": "01.11.2026, 18:28",
+     "zeitstempel": "02.11.2026, 13:43",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -24941,7 +24971,24 @@
        "aufsichten": []
       },
       "Sto": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Fr",
+         "klasse": "",
+         "raum": "",
+         "info": "begleiteter Unterricht: Frz 10a",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Fr",
+         "klasse": "",
+         "raum": "",
+         "info": "begleiteter Unterricht: Frz 10a",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Stu": {
@@ -25077,7 +25124,7 @@
          "fach": "Fr",
          "klasse": "10A",
          "raum": "Co1",
-         "info": "",
+         "info": "für Fr Wag, begleiteter Unterricht: A. Stolzenberg",
          "geaendert": false
         },
         {
@@ -25138,7 +25185,7 @@
     },
     "20261111": {
      "datum": "Mittwoch, 11. November 2026",
-     "zeitstempel": "01.11.2026, 18:28",
+     "zeitstempel": "02.11.2026, 13:43",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -27143,7 +27190,7 @@
     },
     "20261112": {
      "datum": "Donnerstag, 12. November 2026",
-     "zeitstempel": "01.11.2026, 18:28",
+     "zeitstempel": "02.11.2026, 13:43",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29205,7 +29252,7 @@
     },
     "20261113": {
      "datum": "Freitag, 13. November 2026",
-     "zeitstempel": "01.11.2026, 18:28",
+     "zeitstempel": "02.11.2026, 13:43",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -30634,7 +30681,7 @@
          "fach": "De",
          "klasse": "8A",
          "raum": "001",
-         "info": "",
+         "info": "für De Ost, begleiteter Unterricht: L. Zech",
          "geaendert": false
         },
         {
@@ -31124,7 +31171,24 @@
        "aufsichten": []
       },
       "Zec": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "begleiteter Unterricht: D 8a",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "begleiteter Unterricht: D 8a",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       }
      }
