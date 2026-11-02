@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "02.11.2026, 17:55 Uhr",
- "last_changed": "2026-11-02T18:52:00",
+ "generiert": "02.11.2026, 18:00 Uhr",
+ "last_changed": "2026-11-02T18:55:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12705,7 +12705,7 @@
     },
     "20261103": {
      "datum": "Dienstag, 03. November 2026",
-     "zeitstempel": "02.11.2026, 18:52",
+     "zeitstempel": "02.11.2026, 18:55",
      "tagesinfo": [
       "Kuchenbasar der Klasse 8b in der 1.+2. Pause"
      ],
@@ -14924,7 +14924,7 @@
     },
     "20261104": {
      "datum": "Mittwoch, 04. November 2026",
-     "zeitstempel": "02.11.2026, 16:26",
+     "zeitstempel": "02.11.2026, 18:55",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 11"
      ],
@@ -15964,35 +15964,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
-         "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8D Ter (für Span), In Rücksprache mit A. Tuhcic.",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
-         "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8D Ter (für Span), In Rücksprache mit A. Tuhcic.",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7B Ter (für Span), In Rücksprache mit M. Höners.",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7B Ter (für Span), In Rücksprache mit M. Höners.",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16725,7 +16725,40 @@
        "aufsichten": []
       },
       "Ter": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "8D",
+         "raum": "102",
+         "info": "für Span Köh, In Rücksprache mit A. Tuhcic.",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "8D",
+         "raum": "102",
+         "info": "für Span Köh, In Rücksprache mit A. Tuhcic.",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Span Köh, In Rücksprache mit M. Höners.",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Span Köh, In Rücksprache mit M. Höners.",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Tie": {
@@ -16909,7 +16942,7 @@
     },
     "20261105": {
      "datum": "Donnerstag, 05. November 2026",
-     "zeitstempel": "02.11.2026, 16:26",
+     "zeitstempel": "02.11.2026, 18:55",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -18917,7 +18950,7 @@
     },
     "20261106": {
      "datum": "Freitag, 06. November 2026",
-     "zeitstempel": "02.11.2026, 16:26",
+     "zeitstempel": "02.11.2026, 18:55",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; Aula"
      ],
@@ -21164,7 +21197,7 @@
    "tage": {
     "20261109": {
      "datum": "Montag, 09. November 2026",
-     "zeitstempel": "02.11.2026, 16:26",
+     "zeitstempel": "02.11.2026, 18:55",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23251,7 +23284,7 @@
     },
     "20261110": {
      "datum": "Dienstag, 10. November 2026",
-     "zeitstempel": "02.11.2026, 16:26",
+     "zeitstempel": "02.11.2026, 18:55",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -25217,7 +25250,7 @@
     },
     "20261111": {
      "datum": "Mittwoch, 11. November 2026",
-     "zeitstempel": "02.11.2026, 16:26",
+     "zeitstempel": "02.11.2026, 18:55",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -27222,7 +27255,7 @@
     },
     "20261112": {
      "datum": "Donnerstag, 12. November 2026",
-     "zeitstempel": "02.11.2026, 16:26",
+     "zeitstempel": "02.11.2026, 18:55",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29284,7 +29317,7 @@
     },
     "20261113": {
      "datum": "Freitag, 13. November 2026",
-     "zeitstempel": "02.11.2026, 16:26",
+     "zeitstempel": "02.11.2026, 18:55",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {

@@ -914,5 +914,31 @@
    "Std 8 (14:25): Club7 10A-10D,9A-9D fällt aus"
   ],
   "zeitstempel": "02.11.2026, 18:52"
+ },
+ {
+  "timestamp": "2026-11-02T18:00:10.876141",
+  "lehrer": "Köh",
+  "datum": "Mittwoch, 04. November 2026",
+  "date_key": "20261104",
+  "changes": [
+   "Std 1 (07:40): De 8D Ter (für Span), In Rücksprache mit A. Tuhcic.",
+   "Std 2 (08:25): De 8D Ter (für Span), In Rücksprache mit A. Tuhcic.",
+   "Std 3 (09:40): De 7B Ter (für Span), In Rücksprache mit M. Höners.",
+   "Std 4 (10:25): De 7B Ter (für Span), In Rücksprache mit M. Höners."
+  ],
+  "zeitstempel": "02.11.2026, 18:55"
+ },
+ {
+  "timestamp": "2026-11-02T18:00:10.876141",
+  "lehrer": "Ter",
+  "datum": "Mittwoch, 04. November 2026",
+  "date_key": "20261104",
+  "changes": [
+   "Std 1 (07:40): für Span Köh, In Rücksprache mit A. Tuhcic.",
+   "Std 2 (08:25): für Span Köh, In Rücksprache mit A. Tuhcic.",
+   "Std 3 (09:40): für Span Köh, In Rücksprache mit M. Höners.",
+   "Std 4 (10:25): für Span Köh, In Rücksprache mit M. Höners."
+  ],
+  "zeitstempel": "02.11.2026, 18:55"
  }
 ]
