@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "02.11.2026, 17:50 Uhr",
- "last_changed": "2026-11-02T16:26:00",
+ "generiert": "02.11.2026, 17:55 Uhr",
+ "last_changed": "2026-11-02T18:52:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12705,7 +12705,7 @@
     },
     "20261103": {
      "datum": "Dienstag, 03. November 2026",
-     "zeitstempel": "02.11.2026, 16:26",
+     "zeitstempel": "02.11.2026, 18:52",
      "tagesinfo": [
       "Kuchenbasar der Klasse 8b in der 1.+2. Pause"
      ],
@@ -13059,19 +13059,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Ma",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8C verlegt nach St.5 (Käc)",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8C verlegt nach St.6 (Käc)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13586,17 +13586,17 @@
          "stunde": "3",
          "fach": "DE1",
          "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "003",
+         "info": "für De Hön, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "DE1",
          "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "003",
+         "info": "für De Hön, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -13765,20 +13765,36 @@
          "geaendert": true
         },
         {
-         "stunde": "7",
+         "stunde": "5",
          "fach": "Ma",
          "klasse": "8C",
          "raum": "101",
-         "info": "",
-         "geaendert": false
+         "info": "Ma 8C verlegt von St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "Ma 8C verlegt von St.8",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8C verlegt nach St.5",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8C verlegt nach St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13800,6 +13816,22 @@
          "raum": "K09",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Mu",
+         "klasse": "7B",
+         "raum": "Aula",
+         "info": "für Span Köh",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Mu",
+         "klasse": "7B",
+         "raum": "Aula",
+         "info": "für Span Köh",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -13884,51 +13916,51 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Span",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 7B Kar (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Span",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 7B Kar (für Span)",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8C fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 8C fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Club7",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club7 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club7",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club7 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
