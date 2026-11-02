@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "02.11.2026, 10:35 Uhr",
- "last_changed": "2026-11-02T09:16:00",
+ "generiert": "02.11.2026, 10:40 Uhr",
+ "last_changed": "2026-11-02T11:37:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12705,7 +12705,7 @@
     },
     "20261103": {
      "datum": "Dienstag, 03. November 2026",
-     "zeitstempel": "01.11.2026, 18:28",
+     "zeitstempel": "02.11.2026, 11:37",
      "tagesinfo": [
       "Kuchenbasar der Klasse 8b in der 1.+2. Pause"
      ],
@@ -12958,51 +12958,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Bio",
-         "klasse": "7C",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 7C verlegt nach St.5 (See), Aufgaben liegen vor.",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Bio",
-         "klasse": "7C",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 7C verlegt nach St.6 (See)",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Ma",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8E Käc, Aufgaben liegen vor",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ma",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8E Käc, Aufgaben liegen vor",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Ma",
-         "klasse": "7C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7C verlegt nach St.1 (Con), Aufgaben liegen vor.",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ma",
-         "klasse": "7C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7C verlegt nach St.2 (Con)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -13078,6 +13078,22 @@
       },
       "Con": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Ma",
+         "klasse": "7C",
+         "raum": "008",
+         "info": "verlegt von St.5 (Ma Bom), Aufgaben liegen vor.",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ma",
+         "klasse": "7C",
+         "raum": "008",
+         "info": "verlegt von St.6 (Ma Bom)",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "IMB",
@@ -13554,7 +13570,13 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Lan"
+        },
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Lan"
         }
        ]
       },
@@ -13726,6 +13748,22 @@
       },
       "Käc": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "für Ma Bom, Aufgaben liegen vor",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "für Ma Bom, Aufgaben liegen vor",
+         "geaendert": true
+        },
         {
          "stunde": "7",
          "fach": "Ma",
@@ -13935,7 +13973,13 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Hol"
+        },
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Hol"
         }
        ]
       },
@@ -14195,7 +14239,7 @@
          "fach": "De",
          "klasse": "8A",
          "raum": "008",
-         "info": "",
+         "info": "für De Ost, begleiteter Unterricht: L. Zech",
          "geaendert": false
         },
         {
@@ -14540,6 +14584,22 @@
          "raum": "105",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Bio",
+         "klasse": "7C",
+         "raum": "201",
+         "info": "verlegt von St.1 (Bio Bom), Aufgaben liegen vor.",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Bio",
+         "klasse": "7C",
+         "raum": "201",
+         "info": "verlegt von St.2 (Bio Bom)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14808,7 +14868,24 @@
        ]
       },
       "Zec": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "begleiteter Unterricht: D 8a",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "begleiteter Unterricht: D 8a",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       }
      }

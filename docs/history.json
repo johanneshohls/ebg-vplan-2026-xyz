@@ -1067,5 +1067,74 @@
    "Std 6 (12:25): für Ma Leu, Raumänderung"
   ],
   "zeitstempel": "02.11.2026, 09:16"
+ },
+ {
+  "timestamp": "2026-11-02T10:40:10.304275",
+  "lehrer": "Bom",
+  "datum": "Dienstag, 03. November 2026",
+  "date_key": "20261103",
+  "changes": [
+   "Std 1 (07:40): Bio 7C verlegt nach St.5 (See), Aufgaben liegen vor.",
+   "Std 2 (08:25): Bio 7C verlegt nach St.6 (See)",
+   "Std 3 (09:40): Ma 8E Käc, Aufgaben liegen vor",
+   "Std 4 (10:25): Ma 8E Käc, Aufgaben liegen vor",
+   "Std 5 (11:40): Ma 7C verlegt nach St.1 (Con), Aufgaben liegen vor.",
+   "Std 6 (12:25): Ma 7C verlegt nach St.2 (Con)"
+  ],
+  "zeitstempel": "02.11.2026, 11:37"
+ },
+ {
+  "timestamp": "2026-11-02T10:40:10.304275",
+  "lehrer": "Con",
+  "datum": "Dienstag, 03. November 2026",
+  "date_key": "20261103",
+  "changes": [
+   "Std 1 (07:40): verlegt von St.5 (Ma Bom), Aufgaben liegen vor.",
+   "Std 2 (08:25): verlegt von St.6 (Ma Bom)"
+  ],
+  "zeitstempel": "02.11.2026, 11:37"
+ },
+ {
+  "timestamp": "2026-11-02T10:40:10.304275",
+  "lehrer": "Käc",
+  "datum": "Dienstag, 03. November 2026",
+  "date_key": "20261103",
+  "changes": [
+   "Std 3 (09:40): für Ma Bom, Aufgaben liegen vor",
+   "Std 4 (10:25): für Ma Bom, Aufgaben liegen vor"
+  ],
+  "zeitstempel": "02.11.2026, 11:37"
+ },
+ {
+  "timestamp": "2026-11-02T10:40:10.304275",
+  "lehrer": "Ost",
+  "datum": "Dienstag, 03. November 2026",
+  "date_key": "20261103",
+  "changes": [
+   "Std 3 (09:40): für De Ost, begleiteter Unterricht: L. Zech"
+  ],
+  "zeitstempel": "02.11.2026, 11:37"
+ },
+ {
+  "timestamp": "2026-11-02T10:40:10.304275",
+  "lehrer": "See",
+  "datum": "Dienstag, 03. November 2026",
+  "date_key": "20261103",
+  "changes": [
+   "Std 5 (11:40): verlegt von St.1 (Bio Bom), Aufgaben liegen vor.",
+   "Std 6 (12:25): verlegt von St.2 (Bio Bom)"
+  ],
+  "zeitstempel": "02.11.2026, 11:37"
+ },
+ {
+  "timestamp": "2026-11-02T10:40:10.304275",
+  "lehrer": "Zec",
+  "datum": "Dienstag, 03. November 2026",
+  "date_key": "20261103",
+  "changes": [
+   "Std 3 (09:40): begleiteter Unterricht: D 8a",
+   "Std 4 (10:25): begleiteter Unterricht: D 8a"
+  ],
+  "zeitstempel": "02.11.2026, 11:37"
  }
 ]
