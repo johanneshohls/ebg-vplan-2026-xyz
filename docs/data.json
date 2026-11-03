@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "03.11.2026, 08:15 Uhr",
- "last_changed": "2026-11-02T18:55:00",
+ "generiert": "03.11.2026, 08:20 Uhr",
+ "last_changed": "2026-11-03T09:17:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14924,7 +14924,7 @@
     },
     "20261104": {
      "datum": "Mittwoch, 04. November 2026",
-     "zeitstempel": "02.11.2026, 18:55",
+     "zeitstempel": "03.11.2026, 09:17",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 11"
      ],
@@ -15636,17 +15636,17 @@
          "stunde": "5",
          "fach": "KILZ",
          "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "008 K04",
+         "info": "für KILZ Hofm",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "KILZ",
          "klasse": "8B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "008 K04",
+         "info": "für KILZ Hofm",
+         "geaendert": true
         }
        ],
        "aufsichten": []
