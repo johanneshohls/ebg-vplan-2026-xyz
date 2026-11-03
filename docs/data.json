@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "03.11.2026, 10:25 Uhr",
- "last_changed": "2026-11-03T09:17:00",
+ "generiert": "03.11.2026, 10:30 Uhr",
+ "last_changed": "2026-11-03T11:29:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12705,7 +12705,7 @@
     },
     "20261103": {
      "datum": "Dienstag, 03. November 2026",
-     "zeitstempel": "02.11.2026, 18:55",
+     "zeitstempel": "03.11.2026, 11:29",
      "tagesinfo": [
       "Kuchenbasar der Klasse 8b in der 1.+2. Pause"
      ],
@@ -14924,7 +14924,7 @@
     },
     "20261104": {
      "datum": "Mittwoch, 04. November 2026",
-     "zeitstempel": "03.11.2026, 09:17",
+     "zeitstempel": "03.11.2026, 11:29",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 11"
      ],
@@ -16942,7 +16942,7 @@
     },
     "20261105": {
      "datum": "Donnerstag, 05. November 2026",
-     "zeitstempel": "02.11.2026, 18:55",
+     "zeitstempel": "03.11.2026, 11:29",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -18950,7 +18950,7 @@
     },
     "20261106": {
      "datum": "Freitag, 06. November 2026",
-     "zeitstempel": "02.11.2026, 18:55",
+     "zeitstempel": "03.11.2026, 11:29",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; Aula"
      ],
@@ -19078,6 +19078,22 @@
          "raum": "107",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "BFö",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "zentraler Nachreibeterrmin",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "BFö",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "zentraler Nachreibeterrmin",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -19568,22 +19584,6 @@
          "raum": "105",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "BFö",
-         "klasse": "",
-         "raum": "Aula",
-         "info": "zentraler Nachreibeterrmin",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "BFö",
-         "klasse": "",
-         "raum": "Aula",
-         "info": "zentraler Nachreibeterrmin",
-         "geaendert": true
         },
         {
          "stunde": "9",
@@ -21197,7 +21197,7 @@
    "tage": {
     "20261109": {
      "datum": "Montag, 09. November 2026",
-     "zeitstempel": "02.11.2026, 18:55",
+     "zeitstempel": "03.11.2026, 11:29",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23284,7 +23284,7 @@
     },
     "20261110": {
      "datum": "Dienstag, 10. November 2026",
-     "zeitstempel": "02.11.2026, 18:55",
+     "zeitstempel": "03.11.2026, 11:29",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -25250,7 +25250,7 @@
     },
     "20261111": {
      "datum": "Mittwoch, 11. November 2026",
-     "zeitstempel": "02.11.2026, 18:55",
+     "zeitstempel": "03.11.2026, 11:29",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -27255,8 +27255,10 @@
     },
     "20261112": {
      "datum": "Donnerstag, 12. November 2026",
-     "zeitstempel": "02.11.2026, 18:55",
-     "tagesinfo": [],
+     "zeitstempel": "03.11.2026, 11:29",
+     "tagesinfo": [
+      "Jahrgang 9: BO; Gadebsuch, 2.+3. Block"
+     ],
      "lehrer": {
       "Bar": {
        "entries": [
@@ -27468,19 +27470,35 @@
         },
         {
          "stunde": "3",
-         "fach": "SpJu",
-         "klasse": "9C,9D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpJu 9C,9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "SpJu",
-         "klasse": "9C,9D",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpJu 9C,9D fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "sp4",
+         "klasse": "11A-11E",
          "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "info": "für Sp Her",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "sp4",
+         "klasse": "11A-11E",
+         "raum": "Tu1",
+         "info": "für Sp Her",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -27844,7 +27862,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Geo 9A verlegt nach St.5",
+         "info": "Geo 9A fällt aus",
          "geaendert": true
         },
         {
@@ -27852,23 +27870,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Geo 9A verlegt nach St.6",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "Geo",
-         "klasse": "9A",
-         "raum": "Co3",
-         "info": "Geo 9A verlegt von St.3",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Geo",
-         "klasse": "9A",
-         "raum": "Co3",
-         "info": "Geo 9A verlegt von St.4",
+         "info": "Geo 9A fällt aus",
          "geaendert": true
         },
         {
@@ -27901,35 +27903,35 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "BO",
-         "klasse": "10B",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10B Leu (für BO)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "BO",
-         "klasse": "10B",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10B Leu (für BO)",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "sp4",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 11D,11A-11C,11E Bod",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "sp4",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 11D,11A-11C,11E Bod",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -28487,20 +28489,36 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "10B",
+         "raum": "007",
+         "info": "für BO Her",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "10B",
+         "raum": "007",
+         "info": "für BO Her",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
-         "fach": "Ph",
-         "klasse": "9C",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 9C fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ph",
-         "klasse": "9C",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ph 9C fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -28557,19 +28575,19 @@
         },
         {
          "stunde": "3",
-         "fach": "SpMä",
-         "klasse": "9C,9D",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpMä 9C,9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "SpMä",
-         "klasse": "9C,9D",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpMä 9C,9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -28614,19 +28632,19 @@
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "9B",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "9B",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -28667,19 +28685,19 @@
         },
         {
          "stunde": "3",
-         "fach": "Bio",
-         "klasse": "9B",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Bio",
-         "klasse": "9B",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -28710,27 +28728,11 @@
       "Pel": {
        "entries": [
         {
-         "stunde": "3",
-         "fach": "Ch",
-         "klasse": "9A",
-         "raum": "007",
-         "info": "Ch 9A verlegt von St.5",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Ch",
-         "klasse": "9A",
-         "raum": "007",
-         "info": "Ch 9A verlegt von St.6",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ch 9A verlegt nach St.3",
+         "info": "Ch 9A fällt aus",
          "geaendert": true
         },
         {
@@ -28738,7 +28740,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ch 9A verlegt nach St.4",
+         "info": "Ch 9A fällt aus",
          "geaendert": true
         }
        ],
@@ -28833,19 +28835,19 @@
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "9D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "9D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -29317,7 +29319,7 @@
     },
     "20261113": {
      "datum": "Freitag, 13. November 2026",
-     "zeitstempel": "02.11.2026, 18:55",
+     "zeitstempel": "03.11.2026, 11:29",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
