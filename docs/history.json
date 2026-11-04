@@ -1,16 +1,5 @@
 [
  {
-  "timestamp": "2026-10-28T14:35:14.013209",
-  "lehrer": "Bri",
-  "datum": "Dienstag, 03. November 2026",
-  "date_key": "20261103",
-  "changes": [
-   "Std 5 (11:40): Hospitation",
-   "Std 6 (12:25): Hospitation"
-  ],
-  "zeitstempel": "28.10.2026, 15:34"
- },
- {
   "timestamp": "2026-10-28T14:40:12.559197",
   "lehrer": "*",
   "datum": "Donnerstag, 29. Oktober 2026",
