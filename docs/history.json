@@ -841,5 +841,96 @@
    "Planänderung (Details nicht spezifiziert)"
   ],
   "zeitstempel": "03.11.2026, 11:29"
+ },
+ {
+  "timestamp": "2026-11-04T10:00:16.185008",
+  "lehrer": "Bom",
+  "datum": "Dienstag, 10. November 2026",
+  "date_key": "20261110",
+  "changes": [
+   "Std 5 (11:40): für Ma Bom, Hospitation"
+  ],
+  "zeitstempel": "04.11.2026, 10:55"
+ },
+ {
+  "timestamp": "2026-11-04T10:00:16.185008",
+  "lehrer": "Bri",
+  "datum": "Dienstag, 10. November 2026",
+  "date_key": "20261110",
+  "changes": [
+   "Std 3 (09:40): für Ma Bri, Klausur",
+   "Std 4 (10:25): für Ma Bri, Klausur",
+   "Std 5 (11:40): Hospitation",
+   "Std 6 (12:25): Hospitation"
+  ],
+  "zeitstempel": "04.11.2026, 10:55"
+ },
+ {
+  "timestamp": "2026-11-04T10:00:16.185008",
+  "lehrer": "Gol",
+  "datum": "Dienstag, 10. November 2026",
+  "date_key": "20261110",
+  "changes": [
+   "Std 3 (09:40): Ge 7C statt Di (17.11.) St.3",
+   "Std 4 (10:25): Ge 7C statt Di (17.11.) St.4"
+  ],
+  "zeitstempel": "04.11.2026, 10:55"
+ },
+ {
+  "timestamp": "2026-11-04T10:00:16.185008",
+  "lehrer": "Her",
+  "datum": "Dienstag, 10. November 2026",
+  "date_key": "20261110",
+  "changes": [
+   "Std 3 (09:40): BO 10A statt Di (17.11.) St.3",
+   "Std 4 (10:25): BO 10A statt Di (17.11.) St.4"
+  ],
+  "zeitstempel": "04.11.2026, 10:55"
+ },
+ {
+  "timestamp": "2026-11-04T10:00:16.185008",
+  "lehrer": "Jur",
+  "datum": "Dienstag, 10. November 2026",
+  "date_key": "20261110",
+  "changes": [
+   "Std 3 (09:40): für De Jur, Raumänderung",
+   "Std 4 (10:25): für De Jur, Raumänderung"
+  ],
+  "zeitstempel": "04.11.2026, 10:55"
+ },
+ {
+  "timestamp": "2026-11-04T10:00:16.185008",
+  "lehrer": "Leu",
+  "datum": "Dienstag, 10. November 2026",
+  "date_key": "20261110",
+  "changes": [
+   "Std 3 (09:40): Ma 10A verlegt nach St.7",
+   "Std 4 (10:25): Ma 10A verlegt nach St.8",
+   "Std 7 (13:40): Ma 10A verlegt von St.3",
+   "Std 8 (14:25): Ma 10A verlegt von St.4"
+  ],
+  "zeitstempel": "04.11.2026, 10:55"
+ },
+ {
+  "timestamp": "2026-11-04T10:00:16.185008",
+  "lehrer": "Mue",
+  "datum": "Dienstag, 10. November 2026",
+  "date_key": "20261110",
+  "changes": [
+   "Std 3 (09:40): ILZ 7C verlegt nach Di (17.11.) St.3",
+   "Std 4 (10:25): ILZ 7C verlegt nach Di (17.11.) St.4"
+  ],
+  "zeitstempel": "04.11.2026, 10:55"
+ },
+ {
+  "timestamp": "2026-11-04T10:00:16.185008",
+  "lehrer": "Pel",
+  "datum": "Dienstag, 10. November 2026",
+  "date_key": "20261110",
+  "changes": [
+   "Std 3 (09:40): für Ch Pel",
+   "Std 4 (10:25): für Ch Pel"
+  ],
+  "zeitstempel": "04.11.2026, 10:55"
  }
 ]
