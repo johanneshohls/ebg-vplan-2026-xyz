@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "04.11.2026, 09:50 Uhr",
- "last_changed": "2026-11-03T11:29:00",
+ "generiert": "04.11.2026, 09:55 Uhr",
+ "last_changed": "2026-11-04T10:55:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21197,7 +21197,7 @@
    "tage": {
     "20261109": {
      "datum": "Montag, 09. November 2026",
-     "zeitstempel": "03.11.2026, 11:29",
+     "zeitstempel": "04.11.2026, 10:55",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23284,7 +23284,7 @@
     },
     "20261110": {
      "datum": "Dienstag, 10. November 2026",
-     "zeitstempel": "03.11.2026, 11:29",
+     "zeitstempel": "04.11.2026, 10:55",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23506,7 +23506,7 @@
          "fach": "Ma",
          "klasse": "7C",
          "raum": "004",
-         "info": "",
+         "info": "für Ma Bom, Hospitation",
          "geaendert": false
         },
         {
@@ -23569,6 +23569,22 @@
          "raum": "Co2",
          "info": "für Ma Bri, Klausur",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Hospitation",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Hospitation",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23727,6 +23743,22 @@
       "Gol": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "Ge",
+         "klasse": "7C",
+         "raum": "K07",
+         "info": "Ge 7C statt Di (17.11.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ge",
+         "klasse": "7C",
+         "raum": "K07",
+         "info": "Ge 7C statt Di (17.11.) St.4",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "ge3",
          "klasse": "11D,11A-11C,11E",
@@ -23875,6 +23907,22 @@
          "raum": "Tu2",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "BO",
+         "klasse": "10A",
+         "raum": "Co1",
+         "info": "BO 10A statt Di (17.11.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "BO",
+         "klasse": "10A",
+         "raum": "Co1",
+         "info": "BO 10A statt Di (17.11.) St.4",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -24176,18 +24224,18 @@
         {
          "stunde": "3",
          "fach": "de2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "Co3",
+         "info": "für De Jur, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "de2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "Co3",
+         "info": "für De Jur, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -24417,19 +24465,19 @@
         },
         {
          "stunde": "3",
-         "fach": "Ma",
-         "klasse": "10A",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10A verlegt nach St.7",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ma",
-         "klasse": "10A",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10A verlegt nach St.8",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -24446,6 +24494,22 @@
          "raum": "Co3",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "Ma",
+         "klasse": "10A",
+         "raum": "Co3",
+         "info": "Ma 10A verlegt von St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Ma",
+         "klasse": "10A",
+         "raum": "Co3",
+         "info": "Ma 10A verlegt von St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -24549,19 +24613,19 @@
         },
         {
          "stunde": "3",
-         "fach": "ILZ",
-         "klasse": "7C",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7C verlegt nach Di (17.11.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "ILZ",
-         "klasse": "7C",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 7C verlegt nach Di (17.11.) St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -24664,19 +24728,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Ch",
+         "fach": "Bio",
          "klasse": "9C",
          "raum": "205",
-         "info": "",
-         "geaendert": false
+         "info": "für Ch Pel",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ch",
+         "fach": "Bio",
          "klasse": "9C",
          "raum": "205",
-         "info": "",
-         "geaendert": false
+         "info": "für Ch Pel",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -25250,7 +25314,7 @@
     },
     "20261111": {
      "datum": "Mittwoch, 11. November 2026",
-     "zeitstempel": "03.11.2026, 11:29",
+     "zeitstempel": "04.11.2026, 10:55",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -25492,6 +25556,22 @@
       "Bom": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "7D",
+         "raum": "005",
+         "info": "für Ma Sta",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "7D",
+         "raum": "005",
+         "info": "für Ma Sta",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Bio",
          "klasse": "7C",
@@ -25598,7 +25678,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Leu"
+        }
+       ]
       },
       "Epp": {
        "entries": [],
@@ -25963,7 +26050,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Essenraum und Keller",
+         "info": "für Sta"
+        }
+       ]
       },
       "Hoh": {
        "entries": [
@@ -25998,6 +26092,22 @@
          "raum": "103",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "8B",
+         "raum": "004",
+         "info": "für Ma Sta",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "8B",
+         "raum": "004",
+         "info": "für Ma Sta",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -26368,51 +26478,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "ma3",
-         "klasse": "12A-12D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "ma3",
-         "klasse": "12A-12D",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "ma1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "ma1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "GS10",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS10 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS10",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS10 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -26420,7 +26530,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Con"
         }
        ]
       },
@@ -26684,7 +26794,24 @@
        ]
       },
       "Pel": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "Ch",
+         "klasse": "9C",
+         "raum": "K12",
+         "info": "für IMB Sta",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ch",
+         "klasse": "9C",
+         "raum": "K12",
+         "info": "für IMB Sta",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Pri": {
@@ -26931,51 +27058,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "IMB",
-         "klasse": "9C",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 9C Pel (für IMB)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "IMB",
-         "klasse": "9C",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 9C Pel (für IMB)",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Ma",
-         "klasse": "7D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7D Bom",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ma",
-         "klasse": "7D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7D Bom",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Ma",
-         "klasse": "8B",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8B Hoh",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ma",
-         "klasse": "8B",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8B Hoh",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -26983,7 +27110,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Essenraum und Keller",
-         "info": ""
+         "info": "entfällt, V: Hofm"
         }
        ]
       },
@@ -27255,7 +27382,7 @@
     },
     "20261112": {
      "datum": "Donnerstag, 12. November 2026",
-     "zeitstempel": "03.11.2026, 11:29",
+     "zeitstempel": "04.11.2026, 10:55",
      "tagesinfo": [
       "Jahrgang 9: BO; Gadebsuch, 2.+3. Block"
      ],
@@ -29319,7 +29446,7 @@
     },
     "20261113": {
      "datum": "Freitag, 13. November 2026",
-     "zeitstempel": "03.11.2026, 11:29",
+     "zeitstempel": "04.11.2026, 10:55",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29747,19 +29874,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ge",
-         "klasse": "10A",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10A verlegt nach Di (17.11.) St.3, Projekt ",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ge",
-         "klasse": "10A",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10A verlegt nach Di (17.11.) St.4, Projekt",
+         "geaendert": true
         },
         {
          "stunde": "3",
