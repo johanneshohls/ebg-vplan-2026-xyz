@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "04.11.2026, 13:15 Uhr",
- "last_changed": "2026-11-04T10:55:00",
+ "generiert": "04.11.2026, 13:20 Uhr",
+ "last_changed": "2026-11-04T14:19:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14924,7 +14924,7 @@
     },
     "20261104": {
      "datum": "Mittwoch, 04. November 2026",
-     "zeitstempel": "04.11.2026, 10:55",
+     "zeitstempel": "04.11.2026, 14:19",
      "tagesinfo": [
       "Kuchenbasar: Jahrgangsstufe 11"
      ],
@@ -16942,7 +16942,7 @@
     },
     "20261105": {
      "datum": "Donnerstag, 05. November 2026",
-     "zeitstempel": "04.11.2026, 10:55",
+     "zeitstempel": "04.11.2026, 14:19",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -18950,7 +18950,7 @@
     },
     "20261106": {
      "datum": "Freitag, 06. November 2026",
-     "zeitstempel": "04.11.2026, 10:55",
+     "zeitstempel": "04.11.2026, 14:19",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; Aula"
      ],
@@ -21197,7 +21197,7 @@
    "tage": {
     "20261109": {
      "datum": "Montag, 09. November 2026",
-     "zeitstempel": "04.11.2026, 10:55",
+     "zeitstempel": "04.11.2026, 14:19",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23284,7 +23284,7 @@
     },
     "20261110": {
      "datum": "Dienstag, 10. November 2026",
-     "zeitstempel": "04.11.2026, 10:55",
+     "zeitstempel": "04.11.2026, 14:19",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -25314,7 +25314,7 @@
     },
     "20261111": {
      "datum": "Mittwoch, 11. November 2026",
-     "zeitstempel": "04.11.2026, 10:55",
+     "zeitstempel": "04.11.2026, 14:19",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -26158,7 +26158,7 @@
          "fach": "EN2",
          "klasse": "12A-12D",
          "raum": "006",
-         "info": "",
+         "info": "für En Hol, Hospitation",
          "geaendert": false
         },
         {
@@ -26168,6 +26168,14 @@
          "raum": "006",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "En",
+         "klasse": "",
+         "raum": "006",
+         "info": "Gespräch",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -26810,6 +26818,22 @@
          "raum": "K12",
          "info": "für IMB Sta",
          "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "",
+         "raum": "",
+         "info": "Hospitation",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "En",
+         "klasse": "",
+         "raum": "006",
+         "info": "Gespräch",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -27352,17 +27376,17 @@
          "stunde": "7",
          "fach": "EN1",
          "klasse": "12A-12D",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für En Wag, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "EN1",
          "klasse": "12A-12D",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für En Wag, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -27382,7 +27406,7 @@
     },
     "20261112": {
      "datum": "Donnerstag, 12. November 2026",
-     "zeitstempel": "04.11.2026, 10:55",
+     "zeitstempel": "04.11.2026, 14:19",
      "tagesinfo": [
       "Jahrgang 9: BO; Gadebsuch, 2.+3. Block"
      ],
@@ -28033,7 +28057,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ma 10B Leu (für BO)",
+         "info": "Ma 10B Leu (für BO), Hospitation",
          "geaendert": true
         },
         {
@@ -28620,7 +28644,7 @@
          "fach": "Ma",
          "klasse": "10B",
          "raum": "007",
-         "info": "für BO Her",
+         "info": "für BO Her, Hospitation",
          "geaendert": true
         },
         {
@@ -28637,6 +28661,14 @@
          "klasse": "",
          "raum": "",
          "info": "Ph 9C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Gespräch, R 308; Ph 9C fällt aus",
          "geaendert": true
         },
         {
@@ -28855,11 +28887,27 @@
       "Pel": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Hospitation",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ch 9A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Gespräch, R 308; Ch 9A fällt aus",
          "geaendert": true
         },
         {
@@ -29446,7 +29494,7 @@
     },
     "20261113": {
      "datum": "Freitag, 13. November 2026",
-     "zeitstempel": "04.11.2026, 10:55",
+     "zeitstempel": "04.11.2026, 14:19",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
