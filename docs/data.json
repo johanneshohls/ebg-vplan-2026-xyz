@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "04.11.2026, 16:05 Uhr",
- "last_changed": "2026-11-04T14:19:00",
+ "generiert": "04.11.2026, 16:10 Uhr",
+ "last_changed": "2026-11-04T17:06:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16942,7 +16942,7 @@
     },
     "20261105": {
      "datum": "Donnerstag, 05. November 2026",
-     "zeitstempel": "04.11.2026, 14:19",
+     "zeitstempel": "04.11.2026, 17:06",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -17902,35 +17902,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "DE1",
-         "klasse": "11A-11E",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "DE1",
-         "klasse": "11A-11E",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Phi",
-         "klasse": "8A",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phi 8A Lan",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Phi",
-         "klasse": "8A",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phi 8A Lan",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -17938,7 +17938,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Hof1, WCs, Container",
-         "info": ""
+         "info": "entfällt, V: Rat"
         }
        ]
       },
@@ -18064,6 +18064,22 @@
          "raum": "101",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Phi",
+         "klasse": "8A",
+         "raum": "101",
+         "info": "für Phi Jur",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Phi",
+         "klasse": "8A",
+         "raum": "101",
+         "info": "für Phi Jur",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -18509,7 +18525,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof1, WCs, Container",
+         "info": "für Jur"
+        }
+       ]
       },
       "Schil": {
        "entries": [
