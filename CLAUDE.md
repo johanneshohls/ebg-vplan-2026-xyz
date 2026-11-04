@@ -75,6 +75,8 @@ Push. Jetzt gilt: Ist der State bekannt und ein Tag hat noch keinen Hash, zähle
 schon eingetragene Vertretungen als Änderung. Nur bei leerem State (Cache weg)
 werden Hashes stumm gemerkt.
 
+**planr-Push (seit 04.11.2026):** Zusätzlich zu ntfy schickt planr Web-Push-Nachrichten. Der VPS (`/opt/planr-vplan-push.sh`) beobachtet `docs/data.json` auf GitHub Pages und stößt planr bei Änderung an; planr liest dann die iCal-Datei der Lehrkraft und meldet nur Neues. Wird `data.json` umgebaut, muss das Skript die Zeitstempel-Felder (`generiert`, `last_changed`) weiter herausnehmen, sonst feuert es bei jedem Lauf.
+
 ## Offene Fragen / Blocker
 
 - ntfy-Topic: öffentlich oder privat? Sicherheitsrelevant bei sensiblen Plandaten.
