@@ -67,6 +67,14 @@ SSH-Session heraus. Danach loggte der Cron bis zum 10.09. 09:20 durchgehend
 also unabhängig vom VPS, und meldet per ntfy aufs globale Topic, wenn der letzte
 `workflow_dispatch` mehr als drei Stunden her ist.
 
+**Prüffenster (seit 04.11.2026):** `check_plan.py` prüft heute bis Freitag der
+nächsten Woche (am Wochenende: die kommende und die übernächste Woche), dasselbe
+Fenster wie die Web-App. Vorher nur 5 Werktage, und ein Tag, der neu ins Fenster
+rutschte, wurde stumm übernommen - eine Vertretung am Mi 11.11. kam so nie als
+Push. Jetzt gilt: Ist der State bekannt und ein Tag hat noch keinen Hash, zählen
+schon eingetragene Vertretungen als Änderung. Nur bei leerem State (Cache weg)
+werden Hashes stumm gemerkt.
+
 ## Offene Fragen / Blocker
 
 - ntfy-Topic: öffentlich oder privat? Sicherheitsrelevant bei sensiblen Plandaten.

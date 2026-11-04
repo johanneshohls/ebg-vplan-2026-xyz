@@ -335,6 +335,21 @@ def send_notification(topic: str, title: str, message: str, priority: str = "hig
     return False
 
 
+def plan_dates(now: datetime) -> list[str]:
+    """Werktage von heute bis Freitag der nächsten Woche (YYYYMMDD)."""
+    monday = now - timedelta(days=now.weekday())
+    if now.weekday() >= 5:  # am Wochenende zählt die kommende Woche als "diese"
+        monday += timedelta(weeks=1)
+    next_friday = monday + timedelta(days=11)
+    dates = []
+    d = now
+    while d.date() <= next_friday.date():
+        if d.weekday() < 5:
+            dates.append(d.strftime("%Y%m%d"))
+        d += timedelta(days=1)
+    return dates
+
+
 def load_state() -> dict:
     path = Path(STATE_FILE)
     if path.exists():
@@ -383,6 +398,9 @@ def main():
     log.info("NTFY_TOPIC_PREFIX=%s", NTFY_TOPIC_PREFIX)
 
     state = load_state()
+    # Gab es schon Lehrer-Hashes aus früheren Läufen? Nur dann sind "neue" Tage
+    # wirklich neu und nicht bloß ein leerer Cache.
+    state_known = any(not k.startswith("_") for k in state)
     history = load_history()
     filter_config = load_filter_config()
     log.info("Filter-Konfiguration geladen: %d Einträge", len(filter_config))
@@ -418,15 +436,10 @@ def main():
     state["_consecutive_fetch_failures"] = 0
     log.info("Server erreichbar")
 
-    # Prüfe heute + nächste 4 Werktage
-    dates = []
-    d = now
-    for _ in range(10):
-        if d.weekday() < 5:
-            dates.append(d.strftime("%Y%m%d"))
-        d += timedelta(days=1)
-        if len(dates) >= 5:
-            break
+    # Prüfe heute bis Freitag der nächsten Woche - dasselbe Fenster, das die
+    # Web-App zeigt. Vorher waren es nur 5 Werktage: Eine Vertretung am Mittwoch
+    # der Folgewoche lag außerhalb und wurde beim Hereinrutschen stumm übernommen.
+    dates = plan_dates(now)
 
     for date_str in dates:
         log.info("--- Prüfe %s ---", date_str)
@@ -469,12 +482,17 @@ def main():
             old_hash = state.get(key)
 
             if old_hash is None:
-                # Erster Durchlauf → speichern, nicht benachrichtigen
                 state[key] = data["hash"]
-                log.debug("Erster Durchlauf für %s am %s → Hash gespeichert", kurz, date_str)
-                continue
-
-            if data["hash"] == old_hash:
+                # Ganz neuer State (Cache verloren): nur Hashes merken, sonst
+                # bekäme jede Lehrkraft eine Meldung für alles, was schon im Plan steht.
+                # Bei bekanntem State heißt "kein Hash", dass der Tag gerade ins
+                # Fenster gerutscht oder neu veröffentlicht ist - dann zählen
+                # Vertretungen, die schon drinstehen, als neue Änderung.
+                if not state_known or not data["changes"]:
+                    log.debug("Erster Hash für %s am %s → gespeichert", kurz, date_str)
+                    continue
+                log.info("Neuer Tag %s für %s mit %d Änderung(en)", date_str, kurz, len(data["changes"]))
+            elif data["hash"] == old_hash:
                 continue
 
             # Hash hat sich geändert
