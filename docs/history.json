@@ -897,5 +897,456 @@
    "Std 4 (10:25): für Phi Jur"
   ],
   "zeitstempel": "04.11.2026, 17:06"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Bar",
+  "datum": "Mittwoch, 11. November 2026",
+  "date_key": "20261111",
+  "changes": [
+   "Std 1 (07:40): Hospitation"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Bom",
+  "datum": "Mittwoch, 11. November 2026",
+  "date_key": "20261111",
+  "changes": [
+   "Std 3 (09:40): für Ma Sta",
+   "Std 4 (10:25): für Ma Sta"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Fel",
+  "datum": "Mittwoch, 11. November 2026",
+  "date_key": "20261111",
+  "changes": [
+   "Std 1 (07:40): für Sk Fel, Hospitation"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Hoh",
+  "datum": "Mittwoch, 11. November 2026",
+  "date_key": "20261111",
+  "changes": [
+   "Std 5 (11:40): für Ma Sta",
+   "Std 6 (12:25): für Ma Sta"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Hol",
+  "datum": "Mittwoch, 11. November 2026",
+  "date_key": "20261111",
+  "changes": [
+   "Std 5 (11:40): für En Hol, Hospitation",
+   "Std 7 (13:40): Gespräch"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Hun",
+  "datum": "Mittwoch, 11. November 2026",
+  "date_key": "20261111",
+  "changes": [
+   "Std 3 (09:40): Ph 7A gehalten am Mo (09.11.) St.3",
+   "Std 4 (10:25): Ph 7A gehalten am Mo (09.11.) St.4"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Leu",
+  "datum": "Mittwoch, 11. November 2026",
+  "date_key": "20261111",
+  "changes": [
+   "Std 1 (07:40): Ma 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 2 (08:25): Ma 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 3 (09:40): Ma 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): Ma 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 7 (13:40): GS10 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS10 7A-7D,8A-8E fällt aus"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Pel",
+  "datum": "Mittwoch, 11. November 2026",
+  "date_key": "20261111",
+  "changes": [
+   "Std 1 (07:40): für IMB Sta",
+   "Std 2 (08:25): für IMB Sta",
+   "Std 5 (11:40): Hospitation",
+   "Std 7 (13:40): Gespräch"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Schil",
+  "datum": "Mittwoch, 11. November 2026",
+  "date_key": "20261111",
+  "changes": [
+   "Std 3 (09:40): Geo 7A statt Mo (09.11.) St.3",
+   "Std 4 (10:25): Geo 7A statt Mo (09.11.) St.4"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Sta",
+  "datum": "Mittwoch, 11. November 2026",
+  "date_key": "20261111",
+  "changes": [
+   "Std 1 (07:40): Ch 9C Pel (für IMB)",
+   "Std 2 (08:25): Ch 9C Pel (für IMB)",
+   "Std 3 (09:40): Ma 7D Bom",
+   "Std 4 (10:25): Ma 7D Bom",
+   "Std 5 (11:40): Ma 8B Hoh",
+   "Std 6 (12:25): Ma 8B Hoh"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Wag",
+  "datum": "Mittwoch, 11. November 2026",
+  "date_key": "20261111",
+  "changes": [
+   "Std 7 (13:40): für En Wag, Raumänderung",
+   "Std 8 (14:25): für En Wag, Raumänderung"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Bar",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 3 (09:40): Sk geändert"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Bod",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 3 (09:40): SpJu 9C,9D fällt aus",
+   "Std 4 (10:25): SpJu 9C,9D fällt aus",
+   "Std 5 (11:40): für Sp Her",
+   "Std 6 (12:25): für Sp Her"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Fel",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 3 (09:40): Sk geändert"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Hei",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 1 (07:40): für Geo Hei, Klausur",
+   "Std 2 (08:25): für Geo Hei, Klausur",
+   "Std 3 (09:40): Geo 9A fällt aus",
+   "Std 4 (10:25): Geo 9A fällt aus"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Her",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 3 (09:40): Ma 10B Leu (für BO), Hospitation",
+   "Std 4 (10:25): Ma 10B Leu (für BO)",
+   "Std 5 (11:40): Sp 11D,11A-11C,11E Bod",
+   "Std 6 (12:25): Sp 11D,11A-11C,11E Bod"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Hoh",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 1 (07:40): ILZ 10d",
+   "Std 2 (08:25): ILZ 10d"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Leu",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 3 (09:40): für BO Her, Hospitation",
+   "Std 4 (10:25): für BO Her",
+   "Std 5 (11:40): Ph 9C fällt aus",
+   "Std 5 (11:40): Gespräch, R 308; Ph 9C fällt aus",
+   "Std 6 (12:25): Ph 9C fällt aus"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Mue",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 3 (09:40): SpMä 9C,9D fällt aus",
+   "Std 4 (10:25): SpMä 9C,9D fällt aus"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "OLop",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 5 (11:40): Span 9B fällt aus",
+   "Std 6 (12:25): Span 9B fällt aus"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Ost",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 3 (09:40): Bio 9B fällt aus",
+   "Std 4 (10:25): Bio 9B fällt aus",
+   "Std 5 (11:40): für Bio Ost, Klausur",
+   "Std 6 (12:25): für Bio Ost, Klausur"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Pel",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 3 (09:40): Hospitation",
+   "Std 5 (11:40): Ch 9A fällt aus",
+   "Std 5 (11:40): Gespräch, R 308; Ch 9A fällt aus",
+   "Std 6 (12:25): Ch 9A fällt aus"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Puk",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 1 (07:40): Geo 10D gehalten am Di (10.11.) St.7",
+   "Std 1 (07:40): ILZ 10D statt Di (10.11.) St.7; Geo 10D gehalten am Di (10.11.) St.7",
+   "Std 2 (08:25): Geo 10D gehalten am Di (10.11.) St.8",
+   "Std 2 (08:25): ILZ 10D statt Di (10.11.) St.8; Geo 10D gehalten am Di (10.11.) St.8",
+   "Std 5 (11:40): Span 9D fällt aus",
+   "Std 6 (12:25): Span 9D fällt aus"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Ter",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 3 (09:40): für Bio Ter, Klausur",
+   "Std 4 (10:25): für Bio Ter, Klausur"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Bar",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 7 (13:40): Inf 12A-12D Kar, s. IServ: Aufgaben durch FL erteilt",
+   "Std 8 (14:25): Inf 12A-12D Kar, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Bir",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 1 (07:40): Mu 9A verlegt nach St.5, Klassenkonzert",
+   "Std 2 (08:25): Mu 9A verlegt nach St.6",
+   "Std 5 (11:40): Mu 9A verlegt von St.1, Klassenkonzert",
+   "Std 6 (12:25): Mu 9A verlegt von St.2"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Bod",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 7 (13:40): für Sk Bod, Klausur; Aula",
+   "Std 8 (14:25): für Sk Bod, Klausur; Aula"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Gol",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 1 (07:40): Ge 10A verlegt nach Di (17.11.) St.3, Projekt",
+   "Std 2 (08:25): Ge 10A verlegt nach Di (17.11.) St.4, Projekt"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Gor",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 1 (07:40): Ge 9A verlegt von St.5",
+   "Std 2 (08:25): Ge 9A verlegt von St.6",
+   "Std 5 (11:40): Ge 9A verlegt nach St.1",
+   "Std 6 (12:25): Ge 9A verlegt nach St.2",
+   "Std 6 (12:25): Auswertung Hospitation; Hr. Schulz; Ge 9A verlegt nach St.2 (Isb)"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Isb",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 1 (07:40): Ge 9A verlegt von St.5",
+   "Std 2 (08:25): Ge 9A verlegt von St.6",
+   "Std 5 (11:40): Ge 9A verlegt nach St.1",
+   "Std 5 (11:40): Ge 7A statt Mo (09.11.) St.5, Hospitation, Hr. Schulz; Ge 9A verlegt nach St.1",
+   "Std 6 (12:25): Ge 9A verlegt nach St.2",
+   "Std 6 (12:25): Auswertung Hospitation; Hr. Schulz; Ge 9A verlegt nach St.2 (Isb)"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Jur",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 5 (11:40): für Phi Jur, Raumänderung",
+   "Std 6 (12:25): für Phi Jur, Raumänderung"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Kar",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 1 (07:40): B VK fällt aus",
+   "Std 2 (08:25): B VK fällt aus",
+   "Std 7 (13:40): für Inf Bar, s. IServ: Aufgaben durch FL erteilt",
+   "Std 8 (14:25): für Inf Bar, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Ost",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 5 (11:40): für De Ost, begleiteter Unterricht: L. Zech"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Puk",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 3 (09:40): für Span Puk, begleiteter Unterricht: A. Stolzenberg"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Schud",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 7 (13:40): für Ku Schud, Klausur",
+   "Std 8 (14:25): für Ku Schud, Klausur"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Sta",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 5 (11:40): Ma 7A gehalten am Mo (09.11.) St.5",
+   "Std 6 (12:25): Ma 7A gehalten am Mo (09.11.) St.6"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Sto",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 3 (09:40): begleiteter Unterricht: Span 9c, R 102",
+   "Std 4 (10:25): begleiteter Unterricht: Span 9c, R 102",
+   "Std 6 (12:25): statt Mo (09.11.) St.6 (Ge Isb), Aufgaben liegen vor."
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
+ },
+ {
+  "timestamp": "2026-11-04T16:45:53.685749",
+  "lehrer": "Zec",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 5 (11:40): begleiteter Unterricht: D 8a",
+   "Std 6 (12:25): begleiteter Unterricht: D 8a"
+  ],
+  "zeitstempel": "04.11.2026, 14:19"
  }
 ]
