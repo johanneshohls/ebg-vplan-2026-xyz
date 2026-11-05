@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "05.11.2026, 11:40 Uhr",
- "last_changed": "2026-11-05T12:39:00",
+ "generiert": "05.11.2026, 11:45 Uhr",
+ "last_changed": "2026-11-05T12:44:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -29566,7 +29566,7 @@
     },
     "20261113": {
      "datum": "Freitag, 13. November 2026",
-     "zeitstempel": "04.11.2026, 14:19",
+     "zeitstempel": "05.11.2026, 12:44",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29649,17 +29649,17 @@
          "stunde": "3",
          "fach": "Mu",
          "klasse": "9B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Mu Bir, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Mu",
          "klasse": "9B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Mu Bir, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "5",
