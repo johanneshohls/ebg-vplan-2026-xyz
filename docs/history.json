@@ -1,29 +1,5 @@
 [
  {
-  "timestamp": "2026-10-29T07:45:10.009091",
-  "lehrer": "Hoh",
-  "datum": "Dienstag, 03. November 2026",
-  "date_key": "20261103",
-  "changes": [
-   "Std 5 (11:40): KILZ 10a; Co1",
-   "Std 6 (12:25): KILZ 10a; Co1"
-  ],
-  "zeitstempel": "29.10.2026, 08:43"
- },
- {
-  "timestamp": "2026-10-29T07:45:10.009091",
-  "lehrer": "Wag",
-  "datum": "Dienstag, 03. November 2026",
-  "date_key": "20261103",
-  "changes": [
-   "Std 5 (11:40): En 10A verlegt nach Fr (06.11.) St.7",
-   "Std 5 (11:40): KILZ 10A statt Fr (06.11.) St.7; En 10A verlegt nach Fr (06.11.) St.7",
-   "Std 6 (12:25): En 10A verlegt nach Fr (06.11.) St.8",
-   "Std 6 (12:25): KILZ 10A statt Fr (06.11.) St.8; En 10A verlegt nach Fr (06.11.) St.8"
-  ],
-  "zeitstempel": "29.10.2026, 08:43"
- },
- {
   "timestamp": "2026-10-29T14:40:12.618657",
   "lehrer": "Her",
   "datum": "Freitag, 30. Oktober 2026",
