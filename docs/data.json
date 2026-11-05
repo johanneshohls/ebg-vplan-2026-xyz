@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "05.11.2026, 05:35 Uhr",
- "last_changed": "2026-11-04T17:06:00",
+ "generiert": "05.11.2026, 05:40 Uhr",
+ "last_changed": "2026-11-05T06:40:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -16942,7 +16942,7 @@
     },
     "20261105": {
      "datum": "Donnerstag, 05. November 2026",
-     "zeitstempel": "04.11.2026, 17:06",
+     "zeitstempel": "05.11.2026, 06:40",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -18538,51 +18538,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "DE2",
-         "klasse": "12A-12D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "DE2",
-         "klasse": "12A-12D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "DE2",
-         "klasse": "11A-11E",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "DE2",
-         "klasse": "11A-11E",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "thea2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Thea 11D,11A-11C,11E selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "thea2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Thea 11D,11A-11C,11E selbst. (v), Selbststudium",
+         "geaendert": true
         }
        ],
        "aufsichten": []
