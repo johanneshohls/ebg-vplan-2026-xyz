@@ -1360,5 +1360,26 @@
    "Planänderung (Details nicht spezifiziert)"
   ],
   "zeitstempel": "05.11.2026, 11:33"
+ },
+ {
+  "timestamp": "2026-11-05T11:40:15.591495",
+  "lehrer": "Käc",
+  "datum": "Donnerstag, 05. November 2026",
+  "date_key": "20261105",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "05.11.2026, 12:39"
+ },
+ {
+  "timestamp": "2026-11-05T11:40:15.591495",
+  "lehrer": "See",
+  "datum": "Donnerstag, 05. November 2026",
+  "date_key": "20261105",
+  "changes": [
+   "Std 7 (13:40): Bio 10A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 8 (14:25): Bio 10A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "05.11.2026, 12:39"
  }
 ]
