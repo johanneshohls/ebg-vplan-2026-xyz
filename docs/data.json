@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "05.11.2026, 10:30 Uhr",
- "last_changed": "2026-11-05T06:40:00",
+ "generiert": "05.11.2026, 10:35 Uhr",
+ "last_changed": "2026-11-05T11:33:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -18973,7 +18973,7 @@
     },
     "20261106": {
      "datum": "Freitag, 06. November 2026",
-     "zeitstempel": "04.11.2026, 14:19",
+     "zeitstempel": "05.11.2026, 11:33",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; Aula"
      ],
@@ -19961,6 +19961,22 @@
          "geaendert": false
         },
         {
+         "stunde": "7",
+         "fach": "BFö",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "zentraler Nachreibeterrmin",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "BFö",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "zentraler Nachreibeterrmin",
+         "geaendert": true
+        },
+        {
          "stunde": "9",
          "fach": "KL",
          "klasse": "7A",
@@ -20075,6 +20091,22 @@
       },
       "Käc": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "Ph",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "Ph",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "",
+         "geaendert": false
+        },
         {
          "stunde": "5",
          "fach": "Ma",
