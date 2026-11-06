@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "06.11.2026, 11:45 Uhr",
- "last_changed": "2026-11-05T12:44:00",
+ "generiert": "06.11.2026, 11:50 Uhr",
+ "last_changed": "2026-11-06T12:49:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21269,7 +21269,7 @@
    "tage": {
     "20261109": {
      "datum": "Montag, 09. November 2026",
-     "zeitstempel": "04.11.2026, 14:19",
+     "zeitstempel": "06.11.2026, 12:49",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -22217,7 +22217,24 @@
        "aufsichten": []
       },
       "Käc": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "Ph",
+         "klasse": "7C",
+         "raum": "205",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "Ph",
+         "klasse": "7C",
+         "raum": "205",
+         "info": "",
+         "geaendert": false
+        }
+       ],
        "aufsichten": []
       },
       "Kar": {
@@ -22592,19 +22609,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
-         "klasse": "9C",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9C verlegt nach Di (10.11.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
-         "klasse": "9C",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 9C verlegt nach Di (10.11.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -22703,6 +22720,22 @@
       },
       "Pel": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Bio",
+         "klasse": "9C",
+         "raum": "007",
+         "info": "Bio 9C statt Di (10.11.) St.3",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Bio",
+         "klasse": "9C",
+         "raum": "007",
+         "info": "Bio 9C statt Di (10.11.) St.4",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "Ch",
@@ -23356,7 +23389,7 @@
     },
     "20261110": {
      "datum": "Dienstag, 10. November 2026",
-     "zeitstempel": "04.11.2026, 14:19",
+     "zeitstempel": "06.11.2026, 12:49",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -24336,7 +24369,24 @@
        ]
       },
       "Käc": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "Ph",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "Ph",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "",
+         "geaendert": false
+        }
+       ],
        "aufsichten": []
       },
       "Kar": {
@@ -24739,6 +24789,22 @@
          "raum": "007",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Span",
+         "klasse": "9C",
+         "raum": "207",
+         "info": "Span 9C statt Mo (09.11.) St.1",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Span",
+         "klasse": "9C",
+         "raum": "207",
+         "info": "Span 9C statt Mo (09.11.) St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -24800,18 +24866,18 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Bio",
-         "klasse": "9C",
-         "raum": "205",
-         "info": "für Ch Pel",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9C gehalten am Mo (09.11.) St.1",
          "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Bio",
-         "klasse": "9C",
-         "raum": "205",
-         "info": "für Ch Pel",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9C gehalten am Mo (09.11.) St.2",
          "geaendert": true
         },
         {
@@ -25145,20 +25211,36 @@
          "geaendert": false
         },
         {
-         "stunde": "5",
+         "stunde": "3",
          "fach": "Geo",
          "klasse": "9C",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "205",
+         "info": "Geo 9C verlegt von St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Geo",
+         "klasse": "9C",
+         "raum": "205",
+         "info": "Geo 9C verlegt von St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 9C verlegt nach St.3",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Geo",
-         "klasse": "9C",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 9C verlegt nach St.4",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -25386,7 +25468,7 @@
     },
     "20261111": {
      "datum": "Mittwoch, 11. November 2026",
-     "zeitstempel": "04.11.2026, 14:19",
+     "zeitstempel": "06.11.2026, 12:49",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -27478,7 +27560,7 @@
     },
     "20261112": {
      "datum": "Donnerstag, 12. November 2026",
-     "zeitstempel": "04.11.2026, 14:19",
+     "zeitstempel": "06.11.2026, 12:49",
      "tagesinfo": [
       "Jahrgang 9: BO; Gadebsuch, 2.+3. Block"
      ],
@@ -28520,6 +28602,22 @@
       },
       "Käc": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "Ph",
+         "klasse": "10C",
+         "raum": "207",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "Ph",
+         "klasse": "10C",
+         "raum": "207",
+         "info": "",
+         "geaendert": false
+        },
         {
          "stunde": "5",
          "fach": "Ma",
@@ -29566,8 +29664,10 @@
     },
     "20261113": {
      "datum": "Freitag, 13. November 2026",
-     "zeitstempel": "05.11.2026, 12:44",
-     "tagesinfo": [],
+     "zeitstempel": "06.11.2026, 12:49",
+     "tagesinfo": [
+      "4. Block: zentraler Nachschreibetermin; R 205"
+     ],
      "lehrer": {
       "Bar": {
        "entries": [
@@ -30295,6 +30395,22 @@
          "raum": "Co2",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "En",
+         "klasse": "",
+         "raum": "205",
+         "info": "zentraler Nachreibeterrmin",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "En",
+         "klasse": "",
+         "raum": "205",
+         "info": "zentraler Nachreibeterrmin",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -31042,6 +31158,22 @@
          "raum": "201",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "En",
+         "klasse": "",
+         "raum": "205",
+         "info": "zentraler Nachreibeterrmin",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "En",
+         "klasse": "",
+         "raum": "205",
+         "info": "zentraler Nachreibeterrmin",
+         "geaendert": true
         }
        ],
        "aufsichten": []
