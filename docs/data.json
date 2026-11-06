@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "06.11.2026, 16:45 Uhr",
- "last_changed": "2026-11-06T12:49:00",
+ "generiert": "06.11.2026, 16:50 Uhr",
+ "last_changed": "2026-11-06T17:50:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -29664,7 +29664,7 @@
     },
     "20261113": {
      "datum": "Freitag, 13. November 2026",
-     "zeitstempel": "06.11.2026, 12:49",
+     "zeitstempel": "06.11.2026, 17:50",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; R 205"
      ],
@@ -29694,35 +29694,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ma",
-         "klasse": "10D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10D Con, Aufgaben liegen vor.",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ma",
-         "klasse": "10D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10D Con, Aufgaben liegen vor.",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Ma",
-         "klasse": "10C",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10C Bri, Aufgaben liegen vor.",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ma",
-         "klasse": "10C",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10C Bri, Aufgaben liegen vor.",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -29939,12 +29939,44 @@
          "raum": "101",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "10C",
+         "raum": "103",
+         "info": "für Ma Bes, Aufgaben liegen vor.",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "10C",
+         "raum": "103",
+         "info": "für Ma Bes, Aufgaben liegen vor.",
+         "geaendert": true
         }
        ],
        "aufsichten": []
       },
       "Con": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Ma",
+         "klasse": "10D",
+         "raum": "005",
+         "info": "für Ma Bes, Aufgaben liegen vor.",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ma",
+         "klasse": "10D",
+         "raum": "005",
+         "info": "für Ma Bes, Aufgaben liegen vor.",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "inf2",
