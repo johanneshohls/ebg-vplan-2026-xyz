@@ -1,29 +1,5 @@
 [
  {
-  "timestamp": "2026-11-02T12:45:14.202405",
-  "lehrer": "Bob",
-  "datum": "Mittwoch, 04. November 2026",
-  "date_key": "20261104",
-  "changes": [
-   "Std 3 (09:40): für Ch Bob, Raumänderung",
-   "Std 4 (10:25): für Ch Bob, Raumänderung"
-  ],
-  "zeitstempel": "02.11.2026, 13:43"
- },
- {
-  "timestamp": "2026-11-02T12:45:14.202405",
-  "lehrer": "Kno",
-  "datum": "Mittwoch, 04. November 2026",
-  "date_key": "20261104",
-  "changes": [
-   "Std 1 (07:40): für En Mar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
-   "Std 2 (08:25): für En Mar, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
-   "Std 3 (09:40): für Ch Kno, Raumänderung",
-   "Std 4 (10:25): für Ch Kno, Raumänderung"
-  ],
-  "zeitstempel": "02.11.2026, 13:43"
- },
- {
   "timestamp": "2026-11-02T17:55:13.727589",
   "lehrer": "Bri",
   "datum": "Dienstag, 03. November 2026",
