@@ -1735,5 +1735,18 @@
    "Std 6 (12:25): begleiteter Unterricht: D 8a"
   ],
   "zeitstempel": "06.11.2026, 15:49"
+ },
+ {
+  "timestamp": "2026-11-09T10:20:10.537130",
+  "lehrer": "Wag",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 1 (07:40): ILZ 10A verlegt von St.7",
+   "Std 2 (08:25): ILZ 10A verlegt von St.8",
+   "Std 7 (13:40): ILZ 10A verlegt nach St.1",
+   "Std 8 (14:25): ILZ 10A verlegt nach St.2"
+  ],
+  "zeitstempel": "09.11.2026, 11:17"
  }
 ]

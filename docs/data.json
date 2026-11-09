@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "09.11.2026, 10:15 Uhr",
- "last_changed": "2026-11-06T17:50:00",
+ "generiert": "09.11.2026, 10:20 Uhr",
+ "last_changed": "2026-11-09T11:17:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10746,7 +10746,7 @@
    "tage": {
     "20261109": {
      "datum": "Montag, 09. November 2026",
-     "zeitstempel": "06.11.2026, 12:49",
+     "zeitstempel": "09.11.2026, 11:17",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -12866,7 +12866,7 @@
     },
     "20261110": {
      "datum": "Dienstag, 10. November 2026",
-     "zeitstempel": "06.11.2026, 12:49",
+     "zeitstempel": "09.11.2026, 11:17",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -14945,7 +14945,7 @@
     },
     "20261111": {
      "datum": "Mittwoch, 11. November 2026",
-     "zeitstempel": "06.11.2026, 12:49",
+     "zeitstempel": "09.11.2026, 11:17",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -17037,7 +17037,7 @@
     },
     "20261112": {
      "datum": "Donnerstag, 12. November 2026",
-     "zeitstempel": "06.11.2026, 12:49",
+     "zeitstempel": "09.11.2026, 11:17",
      "tagesinfo": [
       "Jahrgang 9: BO; Gadebsuch, 2.+3. Block"
      ],
@@ -19141,7 +19141,7 @@
     },
     "20261113": {
      "datum": "Freitag, 13. November 2026",
-     "zeitstempel": "06.11.2026, 17:50",
+     "zeitstempel": "09.11.2026, 11:17",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; R 205"
      ],
@@ -21091,6 +21091,22 @@
       "Wag": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "ILZ",
+         "klasse": "10A",
+         "raum": "K07",
+         "info": "ILZ 10A verlegt von St.7",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "ILZ",
+         "klasse": "10A",
+         "raum": "K07",
+         "info": "ILZ 10A verlegt von St.8",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Fr",
          "klasse": "10A",
@@ -21108,19 +21124,19 @@
         },
         {
          "stunde": "7",
-         "fach": "ILZ",
-         "klasse": "10A",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10A verlegt nach St.1",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ILZ",
-         "klasse": "10A",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10A verlegt nach St.2",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -21157,7 +21173,7 @@
    "tage": {
     "20261116": {
      "datum": "Montag, 16. November 2026",
-     "zeitstempel": "06.11.2026, 12:49",
+     "zeitstempel": "09.11.2026, 11:17",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23258,7 +23274,7 @@
     },
     "20261117": {
      "datum": "Dienstag, 17. November 2026",
-     "zeitstempel": "06.11.2026, 12:49",
+     "zeitstempel": "09.11.2026, 11:17",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -25433,7 +25449,7 @@
     },
     "20261118": {
      "datum": "Mittwoch, 18. November 2026",
-     "zeitstempel": "06.11.2026, 12:49",
+     "zeitstempel": "09.11.2026, 11:17",
      "tagesinfo": [
       "8c: Kuchenbasar in der 1.+2. Pause"
      ],
@@ -27414,7 +27430,7 @@
     },
     "20261119": {
      "datum": "Donnerstag, 19. November 2026",
-     "zeitstempel": "06.11.2026, 12:49",
+     "zeitstempel": "09.11.2026, 11:17",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29467,7 +29483,7 @@
     },
     "20261120": {
      "datum": "Freitag, 20. November 2026",
-     "zeitstempel": "06.11.2026, 15:49",
+     "zeitstempel": "09.11.2026, 11:17",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, R 105"
      ],
