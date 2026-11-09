@@ -1707,5 +1707,39 @@
    "Std 8 (14:25): Sk 9A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
   ],
   "zeitstempel": "09.11.2026, 17:31"
+ },
+ {
+  "timestamp": "2026-11-09T17:05:11.356648",
+  "lehrer": "*",
+  "datum": "Dienstag, 17. November 2026",
+  "date_key": "20261117",
+  "changes": [
+   "Hinweis: 4. Block: Aula; gemeinsames Treffen/Proben zum Weihnachtskonzert;  Mue11 (beide Kurse), Mue12 (beide Kurse) sowie Club 8 mit Frau Birzina"
+  ],
+  "zeitstempel": "09.11.2026, 18:03"
+ },
+ {
+  "timestamp": "2026-11-09T17:05:11.356648",
+  "lehrer": "Bir",
+  "datum": "Dienstag, 17. November 2026",
+  "date_key": "20261117",
+  "changes": [
+   "Std 3 (09:40): für Mu Bir, Klassenkonzert",
+   "Std 4 (10:25): für Mu Bir, Klassenkonzert",
+   "Std 7 (13:40): für Club8 Bir, zusammen mit Mue 11 und Mue 12",
+   "Std 8 (14:25): für Club8 Bir, zusammen mit Mue 11 und Mue 12"
+  ],
+  "zeitstempel": "09.11.2026, 18:03"
+ },
+ {
+  "timestamp": "2026-11-09T17:05:11.356648",
+  "lehrer": "Kar",
+  "datum": "Dienstag, 17. November 2026",
+  "date_key": "20261117",
+  "changes": [
+   "Std 7 (13:40): für Club4 Kar, Raumänderung",
+   "Std 8 (14:25): für Club4 Kar, Raumänderung"
+  ],
+  "zeitstempel": "09.11.2026, 18:03"
  }
 ]

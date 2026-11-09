@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "09.11.2026, 17:00 Uhr",
- "last_changed": "2026-11-09T17:31:00",
+ "generiert": "09.11.2026, 17:05 Uhr",
+ "last_changed": "2026-11-09T18:03:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10746,7 +10746,7 @@
    "tage": {
     "20261109": {
      "datum": "Montag, 09. November 2026",
-     "zeitstempel": "09.11.2026, 12:27",
+     "zeitstempel": "09.11.2026, 18:03",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -12866,7 +12866,7 @@
     },
     "20261110": {
      "datum": "Dienstag, 10. November 2026",
-     "zeitstempel": "09.11.2026, 12:27",
+     "zeitstempel": "09.11.2026, 18:03",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -14945,7 +14945,7 @@
     },
     "20261111": {
      "datum": "Mittwoch, 11. November 2026",
-     "zeitstempel": "09.11.2026, 17:31",
+     "zeitstempel": "09.11.2026, 18:03",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -17085,7 +17085,7 @@
     },
     "20261112": {
      "datum": "Donnerstag, 12. November 2026",
-     "zeitstempel": "09.11.2026, 12:27",
+     "zeitstempel": "09.11.2026, 18:03",
      "tagesinfo": [
       "Jahrgang 9: BO; Gadebsuch, 2.+3. Block"
      ],
@@ -19189,7 +19189,7 @@
     },
     "20261113": {
      "datum": "Freitag, 13. November 2026",
-     "zeitstempel": "09.11.2026, 12:27",
+     "zeitstempel": "09.11.2026, 18:03",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; R 205"
      ],
@@ -21221,7 +21221,7 @@
    "tage": {
     "20261116": {
      "datum": "Montag, 16. November 2026",
-     "zeitstempel": "09.11.2026, 12:27",
+     "zeitstempel": "09.11.2026, 18:03",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23322,8 +23322,10 @@
     },
     "20261117": {
      "datum": "Dienstag, 17. November 2026",
-     "zeitstempel": "09.11.2026, 12:27",
-     "tagesinfo": [],
+     "zeitstempel": "09.11.2026, 18:03",
+     "tagesinfo": [
+      "4. Block: Aula; gemeinsames Treffen/Proben zum Weihnachtskonzert;  Mue11 (beide Kurse), Mue12 (beide Kurse) sowie Club 8 mit Frau Birzina"
+     ],
      "lehrer": {
       "Bar": {
        "entries": [
@@ -23445,17 +23447,17 @@
          "stunde": "7",
          "fach": "Club8",
          "klasse": "10A-10D,9A-9D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Club8 Bir, zusammen mit Mue 11 und Mue 12",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "Club8",
          "klasse": "10A-10D,9A-9D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Club8 Bir, zusammen mit Mue 11 und Mue 12",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -24447,17 +24449,17 @@
          "stunde": "7",
          "fach": "Club4",
          "klasse": "10A-10D,9A-9D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "für Club4 Kar, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "Club4",
          "klasse": "10A-10D,9A-9D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "107",
+         "info": "für Club4 Kar, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -25497,7 +25499,7 @@
     },
     "20261118": {
      "datum": "Mittwoch, 18. November 2026",
-     "zeitstempel": "09.11.2026, 12:27",
+     "zeitstempel": "09.11.2026, 18:03",
      "tagesinfo": [
       "8c: Kuchenbasar in der 1.+2. Pause"
      ],
@@ -27478,7 +27480,7 @@
     },
     "20261119": {
      "datum": "Donnerstag, 19. November 2026",
-     "zeitstempel": "09.11.2026, 12:27",
+     "zeitstempel": "09.11.2026, 18:03",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29531,7 +29533,7 @@
     },
     "20261120": {
      "datum": "Freitag, 20. November 2026",
-     "zeitstempel": "09.11.2026, 12:27",
+     "zeitstempel": "09.11.2026, 18:03",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, R 105"
      ],
