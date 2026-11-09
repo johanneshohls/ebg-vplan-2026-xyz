@@ -1,16 +1,5 @@
 [
  {
-  "timestamp": "2026-11-02T08:20:20.435481",
-  "lehrer": "Leu",
-  "datum": "Freitag, 06. November 2026",
-  "date_key": "20261106",
-  "changes": [
-   "Std 5 (11:40): für Ma Leu, Raumänderung",
-   "Std 6 (12:25): für Ma Leu, Raumänderung"
-  ],
-  "zeitstempel": "02.11.2026, 09:16"
- },
- {
   "timestamp": "2026-11-02T10:40:10.304275",
   "lehrer": "Bom",
   "datum": "Dienstag, 03. November 2026",
