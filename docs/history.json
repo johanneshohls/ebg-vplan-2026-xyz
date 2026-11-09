@@ -1655,5 +1655,57 @@
    "Std 8 (14:25): ILZ 10A verlegt nach St.2"
   ],
   "zeitstempel": "09.11.2026, 11:17"
+ },
+ {
+  "timestamp": "2026-11-09T16:35:11.283754",
+  "lehrer": "Bes",
+  "datum": "Mittwoch, 11. November 2026",
+  "date_key": "20261111",
+  "changes": [
+   "Std 1 (07:40): für Ge Lie, s. IServ: Aufgaben durch FL erteilt",
+   "Std 2 (08:25): für Ge Lie, s. IServ: Aufgaben durch FL erteilt",
+   "Std 7 (13:40): GS07 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS07 7A-7D,8A-8E fällt aus"
+  ],
+  "zeitstempel": "09.11.2026, 17:31"
+ },
+ {
+  "timestamp": "2026-11-09T16:35:11.283754",
+  "lehrer": "Bod",
+  "datum": "Mittwoch, 11. November 2026",
+  "date_key": "20261111",
+  "changes": [
+   "Std 5 (11:40): für Sk Lie, s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): für Sk Lie, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "09.11.2026, 17:31"
+ },
+ {
+  "timestamp": "2026-11-09T16:35:11.283754",
+  "lehrer": "Gor",
+  "datum": "Mittwoch, 11. November 2026",
+  "date_key": "20261111",
+  "changes": [
+   "Std 3 (09:40): für Sk Lie, s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): für Sk Lie, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "09.11.2026, 17:31"
+ },
+ {
+  "timestamp": "2026-11-09T16:35:11.283754",
+  "lehrer": "Lie",
+  "datum": "Mittwoch, 11. November 2026",
+  "date_key": "20261111",
+  "changes": [
+   "Std 1 (07:40): Ge 7D Bes, s. IServ: Aufgaben durch FL erteilt",
+   "Std 2 (08:25): Ge 7D Bes, s. IServ: Aufgaben durch FL erteilt",
+   "Std 3 (09:40): Sk 8B Gor, s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): Sk 8B Gor, s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): Sk 7D Bod, s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): Sk 7D Bod, s. IServ: Aufgaben durch FL erteilt",
+   "Std 7 (13:40): Sk 9A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 8 (14:25): Sk 9A selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "09.11.2026, 17:31"
  }
 ]
