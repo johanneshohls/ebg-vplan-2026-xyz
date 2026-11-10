@@ -1658,5 +1658,16 @@
    "Planänderung (Details nicht spezifiziert)"
   ],
   "zeitstempel": "10.11.2026, 10:34"
+ },
+ {
+  "timestamp": "2026-11-10T10:10:16.535419",
+  "lehrer": "Con",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 7 (13:40): für IMB Con, Klausur",
+   "Std 8 (14:25): für IMB Con, Klausur"
+  ],
+  "zeitstempel": "10.11.2026, 11:07"
  }
 ]

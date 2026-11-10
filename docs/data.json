@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "10.11.2026, 10:05 Uhr",
- "last_changed": "2026-11-10T10:34:00",
+ "generiert": "10.11.2026, 10:10 Uhr",
+ "last_changed": "2026-11-10T11:07:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -17085,7 +17085,7 @@
     },
     "20261112": {
      "datum": "Donnerstag, 12. November 2026",
-     "zeitstempel": "09.11.2026, 18:03",
+     "zeitstempel": "10.11.2026, 11:07",
      "tagesinfo": [
       "Jahrgang 9: BO; Gadebsuch, 2.+3. Block"
      ],
@@ -17461,17 +17461,17 @@
          "stunde": "7",
          "fach": "IMB",
          "klasse": "10C",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für IMB Con, Klausur",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "IMB",
          "klasse": "10C",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für IMB Con, Klausur",
+         "geaendert": true
         }
        ],
        "aufsichten": [
