@@ -1637,5 +1637,26 @@
    "Std 8 (14:25): für Club4 Kar, Raumänderung"
   ],
   "zeitstempel": "09.11.2026, 18:03"
+ },
+ {
+  "timestamp": "2026-11-10T09:35:11.010294",
+  "lehrer": "Bar",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 7 (13:40): Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 8 (14:25): Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "10.11.2026, 10:34"
+ },
+ {
+  "timestamp": "2026-11-10T09:35:11.010294",
+  "lehrer": "Kar",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "10.11.2026, 10:34"
  }
 ]

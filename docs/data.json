@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "10.11.2026, 09:30 Uhr",
- "last_changed": "2026-11-09T18:03:00",
+ "generiert": "10.11.2026, 09:35 Uhr",
+ "last_changed": "2026-11-10T10:34:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -19189,7 +19189,7 @@
     },
     "20261113": {
      "datum": "Freitag, 13. November 2026",
-     "zeitstempel": "09.11.2026, 18:03",
+     "zeitstempel": "10.11.2026, 10:34",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; R 205"
      ],
@@ -19201,7 +19201,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Inf 12A-12D Kar, s. IServ: Aufgaben durch FL erteilt",
+         "info": "Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
          "geaendert": true
         },
         {
@@ -19209,7 +19209,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Inf 12A-12D Kar, s. IServ: Aufgaben durch FL erteilt",
+         "info": "Inf 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
          "geaendert": true
         }
        ],
@@ -20204,19 +20204,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "---",
-         "klasse": "",
+         "fach": "B",
+         "klasse": "VK",
          "raum": "",
-         "info": "B VK fällt aus",
-         "geaendert": true
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "2",
-         "fach": "---",
-         "klasse": "",
+         "fach": "B",
+         "klasse": "VK",
          "raum": "",
-         "info": "B VK fällt aus",
-         "geaendert": true
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "3",
@@ -20249,22 +20249,6 @@
          "raum": "107",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "inf1",
-         "klasse": "12A-12D",
-         "raum": "K10",
-         "info": "für Inf Bar, s. IServ: Aufgaben durch FL erteilt",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "inf1",
-         "klasse": "12A-12D",
-         "raum": "K10",
-         "info": "für Inf Bar, s. IServ: Aufgaben durch FL erteilt",
-         "geaendert": true
         }
        ],
        "aufsichten": []
