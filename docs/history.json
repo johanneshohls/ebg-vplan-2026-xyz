@@ -1,30 +1,5 @@
 [
  {
-  "timestamp": "2026-11-03T10:30:10.950721",
-  "lehrer": "Bir",
-  "datum": "Freitag, 06. November 2026",
-  "date_key": "20261106",
-  "changes": [
-   "Std 1 (07:40): B VK fällt aus",
-   "Std 1 (07:40): Beratung; B VK fällt aus",
-   "Std 2 (08:25): B VK fällt aus",
-   "Std 2 (08:25): Beratung; B VK fällt aus",
-   "Std 7 (13:40): zentraler Nachreibeterrmin",
-   "Std 8 (14:25): zentraler Nachreibeterrmin"
-  ],
-  "zeitstempel": "03.11.2026, 11:29"
- },
- {
-  "timestamp": "2026-11-03T10:30:10.950721",
-  "lehrer": "Hei",
-  "datum": "Freitag, 06. November 2026",
-  "date_key": "20261106",
-  "changes": [
-   "Planänderung (Details nicht spezifiziert)"
-  ],
-  "zeitstempel": "03.11.2026, 11:29"
- },
- {
   "timestamp": "2026-11-04T10:00:16.185008",
   "lehrer": "Bom",
   "datum": "Dienstag, 10. November 2026",
