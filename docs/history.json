@@ -1804,5 +1804,92 @@
    "Std 6 (12:25): Auswertung Hospitation, Herr Pohla; De 7D Sto, Aufgaben liegen vor."
   ],
   "zeitstempel": "11.11.2026, 14:22"
+ },
+ {
+  "timestamp": "2026-11-11T14:15:13.885960",
+  "lehrer": "Bob",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 5 (11:40): für Ch Bob, Raumänderung",
+   "Std 6 (12:25): für Ch Bob, Raumänderung"
+  ],
+  "zeitstempel": "11.11.2026, 15:14"
+ },
+ {
+  "timestamp": "2026-11-11T14:15:13.885960",
+  "lehrer": "Gor",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 1 (07:40): Ge 12A-12D selbst. (v), Selbststudium",
+   "Std 2 (08:25): Ge 12A-12D selbst. (v), Selbststudium",
+   "Std 3 (09:40): Ge 11A-11E Schuc",
+   "Std 4 (10:25): Ge 11A-11E Schuc",
+   "Std 5 (11:40): Ge 7B Isb",
+   "Std 6 (12:25): Ge 7B Isb"
+  ],
+  "zeitstempel": "11.11.2026, 15:14"
+ },
+ {
+  "timestamp": "2026-11-11T14:15:13.885960",
+  "lehrer": "Hun",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 5 (11:40): für AWT Lan, s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): für AWT Lan, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "11.11.2026, 15:14"
+ },
+ {
+  "timestamp": "2026-11-11T14:15:13.885960",
+  "lehrer": "Isb",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 5 (11:40): für Ge Gor",
+   "Std 6 (12:25): für Ge Gor"
+  ],
+  "zeitstempel": "11.11.2026, 15:14"
+ },
+ {
+  "timestamp": "2026-11-11T14:15:13.885960",
+  "lehrer": "Lan",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 1 (07:40): AWT 8C Pel, s. IServ: Aufgaben durch FL erteilt",
+   "Std 2 (08:25): AWT 8C Pel, s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): AWT 10A Hun, s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): AWT 10A Hun, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "11.11.2026, 15:14"
+ },
+ {
+  "timestamp": "2026-11-11T14:15:13.885960",
+  "lehrer": "Pel",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 1 (07:40): für AWT Lan, s. IServ: Aufgaben durch FL erteilt",
+   "Std 2 (08:25): für AWT Lan, s. IServ: Aufgaben durch FL erteilt",
+   "Std 3 (09:40): Hospitation",
+   "Std 5 (11:40): Ch 9A fällt aus",
+   "Std 5 (11:40): Gespräch, R 308; Ch 9A fällt aus",
+   "Std 6 (12:25): Ch 9A fällt aus"
+  ],
+  "zeitstempel": "11.11.2026, 15:14"
+ },
+ {
+  "timestamp": "2026-11-11T14:15:13.885960",
+  "lehrer": "Schuc",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 3 (09:40): für Ge Gor",
+   "Std 4 (10:25): für Ge Gor"
+  ],
+  "zeitstempel": "11.11.2026, 15:14"
  }
 ]

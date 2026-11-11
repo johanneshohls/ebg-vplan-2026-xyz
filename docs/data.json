@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "11.11.2026, 14:10 Uhr",
- "last_changed": "2026-11-11T14:22:00",
+ "generiert": "11.11.2026, 14:15 Uhr",
+ "last_changed": "2026-11-11T15:14:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -17085,7 +17085,7 @@
     },
     "20261112": {
      "datum": "Donnerstag, 12. November 2026",
-     "zeitstempel": "11.11.2026, 13:14",
+     "zeitstempel": "11.11.2026, 15:14",
      "tagesinfo": [
       "Jahrgang 9: BO; Gadebsuch, 2.+3. Block"
      ],
@@ -17258,17 +17258,17 @@
          "stunde": "5",
          "fach": "Ch",
          "klasse": "10C",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "K12",
+         "info": "für Ch Bob, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Ch",
          "klasse": "10C",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "raum": "K12",
+         "info": "für Ch Bob, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -17613,51 +17613,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "GE2",
-         "klasse": "12A-12D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12D selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "GE2",
-         "klasse": "12A-12D",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12D selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "GE2",
-         "klasse": "11A-11E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 11A-11E Schuc",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "GE2",
-         "klasse": "11A-11E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 11A-11E Schuc",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Ge",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 7B Isb",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ge",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 7B Isb",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -17665,7 +17665,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Hof, WCs, Grünes Klassenzimmer",
-         "info": ""
+         "info": "entfällt, V: Tuh"
         }
        ]
       },
@@ -18054,6 +18054,22 @@
          "geaendert": false
         },
         {
+         "stunde": "5",
+         "fach": "AWT",
+         "klasse": "10A",
+         "raum": "104",
+         "info": "für AWT Lan, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "AWT",
+         "klasse": "10A",
+         "raum": "104",
+         "info": "für AWT Lan, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "ph1",
          "klasse": "11D,11A-11C,11E",
@@ -18074,6 +18090,22 @@
       },
       "Isb": {
        "entries": [
+        {
+         "stunde": "5",
+         "fach": "Ge",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Ge Gor",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ge",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Ge Gor",
+         "geaendert": true
+        },
         {
          "stunde": "7",
          "fach": "En",
@@ -18299,35 +18331,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "AWT",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 8C Pel, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "AWT",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 8C Pel, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "AWT",
-         "klasse": "10A",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 10A Hun, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "AWT",
-         "klasse": "10A",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 10A Hun, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -18598,6 +18630,22 @@
       "Pel": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "AWT",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für AWT Lan, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "AWT",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für AWT Lan, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "Ma",
          "klasse": "",
@@ -18852,6 +18900,22 @@
          "raum": "002",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "GE2",
+         "klasse": "11A-11E",
+         "raum": "107",
+         "info": "für Ge Gor",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "GE2",
+         "klasse": "11A-11E",
+         "raum": "107",
+         "info": "für Ge Gor",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -19141,7 +19205,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof, WCs, Grünes Klassenzimmer",
+         "info": "für Gor"
+        }
+       ]
       },
       "Wag": {
        "entries": [
@@ -19205,7 +19276,7 @@
     },
     "20261113": {
      "datum": "Freitag, 13. November 2026",
-     "zeitstempel": "11.11.2026, 14:22",
+     "zeitstempel": "11.11.2026, 15:14",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; R 205"
      ],
@@ -21276,7 +21347,7 @@
    "tage": {
     "20261116": {
      "datum": "Montag, 16. November 2026",
-     "zeitstempel": "11.11.2026, 14:22",
+     "zeitstempel": "11.11.2026, 15:14",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23377,7 +23448,7 @@
     },
     "20261117": {
      "datum": "Dienstag, 17. November 2026",
-     "zeitstempel": "11.11.2026, 14:22",
+     "zeitstempel": "11.11.2026, 15:14",
      "tagesinfo": [
       "4. Block: Aula; gemeinsames Treffen/Proben zum Weihnachtskonzert;  Mue11 (beide Kurse), Mue12 (beide Kurse) sowie Club 8 mit Frau Birzina"
      ],
@@ -25554,7 +25625,7 @@
     },
     "20261118": {
      "datum": "Mittwoch, 18. November 2026",
-     "zeitstempel": "11.11.2026, 14:22",
+     "zeitstempel": "11.11.2026, 15:14",
      "tagesinfo": [
       "8c: Kuchenbasar in der 1.+2. Pause"
      ],
@@ -27535,7 +27606,7 @@
     },
     "20261119": {
      "datum": "Donnerstag, 19. November 2026",
-     "zeitstempel": "11.11.2026, 14:22",
+     "zeitstempel": "11.11.2026, 15:14",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29604,7 +29675,7 @@
     },
     "20261120": {
      "datum": "Freitag, 20. November 2026",
-     "zeitstempel": "11.11.2026, 14:22",
+     "zeitstempel": "11.11.2026, 15:14",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, R 105"
      ],
