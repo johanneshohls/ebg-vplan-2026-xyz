@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "11.11.2026, 17:50 Uhr",
- "last_changed": "2026-11-11T15:14:00",
+ "generiert": "11.11.2026, 17:55 Uhr",
+ "last_changed": "2026-11-11T18:55:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -17085,7 +17085,7 @@
     },
     "20261112": {
      "datum": "Donnerstag, 12. November 2026",
-     "zeitstempel": "11.11.2026, 15:14",
+     "zeitstempel": "11.11.2026, 18:55",
      "tagesinfo": [
       "Jahrgang 9: BO; Gadebsuch, 2.+3. Block"
      ],
@@ -18409,9 +18409,9 @@
         {
          "stunde": "5",
          "fach": "Ma",
-         "klasse": "",
-         "raum": "",
-         "info": "Gespräch, R 308; Ph 9C fällt aus",
+         "klasse": "10B",
+         "raum": "102",
+         "info": "Ma 10B verlegt von St.7; Ph 9C fällt aus",
          "geaendert": true
         },
         {
@@ -18423,20 +18423,36 @@
          "geaendert": true
         },
         {
-         "stunde": "7",
+         "stunde": "6",
          "fach": "Ma",
          "klasse": "10B",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "raum": "102",
+         "info": "Ma 10B verlegt von St.8; Ph 9C fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10B verlegt nach St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Gespräch, R 308; Ma 10B verlegt nach St.5 (Leu)",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "10B",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10B verlegt nach St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -18662,19 +18678,19 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
-         "fach": "Ma",
-         "klasse": "",
-         "raum": "",
-         "info": "Gespräch, R 308; Ch 9A fällt aus",
-         "geaendert": true
-        },
-        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ch 9A fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Ma",
+         "klasse": "",
+         "raum": "",
+         "info": "Gespräch, R 308",
          "geaendert": true
         }
        ],
@@ -18684,35 +18700,35 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "EN2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "EN2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "10B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10B selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann im 4. Block zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "10B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 10B selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann im 4. Block zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []
