@@ -1626,5 +1626,20 @@
    "Std 8 (14:25): für De Ost, Klausur; Aula"
   ],
   "zeitstempel": "11.11.2026, 09:39"
+ },
+ {
+  "timestamp": "2026-11-11T10:20:12.170473",
+  "lehrer": "Gor",
+  "datum": "Mittwoch, 11. November 2026",
+  "date_key": "20261111",
+  "changes": [
+   "Std 3 (09:40): für Sk Lie, s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): für Sk Lie, s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): Ge 12A-12D selbst. (v), Selbststudium",
+   "Std 6 (12:25): Ge 12A-12D selbst. (v), Selbststudium",
+   "Std 7 (13:40): Sk 11D,11A-11C,11E selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 8 (14:25): Sk 11D,11A-11C,11E selbst. (v), Selbststudium, kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "11.11.2026, 11:18"
  }
 ]

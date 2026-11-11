@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "11.11.2026, 10:15 Uhr",
- "last_changed": "2026-11-11T09:39:00",
+ "generiert": "11.11.2026, 10:20 Uhr",
+ "last_changed": "2026-11-11T11:18:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -14945,7 +14945,7 @@
     },
     "20261111": {
      "datum": "Mittwoch, 11. November 2026",
-     "zeitstempel": "11.11.2026, 04:58",
+     "zeitstempel": "11.11.2026, 11:18",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -15528,35 +15528,35 @@
         },
         {
          "stunde": "5",
-         "fach": "GE2",
-         "klasse": "12A-12D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12D selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "GE2",
-         "klasse": "12A-12D",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12D selbst. (v), Selbststudium",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "sk2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 11D,11A-11C,11E selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "sk2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 11D,11A-11C,11E selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []
