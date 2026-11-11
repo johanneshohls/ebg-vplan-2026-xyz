@@ -1644,5 +1644,39 @@
    "Std 8 (14:25): für IMB Con, Klausur"
   ],
   "zeitstempel": "10.11.2026, 11:07"
+ },
+ {
+  "timestamp": "2026-11-11T04:00:10.489126",
+  "lehrer": "Bes",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 1 (07:40): Ma 10D Con, Aufgaben liegen vor.",
+   "Std 2 (08:25): Ma 10D Con, Aufgaben liegen vor.",
+   "Std 3 (09:40): Ma 10C Käc, Aufgaben liegen vor.",
+   "Std 4 (10:25): Ma 10C Käc, Aufgaben liegen vor."
+  ],
+  "zeitstempel": "11.11.2026, 04:58"
+ },
+ {
+  "timestamp": "2026-11-11T04:00:10.489126",
+  "lehrer": "Bri",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "11.11.2026, 04:58"
+ },
+ {
+  "timestamp": "2026-11-11T04:00:10.489126",
+  "lehrer": "Käc",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 3 (09:40): für Ma Bes, Aufgaben liegen vor.",
+   "Std 4 (10:25): für Ma Bes, Aufgaben liegen vor."
+  ],
+  "zeitstempel": "11.11.2026, 04:58"
  }
 ]
