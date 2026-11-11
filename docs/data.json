@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "11.11.2026, 08:35 Uhr",
- "last_changed": "2026-11-11T04:58:00",
+ "generiert": "11.11.2026, 08:40 Uhr",
+ "last_changed": "2026-11-11T09:39:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -27464,7 +27464,7 @@
     },
     "20261119": {
      "datum": "Donnerstag, 19. November 2026",
-     "zeitstempel": "11.11.2026, 04:58",
+     "zeitstempel": "11.11.2026, 09:39",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -28862,19 +28862,35 @@
         },
         {
          "stunde": "5",
-         "fach": "KILZ",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 9B verlegt nach Fr (20.11.) St.3 (Kar)",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Bio",
          "klasse": "9B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "104",
+         "info": "Bio 9B statt Fr (20.11.) St.3; KILZ 9B verlegt nach Fr (20.11.) St.3 (Kar)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "KILZ",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 9B verlegt nach Fr (20.11.) St.4 (Kar)",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Bio",
          "klasse": "9B",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "104",
+         "info": "Bio 9B statt Fr (20.11.) St.4; KILZ 9B verlegt nach Fr (20.11.) St.4 (Kar)",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -29517,7 +29533,7 @@
     },
     "20261120": {
      "datum": "Freitag, 20. November 2026",
-     "zeitstempel": "11.11.2026, 04:58",
+     "zeitstempel": "11.11.2026, 09:39",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, R 105"
      ],
@@ -30625,6 +30641,22 @@
       "Kar": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "KILZ",
+         "klasse": "9B",
+         "raum": "K04",
+         "info": "statt Do (19.11.) St.5 (KILZ Ost)",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "KILZ",
+         "klasse": "9B",
+         "raum": "K04",
+         "info": "statt Do (19.11.) St.6 (KILZ Ost)",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "IMB",
          "klasse": "7C",
@@ -31071,19 +31103,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Bio",
-         "klasse": "9B",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9B gehalten am Do (19.11.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Bio",
-         "klasse": "9B",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9B gehalten am Do (19.11.) St.6",
+         "geaendert": true
         },
         {
          "stunde": "5",
