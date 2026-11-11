@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "11.11.2026, 17:55 Uhr",
- "last_changed": "2026-11-11T18:55:00",
+ "generiert": "11.11.2026, 18:00 Uhr",
+ "last_changed": "2026-11-11T19:00:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21363,7 +21363,7 @@
    "tage": {
     "20261116": {
      "datum": "Montag, 16. November 2026",
-     "zeitstempel": "11.11.2026, 15:14",
+     "zeitstempel": "11.11.2026, 19:00",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -21470,17 +21470,17 @@
          "stunde": "7",
          "fach": "Mu",
          "klasse": "10A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Mu Bir, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "Mu",
          "klasse": "10A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für Mu Bir, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23268,17 +23268,17 @@
          "stunde": "7",
          "fach": "dsp1",
          "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für DSp Ter, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "dsp1",
          "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "Co3",
+         "info": "für DSp Ter, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": [

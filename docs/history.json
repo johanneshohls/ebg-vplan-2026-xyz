@@ -1416,5 +1416,73 @@
    "Std 4 (10:25): für Ge Gor"
   ],
   "zeitstempel": "11.11.2026, 15:14"
+ },
+ {
+  "timestamp": "2026-11-11T18:00:12.674876",
+  "lehrer": "Leu",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 3 (09:40): für BO Her, Hospitation",
+   "Std 4 (10:25): für BO Her",
+   "Std 5 (11:40): Ph 9C fällt aus",
+   "Std 5 (11:40): Ma 10B verlegt von St.7; Ph 9C fällt aus",
+   "Std 6 (12:25): Ph 9C fällt aus",
+   "Std 6 (12:25): Ma 10B verlegt von St.8; Ph 9C fällt aus",
+   "Std 7 (13:40): Ma 10B verlegt nach St.5",
+   "Std 7 (13:40): Gespräch, R 308; Ma 10B verlegt nach St.5 (Leu)",
+   "Std 8 (14:25): Ma 10B verlegt nach St.6"
+  ],
+  "zeitstempel": "11.11.2026, 18:55"
+ },
+ {
+  "timestamp": "2026-11-11T18:00:12.674876",
+  "lehrer": "Pel",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 1 (07:40): für AWT Lan, s. IServ: Aufgaben durch FL erteilt",
+   "Std 2 (08:25): für AWT Lan, s. IServ: Aufgaben durch FL erteilt",
+   "Std 3 (09:40): Hospitation",
+   "Std 5 (11:40): Ch 9A fällt aus",
+   "Std 6 (12:25): Ch 9A fällt aus",
+   "Std 7 (13:40): Gespräch, R 308"
+  ],
+  "zeitstempel": "11.11.2026, 18:55"
+ },
+ {
+  "timestamp": "2026-11-11T18:00:12.674876",
+  "lehrer": "Pri",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 3 (09:40): En 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): En 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): En 10B selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann im 4. Block zu Hause erledigt werden",
+   "Std 6 (12:25): En 10B selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann im 4. Block zu Hause erledigt werden"
+  ],
+  "zeitstempel": "11.11.2026, 18:55"
+ },
+ {
+  "timestamp": "2026-11-11T18:00:12.674876",
+  "lehrer": "Bir",
+  "datum": "Montag, 16. November 2026",
+  "date_key": "20261116",
+  "changes": [
+   "Std 7 (13:40): für Mu Bir, Raumänderung",
+   "Std 8 (14:25): für Mu Bir, Raumänderung"
+  ],
+  "zeitstempel": "11.11.2026, 19:00"
+ },
+ {
+  "timestamp": "2026-11-11T18:00:12.674876",
+  "lehrer": "Ter",
+  "datum": "Montag, 16. November 2026",
+  "date_key": "20261116",
+  "changes": [
+   "Std 7 (13:40): für DSp Ter, Raumänderung",
+   "Std 8 (14:25): für DSp Ter, Raumänderung"
+  ],
+  "zeitstempel": "11.11.2026, 19:00"
  }
 ]
