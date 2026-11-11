@@ -1721,5 +1721,88 @@
    "Std 6 (12:25): für Geo Mue, s. IServ: Aufgaben durch FL erteilt"
   ],
   "zeitstempel": "11.11.2026, 13:14"
+ },
+ {
+  "timestamp": "2026-11-11T13:25:12.258615",
+  "lehrer": "Gor",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 3 (09:40): Phi 9C Jur (für Ge)",
+   "Std 4 (10:25): Phi 9C Jur (für Ge)",
+   "Std 5 (11:40): Ge 9A verlegt nach St.1 (Isb)",
+   "Std 6 (12:25): Ge 9A verlegt nach St.2 (Isb)",
+   "Std 6 (12:25): Auswertung Hospitation; Hr. Schulz; Ge 9A verlegt nach St.2 (Isb)",
+   "Std 7 (13:40): Ge 10C Isb",
+   "Std 8 (14:25): Ge 10C Isb"
+  ],
+  "zeitstempel": "11.11.2026, 14:22"
+ },
+ {
+  "timestamp": "2026-11-11T13:25:12.258615",
+  "lehrer": "Isb",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 1 (07:40): Ge 9A verlegt von St.5",
+   "Std 2 (08:25): Ge 9A verlegt von St.6",
+   "Std 5 (11:40): Ge 9A verlegt nach St.1",
+   "Std 5 (11:40): Ge 7A statt Mo (09.11.) St.5, Hospitation, Hr. Schulz; Ge 9A verlegt nach St.1",
+   "Std 6 (12:25): Ge 9A verlegt nach St.2",
+   "Std 6 (12:25): Auswertung Hospitation; Hr. Schulz; Ge 9A verlegt nach St.2 (Isb)",
+   "Std 7 (13:40): für Ge Isb",
+   "Std 8 (14:25): für Ge Isb"
+  ],
+  "zeitstempel": "11.11.2026, 14:22"
+ },
+ {
+  "timestamp": "2026-11-11T13:25:12.258615",
+  "lehrer": "Jur",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 3 (09:40): für Ge Gor",
+   "Std 4 (10:25): für Ge Gor",
+   "Std 5 (11:40): für Phi Jur, Raumänderung",
+   "Std 6 (12:25): für Phi Jur, Raumänderung"
+  ],
+  "zeitstempel": "11.11.2026, 14:22"
+ },
+ {
+  "timestamp": "2026-11-11T13:25:12.258615",
+  "lehrer": "Sta",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 5 (11:40): für Geo Mue, s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): Ma 7A gehalten am Mo (09.11.) St.5",
+   "Std 6 (12:25): für Geo Mue, s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): Ma 7A gehalten am Mo (09.11.) St.6"
+  ],
+  "zeitstempel": "11.11.2026, 14:22"
+ },
+ {
+  "timestamp": "2026-11-11T13:25:12.258615",
+  "lehrer": "Puk",
+  "datum": "Freitag, 20. November 2026",
+  "date_key": "20261120",
+  "changes": [
+   "Std 4 (10:25): Span 9D Stu, Aufgaben liegen vor.",
+   "Std 4 (10:25): Auswertung Hospitation; Span 9D Stu, Aufgaben liegen vor."
+  ],
+  "zeitstempel": "11.11.2026, 14:22"
+ },
+ {
+  "timestamp": "2026-11-11T13:25:12.258615",
+  "lehrer": "Stu",
+  "datum": "Freitag, 20. November 2026",
+  "date_key": "20261120",
+  "changes": [
+   "Std 4 (10:25): für Span Puk, Aufgaben liegen vor.",
+   "Std 5 (11:40): für De Stu, Hospitation, Herr Pohla",
+   "Std 6 (12:25): De 7D Sto, Aufgaben liegen vor.",
+   "Std 6 (12:25): Auswertung Hospitation, Herr Pohla; De 7D Sto, Aufgaben liegen vor."
+  ],
+  "zeitstempel": "11.11.2026, 14:22"
  }
 ]

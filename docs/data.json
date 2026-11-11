@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "11.11.2026, 13:20 Uhr",
- "last_changed": "2026-11-11T13:14:00",
+ "generiert": "11.11.2026, 13:25 Uhr",
+ "last_changed": "2026-11-11T14:22:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -19205,7 +19205,7 @@
     },
     "20261113": {
      "datum": "Freitag, 13. November 2026",
-     "zeitstempel": "11.11.2026, 13:14",
+     "zeitstempel": "11.11.2026, 14:22",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; R 205"
      ],
@@ -19703,43 +19703,27 @@
       "Gor": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "Ge",
-         "klasse": "9A",
-         "raum": "107",
-         "info": "Ge 9A verlegt von St.5",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "Ge",
-         "klasse": "9A",
-         "raum": "107",
-         "info": "Ge 9A verlegt von St.6",
-         "geaendert": true
-        },
-        {
          "stunde": "3",
-         "fach": "Ge",
-         "klasse": "9C",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phi 9C Jur (für Ge)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ge",
-         "klasse": "9C",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phi 9C Jur (für Ge)",
+         "geaendert": true
         },
         {
          "stunde": "5",
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 9A verlegt nach St.1",
+         "info": "Ge 9A verlegt nach St.1 (Isb)",
          "geaendert": true
         },
         {
@@ -19747,7 +19731,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Ge 9A verlegt nach St.2",
+         "info": "Ge 9A verlegt nach St.2 (Isb)",
          "geaendert": true
         },
         {
@@ -19760,19 +19744,19 @@
         },
         {
          "stunde": "7",
-         "fach": "Ge",
-         "klasse": "10C",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10C Isb",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ge",
-         "klasse": "10C",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10C Isb",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20140,7 +20124,7 @@
          "fach": "Ge",
          "klasse": "10C",
          "raum": "104",
-         "info": "",
+         "info": "für Ge Isb",
          "geaendert": false
         },
         {
@@ -20148,7 +20132,7 @@
          "fach": "Ge",
          "klasse": "10C",
          "raum": "104",
-         "info": "",
+         "info": "für Ge Isb",
          "geaendert": false
         }
        ],
@@ -20175,6 +20159,22 @@
          "raum": "004",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Phi",
+         "klasse": "9C",
+         "raum": "005",
+         "info": "für Ge Gor",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Phi",
+         "klasse": "9C",
+         "raum": "005",
+         "info": "für Ge Gor",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -21016,6 +21016,14 @@
         },
         {
          "stunde": "5",
+         "fach": "Geo",
+         "klasse": "9D",
+         "raum": "007",
+         "info": "für Geo Mue, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
          "fach": "---",
          "klasse": "",
          "raum": "",
@@ -21023,7 +21031,7 @@
          "geaendert": true
         },
         {
-         "stunde": "5",
+         "stunde": "6",
          "fach": "Geo",
          "klasse": "9D",
          "raum": "007",
@@ -21036,14 +21044,6 @@
          "klasse": "",
          "raum": "",
          "info": "Ma 7A gehalten am Mo (09.11.) St.6",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Geo",
-         "klasse": "9D",
-         "raum": "007",
-         "info": "für Geo Mue, s. IServ: Aufgaben durch FL erteilt",
          "geaendert": true
         }
        ],
@@ -21276,7 +21276,7 @@
    "tage": {
     "20261116": {
      "datum": "Montag, 16. November 2026",
-     "zeitstempel": "11.11.2026, 13:14",
+     "zeitstempel": "11.11.2026, 14:22",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23377,7 +23377,7 @@
     },
     "20261117": {
      "datum": "Dienstag, 17. November 2026",
-     "zeitstempel": "11.11.2026, 13:14",
+     "zeitstempel": "11.11.2026, 14:22",
      "tagesinfo": [
       "4. Block: Aula; gemeinsames Treffen/Proben zum Weihnachtskonzert;  Mue11 (beide Kurse), Mue12 (beide Kurse) sowie Club 8 mit Frau Birzina"
      ],
@@ -25554,7 +25554,7 @@
     },
     "20261118": {
      "datum": "Mittwoch, 18. November 2026",
-     "zeitstempel": "11.11.2026, 13:14",
+     "zeitstempel": "11.11.2026, 14:22",
      "tagesinfo": [
       "8c: Kuchenbasar in der 1.+2. Pause"
      ],
@@ -27535,7 +27535,7 @@
     },
     "20261119": {
      "datum": "Donnerstag, 19. November 2026",
-     "zeitstempel": "11.11.2026, 13:14",
+     "zeitstempel": "11.11.2026, 14:22",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29604,7 +29604,7 @@
     },
     "20261120": {
      "datum": "Freitag, 20. November 2026",
-     "zeitstempel": "11.11.2026, 13:14",
+     "zeitstempel": "11.11.2026, 14:22",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, R 105"
      ],
@@ -31301,11 +31301,11 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "Span 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht; FL kommt gegen 8.30 Uhr zum Unterricht",
-         "geaendert": true
+         "fach": "span1",
+         "klasse": "11D,11A-11C,11E",
+         "raum": "107",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "2",
@@ -31320,7 +31320,7 @@
          "fach": "Span",
          "klasse": "9D",
          "raum": "008",
-         "info": "für Span Puk, Hospitation: Herr Pohla",
+         "info": "",
          "geaendert": false
         },
         {
@@ -31328,7 +31328,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 9D Stu, Arbeit an weiterführneden Aufgaben",
+         "info": "Span 9D Stu, Aufgaben liegen vor.",
          "geaendert": true
         },
         {
@@ -31336,7 +31336,7 @@
          "fach": "Span",
          "klasse": "",
          "raum": "001",
-         "info": "Auswertung Hospitation; Span 9D Stu, Arbeit an weiterführneden Aufgaben",
+         "info": "Auswertung Hospitation; Span 9D Stu, Aufgaben liegen vor.",
          "geaendert": true
         },
         {
@@ -31575,7 +31575,7 @@
          "fach": "Span",
          "klasse": "9D",
          "raum": "008",
-         "info": "für Span Puk, Arbeit an weiterführneden Aufgaben",
+         "info": "für Span Puk, Aufgaben liegen vor.",
          "geaendert": true
         },
         {
