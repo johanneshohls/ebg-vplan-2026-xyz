@@ -1641,5 +1641,85 @@
    "Std 8 (14:25): Sk 11D,11A-11C,11E selbst. (v), Selbststudium, kann zu Hause erledigt werden"
   ],
   "zeitstempel": "11.11.2026, 11:18"
+ },
+ {
+  "timestamp": "2026-11-11T12:15:10.518333",
+  "lehrer": "Her",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 1 (07:40): für SpJu Mue",
+   "Std 2 (08:25): für SpJu Mue",
+   "Std 3 (09:40): Ma 10B Leu (für BO), Hospitation",
+   "Std 4 (10:25): Ma 10B Leu (für BO)",
+   "Std 5 (11:40): Sp 11D,11A-11C,11E Bod",
+   "Std 6 (12:25): Sp 11D,11A-11C,11E Bod"
+  ],
+  "zeitstempel": "11.11.2026, 13:14"
+ },
+ {
+  "timestamp": "2026-11-11T12:15:10.518333",
+  "lehrer": "Mue",
+  "datum": "Donnerstag, 12. November 2026",
+  "date_key": "20261112",
+  "changes": [
+   "Std 1 (07:40): SpJu 9A,9B Her",
+   "Std 2 (08:25): SpJu 9A,9B Her",
+   "Std 3 (09:40): SpMä 9C,9D fällt aus",
+   "Std 4 (10:25): SpMä 9C,9D fällt aus",
+   "Std 7 (13:40): SpMä 8A,8B fällt aus",
+   "Std 8 (14:25): SpMä 8A,8B fällt aus"
+  ],
+  "zeitstempel": "11.11.2026, 13:14"
+ },
+ {
+  "timestamp": "2026-11-11T12:15:10.518333",
+  "lehrer": "Hei",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 1 (07:40): für Geo Mue, s. IServ: Aufgaben durch FL erteilt",
+   "Std 2 (08:25): für Geo Mue"
+  ],
+  "zeitstempel": "11.11.2026, 13:14"
+ },
+ {
+  "timestamp": "2026-11-11T12:15:10.518333",
+  "lehrer": "Mue",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 1 (07:40): Geo 7C Hei, s. IServ: Aufgaben durch FL erteilt",
+   "Std 2 (08:25): Geo 7C Hei",
+   "Std 3 (09:40): Geo 7D Schil, s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): Geo 7D Schil, s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): Geo 9D Sta, s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): Geo 9D Sta, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "11.11.2026, 13:14"
+ },
+ {
+  "timestamp": "2026-11-11T12:15:10.518333",
+  "lehrer": "Schil",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 3 (09:40): für Geo Mue, s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): für Geo Mue, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "11.11.2026, 13:14"
+ },
+ {
+  "timestamp": "2026-11-11T12:15:10.518333",
+  "lehrer": "Sta",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 5 (11:40): Ma 7A gehalten am Mo (09.11.) St.5",
+   "Std 5 (11:40): für Geo Mue, s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): Ma 7A gehalten am Mo (09.11.) St.6",
+   "Std 6 (12:25): für Geo Mue, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "11.11.2026, 13:14"
  }
 ]

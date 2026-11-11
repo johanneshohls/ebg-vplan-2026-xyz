@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "11.11.2026, 12:10 Uhr",
- "last_changed": "2026-11-11T11:18:00",
+ "generiert": "11.11.2026, 12:15 Uhr",
+ "last_changed": "2026-11-11T13:14:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -17085,7 +17085,7 @@
     },
     "20261112": {
      "datum": "Donnerstag, 12. November 2026",
-     "zeitstempel": "11.11.2026, 04:58",
+     "zeitstempel": "11.11.2026, 13:14",
      "tagesinfo": [
       "Jahrgang 9: BO; Gadebsuch, 2.+3. Block"
      ],
@@ -17731,6 +17731,22 @@
       },
       "Her": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "SpJu",
+         "klasse": "9A,9B",
+         "raum": "Tu2",
+         "info": "für SpJu Mue",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "SpJu",
+         "klasse": "9A,9B",
+         "raum": "Tu2",
+         "info": "für SpJu Mue",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "---",
@@ -18413,19 +18429,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "SpJu",
-         "klasse": "9A,9B",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpJu 9A,9B Her",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "SpJu",
-         "klasse": "9A,9B",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpJu 9A,9B Her",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -18445,19 +18461,19 @@
         },
         {
          "stunde": "7",
-         "fach": "SpMä",
-         "klasse": "8A,8B",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpMä 8A,8B fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "SpMä",
-         "klasse": "8A,8B",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "SpMä 8A,8B fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -19189,7 +19205,7 @@
     },
     "20261113": {
      "datum": "Freitag, 13. November 2026",
-     "zeitstempel": "11.11.2026, 04:58",
+     "zeitstempel": "11.11.2026, 13:14",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; R 205"
      ],
@@ -19764,6 +19780,22 @@
       "Hei": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "Geo",
+         "klasse": "7C",
+         "raum": "106",
+         "info": "für Geo Mue, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Geo",
+         "klasse": "7C",
+         "raum": "106",
+         "info": "für Geo Mue",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "Fr",
          "klasse": "7A",
@@ -20161,7 +20193,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof1, WCs, Container",
+         "info": "für Mue"
+        }
+       ]
       },
       "Käc": {
        "entries": [
@@ -20516,51 +20555,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Geo",
-         "klasse": "7C",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 7C Hei, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Geo",
-         "klasse": "7C",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 7C Hei",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Geo",
-         "klasse": "7D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 7D Schil, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Geo",
-         "klasse": "7D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 7D Schil, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Geo",
-         "klasse": "9D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 9D Sta, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Geo",
-         "klasse": "9D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 9D Sta, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -20568,7 +20607,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Hof1, WCs, Container",
-         "info": ""
+         "info": "entfällt, V: Jur"
         }
        ]
       },
@@ -20832,6 +20871,22 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "Geo",
+         "klasse": "7D",
+         "raum": "105",
+         "info": "für Geo Mue, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Geo",
+         "klasse": "7D",
+         "raum": "105",
+         "info": "für Geo Mue, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "GS01",
          "klasse": "7A-7D,8A-8E",
@@ -20968,11 +21023,27 @@
          "geaendert": true
         },
         {
+         "stunde": "5",
+         "fach": "Geo",
+         "klasse": "9D",
+         "raum": "007",
+         "info": "für Geo Mue, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
          "stunde": "6",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "Ma 7A gehalten am Mo (09.11.) St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Geo",
+         "klasse": "9D",
+         "raum": "007",
+         "info": "für Geo Mue, s. IServ: Aufgaben durch FL erteilt",
          "geaendert": true
         }
        ],
@@ -21205,7 +21276,7 @@
    "tage": {
     "20261116": {
      "datum": "Montag, 16. November 2026",
-     "zeitstempel": "11.11.2026, 04:58",
+     "zeitstempel": "11.11.2026, 13:14",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23306,7 +23377,7 @@
     },
     "20261117": {
      "datum": "Dienstag, 17. November 2026",
-     "zeitstempel": "11.11.2026, 04:58",
+     "zeitstempel": "11.11.2026, 13:14",
      "tagesinfo": [
       "4. Block: Aula; gemeinsames Treffen/Proben zum Weihnachtskonzert;  Mue11 (beide Kurse), Mue12 (beide Kurse) sowie Club 8 mit Frau Birzina"
      ],
@@ -25483,7 +25554,7 @@
     },
     "20261118": {
      "datum": "Mittwoch, 18. November 2026",
-     "zeitstempel": "11.11.2026, 04:58",
+     "zeitstempel": "11.11.2026, 13:14",
      "tagesinfo": [
       "8c: Kuchenbasar in der 1.+2. Pause"
      ],
@@ -27464,7 +27535,7 @@
     },
     "20261119": {
      "datum": "Donnerstag, 19. November 2026",
-     "zeitstempel": "11.11.2026, 09:39",
+     "zeitstempel": "11.11.2026, 13:14",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29533,7 +29604,7 @@
     },
     "20261120": {
      "datum": "Freitag, 20. November 2026",
-     "zeitstempel": "11.11.2026, 09:39",
+     "zeitstempel": "11.11.2026, 13:14",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, R 105"
      ],
