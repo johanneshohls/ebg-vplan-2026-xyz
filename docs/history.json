@@ -1412,5 +1412,42 @@
    "Std 8 (14:25): für DSp Ter, Raumänderung"
   ],
   "zeitstempel": "11.11.2026, 19:00"
+ },
+ {
+  "timestamp": "2026-11-12T12:10:11.074707",
+  "lehrer": "Fel",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 5 (11:40): für En Pri, s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): für En Pri, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "12.11.2026, 13:07"
+ },
+ {
+  "timestamp": "2026-11-12T12:10:11.074707",
+  "lehrer": "Pri",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 3 (09:40): Ge 8A Schud, s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): Ge 8A Schud",
+   "Std 5 (11:40): En 7D Fel, s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): En 7D Fel, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "12.11.2026, 13:07"
+ },
+ {
+  "timestamp": "2026-11-12T12:10:11.074707",
+  "lehrer": "Schud",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 3 (09:40): für Ge Pri, s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): für Ge Pri",
+   "Std 7 (13:40): für Ku Schud, Klausur",
+   "Std 8 (14:25): für Ku Schud, Klausur"
+  ],
+  "zeitstempel": "12.11.2026, 13:07"
  }
 ]

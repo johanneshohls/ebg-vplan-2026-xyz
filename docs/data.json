@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "12.11.2026, 12:05 Uhr",
- "last_changed": "2026-11-12T12:42:00",
+ "generiert": "12.11.2026, 12:10 Uhr",
+ "last_changed": "2026-11-12T13:07:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -19292,7 +19292,7 @@
     },
     "20261113": {
      "datum": "Freitag, 13. November 2026",
-     "zeitstempel": "12.11.2026, 12:42",
+     "zeitstempel": "12.11.2026, 13:07",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; R 205"
      ],
@@ -19693,6 +19693,22 @@
          "raum": "K09",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "7D",
+         "raum": "K07",
+         "info": "für En Pri, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "7D",
+         "raum": "K07",
+         "info": "für En Pri, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -20849,35 +20865,35 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Ge",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 8A Schud, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ge",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 8A Schud",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "7D",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7D Fel, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "7D",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 7D Fel, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -21020,6 +21036,22 @@
          "raum": "207",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Ge",
+         "klasse": "8A",
+         "raum": "207",
+         "info": "für Ge Pri, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ge",
+         "klasse": "8A",
+         "raum": "207",
+         "info": "für Ge Pri",
+         "geaendert": true
         },
         {
          "stunde": "5",
