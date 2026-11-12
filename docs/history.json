@@ -1,26 +1,5 @@
 [
  {
-  "timestamp": "2026-11-05T10:35:12.045609",
-  "lehrer": "Hun",
-  "datum": "Freitag, 06. November 2026",
-  "date_key": "20261106",
-  "changes": [
-   "Std 7 (13:40): zentraler Nachreibeterrmin",
-   "Std 8 (14:25): zentraler Nachreibeterrmin"
-  ],
-  "zeitstempel": "05.11.2026, 11:33"
- },
- {
-  "timestamp": "2026-11-05T10:35:12.045609",
-  "lehrer": "Käc",
-  "datum": "Freitag, 06. November 2026",
-  "date_key": "20261106",
-  "changes": [
-   "Planänderung (Details nicht spezifiziert)"
-  ],
-  "zeitstempel": "05.11.2026, 11:33"
- },
- {
   "timestamp": "2026-11-05T11:40:15.591495",
   "lehrer": "Käc",
   "datum": "Donnerstag, 05. November 2026",
