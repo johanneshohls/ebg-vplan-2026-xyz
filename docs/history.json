@@ -1,20 +1,5 @@
 [
  {
-  "timestamp": "2026-11-05T05:45:12.580931",
-  "lehrer": "Schil",
-  "datum": "Donnerstag, 05. November 2026",
-  "date_key": "20261105",
-  "changes": [
-   "Std 1 (07:40): De 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
-   "Std 2 (08:25): De 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
-   "Std 3 (09:40): De 11A-11E selbst. (v), Selbststudium",
-   "Std 4 (10:25): De 11A-11E selbst. (v), Selbststudium",
-   "Std 5 (11:40): Thea 11D,11A-11C,11E selbst. (v), Selbststudium",
-   "Std 6 (12:25): Thea 11D,11A-11C,11E selbst. (v), Selbststudium"
-  ],
-  "zeitstempel": "05.11.2026, 06:40"
- },
- {
   "timestamp": "2026-11-05T10:35:12.045609",
   "lehrer": "Hun",
   "datum": "Freitag, 06. November 2026",
