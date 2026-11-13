@@ -1,40 +1,5 @@
 [
  {
-  "timestamp": "2026-11-06T16:55:10.657648",
-  "lehrer": "Bes",
-  "datum": "Freitag, 13. November 2026",
-  "date_key": "20261113",
-  "changes": [
-   "Std 1 (07:40): Ma 10D Con, Aufgaben liegen vor.",
-   "Std 2 (08:25): Ma 10D Con, Aufgaben liegen vor.",
-   "Std 3 (09:40): Ma 10C Bri, Aufgaben liegen vor.",
-   "Std 4 (10:25): Ma 10C Bri, Aufgaben liegen vor."
-  ],
-  "zeitstempel": "06.11.2026, 17:50"
- },
- {
-  "timestamp": "2026-11-06T16:55:10.657648",
-  "lehrer": "Bri",
-  "datum": "Freitag, 13. November 2026",
-  "date_key": "20261113",
-  "changes": [
-   "Std 3 (09:40): für Ma Bes, Aufgaben liegen vor.",
-   "Std 4 (10:25): für Ma Bes, Aufgaben liegen vor."
-  ],
-  "zeitstempel": "06.11.2026, 17:50"
- },
- {
-  "timestamp": "2026-11-06T16:55:10.657648",
-  "lehrer": "Con",
-  "datum": "Freitag, 13. November 2026",
-  "date_key": "20261113",
-  "changes": [
-   "Std 1 (07:40): für Ma Bes, Aufgaben liegen vor.",
-   "Std 2 (08:25): für Ma Bes, Aufgaben liegen vor."
-  ],
-  "zeitstempel": "06.11.2026, 17:50"
- },
- {
   "timestamp": "2026-11-07T11:27:21.666623",
   "lehrer": "Bar",
   "datum": "Montag, 16. November 2026",
