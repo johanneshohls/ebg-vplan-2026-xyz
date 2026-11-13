@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "13.11.2026, 04:05 Uhr",
- "last_changed": "2026-11-12T13:07:00",
+ "generiert": "13.11.2026, 04:10 Uhr",
+ "last_changed": "2026-11-13T05:09:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -19292,7 +19292,7 @@
     },
     "20261113": {
      "datum": "Freitag, 13. November 2026",
-     "zeitstempel": "12.11.2026, 13:07",
+     "zeitstempel": "13.11.2026, 05:09",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; R 205"
      ],
@@ -19411,7 +19411,7 @@
          "vor_stunde": "1",
          "uhrzeit": "07:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": "entfällt, V: Fel"
+         "info": "entfällt, V: Pel"
         },
         {
          "vor_stunde": "7",
@@ -19606,6 +19606,22 @@
          "geaendert": false
         },
         {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "7D",
+         "raum": "K07",
+         "info": "für En Pri, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "7D",
+         "raum": "K07",
+         "info": "für En Pri, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "pro1",
          "klasse": "11D,11A-11C,11E",
@@ -19680,51 +19696,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Präsi",
-         "klasse": "10C",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "2",
-         "fach": "Präsi",
-         "klasse": "10C",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "En",
-         "klasse": "7D",
-         "raum": "K07",
-         "info": "für En Pri, s. IServ: Aufgaben durch FL erteilt",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Präsi 10C Kar",
          "geaendert": true
         },
         {
-         "stunde": "6",
-         "fach": "En",
-         "klasse": "7D",
-         "raum": "K07",
-         "info": "für En Pri, s. IServ: Aufgaben durch FL erteilt",
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Präsi 10C Kar",
          "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "span1",
-         "klasse": "12A-12D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 12A-12D selbst. (v), Selbststudium; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "span1",
-         "klasse": "12A-12D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 12A-12D selbst. (v), Selbststudium; kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -19733,12 +19733,6 @@
          "uhrzeit": "13:10",
          "ort": "Haus, WCs, Caféteria",
          "info": "entfällt, V: Bir"
-        },
-        {
-         "vor_stunde": "1",
-         "uhrzeit": "07:10",
-         "ort": "Haus, WCs, Caféteria",
-         "info": "für Bir"
         }
        ]
       },
@@ -19835,14 +19829,6 @@
          "klasse": "",
          "raum": "",
          "info": "Ge 9A verlegt nach St.2 (Isb)",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "Ge",
-         "klasse": "",
-         "raum": "",
-         "info": "Auswertung Hospitation; Hr. Schulz; Ge 9A verlegt nach St.2 (Isb)",
          "geaendert": true
         },
         {
@@ -20346,19 +20332,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "Präsi",
+         "klasse": "10C",
+         "raum": "K09",
+         "info": "für Präsi Fel",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Präsi",
+         "klasse": "10C",
+         "raum": "K09",
+         "info": "für Präsi Fel",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -20859,7 +20861,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "1",
+         "uhrzeit": "07:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Bir"
+        }
+       ]
       },
       "Pri": {
        "entries": [
@@ -20884,7 +20893,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 7D Fel, s. IServ: Aufgaben durch FL erteilt",
+         "info": "En 7D Con, s. IServ: Aufgaben durch FL erteilt",
          "geaendert": true
         },
         {
@@ -20892,7 +20901,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "En 7D Fel, s. IServ: Aufgaben durch FL erteilt",
+         "info": "En 7D Con, s. IServ: Aufgaben durch FL erteilt",
          "geaendert": true
         }
        ],
