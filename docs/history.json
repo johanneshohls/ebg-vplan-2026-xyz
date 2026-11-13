@@ -1539,5 +1539,57 @@
    "Std 2 (08:25): für Geo See, Klausur; Aula"
   ],
   "zeitstempel": "13.11.2026, 06:14"
+ },
+ {
+  "timestamp": "2026-11-13T05:40:11.535549",
+  "lehrer": "Kar",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 1 (07:40): B VK fällt aus",
+   "Std 1 (07:40): für Präsi Fel",
+   "Std 2 (08:25): für Präsi Fel",
+   "Std 2 (08:25): B VK fällt aus"
+  ],
+  "zeitstempel": "13.11.2026, 06:37"
+ },
+ {
+  "timestamp": "2026-11-13T05:40:11.535549",
+  "lehrer": "Ost",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 1 (07:40): Bio 8E Pel",
+   "Std 2 (08:25): Bio 8E Pel",
+   "Std 3 (09:40): De 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): De 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): De 8A Zec",
+   "Std 6 (12:25): De 8A Zec"
+  ],
+  "zeitstempel": "13.11.2026, 06:37"
+ },
+ {
+  "timestamp": "2026-11-13T05:40:11.535549",
+  "lehrer": "Pel",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 1 (07:40): für Bio Ost",
+   "Std 2 (08:25): für Bio Ost",
+   "Std 7 (13:40): zentraler Nachreibeterrmin",
+   "Std 8 (14:25): zentraler Nachreibeterrmin"
+  ],
+  "zeitstempel": "13.11.2026, 06:37"
+ },
+ {
+  "timestamp": "2026-11-13T05:40:11.535549",
+  "lehrer": "Zec",
+  "datum": "Freitag, 13. November 2026",
+  "date_key": "20261113",
+  "changes": [
+   "Std 5 (11:40): für De Ost",
+   "Std 6 (12:25): für De Ost"
+  ],
+  "zeitstempel": "13.11.2026, 06:37"
  }
 ]
