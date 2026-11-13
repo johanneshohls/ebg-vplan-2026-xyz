@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "13.11.2026, 06:50 Uhr",
- "last_changed": "2026-11-13T06:37:00",
+ "generiert": "13.11.2026, 06:55 Uhr",
+ "last_changed": "2026-11-13T07:54:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -19292,7 +19292,7 @@
     },
     "20261113": {
      "datum": "Freitag, 13. November 2026",
-     "zeitstempel": "13.11.2026, 06:37",
+     "zeitstempel": "13.11.2026, 07:54",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin; R 205"
      ],
@@ -21420,7 +21420,7 @@
    "tage": {
     "20261116": {
      "datum": "Montag, 16. November 2026",
-     "zeitstempel": "13.11.2026, 06:14",
+     "zeitstempel": "13.11.2026, 07:54",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23521,7 +23521,7 @@
     },
     "20261117": {
      "datum": "Dienstag, 17. November 2026",
-     "zeitstempel": "12.11.2026, 12:42",
+     "zeitstempel": "13.11.2026, 07:54",
      "tagesinfo": [
       "4. Block: Aula; gemeinsames Treffen/Proben zum Weihnachtskonzert;  Mue11 (beide Kurse), Mue12 (beide Kurse) sowie Club 8 mit Frau Birzina"
      ],
@@ -25698,7 +25698,7 @@
     },
     "20261118": {
      "datum": "Mittwoch, 18. November 2026",
-     "zeitstempel": "12.11.2026, 12:42",
+     "zeitstempel": "13.11.2026, 07:54",
      "tagesinfo": [
       "8c: Kuchenbasar in der 1.+2. Pause"
      ],
@@ -27679,7 +27679,7 @@
     },
     "20261119": {
      "datum": "Donnerstag, 19. November 2026",
-     "zeitstempel": "12.11.2026, 12:42",
+     "zeitstempel": "13.11.2026, 07:54",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -27751,18 +27751,18 @@
         {
          "stunde": "5",
          "fach": "mue2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "107 106",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "Aula",
+         "info": "für MUE Bir, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "mue2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "107 106",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "Aula",
+         "info": "für MUE Bir, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -29346,18 +29346,18 @@
         {
          "stunde": "5",
          "fach": "thea2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "Co1",
+         "info": "für Thea Schil, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "thea2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "Co1",
+         "info": "für Thea Schil, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -29748,7 +29748,7 @@
     },
     "20261120": {
      "datum": "Freitag, 20. November 2026",
-     "zeitstempel": "12.11.2026, 12:42",
+     "zeitstempel": "13.11.2026, 07:54",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, R 105"
      ],

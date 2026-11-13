@@ -1591,5 +1591,29 @@
    "Std 6 (12:25): für De Ost"
   ],
   "zeitstempel": "13.11.2026, 06:37"
+ },
+ {
+  "timestamp": "2026-11-13T06:55:10.053781",
+  "lehrer": "Bir",
+  "datum": "Donnerstag, 19. November 2026",
+  "date_key": "20261119",
+  "changes": [
+   "Std 5 (11:40): für MUE Bir, Raumänderung",
+   "Std 6 (12:25): für MUE Bir, Raumänderung",
+   "Std 7 (13:40): für Mu Bir, Klassenkonzert",
+   "Std 8 (14:25): für Mu Bir, Klassenkonzert"
+  ],
+  "zeitstempel": "13.11.2026, 07:54"
+ },
+ {
+  "timestamp": "2026-11-13T06:55:10.053781",
+  "lehrer": "Schil",
+  "datum": "Donnerstag, 19. November 2026",
+  "date_key": "20261119",
+  "changes": [
+   "Std 5 (11:40): für Thea Schil, Raumänderung",
+   "Std 6 (12:25): für Thea Schil, Raumänderung"
+  ],
+  "zeitstempel": "13.11.2026, 07:54"
  }
 ]
