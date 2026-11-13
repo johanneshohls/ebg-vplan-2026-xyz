@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "13.11.2026, 05:10 Uhr",
- "last_changed": "2026-11-13T05:09:00",
+ "generiert": "13.11.2026, 05:15 Uhr",
+ "last_changed": "2026-11-13T06:14:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21404,7 +21404,7 @@
    "tage": {
     "20261116": {
      "datum": "Montag, 16. November 2026",
-     "zeitstempel": "12.11.2026, 12:42",
+     "zeitstempel": "13.11.2026, 06:14",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -22503,17 +22503,17 @@
          "stunde": "1",
          "fach": "phil2",
          "klasse": "11A-11E",
-         "raum": "Co3",
-         "info": "für Phil Lan, Klausur",
-         "geaendert": false
+         "raum": "",
+         "info": "für Phil Lan, Klausur; Aula",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "phil2",
          "klasse": "11A-11E",
-         "raum": "Co3",
-         "info": "für Phil Lan, Klausur",
-         "geaendert": false
+         "raum": "",
+         "info": "für Phil Lan, Klausur; Aula",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -23147,17 +23147,17 @@
          "stunde": "1",
          "fach": "geo2",
          "klasse": "11A-11E",
-         "raum": "105",
-         "info": "für Geo See, Klausur",
-         "geaendert": false
+         "raum": "",
+         "info": "für Geo See, Klausur; Aula",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "geo2",
          "klasse": "11A-11E",
-         "raum": "105",
-         "info": "für Geo See, Klausur",
-         "geaendert": false
+         "raum": "",
+         "info": "für Geo See, Klausur; Aula",
+         "geaendert": true
         },
         {
          "stunde": "3",

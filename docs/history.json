@@ -1516,5 +1516,28 @@
    "Std 6 (12:25): En 7D Con, s. IServ: Aufgaben durch FL erteilt"
   ],
   "zeitstempel": "13.11.2026, 05:09"
+ },
+ {
+  "timestamp": "2026-11-13T05:15:11.712088",
+  "lehrer": "Lan",
+  "datum": "Montag, 16. November 2026",
+  "date_key": "20261116",
+  "changes": [
+   "Std 1 (07:40): für Phil Lan, Klausur; Aula",
+   "Std 2 (08:25): für Phil Lan, Klausur; Aula",
+   "Std 3 (09:40): für Phil Lan, Hospitation"
+  ],
+  "zeitstempel": "13.11.2026, 06:14"
+ },
+ {
+  "timestamp": "2026-11-13T05:15:11.712088",
+  "lehrer": "See",
+  "datum": "Montag, 16. November 2026",
+  "date_key": "20261116",
+  "changes": [
+   "Std 1 (07:40): für Geo See, Klausur; Aula",
+   "Std 2 (08:25): für Geo See, Klausur; Aula"
+  ],
+  "zeitstempel": "13.11.2026, 06:14"
  }
 ]
