@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "15.11.2026, 13:30 Uhr",
- "last_changed": "2026-11-15T10:50:00",
+ "generiert": "15.11.2026, 13:35 Uhr",
+ "last_changed": "2026-11-15T14:33:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21420,7 +21420,7 @@
    "tage": {
     "20261116": {
      "datum": "Montag, 16. November 2026",
-     "zeitstempel": "15.11.2026, 10:50",
+     "zeitstempel": "15.11.2026, 14:33",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -21835,6 +21835,22 @@
          "raum": "Co2",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "De",
+         "klasse": "9B",
+         "raum": "106",
+         "info": "für De Ost",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "De",
+         "klasse": "9B",
+         "raum": "106",
+         "info": "für De Ost",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -21843,35 +21859,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "BIO1",
-         "klasse": "11A-11E",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "BIO1",
-         "klasse": "11A-11E",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "KILZ",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 8C fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "KILZ",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "KILZ 8C fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -22836,51 +22852,51 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Bio",
-         "klasse": "8E",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 8E Ter, Weiterarbeit am Plakat",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Bio",
-         "klasse": "8E",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 8E Ter, Weiterarbeit am Plakat",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "De",
-         "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9B Fer",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "De",
-         "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9B Fer",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Bio",
-         "klasse": "10C",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10C selbst. (v), Wiederholung des Unterrichtsstoffes; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Bio",
-         "klasse": "10C",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 10C selbst. (v), Wiederholung des Unterrichtsstoffes; kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -23353,6 +23369,22 @@
          "raum": "204",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "8E",
+         "raum": "207",
+         "info": "für Bio Ost, Weiterarbeit am Plakat",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Bio",
+         "klasse": "8E",
+         "raum": "207",
+         "info": "für Bio Ost, Weiterarbeit am Plakat",
+         "geaendert": true
         },
         {
          "stunde": "5",
