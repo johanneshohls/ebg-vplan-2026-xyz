@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "15.11.2026, 07:15 Uhr",
- "last_changed": "2026-11-15T08:09:00",
+ "generiert": "15.11.2026, 07:20 Uhr",
+ "last_changed": "2026-11-15T08:19:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21420,7 +21420,7 @@
    "tage": {
     "20261116": {
      "datum": "Montag, 16. November 2026",
-     "zeitstempel": "15.11.2026, 08:09",
+     "zeitstempel": "15.11.2026, 08:19",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -21785,19 +21785,19 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "En",
-         "klasse": "9D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9D Hin (für En)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "En",
-         "klasse": "9D",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9D Hin (für En)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -22038,7 +22038,24 @@
        ]
       },
       "Hin": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "9D",
+         "raum": "002",
+         "info": "für En Fel",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "9D",
+         "raum": "002",
+         "info": "für En Fel",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Hofm": {
