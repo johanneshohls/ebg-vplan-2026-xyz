@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "15.11.2026, 07:05 Uhr",
- "last_changed": "2026-11-13T07:54:00",
+ "generiert": "15.11.2026, 07:10 Uhr",
+ "last_changed": "2026-11-15T08:09:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21420,7 +21420,7 @@
    "tage": {
     "20261116": {
      "datum": "Montag, 16. November 2026",
-     "zeitstempel": "13.11.2026, 07:54",
+     "zeitstempel": "15.11.2026, 08:09",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23521,9 +23521,10 @@
     },
     "20261117": {
      "datum": "Dienstag, 17. November 2026",
-     "zeitstempel": "13.11.2026, 07:54",
+     "zeitstempel": "15.11.2026, 08:09",
      "tagesinfo": [
-      "4. Block: Aula; gemeinsames Treffen/Proben zum Weihnachtskonzert;  Mue11 (beide Kurse), Mue12 (beide Kurse) sowie Club 8 mit Frau Birzina"
+      "4. Block: Aula; gemeinsames Treffen/Proben zum Weihnachtskonzert;  Mue11 (beide Kurse), Mue12 (beide Kurse) sowie Club 8 mit Frau Birzina",
+      "1.+2. Block: 10a; Geschichtsprojekt; K07 (V: A. Golla)"
      ],
      "lehrer": {
       "Bar": {
@@ -25698,9 +25699,10 @@
     },
     "20261118": {
      "datum": "Mittwoch, 18. November 2026",
-     "zeitstempel": "13.11.2026, 07:54",
+     "zeitstempel": "15.11.2026, 08:09",
      "tagesinfo": [
-      "8c: Kuchenbasar in der 1.+2. Pause"
+      "8c: Kuchenbasar in der 1.+2. Pause",
+      "3.+4. Block: 12Ge_GK + 10d; Geschichtsprojekt; K07 (V: A. Golla)"
      ],
      "lehrer": {
       "Bar": {
@@ -25744,19 +25746,19 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "Ma",
-         "klasse": "10D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10D verlegt nach Fr (20.11.) St.3",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ma",
-         "klasse": "10D",
-         "raum": "205",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 10D verlegt nach Fr (20.11.) St.4",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -25780,7 +25782,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Fel"
         }
        ]
       },
@@ -26128,7 +26130,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Bes"
+        }
+       ]
       },
       "Fer": {
        "entries": [],
@@ -26882,7 +26891,40 @@
        "aufsichten": []
       },
       "LY": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "Ge",
+         "klasse": "10D",
+         "raum": " ",
+         "info": "statt Fr (20.11.) St.3 (Ge Gol), Geschichtsprojekt, K07",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ge",
+         "klasse": "10D",
+         "raum": " ",
+         "info": "statt Fr (20.11.) St.4 (Ge Gol)",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Ge",
+         "klasse": "10D",
+         "raum": " ",
+         "info": "statt Do (26.11.) St.5 (Ge Gol), Geschichtsprojekt, K07",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Ge",
+         "klasse": "10D",
+         "raum": " ",
+         "info": "statt Do (26.11.) St.6 (Ge Gol)",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Mar": {
@@ -27679,7 +27721,7 @@
     },
     "20261119": {
      "datum": "Donnerstag, 19. November 2026",
-     "zeitstempel": "13.11.2026, 07:54",
+     "zeitstempel": "15.11.2026, 08:09",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29748,7 +29790,7 @@
     },
     "20261120": {
      "datum": "Freitag, 20. November 2026",
-     "zeitstempel": "13.11.2026, 07:54",
+     "zeitstempel": "15.11.2026, 08:09",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, R 105"
      ],
@@ -29793,6 +29835,22 @@
       "Bes": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "Ma",
+         "klasse": "10D",
+         "raum": "K07",
+         "info": "Ma 10D statt Mi (18.11.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ma",
+         "klasse": "10D",
+         "raum": "K07",
+         "info": "Ma 10D statt Mi (18.11.) St.6",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "ma3",
          "klasse": "11D,11A-11C,11E",
@@ -29825,7 +29883,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Fel"
+        }
+       ]
       },
       "Bir": {
        "entries": [
@@ -30198,7 +30263,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Bes"
         }
        ]
       },
@@ -30231,19 +30296,19 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Ge",
-         "klasse": "10D",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10D gehalten am Mi (18.11.) St.5 (LY), Geschichtsprojekt, K07",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Ge",
-         "klasse": "10D",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 10D gehalten am Mi (18.11.) St.6 (LY)",
+         "geaendert": true
         },
         {
          "stunde": "5",
