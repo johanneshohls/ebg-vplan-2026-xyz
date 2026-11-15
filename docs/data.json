@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "15.11.2026, 09:40 Uhr",
- "last_changed": "2026-11-15T10:36:00",
+ "generiert": "15.11.2026, 09:45 Uhr",
+ "last_changed": "2026-11-15T10:43:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21420,7 +21420,7 @@
    "tage": {
     "20261116": {
      "datum": "Montag, 16. November 2026",
-     "zeitstempel": "15.11.2026, 10:36",
+     "zeitstempel": "15.11.2026, 10:43",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
