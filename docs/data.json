@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "15.11.2026, 17:25 Uhr",
- "last_changed": "2026-11-15T14:35:00",
+ "generiert": "15.11.2026, 17:30 Uhr",
+ "last_changed": "2026-11-15T18:29:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21420,7 +21420,7 @@
    "tage": {
     "20261116": {
      "datum": "Montag, 16. November 2026",
-     "zeitstempel": "15.11.2026, 14:35",
+     "zeitstempel": "15.11.2026, 18:27",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -22235,6 +22235,22 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "Phi",
+         "klasse": "8D",
+         "raum": "102",
+         "info": "für Phi Jur",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Phi",
+         "klasse": "8D",
+         "raum": "102",
+         "info": "für Phi Jur",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "DE3",
          "klasse": "11D,11A-11C,11E",
@@ -22342,51 +22358,51 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Phi",
-         "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phi 8D Hön",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Phi",
-         "klasse": "8D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Phi 8D Hön",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "DE1",
-         "klasse": "11A-11E",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "DE1",
-         "klasse": "11A-11E",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "de2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "de2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -25787,7 +25803,7 @@
     },
     "20261118": {
      "datum": "Mittwoch, 18. November 2026",
-     "zeitstempel": "15.11.2026, 08:09",
+     "zeitstempel": "15.11.2026, 18:29",
      "tagesinfo": [
       "8c: Kuchenbasar in der 1.+2. Pause",
       "3.+4. Block: 12Ge_GK + 10d; Geschichtsprojekt; K07 (V: A. Golla)"
@@ -26111,6 +26127,22 @@
          "raum": "K09",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Inf",
+         "klasse": "",
+         "raum": "K10",
+         "info": "Biberwettbewerb",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Inf",
+         "klasse": "",
+         "raum": "K10",
+         "info": "Biberwettbewerb",
+         "geaendert": true
         }
        ],
        "aufsichten": []

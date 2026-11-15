@@ -1673,5 +1673,42 @@
    "Std 6 (12:25): verlegt von St.4 (ILZ Fel)"
   ],
   "zeitstempel": "15.11.2026, 14:35"
+ },
+ {
+  "timestamp": "2026-11-15T17:30:11.696701",
+  "lehrer": "Hön",
+  "datum": "Montag, 16. November 2026",
+  "date_key": "20261116",
+  "changes": [
+   "Std 3 (09:40): für Phi Jur",
+   "Std 4 (10:25): für Phi Jur"
+  ],
+  "zeitstempel": "15.11.2026, 18:27"
+ },
+ {
+  "timestamp": "2026-11-15T17:30:11.696701",
+  "lehrer": "Jur",
+  "datum": "Montag, 16. November 2026",
+  "date_key": "20261116",
+  "changes": [
+   "Std 3 (09:40): Phi 8D Hön",
+   "Std 4 (10:25): Phi 8D Hön",
+   "Std 5 (11:40): De 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): De 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 7 (13:40): De 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 8 (14:25): De 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "15.11.2026, 18:27"
+ },
+ {
+  "timestamp": "2026-11-15T17:30:11.696701",
+  "lehrer": "Con",
+  "datum": "Mittwoch, 18. November 2026",
+  "date_key": "20261118",
+  "changes": [
+   "Std 5 (11:40): Biberwettbewerb",
+   "Std 6 (12:25): Biberwettbewerb"
+  ],
+  "zeitstempel": "15.11.2026, 18:29"
  }
 ]
