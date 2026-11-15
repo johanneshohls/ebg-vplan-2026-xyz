@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "15.11.2026, 13:35 Uhr",
- "last_changed": "2026-11-15T14:33:00",
+ "generiert": "15.11.2026, 13:40 Uhr",
+ "last_changed": "2026-11-15T14:35:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21420,7 +21420,7 @@
    "tage": {
     "20261116": {
      "datum": "Montag, 16. November 2026",
-     "zeitstempel": "15.11.2026, 14:33",
+     "zeitstempel": "15.11.2026, 14:35",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23602,7 +23602,7 @@
     },
     "20261117": {
      "datum": "Dienstag, 17. November 2026",
-     "zeitstempel": "15.11.2026, 08:09",
+     "zeitstempel": "15.11.2026, 14:35",
      "tagesinfo": [
       "4. Block: Aula; gemeinsames Treffen/Proben zum Weihnachtskonzert;  Mue11 (beide Kurse), Mue12 (beide Kurse) sowie Club 8 mit Frau Birzina",
       "1.+2. Block: 10a; Geschichtsprojekt; K07 (V: A. Golla)"
@@ -24055,7 +24055,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "ILZ 10C verlegt nach St.5",
+         "info": "Ge 10C verlegt nach St.5 (Isb)",
          "geaendert": true
         },
         {
@@ -24063,40 +24063,24 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "ILZ 10C verlegt nach St.6",
-         "geaendert": true
-        },
-        {
-         "stunde": "5",
-         "fach": "ILZ",
-         "klasse": "10C",
-         "raum": "K09",
-         "info": "ILZ 10C verlegt von St.3",
-         "geaendert": true
-        },
-        {
-         "stunde": "6",
-         "fach": "ILZ",
-         "klasse": "10C",
-         "raum": "K09",
-         "info": "ILZ 10C verlegt von St.4",
+         "info": "Ge 10C verlegt nach St.6 (Isb)",
          "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Club6",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "TuSp",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club6 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club6",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "TuSp",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club6 10A-10D,9A-9D fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -24109,19 +24093,19 @@
        "entries": [
         {
          "stunde": "7",
-         "fach": "Bio",
-         "klasse": "8A",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 8A fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Bio",
-         "klasse": "8A",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 8A fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -24129,7 +24113,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Hof1, WCs, Container",
-         "info": ""
+         "info": "entfällt, V: Köh"
         }
        ]
       },
@@ -24619,6 +24603,22 @@
          "raum": "006",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ge",
+         "klasse": "10C",
+         "raum": "K09",
+         "info": "verlegt von St.3 (ILZ Fel)",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ge",
+         "klasse": "10C",
+         "raum": "K09",
+         "info": "verlegt von St.4 (ILZ Fel)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -24840,7 +24840,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Hof1, WCs, Container",
+         "info": "für Fla"
+        }
+       ]
       },
       "Lan": {
        "entries": [
