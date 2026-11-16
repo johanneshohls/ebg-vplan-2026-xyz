@@ -1775,5 +1775,36 @@
    "Std 6 (12:25): En 10A statt Di (17.11.) St.6; Fr 10A gehalten am Di (17.11.) St.6"
   ],
   "zeitstempel": "16.11.2026, 11:33"
+ },
+ {
+  "timestamp": "2026-11-16T11:30:11.215724",
+  "lehrer": "Bri",
+  "datum": "Dienstag, 17. November 2026",
+  "date_key": "20261117",
+  "changes": [
+   "Std 5 (11:40): Bio geändert"
+  ],
+  "zeitstempel": "16.11.2026, 12:27"
+ },
+ {
+  "timestamp": "2026-11-16T11:30:11.215724",
+  "lehrer": "Ost",
+  "datum": "Dienstag, 17. November 2026",
+  "date_key": "20261117",
+  "changes": [
+   "Std 3 (09:40): für De Ost, begleiteter Unterricht: L. Zech",
+   "Std 5 (11:40): Bio geändert"
+  ],
+  "zeitstempel": "16.11.2026, 12:27"
+ },
+ {
+  "timestamp": "2026-11-16T11:30:11.215724",
+  "lehrer": "See",
+  "datum": "Dienstag, 17. November 2026",
+  "date_key": "20261117",
+  "changes": [
+   "Std 5 (11:40): Bio geändert"
+  ],
+  "zeitstempel": "16.11.2026, 12:27"
  }
 ]

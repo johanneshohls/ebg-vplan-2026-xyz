@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "16.11.2026, 11:25 Uhr",
- "last_changed": "2026-11-16T11:33:00",
+ "generiert": "16.11.2026, 11:30 Uhr",
+ "last_changed": "2026-11-16T12:27:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12944,7 +12944,7 @@
     },
     "20261117": {
      "datum": "Dienstag, 17. November 2026",
-     "zeitstempel": "16.11.2026, 11:33",
+     "zeitstempel": "16.11.2026, 12:27",
      "tagesinfo": [
       "4. Block: Aula; gemeinsames Treffen/Proben zum Weihnachtskonzert;  Mue11 (beide Kurse), Mue12 (beide Kurse) sowie Club 8 mit Frau Birzina",
       "1.+2. Block: 10a; Geschichtsprojekt; K07 (V: A. Golla)"
@@ -13288,6 +13288,14 @@
          "raum": "Co2",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "204",
+         "info": "",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -14512,6 +14520,14 @@
          "geaendert": false
         },
         {
+         "stunde": "5",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "204",
+         "info": "",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "bio2",
          "klasse": "12A-12D",
@@ -14853,6 +14869,14 @@
          "raum": "105",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "204",
+         "info": "",
+         "geaendert": true
         }
        ],
        "aufsichten": []
