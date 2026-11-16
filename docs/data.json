@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "16.11.2026, 10:10 Uhr",
- "last_changed": "2026-11-15T18:29:00",
+ "generiert": "16.11.2026, 10:15 Uhr",
+ "last_changed": "2026-11-16T11:15:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -10746,7 +10746,7 @@
    "tage": {
     "20261116": {
      "datum": "Montag, 16. November 2026",
-     "zeitstempel": "15.11.2026, 18:27",
+     "zeitstempel": "16.11.2026, 11:15",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -12732,17 +12732,17 @@
          "stunde": "5",
          "fach": "BIO1",
          "klasse": "12A-12D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "201",
+         "info": "für Bio Ter, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "BIO1",
          "klasse": "12A-12D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "201",
+         "info": "für Bio Ter, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -12861,17 +12861,17 @@
          "stunde": "5",
          "fach": "KILZ",
          "klasse": "8D",
-         "raum": "K04",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für KILZ Tuh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "KILZ",
          "klasse": "8D",
-         "raum": "K04",
-         "info": "",
-         "geaendert": false
+         "raum": "204",
+         "info": "für KILZ Tuh, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -15129,7 +15129,7 @@
     },
     "20261118": {
      "datum": "Mittwoch, 18. November 2026",
-     "zeitstempel": "15.11.2026, 18:29",
+     "zeitstempel": "16.11.2026, 11:12",
      "tagesinfo": [
       "8c: Kuchenbasar in der 1.+2. Pause",
       "3.+4. Block: 12Ge_GK + 10d; Geschichtsprojekt; K07 (V: A. Golla)"
@@ -15212,7 +15212,7 @@
          "vor_stunde": "7",
          "uhrzeit": "13:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": "entfällt, V: Fel"
+         "info": "entfällt, V: Gor"
         }
        ]
       },
@@ -15469,6 +15469,22 @@
          "raum": "K10",
          "info": "Biberwettbewerb",
          "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Präsi",
+         "klasse": "10C",
+         "raum": "K09",
+         "info": "für Präsi Fel",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Präsi",
+         "klasse": "10C",
+         "raum": "K09",
+         "info": "für Präsi Fel",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -15545,45 +15561,38 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "span1",
-         "klasse": "12A-12D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "span1",
-         "klasse": "12A-12D",
-         "raum": "007",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Präsi",
-         "klasse": "10C",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Präsi 10C Con",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Präsi",
-         "klasse": "10C",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Präsi 10C Con",
+         "geaendert": true
         }
        ],
-       "aufsichten": [
-        {
-         "vor_stunde": "7",
-         "uhrzeit": "13:10",
-         "ort": "Haus, WCs, Caféteria",
-         "info": "für Bes"
-        }
-       ]
+       "aufsichten": []
       },
       "Fer": {
        "entries": [],
@@ -15737,7 +15746,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "7",
+         "uhrzeit": "13:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Bes"
+        }
+       ]
       },
       "Hei": {
        "entries": [],
