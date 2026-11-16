@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "16.11.2026, 14:00 Uhr",
- "last_changed": "2026-11-16T12:27:00",
+ "generiert": "16.11.2026, 14:05 Uhr",
+ "last_changed": "2026-11-16T15:04:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12944,7 +12944,7 @@
     },
     "20261117": {
      "datum": "Dienstag, 17. November 2026",
-     "zeitstempel": "16.11.2026, 12:27",
+     "zeitstempel": "16.11.2026, 15:04",
      "tagesinfo": [
       "4. Block: Aula; gemeinsames Treffen/Proben zum Weihnachtskonzert;  Mue11 (beide Kurse), Mue12 (beide Kurse) sowie Club 8 mit Frau Birzina",
       "1.+2. Block: 10a; Geschichtsprojekt; K07 (V: A. Golla)"
@@ -14078,18 +14078,18 @@
         },
         {
          "stunde": "7",
-         "fach": "Club4",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "107",
-         "info": "für Club4 Kar, Raumänderung",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club4 10A-10D,9A-9D fällt aus",
          "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Club4",
-         "klasse": "10A-10D,9A-9D",
-         "raum": "107",
-         "info": "für Club4 Kar, Raumänderung",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Club4 10A-10D,9A-9D fällt aus",
          "geaendert": true
         }
        ],

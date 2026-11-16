@@ -1806,5 +1806,16 @@
    "Std 5 (11:40): Bio geändert"
   ],
   "zeitstempel": "16.11.2026, 12:27"
+ },
+ {
+  "timestamp": "2026-11-16T14:05:10.945877",
+  "lehrer": "Kar",
+  "datum": "Dienstag, 17. November 2026",
+  "date_key": "20261117",
+  "changes": [
+   "Std 7 (13:40): Club4 10A-10D,9A-9D fällt aus",
+   "Std 8 (14:25): Club4 10A-10D,9A-9D fällt aus"
+  ],
+  "zeitstempel": "16.11.2026, 15:04"
  }
 ]
