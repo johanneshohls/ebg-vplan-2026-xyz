@@ -1749,5 +1749,31 @@
    "Std 8 (14:25): Präsi 10C Con"
   ],
   "zeitstempel": "16.11.2026, 11:12"
+ },
+ {
+  "timestamp": "2026-11-16T10:35:13.826344",
+  "lehrer": "Wag",
+  "datum": "Dienstag, 17. November 2026",
+  "date_key": "20261117",
+  "changes": [
+   "Std 5 (11:40): En 10A verlegt nach Fr (20.11.) St.5",
+   "Std 5 (11:40): Fr 10A statt Fr (20.11.) St.5; En 10A verlegt nach Fr (20.11.) St.5",
+   "Std 6 (12:25): En 10A verlegt nach Fr (20.11.) St.6",
+   "Std 6 (12:25): Fr 10A statt Fr (20.11.) St.6; En 10A verlegt nach Fr (20.11.) St.6"
+  ],
+  "zeitstempel": "16.11.2026, 11:33"
+ },
+ {
+  "timestamp": "2026-11-16T10:35:13.826344",
+  "lehrer": "Wag",
+  "datum": "Freitag, 20. November 2026",
+  "date_key": "20261120",
+  "changes": [
+   "Std 5 (11:40): Fr 10A gehalten am Di (17.11.) St.5",
+   "Std 5 (11:40): En 10A statt Di (17.11.) St.5; Fr 10A gehalten am Di (17.11.) St.5",
+   "Std 6 (12:25): Fr 10A gehalten am Di (17.11.) St.6",
+   "Std 6 (12:25): En 10A statt Di (17.11.) St.6; Fr 10A gehalten am Di (17.11.) St.6"
+  ],
+  "zeitstempel": "16.11.2026, 11:33"
  }
 ]
