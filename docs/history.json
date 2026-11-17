@@ -1710,5 +1710,76 @@
    "Hinweis: 1.+2. Block: 10a; Geschichtsprojekt; K07 (V: A. Golla)"
   ],
   "zeitstempel": "16.11.2026, 15:05"
+ },
+ {
+  "timestamp": "2026-11-17T12:30:11.093605",
+  "lehrer": "Hoh",
+  "datum": "Dienstag, 17. November 2026",
+  "date_key": "20261117",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "17.11.2026, 13:26"
+ },
+ {
+  "timestamp": "2026-11-17T12:30:11.093605",
+  "lehrer": "Hoh",
+  "datum": "Mittwoch, 25. November 2026",
+  "date_key": "20261125",
+  "changes": [
+   "Std 5 (11:40): 10c, Präsi, K09",
+   "Std 6 (12:25): 10c, Präsi, K09",
+   "Std 7 (13:40): ILZ 10b, R 207",
+   "Std 8 (14:25): ILZ 10b, R 207"
+  ],
+  "zeitstempel": "17.11.2026, 13:26"
+ },
+ {
+  "timestamp": "2026-11-17T12:30:11.093605",
+  "lehrer": "Gor",
+  "datum": "Freitag, 27. November 2026",
+  "date_key": "20261127",
+  "changes": [
+   "Std 1 (07:40): Ge 9A verlegt von St.5",
+   "Std 2 (08:25): Ge 9A verlegt von St.6",
+   "Std 3 (09:40): für Ge Gor, Raumänderung",
+   "Std 4 (10:25): für Ge Gor, Raumänderung",
+   "Std 5 (11:40): Ge 9A verlegt nach St.1",
+   "Std 5 (11:40): Ge 10C verlegt von St.7, Hospitation, Hr. Pohla; Ge 9A verlegt nach St.1",
+   "Std 6 (12:25): Ge 9A verlegt nach St.2",
+   "Std 6 (12:25): Auswertung Hospitation, Hr. Pohla; Ge 9A verlegt nach St.2 (Isb)",
+   "Std 7 (13:40): Ge 10C verlegt nach St.5, Hospitation, Hr. Pohla",
+   "Std 8 (14:25): ILZ 10C verlegt nach St.6 (Käc), Aufgaben liegen vor."
+  ],
+  "zeitstempel": "17.11.2026, 13:26"
+ },
+ {
+  "timestamp": "2026-11-17T12:30:11.093605",
+  "lehrer": "Isb",
+  "datum": "Freitag, 27. November 2026",
+  "date_key": "20261127",
+  "changes": [
+   "Std 1 (07:40): Ge 9A verlegt von St.5",
+   "Std 2 (08:25): Ge 9A verlegt von St.6",
+   "Std 5 (11:40): Ge 9A verlegt nach St.1",
+   "Std 5 (11:40): Ge 10C verlegt von St.7, Hospitation, Hr. Pohla; Ge 9A verlegt nach St.1",
+   "Std 6 (12:25): Ge 9A verlegt nach St.2",
+   "Std 6 (12:25): Auswertung Hospitation, Hr. Pohla; Ge 9A verlegt nach St.2 (Isb)",
+   "Std 7 (13:40): Ge 10C verlegt nach St.5, Hospitation, Hr. Pohla",
+   "Std 8 (14:25): ILZ 10C verlegt nach St.6 (Käc), Aufgaben liegen vor."
+  ],
+  "zeitstempel": "17.11.2026, 13:26"
+ },
+ {
+  "timestamp": "2026-11-17T12:30:11.093605",
+  "lehrer": "Käc",
+  "datum": "Freitag, 27. November 2026",
+  "date_key": "20261127",
+  "changes": [
+   "Std 1 (07:40): für Ma Käc",
+   "Std 2 (08:25): für Ma Käc",
+   "Std 6 (12:25): verlegt von St.8 (Ge Isb), Aufgaben liegen vor."
+  ],
+  "zeitstempel": "17.11.2026, 13:26"
  }
 ]
