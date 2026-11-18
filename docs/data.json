@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "18.11.2026, 10:15 Uhr",
- "last_changed": "2026-11-18T07:27:00",
+ "generiert": "18.11.2026, 10:20 Uhr",
+ "last_changed": "2026-11-18T11:18:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -17207,7 +17207,7 @@
     },
     "20261119": {
      "datum": "Donnerstag, 19. November 2026",
-     "zeitstempel": "18.11.2026, 07:27",
+     "zeitstempel": "18.11.2026, 11:18",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -18072,12 +18072,6 @@
          "uhrzeit": "13:10",
          "ort": "Hof1, WCs, Container",
          "info": "entfällt, V: Ost"
-        },
-        {
-         "vor_stunde": "5",
-         "uhrzeit": "11:10",
-         "ort": "Hof1, WCs, Container",
-         "info": "für Ost"
         }
        ]
       },
@@ -18583,7 +18577,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Hof1, WCs, Container",
+         "info": "für Ost"
+        }
+       ]
       },
       "Ost": {
        "entries": [
@@ -18657,7 +18658,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Hof1, WCs, Container",
-         "info": "entfällt, V: Hol"
+         "info": "entfällt, V: OLop"
         },
         {
          "vor_stunde": "7",
