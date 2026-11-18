@@ -1747,5 +1747,16 @@
    "Std 6 (12:25): verlegt von St.8 (Ge Isb), Aufgaben liegen vor."
   ],
   "zeitstempel": "17.11.2026, 13:26"
+ },
+ {
+  "timestamp": "2026-11-18T06:30:11.005489",
+  "lehrer": "Jur",
+  "datum": "Freitag, 20. November 2026",
+  "date_key": "20261120",
+  "changes": [
+   "Std 3 (09:40): Nachschreibetermin",
+   "Std 4 (10:25): Nachschreibetermin"
+  ],
+  "zeitstempel": "18.11.2026, 07:27"
  }
 ]

@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "18.11.2026, 06:25 Uhr",
- "last_changed": "2026-11-17T13:26:00",
+ "generiert": "18.11.2026, 06:30 Uhr",
+ "last_changed": "2026-11-18T07:27:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -15153,7 +15153,7 @@
     },
     "20261118": {
      "datum": "Mittwoch, 18. November 2026",
-     "zeitstempel": "17.11.2026, 13:26",
+     "zeitstempel": "18.11.2026, 07:27",
      "tagesinfo": [
       "8c: Kuchenbasar in der 1.+2. Pause",
       "3.+4. Block: 12Ge_GK + 10d; Geschichtsprojekt; K07 (V: A. Golla)"
@@ -17207,7 +17207,7 @@
     },
     "20261119": {
      "datum": "Donnerstag, 19. November 2026",
-     "zeitstempel": "17.11.2026, 13:26",
+     "zeitstempel": "18.11.2026, 07:27",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -19276,7 +19276,7 @@
     },
     "20261120": {
      "datum": "Freitag, 20. November 2026",
-     "zeitstempel": "17.11.2026, 13:26",
+     "zeitstempel": "18.11.2026, 07:27",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, R 105"
      ],
@@ -20331,6 +20331,22 @@
          "raum": "004",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "",
+         "raum": "Co3",
+         "info": "Nachschreibetermin",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "",
+         "raum": "Co3",
+         "info": "Nachschreibetermin",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -21523,7 +21539,7 @@
    "tage": {
     "20261123": {
      "datum": "Montag, 23. November 2026",
-     "zeitstempel": "17.11.2026, 13:26",
+     "zeitstempel": "18.11.2026, 07:27",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23546,7 +23562,7 @@
     },
     "20261124": {
      "datum": "Dienstag, 24. November 2026",
-     "zeitstempel": "17.11.2026, 13:26",
+     "zeitstempel": "18.11.2026, 07:27",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -25577,7 +25593,7 @@
     },
     "20261125": {
      "datum": "Mittwoch, 25. November 2026",
-     "zeitstempel": "17.11.2026, 13:26",
+     "zeitstempel": "18.11.2026, 07:27",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -27711,7 +27727,7 @@
     },
     "20261126": {
      "datum": "Donnerstag, 26. November 2026",
-     "zeitstempel": "17.11.2026, 13:26",
+     "zeitstempel": "18.11.2026, 07:27",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29805,7 +29821,7 @@
     },
     "20261127": {
      "datum": "Freitag, 27. November 2026",
-     "zeitstempel": "17.11.2026, 13:26",
+     "zeitstempel": "18.11.2026, 07:27",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
