@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "18.11.2026, 13:15 Uhr",
- "last_changed": "2026-11-18T11:18:00",
+ "generiert": "18.11.2026, 13:20 Uhr",
+ "last_changed": "2026-11-18T14:17:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -15153,7 +15153,7 @@
     },
     "20261118": {
      "datum": "Mittwoch, 18. November 2026",
-     "zeitstempel": "18.11.2026, 07:27",
+     "zeitstempel": "18.11.2026, 14:17",
      "tagesinfo": [
       "8c: Kuchenbasar in der 1.+2. Pause",
       "3.+4. Block: 12Ge_GK + 10d; Geschichtsprojekt; K07 (V: A. Golla)"
@@ -17207,7 +17207,7 @@
     },
     "20261119": {
      "datum": "Donnerstag, 19. November 2026",
-     "zeitstempel": "18.11.2026, 11:18",
+     "zeitstempel": "18.11.2026, 14:17",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -19277,7 +19277,7 @@
     },
     "20261120": {
      "datum": "Freitag, 20. November 2026",
-     "zeitstempel": "18.11.2026, 07:27",
+     "zeitstempel": "18.11.2026, 14:17",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, R 105"
      ],
@@ -21540,7 +21540,7 @@
    "tage": {
     "20261123": {
      "datum": "Montag, 23. November 2026",
-     "zeitstempel": "18.11.2026, 07:27",
+     "zeitstempel": "18.11.2026, 14:17",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23563,7 +23563,7 @@
     },
     "20261124": {
      "datum": "Dienstag, 24. November 2026",
-     "zeitstempel": "18.11.2026, 07:27",
+     "zeitstempel": "18.11.2026, 14:17",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -25594,7 +25594,7 @@
     },
     "20261125": {
      "datum": "Mittwoch, 25. November 2026",
-     "zeitstempel": "18.11.2026, 07:27",
+     "zeitstempel": "18.11.2026, 14:17",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -27728,7 +27728,7 @@
     },
     "20261126": {
      "datum": "Donnerstag, 26. November 2026",
-     "zeitstempel": "18.11.2026, 07:27",
+     "zeitstempel": "18.11.2026, 14:17",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29822,8 +29822,10 @@
     },
     "20261127": {
      "datum": "Freitag, 27. November 2026",
-     "zeitstempel": "18.11.2026, 07:27",
-     "tagesinfo": [],
+     "zeitstempel": "18.11.2026, 14:17",
+     "tagesinfo": [
+      "4. Block: zentraler Nachschreibetermin, Aula"
+     ],
      "lehrer": {
       "Bar": {
        "entries": [
@@ -30956,6 +30958,22 @@
          "raum": "008",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "Lat",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "zentraler Nachreibeterrmin",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Lat",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "zentraler Nachreibeterrmin",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -31362,6 +31380,22 @@
          "raum": "K07",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "7",
+         "fach": "Lat",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "zentraler Nachreibeterrmin",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Lat",
+         "klasse": "",
+         "raum": "Aula",
+         "info": "zentraler Nachreibeterrmin",
+         "geaendert": true
         }
        ],
        "aufsichten": []
