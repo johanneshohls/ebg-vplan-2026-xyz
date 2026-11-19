@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "19.11.2026, 06:25 Uhr",
- "last_changed": "2026-11-19T06:01:00",
+ "generiert": "19.11.2026, 06:30 Uhr",
+ "last_changed": "2026-11-19T07:26:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -17207,7 +17207,7 @@
     },
     "20261119": {
      "datum": "Donnerstag, 19. November 2026",
-     "zeitstempel": "19.11.2026, 06:01",
+     "zeitstempel": "19.11.2026, 07:26",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -19293,7 +19293,7 @@
     },
     "20261120": {
      "datum": "Freitag, 20. November 2026",
-     "zeitstempel": "18.11.2026, 14:17",
+     "zeitstempel": "19.11.2026, 07:26",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, R 105"
      ],
@@ -21556,7 +21556,7 @@
    "tage": {
     "20261123": {
      "datum": "Montag, 23. November 2026",
-     "zeitstempel": "18.11.2026, 14:17",
+     "zeitstempel": "19.11.2026, 07:26",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23579,7 +23579,7 @@
     },
     "20261124": {
      "datum": "Dienstag, 24. November 2026",
-     "zeitstempel": "18.11.2026, 14:17",
+     "zeitstempel": "19.11.2026, 07:26",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -25610,7 +25610,7 @@
     },
     "20261125": {
      "datum": "Mittwoch, 25. November 2026",
-     "zeitstempel": "18.11.2026, 14:17",
+     "zeitstempel": "19.11.2026, 07:26",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -26805,17 +26805,17 @@
          "stunde": "5",
          "fach": "Sk",
          "klasse": "9B",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "101",
+         "info": "für Sk Lan, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "Sk",
          "klasse": "9B",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "raum": "101",
+         "info": "für Sk Lan, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -27182,17 +27182,17 @@
          "stunde": "5",
          "fach": "En",
          "klasse": "10B",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für En Pri, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "En",
          "klasse": "10B",
-         "raum": "K09",
-         "info": "",
-         "geaendert": false
+         "raum": "002",
+         "info": "für En Pri, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -27744,7 +27744,7 @@
     },
     "20261126": {
      "datum": "Donnerstag, 26. November 2026",
-     "zeitstempel": "18.11.2026, 14:17",
+     "zeitstempel": "19.11.2026, 07:26",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29436,7 +29436,7 @@
          "stunde": "5",
          "fach": "thea2",
          "klasse": "11A-11E",
-         "raum": "Co1",
+         "raum": "K07",
          "info": "für Thea Schil, Raumänderung",
          "geaendert": true
         },
@@ -29444,7 +29444,7 @@
          "stunde": "6",
          "fach": "thea2",
          "klasse": "11A-11E",
-         "raum": "Co1",
+         "raum": "K07",
          "info": "für Thea Schil, Raumänderung",
          "geaendert": true
         }
@@ -29838,7 +29838,7 @@
     },
     "20261127": {
      "datum": "Freitag, 27. November 2026",
-     "zeitstempel": "18.11.2026, 14:17",
+     "zeitstempel": "19.11.2026, 07:26",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, Aula"
      ],

@@ -1455,5 +1455,38 @@
    "Std 6 (12:25): für Ma Bom, Vorbereitung auf die Klassenarbeit"
   ],
   "zeitstempel": "19.11.2026, 06:01"
+ },
+ {
+  "timestamp": "2026-11-19T06:30:10.827070",
+  "lehrer": "Lan",
+  "datum": "Mittwoch, 25. November 2026",
+  "date_key": "20261125",
+  "changes": [
+   "Std 5 (11:40): für Sk Lan, Raumänderung",
+   "Std 6 (12:25): für Sk Lan, Raumänderung"
+  ],
+  "zeitstempel": "19.11.2026, 07:26"
+ },
+ {
+  "timestamp": "2026-11-19T06:30:10.827070",
+  "lehrer": "Pri",
+  "datum": "Mittwoch, 25. November 2026",
+  "date_key": "20261125",
+  "changes": [
+   "Std 5 (11:40): für En Pri, Raumänderung",
+   "Std 6 (12:25): für En Pri, Raumänderung"
+  ],
+  "zeitstempel": "19.11.2026, 07:26"
+ },
+ {
+  "timestamp": "2026-11-19T06:30:10.827070",
+  "lehrer": "Schil",
+  "datum": "Donnerstag, 26. November 2026",
+  "date_key": "20261126",
+  "changes": [
+   "Std 5 (11:40): für Thea Schil, Raumänderung",
+   "Std 6 (12:25): für Thea Schil, Raumänderung"
+  ],
+  "zeitstempel": "19.11.2026, 07:26"
  }
 ]
