@@ -1451,5 +1451,53 @@
    "Std 6 (12:25): für Thea Schil, Raumänderung"
   ],
   "zeitstempel": "19.11.2026, 07:26"
+ },
+ {
+  "timestamp": "2026-11-19T12:45:11.602019",
+  "lehrer": "Kno",
+  "datum": "Freitag, 20. November 2026",
+  "date_key": "20261120",
+  "changes": [
+   "Std 3 (09:40): für AWT Kno, Raumänderung",
+   "Std 4 (10:25): für AWT Kno"
+  ],
+  "zeitstempel": "19.11.2026, 13:42"
+ },
+ {
+  "timestamp": "2026-11-19T12:45:11.602019",
+  "lehrer": "Puk",
+  "datum": "Freitag, 20. November 2026",
+  "date_key": "20261120",
+  "changes": [
+   "Std 3 (09:40): für Span Puk",
+   "Std 4 (10:25): Span 9D Stu, Aufgaben liegen vor.",
+   "Std 4 (10:25): Auswertung Hospitation; Span 9D Stu, Aufgaben liegen vor."
+  ],
+  "zeitstempel": "19.11.2026, 13:42"
+ },
+ {
+  "timestamp": "2026-11-19T12:45:11.602019",
+  "lehrer": "Sto",
+  "datum": "Freitag, 20. November 2026",
+  "date_key": "20261120",
+  "changes": [
+   "Std 3 (09:40): Hospitation: Span 9d, Herr Pohle, Frau Puktop, R 004",
+   "Std 4 (10:25): Auswertung Hospitation",
+   "Std 6 (12:25): für De Stu, Aufgaben liegen vor."
+  ],
+  "zeitstempel": "19.11.2026, 13:42"
+ },
+ {
+  "timestamp": "2026-11-19T12:45:11.602019",
+  "lehrer": "Stu",
+  "datum": "Freitag, 20. November 2026",
+  "date_key": "20261120",
+  "changes": [
+   "Std 4 (10:25): für Span Puk, Aufgaben liegen vor.",
+   "Std 5 (11:40): für De Stu, Hospitation, Herr Pohla",
+   "Std 6 (12:25): De 7D Sto, Aufgaben liegen vor.",
+   "Std 6 (12:25): Auswertung Hospitation, Herr Pohla; De 7D Sto, Aufgaben liegen vor."
+  ],
+  "zeitstempel": "19.11.2026, 13:42"
  }
 ]

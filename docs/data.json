@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "19.11.2026, 12:40 Uhr",
- "last_changed": "2026-11-19T07:26:00",
+ "generiert": "19.11.2026, 12:45 Uhr",
+ "last_changed": "2026-11-19T13:42:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -19293,7 +19293,7 @@
     },
     "20261120": {
      "datum": "Freitag, 20. November 2026",
-     "zeitstempel": "19.11.2026, 07:26",
+     "zeitstempel": "19.11.2026, 13:42",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, R 105"
      ],
@@ -20512,17 +20512,17 @@
          "stunde": "3",
          "fach": "AWT",
          "klasse": "7C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für AWT Kno, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "AWT",
          "klasse": "7C",
-         "raum": "004",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für AWT Kno",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -21047,9 +21047,9 @@
          "stunde": "3",
          "fach": "Span",
          "klasse": "9D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "004",
+         "info": "für Span Puk",
+         "geaendert": true
         },
         {
          "stunde": "4",
@@ -21274,7 +21274,7 @@
          "fach": "Span",
          "klasse": "",
          "raum": "",
-         "info": "Hospitation: Span 9d, Herr Pohle, Frau Puktop, R 008",
+         "info": "Hospitation: Span 9d, Herr Pohle, Frau Puktop, R 004",
          "geaendert": true
         },
         {
@@ -21302,7 +21302,7 @@
          "stunde": "4",
          "fach": "Span",
          "klasse": "9D",
-         "raum": "008",
+         "raum": "004",
          "info": "für Span Puk, Aufgaben liegen vor.",
          "geaendert": true
         },
