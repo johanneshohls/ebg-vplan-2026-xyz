@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "19.11.2026, 05:00 Uhr",
- "last_changed": "2026-11-19T04:29:00",
+ "generiert": "19.11.2026, 05:05 Uhr",
+ "last_changed": "2026-11-19T06:01:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -17207,7 +17207,7 @@
     },
     "20261119": {
      "datum": "Donnerstag, 19. November 2026",
-     "zeitstempel": "19.11.2026, 04:29",
+     "zeitstempel": "19.11.2026, 06:01",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -17448,35 +17448,35 @@
         },
         {
          "stunde": "5",
-         "fach": "Ma",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8E Bri, Vorbereitung auf die Klassenarbeit",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ma",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8E Bri, Vorbereitung auf die Klassenarbeit",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Ma",
-         "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9B selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ma",
-         "klasse": "9B",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 9B selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -17514,6 +17514,22 @@
          "raum": "Co2",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ma",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "für Ma Bom, Vorbereitung auf die Klassenarbeit",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ma",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "für Ma Bom, Vorbereitung auf die Klassenarbeit",
+         "geaendert": true
         }
        ],
        "aufsichten": []

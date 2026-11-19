@@ -1431,5 +1431,29 @@
    "Std 6 (12:25): für Ge Isb"
   ],
   "zeitstempel": "19.11.2026, 04:29"
+ },
+ {
+  "timestamp": "2026-11-19T05:05:10.490992",
+  "lehrer": "Bom",
+  "datum": "Donnerstag, 19. November 2026",
+  "date_key": "20261119",
+  "changes": [
+   "Std 5 (11:40): Ma 8E Bri, Vorbereitung auf die Klassenarbeit",
+   "Std 6 (12:25): Ma 8E Bri, Vorbereitung auf die Klassenarbeit",
+   "Std 7 (13:40): Ma 9B selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 8 (14:25): Ma 9B selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "19.11.2026, 06:01"
+ },
+ {
+  "timestamp": "2026-11-19T05:05:10.490992",
+  "lehrer": "Bri",
+  "datum": "Donnerstag, 19. November 2026",
+  "date_key": "20261119",
+  "changes": [
+   "Std 5 (11:40): für Ma Bom, Vorbereitung auf die Klassenarbeit",
+   "Std 6 (12:25): für Ma Bom, Vorbereitung auf die Klassenarbeit"
+  ],
+  "zeitstempel": "19.11.2026, 06:01"
  }
 ]
