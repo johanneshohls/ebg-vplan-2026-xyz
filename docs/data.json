@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "19.11.2026, 02:45 Uhr",
- "last_changed": "2026-11-18T14:17:00",
+ "generiert": "19.11.2026, 04:00 Uhr",
+ "last_changed": "2026-11-19T04:29:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -17207,7 +17207,7 @@
     },
     "20261119": {
      "datum": "Donnerstag, 19. November 2026",
-     "zeitstempel": "18.11.2026, 14:17",
+     "zeitstempel": "19.11.2026, 04:29",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -17734,17 +17734,17 @@
          "stunde": "3",
          "fach": "GE2",
          "klasse": "11A-11E",
-         "raum": "",
-         "info": "für Ge Gor, Klausur; Aula",
-         "geaendert": true
+         "raum": "107",
+         "info": "für Ge Gor, Klausur",
+         "geaendert": false
         },
         {
          "stunde": "4",
          "fach": "GE2",
          "klasse": "11A-11E",
-         "raum": "",
-         "info": "für Ge Gor, Klausur; Aula",
-         "geaendert": true
+         "raum": "107",
+         "info": "für Ge Gor, Klausur",
+         "geaendert": false
         },
         {
          "stunde": "5",
