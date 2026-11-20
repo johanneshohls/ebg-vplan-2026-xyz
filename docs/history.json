@@ -1333,5 +1333,53 @@
    "Std 6 (12:25): Auswertung Hospitation, Herr Pohla; De 7D Sto, Aufgaben liegen vor."
   ],
   "zeitstempel": "19.11.2026, 13:42"
+ },
+ {
+  "timestamp": "2026-11-20T11:05:09.780596",
+  "lehrer": "Lan",
+  "datum": "Montag, 23. November 2026",
+  "date_key": "20261123",
+  "changes": [
+   "Std 5 (11:40): AWT 9C verlegt nach Di (24.11.) St.5",
+   "Std 6 (12:25): AWT 9C verlegt nach Di (24.11.) St.6"
+  ],
+  "zeitstempel": "20.11.2026, 12:01"
+ },
+ {
+  "timestamp": "2026-11-20T11:05:09.780596",
+  "lehrer": "See",
+  "datum": "Montag, 23. November 2026",
+  "date_key": "20261123",
+  "changes": [
+   "Std 5 (11:40): Geo 9C statt Di (24.11.) St.5",
+   "Std 6 (12:25): Geo 9C statt Di (24.11.) St.6",
+   "Std 7 (13:40): für Bio See, Klausur",
+   "Std 8 (14:25): für Bio See, Klausur"
+  ],
+  "zeitstempel": "20.11.2026, 12:01"
+ },
+ {
+  "timestamp": "2026-11-20T11:05:09.780596",
+  "lehrer": "Lan",
+  "datum": "Dienstag, 24. November 2026",
+  "date_key": "20261124",
+  "changes": [
+   "Std 5 (11:40): AWT 9C statt Mo (23.11.) St.5",
+   "Std 6 (12:25): AWT 9C statt Mo (23.11.) St.6"
+  ],
+  "zeitstempel": "20.11.2026, 12:01"
+ },
+ {
+  "timestamp": "2026-11-20T11:05:09.780596",
+  "lehrer": "See",
+  "datum": "Dienstag, 24. November 2026",
+  "date_key": "20261124",
+  "changes": [
+   "Std 1 (07:40): Geo 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 2 (08:25): Geo 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 5 (11:40): Geo 9C gehalten am Mo (23.11.) St.5",
+   "Std 6 (12:25): Geo 9C gehalten am Mo (23.11.) St.6"
+  ],
+  "zeitstempel": "20.11.2026, 12:01"
  }
 ]

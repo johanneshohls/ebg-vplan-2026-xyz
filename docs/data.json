@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "20.11.2026, 11:00 Uhr",
- "last_changed": "2026-11-19T13:42:00",
+ "generiert": "20.11.2026, 11:05 Uhr",
+ "last_changed": "2026-11-20T12:01:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21556,7 +21556,7 @@
    "tage": {
     "20261123": {
      "datum": "Montag, 23. November 2026",
-     "zeitstempel": "19.11.2026, 07:26",
+     "zeitstempel": "20.11.2026, 12:01",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -22671,19 +22671,19 @@
         },
         {
          "stunde": "5",
-         "fach": "AWT",
-         "klasse": "9C",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 9C verlegt nach Di (24.11.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "AWT",
-         "klasse": "9C",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 9C verlegt nach Di (24.11.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -23282,6 +23282,22 @@
          "geaendert": false
         },
         {
+         "stunde": "5",
+         "fach": "Geo",
+         "klasse": "9C",
+         "raum": "006",
+         "info": "Geo 9C statt Di (24.11.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Geo",
+         "klasse": "9C",
+         "raum": "006",
+         "info": "Geo 9C statt Di (24.11.) St.6",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "bio2",
          "klasse": "11A-11E",
@@ -23579,7 +23595,7 @@
     },
     "20261124": {
      "datum": "Dienstag, 24. November 2026",
-     "zeitstempel": "19.11.2026, 07:26",
+     "zeitstempel": "20.11.2026, 12:01",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -24754,6 +24770,22 @@
          "raum": "101",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "AWT",
+         "klasse": "9C",
+         "raum": "005",
+         "info": "AWT 9C statt Mo (23.11.) St.5",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "AWT",
+         "klasse": "9C",
+         "raum": "005",
+         "info": "AWT 9C statt Mo (23.11.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -25354,35 +25386,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "GEO2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "GEO2",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Geo",
-         "klasse": "9C",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 9C gehalten am Mo (23.11.) St.5",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Geo",
-         "klasse": "9C",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 9C gehalten am Mo (23.11.) St.6",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -25610,7 +25642,7 @@
     },
     "20261125": {
      "datum": "Mittwoch, 25. November 2026",
-     "zeitstempel": "19.11.2026, 07:26",
+     "zeitstempel": "20.11.2026, 12:01",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -27744,7 +27776,7 @@
     },
     "20261126": {
      "datum": "Donnerstag, 26. November 2026",
-     "zeitstempel": "19.11.2026, 07:26",
+     "zeitstempel": "20.11.2026, 12:01",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29838,7 +29870,7 @@
     },
     "20261127": {
      "datum": "Freitag, 27. November 2026",
-     "zeitstempel": "19.11.2026, 07:26",
+     "zeitstempel": "20.11.2026, 12:01",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, Aula"
      ],
