@@ -1381,5 +1381,16 @@
    "Std 6 (12:25): Geo 9C gehalten am Mo (23.11.) St.6"
   ],
   "zeitstempel": "20.11.2026, 12:01"
+ },
+ {
+  "timestamp": "2026-11-20T15:10:12.136706",
+  "lehrer": "Puk",
+  "datum": "Montag, 23. November 2026",
+  "date_key": "20261123",
+  "changes": [
+   "Std 7 (13:40): KL geändert",
+   "Std 8 (14:25): KL geändert"
+  ],
+  "zeitstempel": "20.11.2026, 16:09"
  }
 ]
