@@ -1,55 +1,5 @@
 [
  {
-  "timestamp": "2026-11-15T09:40:18.836089",
-  "lehrer": "Fel",
-  "datum": "Montag, 16. November 2026",
-  "date_key": "20261116",
-  "changes": [
-   "Std 1 (07:40): En 9D Hin, s. IServ: Aufgaben durch FL erteilt",
-   "Std 2 (08:25): En 9D Hin"
-  ],
-  "zeitstempel": "15.11.2026, 10:36"
- },
- {
-  "timestamp": "2026-11-15T09:40:18.836089",
-  "lehrer": "Hin",
-  "datum": "Montag, 16. November 2026",
-  "date_key": "20261116",
-  "changes": [
-   "Std 1 (07:40): für En Fel, s. IServ: Aufgaben durch FL erteilt",
-   "Std 2 (08:25): für En Fel",
-   "Std 3 (09:40): für KILZ Schud, Raumänderung",
-   "Std 4 (10:25): für KILZ Schud, Raumänderung"
-  ],
-  "zeitstempel": "15.11.2026, 10:36"
- },
- {
-  "timestamp": "2026-11-15T09:40:18.836089",
-  "lehrer": "Rat",
-  "datum": "Montag, 16. November 2026",
-  "date_key": "20261116",
-  "changes": [
-   "Std 5 (11:40): für Ku Schud",
-   "Std 6 (12:25): für Ku Schud"
-  ],
-  "zeitstempel": "15.11.2026, 10:36"
- },
- {
-  "timestamp": "2026-11-15T09:40:18.836089",
-  "lehrer": "Schud",
-  "datum": "Montag, 16. November 2026",
-  "date_key": "20261116",
-  "changes": [
-   "Std 3 (09:40): KILZ 10B Hin, Raumänderung",
-   "Std 4 (10:25): KILZ 10B Hin, Raumänderung",
-   "Std 5 (11:40): Ku 8E Rat",
-   "Std 6 (12:25): Ku 8E Rat",
-   "Std 7 (13:40): Ku 9B fällt aus",
-   "Std 8 (14:25): Ku 9B fällt aus"
-  ],
-  "zeitstempel": "15.11.2026, 10:36"
- },
- {
   "timestamp": "2026-11-15T13:35:13.865370",
   "lehrer": "Fer",
   "datum": "Montag, 16. November 2026",
