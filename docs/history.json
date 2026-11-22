@@ -1,27 +1,5 @@
 [
  {
-  "timestamp": "2026-11-15T07:20:11.849278",
-  "lehrer": "Fel",
-  "datum": "Montag, 16. November 2026",
-  "date_key": "20261116",
-  "changes": [
-   "Std 1 (07:40): De 9D Hin (für En)",
-   "Std 2 (08:25): De 9D Hin (für En)"
-  ],
-  "zeitstempel": "15.11.2026, 08:19"
- },
- {
-  "timestamp": "2026-11-15T07:20:11.849278",
-  "lehrer": "Hin",
-  "datum": "Montag, 16. November 2026",
-  "date_key": "20261116",
-  "changes": [
-   "Std 1 (07:40): für En Fel",
-   "Std 2 (08:25): für En Fel"
-  ],
-  "zeitstempel": "15.11.2026, 08:19"
- },
- {
   "timestamp": "2026-11-15T09:40:18.836089",
   "lehrer": "Fel",
   "datum": "Montag, 16. November 2026",
