@@ -1,40 +1,5 @@
 [
  {
-  "timestamp": "2026-11-15T13:40:09.136535",
-  "lehrer": "Fel",
-  "datum": "Dienstag, 17. November 2026",
-  "date_key": "20261117",
-  "changes": [
-   "Std 3 (09:40): Ge 10C verlegt nach St.5 (Isb)",
-   "Std 4 (10:25): Ge 10C verlegt nach St.6 (Isb)",
-   "Std 7 (13:40): Club6 10A-10D,9A-9D fällt aus",
-   "Std 8 (14:25): Club6 10A-10D,9A-9D fällt aus"
-  ],
-  "zeitstempel": "15.11.2026, 14:35"
- },
- {
-  "timestamp": "2026-11-15T13:40:09.136535",
-  "lehrer": "Fla",
-  "datum": "Dienstag, 17. November 2026",
-  "date_key": "20261117",
-  "changes": [
-   "Std 7 (13:40): Bio 8A fällt aus",
-   "Std 8 (14:25): Bio 8A fällt aus"
-  ],
-  "zeitstempel": "15.11.2026, 14:35"
- },
- {
-  "timestamp": "2026-11-15T13:40:09.136535",
-  "lehrer": "Isb",
-  "datum": "Dienstag, 17. November 2026",
-  "date_key": "20261117",
-  "changes": [
-   "Std 5 (11:40): verlegt von St.3 (ILZ Fel)",
-   "Std 6 (12:25): verlegt von St.4 (ILZ Fel)"
-  ],
-  "zeitstempel": "15.11.2026, 14:35"
- },
- {
   "timestamp": "2026-11-15T17:30:11.696701",
   "lehrer": "Hön",
   "datum": "Montag, 16. November 2026",
