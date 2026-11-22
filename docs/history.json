@@ -829,5 +829,64 @@
    "Std 2 (08:25): für De Jur"
   ],
   "zeitstempel": "20.11.2026, 12:01"
+ },
+ {
+  "timestamp": "2026-11-22T14:00:15.873468",
+  "lehrer": "Fla",
+  "datum": "Montag, 23. November 2026",
+  "date_key": "20261123",
+  "changes": [
+   "Std 3 (09:40): De 8C Hin, s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): De 8C Hin, s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): Bio 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): Bio 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "22.11.2026, 14:58"
+ },
+ {
+  "timestamp": "2026-11-22T14:00:15.873468",
+  "lehrer": "Hin",
+  "datum": "Montag, 23. November 2026",
+  "date_key": "20261123",
+  "changes": [
+   "Std 3 (09:40): für De Fla, s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): für De Fla, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "22.11.2026, 14:58"
+ },
+ {
+  "timestamp": "2026-11-22T14:00:15.873468",
+  "lehrer": "Bes",
+  "datum": "Dienstag, 24. November 2026",
+  "date_key": "20261124",
+  "changes": [
+   "Std 3 (09:40): für Bio Fla, s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): für Bio Fla, s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "22.11.2026, 14:58"
+ },
+ {
+  "timestamp": "2026-11-22T14:00:15.873468",
+  "lehrer": "Fla",
+  "datum": "Dienstag, 24. November 2026",
+  "date_key": "20261124",
+  "changes": [
+   "Std 3 (09:40): Bio 8A Bes, s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): Bio 8A Bes, s. IServ: Aufgaben durch FL erteilt",
+   "Std 7 (13:40): ILZ 8C selbst. (v), zu Hause",
+   "Std 8 (14:25): ILZ 8C selbst. (v), zu Hause"
+  ],
+  "zeitstempel": "22.11.2026, 14:58"
+ },
+ {
+  "timestamp": "2026-11-22T14:00:15.873468",
+  "lehrer": "Bes",
+  "datum": "Mittwoch, 25. November 2026",
+  "date_key": "20261125",
+  "changes": [
+   "Std 7 (13:40): GS07 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS07 7A-7D,8A-8E fällt aus"
+  ],
+  "zeitstempel": "22.11.2026, 14:58"
  }
 ]

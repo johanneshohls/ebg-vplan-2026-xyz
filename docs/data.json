@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "22.11.2026, 13:55 Uhr",
- "last_changed": "2026-11-20T16:09:00",
+ "generiert": "22.11.2026, 14:00 Uhr",
+ "last_changed": "2026-11-22T14:58:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21556,7 +21556,7 @@
    "tage": {
     "20261123": {
      "datum": "Montag, 23. November 2026",
-     "zeitstempel": "20.11.2026, 16:09",
+     "zeitstempel": "22.11.2026, 14:58",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -21980,35 +21980,35 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "De",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8C Hin, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "De",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8C Hin, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "BIO1",
-         "klasse": "11A-11E",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "BIO1",
-         "klasse": "11A-11E",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -22224,7 +22224,24 @@
        ]
       },
       "Hin": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "De",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für De Fla, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "De",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für De Fla, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Hofm": {
@@ -23611,7 +23628,7 @@
     },
     "20261124": {
      "datum": "Dienstag, 24. November 2026",
-     "zeitstempel": "20.11.2026, 12:01",
+     "zeitstempel": "22.11.2026, 14:58",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23645,6 +23662,22 @@
       },
       "Bes": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "Bio",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "für Bio Fla, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Bio",
+         "klasse": "8A",
+         "raum": "201",
+         "info": "für Bio Fla, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "ma3",
@@ -24035,35 +24068,35 @@
        "entries": [
         {
          "stunde": "3",
-         "fach": "Bio",
-         "klasse": "8A",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 8A Bes, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Bio",
-         "klasse": "8A",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 8A Bes, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "ILZ",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 8C selbst. (v), zu Hause",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ILZ",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 8C selbst. (v), zu Hause",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -25658,7 +25691,7 @@
     },
     "20261125": {
      "datum": "Mittwoch, 25. November 2026",
-     "zeitstempel": "20.11.2026, 12:01",
+     "zeitstempel": "22.11.2026, 14:58",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -25734,19 +25767,19 @@
         },
         {
          "stunde": "7",
-         "fach": "GS07",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS07 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS07",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS07 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -27792,7 +27825,7 @@
     },
     "20261126": {
      "datum": "Donnerstag, 26. November 2026",
-     "zeitstempel": "20.11.2026, 12:01",
+     "zeitstempel": "22.11.2026, 14:58",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29886,7 +29919,7 @@
     },
     "20261127": {
      "datum": "Freitag, 27. November 2026",
-     "zeitstempel": "20.11.2026, 12:01",
+     "zeitstempel": "22.11.2026, 14:58",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, Aula"
      ],
