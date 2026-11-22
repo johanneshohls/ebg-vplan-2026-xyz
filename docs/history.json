@@ -888,5 +888,49 @@
    "Std 8 (14:25): GS07 7A-7D,8A-8E fällt aus"
   ],
   "zeitstempel": "22.11.2026, 14:58"
+ },
+ {
+  "timestamp": "2026-11-22T14:05:09.348150",
+  "lehrer": "Jur",
+  "datum": "Montag, 23. November 2026",
+  "date_key": "20261123",
+  "changes": [
+   "Std 3 (09:40): Phi 9C statt Mi (25.11.) St.3",
+   "Std 4 (10:25): Phi 9C statt Mi (25.11.) St.4",
+   "Std 7 (13:40): für De Jur, begleiteter Unterricht: -L. Zech"
+  ],
+  "zeitstempel": "22.11.2026, 15:01"
+ },
+ {
+  "timestamp": "2026-11-22T14:05:09.348150",
+  "lehrer": "Zec",
+  "datum": "Montag, 23. November 2026",
+  "date_key": "20261123",
+  "changes": [
+   "Std 7 (13:40): begleiteter Unterricht 9c",
+   "Std 8 (14:25): begleiteter Unterricht 9c"
+  ],
+  "zeitstempel": "22.11.2026, 15:01"
+ },
+ {
+  "timestamp": "2026-11-22T14:05:09.348150",
+  "lehrer": "Jur",
+  "datum": "Freitag, 27. November 2026",
+  "date_key": "20261127",
+  "changes": [
+   "Std 1 (07:40): für De Jur, begleiteter Unterricht: -L. Zech"
+  ],
+  "zeitstempel": "22.11.2026, 15:01"
+ },
+ {
+  "timestamp": "2026-11-22T14:05:09.348150",
+  "lehrer": "Zec",
+  "datum": "Freitag, 27. November 2026",
+  "date_key": "20261127",
+  "changes": [
+   "Std 1 (07:40): begleiteter Unterricht, 9c",
+   "Std 2 (08:25): begleiteter Unterricht, 9c"
+  ],
+  "zeitstempel": "22.11.2026, 15:01"
  }
 ]

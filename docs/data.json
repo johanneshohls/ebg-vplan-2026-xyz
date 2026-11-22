@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "22.11.2026, 14:00 Uhr",
- "last_changed": "2026-11-22T14:58:00",
+ "generiert": "22.11.2026, 14:05 Uhr",
+ "last_changed": "2026-11-22T15:01:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21556,7 +21556,7 @@
    "tage": {
     "20261123": {
      "datum": "Montag, 23. November 2026",
-     "zeitstempel": "22.11.2026, 14:58",
+     "zeitstempel": "22.11.2026, 15:01",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -22483,7 +22483,7 @@
          "fach": "De",
          "klasse": "9C",
          "raum": "007",
-         "info": "",
+         "info": "für De Jur, begleiteter Unterricht: -L. Zech",
          "geaendert": false
         },
         {
@@ -23621,14 +23621,31 @@
        "aufsichten": []
       },
       "Zec": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "7",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "begleiteter Unterricht 9c",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "begleiteter Unterricht 9c",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       }
      }
     },
     "20261124": {
      "datum": "Dienstag, 24. November 2026",
-     "zeitstempel": "22.11.2026, 14:58",
+     "zeitstempel": "22.11.2026, 15:01",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -25691,7 +25708,7 @@
     },
     "20261125": {
      "datum": "Mittwoch, 25. November 2026",
-     "zeitstempel": "22.11.2026, 14:58",
+     "zeitstempel": "22.11.2026, 15:01",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -27825,7 +27842,7 @@
     },
     "20261126": {
      "datum": "Donnerstag, 26. November 2026",
-     "zeitstempel": "22.11.2026, 14:58",
+     "zeitstempel": "22.11.2026, 15:01",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29919,7 +29936,7 @@
     },
     "20261127": {
      "datum": "Freitag, 27. November 2026",
-     "zeitstempel": "22.11.2026, 14:58",
+     "zeitstempel": "22.11.2026, 15:01",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, Aula"
      ],
@@ -30866,7 +30883,7 @@
          "fach": "De",
          "klasse": "9C",
          "raum": "004",
-         "info": "",
+         "info": "für De Jur, begleiteter Unterricht: -L. Zech",
          "geaendert": false
         },
         {
@@ -31891,7 +31908,24 @@
        "aufsichten": []
       },
       "Zec": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "begleiteter Unterricht, 9c",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "",
+         "raum": "",
+         "info": "begleiteter Unterricht, 9c",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       }
      }
