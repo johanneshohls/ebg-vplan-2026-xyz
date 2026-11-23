@@ -1,57 +1,5 @@
 [
  {
-  "timestamp": "2026-11-16T10:15:12.796792",
-  "lehrer": "Ter",
-  "datum": "Montag, 16. November 2026",
-  "date_key": "20261116",
-  "changes": [
-   "Std 3 (09:40): für Bio Ost, Weiterarbeit am Plakat",
-   "Std 4 (10:25): für Bio Ost, Weiterarbeit am Plakat",
-   "Std 5 (11:40): für Bio Ter, Raumänderung",
-   "Std 6 (12:25): für Bio Ter, Raumänderung",
-   "Std 7 (13:40): für DSp Ter, Raumänderung",
-   "Std 8 (14:25): für DSp Ter, Raumänderung"
-  ],
-  "zeitstempel": "16.11.2026, 11:15"
- },
- {
-  "timestamp": "2026-11-16T10:15:12.796792",
-  "lehrer": "Tuh",
-  "datum": "Montag, 16. November 2026",
-  "date_key": "20261116",
-  "changes": [
-   "Std 5 (11:40): für KILZ Tuh, Raumänderung",
-   "Std 6 (12:25): für KILZ Tuh, Raumänderung"
-  ],
-  "zeitstempel": "16.11.2026, 11:15"
- },
- {
-  "timestamp": "2026-11-16T10:15:12.796792",
-  "lehrer": "Con",
-  "datum": "Mittwoch, 18. November 2026",
-  "date_key": "20261118",
-  "changes": [
-   "Std 5 (11:40): Biberwettbewerb",
-   "Std 6 (12:25): Biberwettbewerb",
-   "Std 7 (13:40): für Präsi Fel",
-   "Std 8 (14:25): für Präsi Fel"
-  ],
-  "zeitstempel": "16.11.2026, 11:12"
- },
- {
-  "timestamp": "2026-11-16T10:15:12.796792",
-  "lehrer": "Fel",
-  "datum": "Mittwoch, 18. November 2026",
-  "date_key": "20261118",
-  "changes": [
-   "Std 5 (11:40): Span 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
-   "Std 6 (12:25): Span 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
-   "Std 7 (13:40): Präsi 10C Con",
-   "Std 8 (14:25): Präsi 10C Con"
-  ],
-  "zeitstempel": "16.11.2026, 11:12"
- },
- {
   "timestamp": "2026-11-16T10:35:13.826344",
   "lehrer": "Wag",
   "datum": "Dienstag, 17. November 2026",
