@@ -895,5 +895,16 @@
    "Std 2 (08:25): begleiteter Unterricht, 9c"
   ],
   "zeitstempel": "22.11.2026, 15:01"
+ },
+ {
+  "timestamp": "2026-11-23T09:00:10.257923",
+  "lehrer": "Ost",
+  "datum": "Dienstag, 24. November 2026",
+  "date_key": "20261124",
+  "changes": [
+   "Std 7 (13:40): für Bio Ost, Raumänderung",
+   "Std 8 (14:25): für Bio Ost, Raumänderung"
+  ],
+  "zeitstempel": "23.11.2026, 09:59"
  }
 ]

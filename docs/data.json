@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "23.11.2026, 08:55 Uhr",
- "last_changed": "2026-11-23T09:18:00",
+ "generiert": "23.11.2026, 09:00 Uhr",
+ "last_changed": "2026-11-23T09:59:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12971,7 +12971,7 @@
     },
     "20261124": {
      "datum": "Dienstag, 24. November 2026",
-     "zeitstempel": "23.11.2026, 09:18",
+     "zeitstempel": "23.11.2026, 09:59",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -14452,17 +14452,17 @@
          "stunde": "7",
          "fach": "bio2",
          "klasse": "12A-12D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "105",
+         "info": "für Bio Ost, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "8",
          "fach": "bio2",
          "klasse": "12A-12D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "raum": "105",
+         "info": "für Bio Ost, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
