@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "24.11.2026, 08:05 Uhr",
- "last_changed": "2026-11-24T09:02:00",
+ "generiert": "24.11.2026, 08:10 Uhr",
+ "last_changed": "2026-11-24T09:05:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21327,7 +21327,7 @@
    "tage": {
     "20261130": {
      "datum": "Montag, 30. November 2026",
-     "zeitstempel": "20.11.2026, 12:01",
+     "zeitstempel": "24.11.2026, 09:05",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23191,6 +23191,22 @@
       "Sto": {
        "entries": [
         {
+         "stunde": "3",
+         "fach": "Fr",
+         "klasse": "10A",
+         "raum": "Co1",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "Fr",
+         "klasse": "10A",
+         "raum": "Co1",
+         "info": "",
+         "geaendert": false
+        },
+        {
          "stunde": "6",
          "fach": "Ph",
          "klasse": "7C",
@@ -23477,7 +23493,7 @@
     },
     "20261201": {
      "datum": "Dienstag, 01. Dezember 2026",
-     "zeitstempel": "20.11.2026, 12:01",
+     "zeitstempel": "24.11.2026, 09:05",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -24406,6 +24422,22 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9C Zec",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9C Zec",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -25310,7 +25342,24 @@
        "aufsichten": []
       },
       "Sto": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "Span",
+         "klasse": "9D",
+         "raum": "004",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "Span",
+         "klasse": "9D",
+         "raum": "004",
+         "info": "",
+         "geaendert": false
+        }
+       ],
        "aufsichten": []
       },
       "Stu": {
@@ -25493,6 +25542,22 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "für De Jur",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "für De Jur",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "De",
          "klasse": "9C",
@@ -25514,7 +25579,7 @@
     },
     "20261202": {
      "datum": "Mittwoch, 02. Dezember 2026",
-     "zeitstempel": "20.11.2026, 12:01",
+     "zeitstempel": "24.11.2026, 09:05",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -27461,7 +27526,7 @@
     },
     "20261203": {
      "datum": "Donnerstag, 03. Dezember 2026",
-     "zeitstempel": "20.11.2026, 12:01",
+     "zeitstempel": "24.11.2026, 09:05",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29464,7 +29529,7 @@
     },
     "20261204": {
      "datum": "Freitag, 04. Dezember 2026",
-     "zeitstempel": "20.11.2026, 12:01",
+     "zeitstempel": "24.11.2026, 09:05",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -30456,6 +30521,22 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9C Zec",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 9C Zec",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -31334,7 +31415,40 @@
        "aufsichten": []
       },
       "Sto": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "3",
+         "fach": "Span",
+         "klasse": "9D",
+         "raum": "008",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "4",
+         "fach": "Span",
+         "klasse": "9D",
+         "raum": "008",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Fr",
+         "klasse": "10A",
+         "raum": "Co1",
+         "info": "",
+         "geaendert": false
+        },
+        {
+         "stunde": "6",
+         "fach": "Fr",
+         "klasse": "10A",
+         "raum": "Co1",
+         "info": "",
+         "geaendert": false
+        }
+       ],
        "aufsichten": []
       },
       "Stu": {
@@ -31553,6 +31667,22 @@
        "entries": [
         {
          "stunde": "1",
+         "fach": "De",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "für De Jur",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "9C",
+         "raum": "004",
+         "info": "für De Jur",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
          "fach": "De",
          "klasse": "9C",
          "raum": "004",

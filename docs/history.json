@@ -905,5 +905,93 @@
    "Std 4 (10:25): Phi 9C gehalten am Mo (23.11.) St.4"
   ],
   "zeitstempel": "24.11.2026, 09:02"
+ },
+ {
+  "timestamp": "2026-11-24T08:10:10.109218",
+  "lehrer": "Sto",
+  "datum": "Montag, 30. November 2026",
+  "date_key": "20261130",
+  "changes": [
+   "Std 6 (12:25): für Ph Hun, Aufgaben liegen vor."
+  ],
+  "zeitstempel": "24.11.2026, 09:05"
+ },
+ {
+  "timestamp": "2026-11-24T08:10:10.109218",
+  "lehrer": "Jur",
+  "datum": "Dienstag, 01. Dezember 2026",
+  "date_key": "20261201",
+  "changes": [
+   "Std 1 (07:40): De 9C Zec",
+   "Std 1 (07:40): De 9C Zec",
+   "Std 2 (08:25): De 9C Zec",
+   "Std 2 (08:25): De 9C Zec",
+   "Std 3 (09:40): De 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): De 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "24.11.2026, 09:05"
+ },
+ {
+  "timestamp": "2026-11-24T08:10:10.109218",
+  "lehrer": "Sto",
+  "datum": "Dienstag, 01. Dezember 2026",
+  "date_key": "20261201",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "24.11.2026, 09:05"
+ },
+ {
+  "timestamp": "2026-11-24T08:10:10.109218",
+  "lehrer": "Zec",
+  "datum": "Dienstag, 01. Dezember 2026",
+  "date_key": "20261201",
+  "changes": [
+   "Std 1 (07:40): für De Jur",
+   "Std 1 (07:40): für De Jur",
+   "Std 2 (08:25): für De Jur",
+   "Std 2 (08:25): für De Jur"
+  ],
+  "zeitstempel": "24.11.2026, 09:05"
+ },
+ {
+  "timestamp": "2026-11-24T08:10:10.109218",
+  "lehrer": "Jur",
+  "datum": "Freitag, 04. Dezember 2026",
+  "date_key": "20261204",
+  "changes": [
+   "Std 1 (07:40): De 9C Zec",
+   "Std 1 (07:40): De 9C Zec",
+   "Std 2 (08:25): De 9C Zec",
+   "Std 2 (08:25): De 9C Zec",
+   "Std 5 (11:40): Phi 7B Hofm",
+   "Std 6 (12:25): Phi 7B Hofm",
+   "Std 9 (15:40): KL 9C fällt aus",
+   "Std 10 (16:25): KL 9C fällt aus"
+  ],
+  "zeitstempel": "24.11.2026, 09:05"
+ },
+ {
+  "timestamp": "2026-11-24T08:10:10.109218",
+  "lehrer": "Sto",
+  "datum": "Freitag, 04. Dezember 2026",
+  "date_key": "20261204",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "24.11.2026, 09:05"
+ },
+ {
+  "timestamp": "2026-11-24T08:10:10.109218",
+  "lehrer": "Zec",
+  "datum": "Freitag, 04. Dezember 2026",
+  "date_key": "20261204",
+  "changes": [
+   "Std 1 (07:40): für De Jur",
+   "Std 1 (07:40): für De Jur",
+   "Std 2 (08:25): für De Jur",
+   "Std 2 (08:25): für De Jur"
+  ],
+  "zeitstempel": "24.11.2026, 09:05"
  }
 ]
