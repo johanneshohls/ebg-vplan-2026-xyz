@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "24.11.2026, 16:20 Uhr",
- "last_changed": "2026-11-24T09:05:00",
+ "generiert": "24.11.2026, 16:25 Uhr",
+ "last_changed": "2026-11-24T17:22:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -15080,7 +15080,7 @@
     },
     "20261125": {
      "datum": "Mittwoch, 25. November 2026",
-     "zeitstempel": "24.11.2026, 09:02",
+     "zeitstempel": "24.11.2026, 17:22",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -15778,51 +15778,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "En",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8B verlegt nach Do (26.11.) St.1",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "En",
-         "klasse": "8B",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8B verlegt nach Do (26.11.) St.2",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "En",
-         "klasse": "10D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 10D See (für En), Bitte mit Tina abstimmen.",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "En",
-         "klasse": "10D",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 10D See (für En), Bitte mit Tina abstimmen.",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "9C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9C Pel (für En)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "9C",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 9C Pel (für En)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16628,6 +16628,22 @@
       "Pel": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "ILZ",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "statt Do (26.11.) St.1 (ILZ Hofm)",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "ILZ",
+         "klasse": "8B",
+         "raum": "006",
+         "info": "statt Do (26.11.) St.2 (ILZ Hofm)",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "Ch",
          "klasse": "9C",
@@ -16641,6 +16657,22 @@
          "klasse": "9C",
          "raum": "204",
          "info": "Ch 9C statt Mo (23.11.) St.4",
+         "geaendert": true
+        },
+        {
+         "stunde": "5",
+         "fach": "Bio",
+         "klasse": "9C",
+         "raum": "008",
+         "info": "für En Hofm",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Bio",
+         "klasse": "9C",
+         "raum": "008",
+         "info": "für En Hofm",
          "geaendert": true
         }
        ],
@@ -16707,19 +16739,19 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "Ku",
-         "klasse": "8C",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 8C Schud",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Ku",
-         "klasse": "8C",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 8C Schud",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16840,6 +16872,22 @@
          "geaendert": false
         },
         {
+         "stunde": "5",
+         "fach": "Ku",
+         "klasse": "8C",
+         "raum": "207",
+         "info": "für Ku Rat",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ku",
+         "klasse": "8C",
+         "raum": "207",
+         "info": "für Ku Rat",
+         "geaendert": true
+        },
+        {
          "stunde": "7",
          "fach": "ILZ",
          "klasse": "10B",
@@ -16882,6 +16930,22 @@
          "raum": "204",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Geo",
+         "klasse": "10D",
+         "raum": "105",
+         "info": "für En Hofm, Bitte mit Tina abstimmen.",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Geo",
+         "klasse": "10D",
+         "raum": "105",
+         "info": "für En Hofm, Bitte mit Tina abstimmen.",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -17230,7 +17294,7 @@
     },
     "20261126": {
      "datum": "Donnerstag, 26. November 2026",
-     "zeitstempel": "24.11.2026, 08:53",
+     "zeitstempel": "24.11.2026, 17:22",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -17932,19 +17996,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "ILZ",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 8B gehalten am Mi (25.11.) St.1 (Pel)",
+         "geaendert": true
+        },
+        {
+         "stunde": "1",
+         "fach": "En",
          "klasse": "8B",
          "raum": "008",
-         "info": "",
-         "geaendert": false
+         "info": "En 8B statt Mi (25.11.) St.1; ILZ 8B gehalten am Mi (25.11.) St.1 (Pel)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "ILZ",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 8B gehalten am Mi (25.11.) St.2 (Pel)",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "En",
          "klasse": "8B",
          "raum": "008",
-         "info": "",
-         "geaendert": false
+         "info": "En 8B statt Mi (25.11.) St.2; ILZ 8B gehalten am Mi (25.11.) St.2 (Pel)",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -18477,6 +18557,22 @@
          "geaendert": false
         },
         {
+         "stunde": "3",
+         "fach": "eRe",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "für eRe Rat, Übung an Ma-Aufgaben; bitte  mit FL absprechen",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "eRe",
+         "klasse": "8A",
+         "raum": "001",
+         "info": "für eRe Rat, Übung an Ma-Aufgaben; bitte  mit FL absprechen",
+         "geaendert": true
+        },
+        {
          "stunde": "5",
          "fach": "Ph",
          "klasse": "9C",
@@ -18851,35 +18947,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "eRe",
-         "klasse": "10A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 10A selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "eRe",
-         "klasse": "10A",
-         "raum": "104",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 10A selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "eRe",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 8A Leu, Übung an Ma-Aufgaben; bitte  mit FL absprechen",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "eRe",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "eRe 8A Leu, Übung an Ma-Aufgaben; bitte  mit FL absprechen",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -19324,7 +19420,7 @@
     },
     "20261127": {
      "datum": "Freitag, 27. November 2026",
-     "zeitstempel": "24.11.2026, 08:53",
+     "zeitstempel": "24.11.2026, 17:22",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, Aula"
      ],

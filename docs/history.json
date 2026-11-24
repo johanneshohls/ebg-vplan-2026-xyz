@@ -922,5 +922,107 @@
    "Std 2 (08:25): für De Jur"
   ],
   "zeitstempel": "24.11.2026, 09:05"
+ },
+ {
+  "timestamp": "2026-11-24T16:25:12.246651",
+  "lehrer": "Hofm",
+  "datum": "Mittwoch, 25. November 2026",
+  "date_key": "20261125",
+  "changes": [
+   "Std 1 (07:40): En 8B verlegt nach Do (26.11.) St.1",
+   "Std 2 (08:25): En 8B verlegt nach Do (26.11.) St.2",
+   "Std 3 (09:40): Geo 10D See (für En), Bitte mit Tina abstimmen.",
+   "Std 4 (10:25): Geo 10D See (für En), Bitte mit Tina abstimmen.",
+   "Std 5 (11:40): Bio 9C Pel (für En)",
+   "Std 6 (12:25): Bio 9C Pel (für En)"
+  ],
+  "zeitstempel": "24.11.2026, 17:22"
+ },
+ {
+  "timestamp": "2026-11-24T16:25:12.246651",
+  "lehrer": "Pel",
+  "datum": "Mittwoch, 25. November 2026",
+  "date_key": "20261125",
+  "changes": [
+   "Std 1 (07:40): statt Do (26.11.) St.1 (ILZ Hofm)",
+   "Std 2 (08:25): statt Do (26.11.) St.2 (ILZ Hofm)",
+   "Std 3 (09:40): Ch 9C statt Mo (23.11.) St.3",
+   "Std 4 (10:25): Ch 9C statt Mo (23.11.) St.4",
+   "Std 5 (11:40): für En Hofm",
+   "Std 6 (12:25): für En Hofm"
+  ],
+  "zeitstempel": "24.11.2026, 17:22"
+ },
+ {
+  "timestamp": "2026-11-24T16:25:12.246651",
+  "lehrer": "Rat",
+  "datum": "Mittwoch, 25. November 2026",
+  "date_key": "20261125",
+  "changes": [
+   "Std 5 (11:40): Ku 8C Schud",
+   "Std 6 (12:25): Ku 8C Schud"
+  ],
+  "zeitstempel": "24.11.2026, 17:22"
+ },
+ {
+  "timestamp": "2026-11-24T16:25:12.246651",
+  "lehrer": "Schud",
+  "datum": "Mittwoch, 25. November 2026",
+  "date_key": "20261125",
+  "changes": [
+   "Std 5 (11:40): für Ku Rat",
+   "Std 6 (12:25): für Ku Rat",
+   "Std 7 (13:40): ILZ 10B statt Mo (23.11.) St.7",
+   "Std 8 (14:25): ILZ 10B statt Mo (23.11.) St.8"
+  ],
+  "zeitstempel": "24.11.2026, 17:22"
+ },
+ {
+  "timestamp": "2026-11-24T16:25:12.246651",
+  "lehrer": "See",
+  "datum": "Mittwoch, 25. November 2026",
+  "date_key": "20261125",
+  "changes": [
+   "Std 3 (09:40): für En Hofm, Bitte mit Tina abstimmen.",
+   "Std 4 (10:25): für En Hofm, Bitte mit Tina abstimmen."
+  ],
+  "zeitstempel": "24.11.2026, 17:22"
+ },
+ {
+  "timestamp": "2026-11-24T16:25:12.246651",
+  "lehrer": "Hofm",
+  "datum": "Donnerstag, 26. November 2026",
+  "date_key": "20261126",
+  "changes": [
+   "Std 1 (07:40): ILZ 8B gehalten am Mi (25.11.) St.1 (Pel)",
+   "Std 1 (07:40): En 8B statt Mi (25.11.) St.1; ILZ 8B gehalten am Mi (25.11.) St.1 (Pel)",
+   "Std 2 (08:25): ILZ 8B gehalten am Mi (25.11.) St.2 (Pel)",
+   "Std 2 (08:25): En 8B statt Mi (25.11.) St.2; ILZ 8B gehalten am Mi (25.11.) St.2 (Pel)"
+  ],
+  "zeitstempel": "24.11.2026, 17:22"
+ },
+ {
+  "timestamp": "2026-11-24T16:25:12.246651",
+  "lehrer": "Leu",
+  "datum": "Donnerstag, 26. November 2026",
+  "date_key": "20261126",
+  "changes": [
+   "Std 3 (09:40): für eRe Rat, Übung an Ma-Aufgaben; bitte  mit FL absprechen",
+   "Std 4 (10:25): für eRe Rat, Übung an Ma-Aufgaben; bitte  mit FL absprechen"
+  ],
+  "zeitstempel": "24.11.2026, 17:22"
+ },
+ {
+  "timestamp": "2026-11-24T16:25:12.246651",
+  "lehrer": "Rat",
+  "datum": "Donnerstag, 26. November 2026",
+  "date_key": "20261126",
+  "changes": [
+   "Std 1 (07:40): eRe 10A selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 2 (08:25): eRe 10A selbst. (v), Selbststudium, kann zu Hause erledigt werden",
+   "Std 3 (09:40): eRe 8A Leu, Übung an Ma-Aufgaben; bitte  mit FL absprechen",
+   "Std 4 (10:25): eRe 8A Leu, Übung an Ma-Aufgaben; bitte  mit FL absprechen"
+  ],
+  "zeitstempel": "24.11.2026, 17:22"
  }
 ]
