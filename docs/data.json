@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "24.11.2026, 04:25 Uhr",
- "last_changed": "2026-11-23T09:59:00",
+ "generiert": "24.11.2026, 04:30 Uhr",
+ "last_changed": "2026-11-24T05:26:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12971,7 +12971,7 @@
     },
     "20261124": {
      "datum": "Dienstag, 24. November 2026",
-     "zeitstempel": "23.11.2026, 09:59",
+     "zeitstempel": "24.11.2026, 05:26",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -14470,6 +14470,22 @@
       "Pel": {
        "entries": [
         {
+         "stunde": "1",
+         "fach": "Span",
+         "klasse": "7C",
+         "raum": "003",
+         "info": "für Span Puk",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Span",
+         "klasse": "7C",
+         "raum": "003",
+         "info": "für Span Puk",
+         "geaendert": true
+        },
+        {
          "stunde": "3",
          "fach": "Ch",
          "klasse": "9C",
@@ -14545,51 +14561,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Span",
-         "klasse": "7C",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7C Pel",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Span",
-         "klasse": "7C",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 7C Pel",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Span",
-         "klasse": "10D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10D selbst. (v), Selbststudium (Vorbereitung auf Span- und Geo-Test)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Span",
-         "klasse": "10D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Span 10D selbst. (v), Selbststudium (Vorbereitung auf Span- und Geo-Test)",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "ILZ",
-         "klasse": "10D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10D selbst. (v), Aufgaben können zu Hause bearbeitet werden.",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ILZ",
-         "klasse": "10D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "ILZ 10D selbst. (v), Aufgaben können zu Hause bearbeitet werden.",
+         "geaendert": true
         }
        ],
        "aufsichten": []
