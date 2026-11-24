@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "24.11.2026, 18:10 Uhr",
- "last_changed": "2026-11-24T17:22:00",
+ "generiert": "24.11.2026, 18:15 Uhr",
+ "last_changed": "2026-11-24T19:11:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -15080,7 +15080,7 @@
     },
     "20261125": {
      "datum": "Mittwoch, 25. November 2026",
-     "zeitstempel": "24.11.2026, 17:22",
+     "zeitstempel": "24.11.2026, 19:11",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -16167,35 +16167,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "AWT",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 8E Mue (für AWT), Bitte mit U. Ostendorf abstimmen.",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "AWT",
-         "klasse": "8E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 8E Mue (für AWT), Bitte mit U. Ostendorf abstimmen.",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Ch",
-         "klasse": "10A",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 10A selbst. (v), Wiederholung des U-Stoffes der letzten Stunden, kann zu Hause erfolgen",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Ch",
-         "klasse": "10A",
-         "raum": "K12",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 10A selbst. (v), Wiederholung des U-Stoffes der letzten Stunden, kann zu Hause erfolgen",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16536,6 +16536,22 @@
          "raum": "Tu2",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Bio",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "für AWT Kno, Bitte mit U. Ostendorf abstimmen.",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Bio",
+         "klasse": "8E",
+         "raum": "103",
+         "info": "für AWT Kno, Bitte mit U. Ostendorf abstimmen.",
+         "geaendert": true
         }
        ],
        "aufsichten": []

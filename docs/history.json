@@ -1024,5 +1024,29 @@
    "Std 4 (10:25): eRe 8A Leu, Übung an Ma-Aufgaben; bitte  mit FL absprechen"
   ],
   "zeitstempel": "24.11.2026, 17:22"
+ },
+ {
+  "timestamp": "2026-11-24T18:15:25.470131",
+  "lehrer": "Kno",
+  "datum": "Mittwoch, 25. November 2026",
+  "date_key": "20261125",
+  "changes": [
+   "Std 5 (11:40): Bio 8E Mue (für AWT), Bitte mit U. Ostendorf abstimmen.",
+   "Std 6 (12:25): Bio 8E Mue (für AWT), Bitte mit U. Ostendorf abstimmen.",
+   "Std 7 (13:40): Ch 10A selbst. (v), Wiederholung des U-Stoffes der letzten Stunden, kann zu Hause erfolgen",
+   "Std 8 (14:25): Ch 10A selbst. (v), Wiederholung des U-Stoffes der letzten Stunden, kann zu Hause erfolgen"
+  ],
+  "zeitstempel": "24.11.2026, 19:11"
+ },
+ {
+  "timestamp": "2026-11-24T18:15:25.470131",
+  "lehrer": "Mue",
+  "datum": "Mittwoch, 25. November 2026",
+  "date_key": "20261125",
+  "changes": [
+   "Std 5 (11:40): für AWT Kno, Bitte mit U. Ostendorf abstimmen.",
+   "Std 6 (12:25): für AWT Kno, Bitte mit U. Ostendorf abstimmen."
+  ],
+  "zeitstempel": "24.11.2026, 19:11"
  }
 ]
