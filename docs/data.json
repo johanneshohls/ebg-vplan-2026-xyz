@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "24.11.2026, 07:50 Uhr",
- "last_changed": "2026-11-24T06:55:00",
+ "generiert": "24.11.2026, 07:55 Uhr",
+ "last_changed": "2026-11-24T08:53:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12971,11 +12971,27 @@
     },
     "20261124": {
      "datum": "Dienstag, 24. November 2026",
-     "zeitstempel": "24.11.2026, 06:55",
+     "zeitstempel": "24.11.2026, 08:53",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Span",
+         "klasse": "7C",
+         "raum": "003",
+         "info": "für Span Puk",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Span",
+         "klasse": "7C",
+         "raum": "003",
+         "info": "für Span Puk",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "inf3",
@@ -14493,22 +14509,6 @@
       "Pel": {
        "entries": [
         {
-         "stunde": "1",
-         "fach": "Span",
-         "klasse": "7C",
-         "raum": "003",
-         "info": "für Span Puk",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "Span",
-         "klasse": "7C",
-         "raum": "003",
-         "info": "für Span Puk",
-         "geaendert": true
-        },
-        {
          "stunde": "3",
          "fach": "Ch",
          "klasse": "9C",
@@ -14587,7 +14587,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 7C Pel",
+         "info": "Span 7C Bar",
          "geaendert": true
         },
         {
@@ -14595,7 +14595,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Span 7C Pel",
+         "info": "Span 7C Bar",
          "geaendert": true
         },
         {
@@ -15080,7 +15080,7 @@
     },
     "20261125": {
      "datum": "Mittwoch, 25. November 2026",
-     "zeitstempel": "22.11.2026, 15:01",
+     "zeitstempel": "24.11.2026, 08:53",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -17214,7 +17214,7 @@
     },
     "20261126": {
      "datum": "Donnerstag, 26. November 2026",
-     "zeitstempel": "22.11.2026, 15:01",
+     "zeitstempel": "24.11.2026, 08:53",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -19308,7 +19308,7 @@
     },
     "20261127": {
      "datum": "Freitag, 27. November 2026",
-     "zeitstempel": "22.11.2026, 15:01",
+     "zeitstempel": "24.11.2026, 08:53",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, Aula"
      ],
