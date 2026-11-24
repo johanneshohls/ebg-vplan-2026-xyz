@@ -879,5 +879,31 @@
    "Std 8 (14:25): ILZ 10D selbst. (v), Aufgaben können zu Hause bearbeitet werden."
   ],
   "zeitstempel": "24.11.2026, 08:53"
+ },
+ {
+  "timestamp": "2026-11-24T08:05:11.430176",
+  "lehrer": "Fla",
+  "datum": "Mittwoch, 25. November 2026",
+  "date_key": "20261125",
+  "changes": [
+   "Std 1 (07:40): De 8C Jur",
+   "Std 2 (08:25): De 8C Jur",
+   "Std 5 (11:40): Bio 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): Bio 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "24.11.2026, 09:02"
+ },
+ {
+  "timestamp": "2026-11-24T08:05:11.430176",
+  "lehrer": "Jur",
+  "datum": "Mittwoch, 25. November 2026",
+  "date_key": "20261125",
+  "changes": [
+   "Std 1 (07:40): für De Fla",
+   "Std 2 (08:25): für De Fla",
+   "Std 3 (09:40): Phi 9C gehalten am Mo (23.11.) St.3",
+   "Std 4 (10:25): Phi 9C gehalten am Mo (23.11.) St.4"
+  ],
+  "zeitstempel": "24.11.2026, 09:02"
  }
 ]

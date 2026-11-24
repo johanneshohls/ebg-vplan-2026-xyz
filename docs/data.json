@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "24.11.2026, 08:00 Uhr",
- "last_changed": "2026-11-24T08:53:00",
+ "generiert": "24.11.2026, 08:05 Uhr",
+ "last_changed": "2026-11-24T09:02:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -15080,7 +15080,7 @@
     },
     "20261125": {
      "datum": "Mittwoch, 25. November 2026",
-     "zeitstempel": "24.11.2026, 08:53",
+     "zeitstempel": "24.11.2026, 09:02",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -15543,35 +15543,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8C Jur",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "De",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 8C Jur",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "BIO1",
-         "klasse": "11A-11E",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "BIO1",
-         "klasse": "11A-11E",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -16088,6 +16088,22 @@
       },
       "Jur": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "De",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für De Fla",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "De",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für De Fla",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "---",
