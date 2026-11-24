@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "24.11.2026, 05:50 Uhr",
- "last_changed": "2026-11-24T05:26:00",
+ "generiert": "24.11.2026, 05:55 Uhr",
+ "last_changed": "2026-11-24T06:55:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -12971,7 +12971,7 @@
     },
     "20261124": {
      "datum": "Dienstag, 24. November 2026",
-     "zeitstempel": "24.11.2026, 05:26",
+     "zeitstempel": "24.11.2026, 06:55",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -13368,11 +13368,27 @@
          "geaendert": true
         },
         {
+         "stunde": "3",
+         "fach": "Sk",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für Sk Lan",
+         "geaendert": true
+        },
+        {
          "stunde": "4",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "KILZ 10C verlegt nach St.6",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Sk",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für Sk Lan",
          "geaendert": true
         },
         {
@@ -13984,7 +14000,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Lan"
+        }
+       ]
       },
       "Kar": {
        "entries": [
@@ -14079,6 +14102,22 @@
          "raum": "K12",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "AWT",
+         "klasse": "9C",
+         "raum": "005",
+         "info": "statt Mo (23.11.) St.5 (AWT Lan)",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "AWT",
+         "klasse": "9C",
+         "raum": "005",
+         "info": "statt Mo (23.11.) St.6 (AWT Lan)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -14140,50 +14179,34 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "w3",
-         "klasse": "12A-12D",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "2",
-         "fach": "w3",
-         "klasse": "12A-12D",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "3",
-         "fach": "Sk",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "4",
-         "fach": "Sk",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
-        },
-        {
-         "stunde": "5",
-         "fach": "AWT",
-         "klasse": "9C",
-         "raum": "005",
-         "info": "AWT 9C statt Mo (23.11.) St.5",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "W 12A-12D selbst. (v), Selbststudium; kann zu Hause erfolgen",
          "geaendert": true
         },
         {
-         "stunde": "6",
-         "fach": "AWT",
-         "klasse": "9C",
-         "raum": "005",
-         "info": "AWT 9C statt Mo (23.11.) St.6",
+         "stunde": "2",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "W 12A-12D selbst. (v), Selbststudium; kann zu Hause erfolgen",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 8C Fel",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sk 8C Fel",
          "geaendert": true
         }
        ],
@@ -14192,7 +14215,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Käc"
         }
        ]
       },
