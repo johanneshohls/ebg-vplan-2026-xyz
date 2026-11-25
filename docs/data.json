@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "25.11.2026, 12:15 Uhr",
- "last_changed": "2026-11-25T11:29:00",
+ "generiert": "25.11.2026, 12:20 Uhr",
+ "last_changed": "2026-11-25T13:15:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -17310,7 +17310,7 @@
     },
     "20261126": {
      "datum": "Donnerstag, 26. November 2026",
-     "zeitstempel": "25.11.2026, 11:29",
+     "zeitstempel": "25.11.2026, 13:15",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -19007,50 +19007,50 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "DE2",
-         "klasse": "12A-12D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "DE2",
-         "klasse": "12A-12D",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "DE2",
-         "klasse": "11A-11E",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "DE2",
-         "klasse": "11A-11E",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "thea2",
-         "klasse": "11A-11E",
-         "raum": "K07",
-         "info": "für Thea Schil, Raumänderung",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Thea 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
          "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "thea2",
-         "klasse": "11A-11E",
-         "raum": "K07",
-         "info": "für Thea Schil, Raumänderung",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Thea 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
          "geaendert": true
         }
        ],
