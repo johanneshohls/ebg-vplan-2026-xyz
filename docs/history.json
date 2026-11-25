@@ -1106,5 +1106,379 @@
    "Std 6 (12:25): Thea 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt"
   ],
   "zeitstempel": "25.11.2026, 13:15"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Lan",
+  "datum": "Donnerstag, 26. November 2026",
+  "date_key": "20261126",
+  "changes": [
+   "Std 5 (11:40): für AWT Lan, BP"
+  ],
+  "zeitstempel": "25.11.2026, 16:15"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Puk",
+  "datum": "Donnerstag, 26. November 2026",
+  "date_key": "20261126",
+  "changes": [
+   "Std 3 (09:40): für Span Puk, BP, Aula",
+   "Std 4 (10:25): für Span Puk, BP, Aula",
+   "Std 5 (11:40): für Span Puk, begleiteter Unterricht: A. Stolzenberg"
+  ],
+  "zeitstempel": "25.11.2026, 16:15"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Gol",
+  "datum": "Freitag, 27. November 2026",
+  "date_key": "20261127",
+  "changes": [
+   "Std 7 (13:40): Ge 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 8 (14:25): Ge 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
+  ],
+  "zeitstempel": "25.11.2026, 16:17"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Jur",
+  "datum": "Mittwoch, 02. Dezember 2026",
+  "date_key": "20261202",
+  "changes": [
+   "Std 3 (09:40): Phi 9C Lan",
+   "Std 4 (10:25): Phi 9C Lan",
+   "Std 5 (11:40): KILZ 9C Leu, Bitte im Schulhaus verteilen.",
+   "Std 6 (12:25): KILZ 9C Leu"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Leu",
+  "datum": "Mittwoch, 02. Dezember 2026",
+  "date_key": "20261202",
+  "changes": [
+   "Std 5 (11:40): für KILZ Jur, Bitte im Schulhaus verteilen.",
+   "Std 6 (12:25): für KILZ Jur"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Ter",
+  "datum": "Mittwoch, 02. Dezember 2026",
+  "date_key": "20261202",
+  "changes": [
+   "Std 5 (11:40): Nachschreibetermin",
+   "Std 6 (12:25): Nachschreibetermin"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Bir",
+  "datum": "Donnerstag, 03. Dezember 2026",
+  "date_key": "20261203",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Bod",
+  "datum": "Donnerstag, 03. Dezember 2026",
+  "date_key": "20261203",
+  "changes": [
+   "Std 1 (07:40): für SpMä Zec, Raumänderung",
+   "Std 2 (08:25): für SpMä Zec, Raumänderung",
+   "Std 3 (09:40): für SpJu Bod, Raumänderung",
+   "Std 4 (10:25): für SpJu Bod, Raumänderung"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Hön",
+  "datum": "Donnerstag, 03. Dezember 2026",
+  "date_key": "20261203",
+  "changes": [
+   "Std 1 (07:40): für De Hön",
+   "Std 2 (08:25): für De Hön"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Hun",
+  "datum": "Donnerstag, 03. Dezember 2026",
+  "date_key": "20261203",
+  "changes": [
+   "Std 5 (11:40): für AWT Lan",
+   "Std 6 (12:25): für AWT Lan"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Jur",
+  "datum": "Donnerstag, 03. Dezember 2026",
+  "date_key": "20261203",
+  "changes": [
+   "Std 1 (07:40): De 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 2 (08:25): De 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 3 (09:40): Phi 8A Schuc, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 4 (10:25): Phi 8A Schuc, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Käc",
+  "datum": "Donnerstag, 03. Dezember 2026",
+  "date_key": "20261203",
+  "changes": [
+   "Std 1 (07:40): für AWT Lan",
+   "Std 2 (08:25): für AWT Lan"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Lan",
+  "datum": "Donnerstag, 03. Dezember 2026",
+  "date_key": "20261203",
+  "changes": [
+   "Std 1 (07:40): Ma 8C Käc (für AWT)",
+   "Std 2 (08:25): Ma 8C Käc (für AWT)",
+   "Std 5 (11:40): Ch 10D Hun (für AWT)",
+   "Std 6 (12:25): Ch 10D Hun (für AWT)"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Mue",
+  "datum": "Donnerstag, 03. Dezember 2026",
+  "date_key": "20261203",
+  "changes": [
+   "Std 1 (07:40): für SpJu Mue, Aula",
+   "Std 2 (08:25): für SpJu Mue, Aula",
+   "Std 3 (09:40): für SpMä Mue, Raumänderung",
+   "Std 4 (10:25): für SpMä Mue, Raumänderung",
+   "Std 7 (13:40): für SpMä Mue, Raumänderung",
+   "Std 8 (14:25): für SpMä Mue, Raumänderung"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Schil",
+  "datum": "Donnerstag, 03. Dezember 2026",
+  "date_key": "20261203",
+  "changes": [
+   "Std 1 (07:40): De 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 2 (08:25): De 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 3 (09:40): De 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): De 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): für Thea Schil, Raumänderung",
+   "Std 6 (12:25): für Thea Schil, Raumänderung"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Schuc",
+  "datum": "Donnerstag, 03. Dezember 2026",
+  "date_key": "20261203",
+  "changes": [
+   "Std 3 (09:40): für Phi Jur, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+   "Std 4 (10:25): für Phi Jur, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Schud",
+  "datum": "Donnerstag, 03. Dezember 2026",
+  "date_key": "20261203",
+  "changes": [
+   "Std 5 (11:40): Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Ter",
+  "datum": "Donnerstag, 03. Dezember 2026",
+  "date_key": "20261203",
+  "changes": [
+   "Std 1 (07:40): Bio 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 2 (08:25): Bio 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 3 (09:40): Bio 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): Bio 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Zec",
+  "datum": "Donnerstag, 03. Dezember 2026",
+  "date_key": "20261203",
+  "changes": [
+   "Std 1 (07:40): für SpMä Zec, Raumänderung",
+   "Std 2 (08:25): für SpMä Zec, Raumänderung"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Bir",
+  "datum": "Freitag, 04. Dezember 2026",
+  "date_key": "20261204",
+  "changes": [
+   "Std 1 (07:40): B VK fällt aus",
+   "Std 2 (08:25): B VK fällt aus",
+   "Std 3 (09:40): Ge 9A Isb (für Mu)",
+   "Std 4 (10:25): Ge 9A Isb (für Mu)",
+   "Std 5 (11:40): Ge 9B Mar (für Mu)",
+   "Std 6 (12:25): Ge 9B Mar (für Mu)"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Bob",
+  "datum": "Freitag, 04. Dezember 2026",
+  "date_key": "20261204",
+  "changes": [
+   "Std 1 (07:40): für AWT Lan",
+   "Std 2 (08:25): für AWT Lan"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Fel",
+  "datum": "Freitag, 04. Dezember 2026",
+  "date_key": "20261204",
+  "changes": [
+   "Std 3 (09:40): für AWT Lan",
+   "Std 4 (10:25): für AWT Lan"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Isb",
+  "datum": "Freitag, 04. Dezember 2026",
+  "date_key": "20261204",
+  "changes": [
+   "Std 3 (09:40): für Mu Bir",
+   "Std 4 (10:25): für Mu Bir"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Jur",
+  "datum": "Freitag, 04. Dezember 2026",
+  "date_key": "20261204",
+  "changes": [
+   "Std 1 (07:40): De 9C Zec",
+   "Std 2 (08:25): De 9C Zec",
+   "Std 5 (11:40): Phi 7B Hofm",
+   "Std 6 (12:25): Phi 7B Hofm",
+   "Std 9 (15:40): KL 9C fällt aus",
+   "Std 10 (16:25): KL 9C fällt aus"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Kar",
+  "datum": "Freitag, 04. Dezember 2026",
+  "date_key": "20261204",
+  "changes": [
+   "Std 5 (11:40): IMB 7C Sta",
+   "Std 6 (12:25): IMB 7C Sta",
+   "Std 7 (13:40): Mu 10C fällt aus",
+   "Std 8 (14:25): Mu 10C fällt aus"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Lan",
+  "datum": "Freitag, 04. Dezember 2026",
+  "date_key": "20261204",
+  "changes": [
+   "Std 1 (07:40): As 9D Bob (für AWT)",
+   "Std 2 (08:25): As 9D Bob (für AWT)",
+   "Std 3 (09:40): AWT 10A Fel",
+   "Std 4 (10:25): AWT 10A Fel",
+   "Std 5 (11:40): W 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): W 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Mar",
+  "datum": "Freitag, 04. Dezember 2026",
+  "date_key": "20261204",
+  "changes": [
+   "Std 5 (11:40): für Mu Bir",
+   "Std 6 (12:25): für Mu Bir"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Schil",
+  "datum": "Freitag, 04. Dezember 2026",
+  "date_key": "20261204",
+  "changes": [
+   "Std 1 (07:40): Geo 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 2 (08:25): Geo 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+   "Std 5 (11:40): De 7D Stu",
+   "Std 6 (12:25): De 7D Stu"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Sta",
+  "datum": "Freitag, 04. Dezember 2026",
+  "date_key": "20261204",
+  "changes": [
+   "Std 5 (11:40): für IMB Kar",
+   "Std 6 (12:25): für IMB Kar"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Stu",
+  "datum": "Freitag, 04. Dezember 2026",
+  "date_key": "20261204",
+  "changes": [
+   "Std 5 (11:40): für De Stu",
+   "Std 6 (12:25): für De Stu"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-25T15:20:11.537094",
+  "lehrer": "Zec",
+  "datum": "Freitag, 04. Dezember 2026",
+  "date_key": "20261204",
+  "changes": [
+   "Std 1 (07:40): für De Jur",
+   "Std 2 (08:25): für De Jur"
+  ],
+  "zeitstempel": "25.11.2026, 16:19"
  }
 ]

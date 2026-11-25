@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "25.11.2026, 15:15 Uhr",
- "last_changed": "2026-11-25T13:15:00",
+ "generiert": "25.11.2026, 15:20 Uhr",
+ "last_changed": "2026-11-25T16:19:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -17310,7 +17310,7 @@
     },
     "20261126": {
      "datum": "Donnerstag, 26. November 2026",
-     "zeitstempel": "25.11.2026, 13:15",
+     "zeitstempel": "25.11.2026, 16:15",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -18547,7 +18547,7 @@
          "fach": "AWT",
          "klasse": "10A",
          "raum": "Co1",
-         "info": "",
+         "info": "für AWT Lan, BP",
          "geaendert": false
         },
         {
@@ -18928,17 +18928,17 @@
          "stunde": "3",
          "fach": "Span",
          "klasse": "10D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für Span Puk, BP, Aula",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Span",
          "klasse": "10D",
-         "raum": "008",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für Span Puk, BP, Aula",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -19459,7 +19459,7 @@
     },
     "20261127": {
      "datum": "Freitag, 27. November 2026",
-     "zeitstempel": "24.11.2026, 17:22",
+     "zeitstempel": "25.11.2026, 16:17",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, Aula"
      ],
@@ -19941,19 +19941,19 @@
         },
         {
          "stunde": "7",
-         "fach": "ge1",
-         "klasse": "12A-12D",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ge1",
-         "klasse": "12A-12D",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -21462,7 +21462,7 @@
    "tage": {
     "20261130": {
      "datum": "Montag, 30. November 2026",
-     "zeitstempel": "24.11.2026, 09:05",
+     "zeitstempel": "25.11.2026, 16:19",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23628,7 +23628,7 @@
     },
     "20261201": {
      "datum": "Dienstag, 01. Dezember 2026",
-     "zeitstempel": "24.11.2026, 09:05",
+     "zeitstempel": "25.11.2026, 16:19",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -25714,7 +25714,7 @@
     },
     "20261202": {
      "datum": "Mittwoch, 02. Dezember 2026",
-     "zeitstempel": "24.11.2026, 09:05",
+     "zeitstempel": "25.11.2026, 16:19",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -26621,7 +26621,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "KILZ 9C Leu",
+         "info": "KILZ 9C Leu, Bitte im Schulhaus verteilen.",
          "geaendert": true
         },
         {
@@ -26808,15 +26808,15 @@
          "stunde": "5",
          "fach": "KILZ",
          "klasse": "9C",
-         "raum": "003",
-         "info": "für KILZ Jur",
+         "raum": "",
+         "info": "für KILZ Jur, Bitte im Schulhaus verteilen.",
          "geaendert": true
         },
         {
          "stunde": "6",
          "fach": "KILZ",
          "klasse": "9C",
-         "raum": "003",
+         "raum": "",
          "info": "für KILZ Jur",
          "geaendert": true
         }
@@ -27493,7 +27493,24 @@
        "aufsichten": []
       },
       "Ter": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "003",
+         "info": "Nachschreibetermin",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Bio",
+         "klasse": "",
+         "raum": "003",
+         "info": "Nachschreibetermin",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Tie": {
@@ -27661,7 +27678,7 @@
     },
     "20261203": {
      "datum": "Donnerstag, 03. Dezember 2026",
-     "zeitstempel": "24.11.2026, 09:05",
+     "zeitstempel": "25.11.2026, 16:19",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -27731,36 +27748,20 @@
       "Bir": {
        "entries": [
         {
-         "stunde": "3",
-         "fach": "Phi",
-         "klasse": "8A",
-         "raum": "101",
-         "info": "für Phi Jur, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
-         "geaendert": true
-        },
-        {
-         "stunde": "4",
-         "fach": "Phi",
-         "klasse": "8A",
-         "raum": "101",
-         "info": "für Phi Jur, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
-         "geaendert": true
-        },
-        {
          "stunde": "5",
          "fach": "mue2",
-         "klasse": "11A-11E",
-         "raum": "Aula",
-         "info": "für MUE Bir, Raumänderung",
-         "geaendert": true
+         "klasse": "11D,11A-11C,11E",
+         "raum": "107 106",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "6",
          "fach": "mue2",
-         "klasse": "11A-11E",
-         "raum": "Aula",
-         "info": "für MUE Bir, Raumänderung",
-         "geaendert": true
+         "klasse": "11D,11A-11C,11E",
+         "raum": "107 106",
+         "info": "",
+         "geaendert": false
         },
         {
          "stunde": "7",
@@ -27867,33 +27868,33 @@
          "stunde": "1",
          "fach": "SpMä",
          "klasse": "9A,9B",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für SpMä Zec, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "SpMä",
          "klasse": "9A,9B",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für SpMä Zec, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "3",
          "fach": "SpJu",
          "klasse": "9C,9D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "raum": "207",
+         "info": "für SpJu Bod, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "SpJu",
          "klasse": "9C,9D",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "raum": "207",
+         "info": "für SpJu Bod, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -28535,18 +28536,18 @@
         {
          "stunde": "1",
          "fach": "DE3",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "204",
+         "info": "für De Hön",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "DE3",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "204",
+         "info": "für De Hön",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -28568,7 +28569,24 @@
        "aufsichten": []
       },
       "Hun": {
-       "entries": [],
+       "entries": [
+        {
+         "stunde": "5",
+         "fach": "Ch",
+         "klasse": "10D",
+         "raum": "207",
+         "info": "für AWT Lan",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ch",
+         "klasse": "10D",
+         "raum": "207",
+         "info": "für AWT Lan",
+         "geaendert": true
+        }
+       ],
        "aufsichten": []
       },
       "Isb": {
@@ -28635,7 +28653,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Phi 8A Bir, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+         "info": "Phi 8A Schuc, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
          "geaendert": true
         },
         {
@@ -28643,7 +28661,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "Phi 8A Bir, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+         "info": "Phi 8A Schuc, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
          "geaendert": true
         }
        ],
@@ -28658,6 +28676,22 @@
       },
       "Käc": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Ma",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für AWT Lan",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ma",
+         "klasse": "8C",
+         "raum": "101",
+         "info": "für AWT Lan",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "Ph",
@@ -28782,35 +28816,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "AWT",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8C Käc (für AWT)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "AWT",
-         "klasse": "8C",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 8C Käc (für AWT)",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "AWT",
-         "klasse": "10D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 10D Hun (für AWT)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "AWT",
-         "klasse": "10D",
-         "raum": "102",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 10D Hun (für AWT)",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -28923,17 +28957,17 @@
          "stunde": "1",
          "fach": "SpJu",
          "klasse": "9A,9B",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für SpJu Mue, Aula",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "SpJu",
          "klasse": "9A,9B",
-         "raum": "Tu2",
-         "info": "",
-         "geaendert": false
+         "raum": "",
+         "info": "für SpJu Mue, Aula",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -29229,35 +29263,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "DE2",
-         "klasse": "12A-12D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "DE2",
-         "klasse": "12A-12D",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "DE2",
-         "klasse": "11A-11E",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "DE2",
-         "klasse": "11A-11E",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 11A-11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -29295,6 +29329,22 @@
          "raum": "K09",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Phi",
+         "klasse": "8A",
+         "raum": "101",
+         "info": "für Phi Jur, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Phi",
+         "klasse": "8A",
+         "raum": "101",
+         "info": "für Phi Jur, s. IServ: Aufgaben durch FL erteilt; Anwesenheitspflicht",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -29303,19 +29353,19 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "ku3",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "ku3",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ku 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -29463,35 +29513,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "BIO1",
-         "klasse": "12A-12D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "BIO1",
-         "klasse": "12A-12D",
-         "raum": "204",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "bio1",
-         "klasse": "12A-12D",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "bio1",
-         "klasse": "12A-12D",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Bio 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "7",
@@ -29645,17 +29695,17 @@
          "stunde": "1",
          "fach": "SpMä",
          "klasse": "9A,9B",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für SpMä Zec, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "SpMä",
          "klasse": "9A,9B",
-         "raum": "Tu1",
-         "info": "",
-         "geaendert": false
+         "raum": "Aula",
+         "info": "für SpMä Zec, Raumänderung",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -29664,7 +29714,7 @@
     },
     "20261204": {
      "datum": "Freitag, 04. Dezember 2026",
-     "zeitstempel": "24.11.2026, 09:05",
+     "zeitstempel": "25.11.2026, 16:19",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29729,51 +29779,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "B",
-         "klasse": "VK",
+         "fach": "---",
+         "klasse": "",
          "raum": "",
-         "info": "",
-         "geaendert": false
+         "info": "B VK fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "Mu",
-         "klasse": "9A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 9A Isb (für Mu)",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "Mu",
-         "klasse": "9A",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 9A Isb (für Mu)",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "Mu",
-         "klasse": "9B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 9B Mar (für Mu)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "Mu",
-         "klasse": "9B",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ge 9B Mar (für Mu)",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -29781,7 +29831,7 @@
          "vor_stunde": "1",
          "uhrzeit": "07:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Pel"
         }
        ]
       },
@@ -29791,6 +29841,22 @@
       },
       "Bob": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "As",
+         "klasse": "9D",
+         "raum": "K07",
+         "info": "für AWT Lan",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "As",
+         "klasse": "9D",
+         "raum": "K07",
+         "info": "für AWT Lan",
+         "geaendert": true
+        },
         {
          "stunde": "3",
          "fach": "Ch",
@@ -30042,6 +30108,22 @@
       },
       "Fel": {
        "entries": [
+        {
+         "stunde": "3",
+         "fach": "AWT",
+         "klasse": "10A",
+         "raum": "Co1",
+         "info": "für AWT Lan",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "AWT",
+         "klasse": "10A",
+         "raum": "Co1",
+         "info": "für AWT Lan",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "Span",
@@ -30489,7 +30571,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Schil"
+        }
+       ]
       },
       "Hön": {
        "entries": [
@@ -30637,6 +30726,22 @@
          "raum": "104",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "3",
+         "fach": "Ge",
+         "klasse": "9A",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "Ge",
+         "klasse": "9A",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -30649,22 +30754,6 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "De 9C Zec",
-         "geaendert": true
-        },
-        {
-         "stunde": "1",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "De 9C Zec",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
@@ -30755,35 +30844,35 @@
        "entries": [
         {
          "stunde": "5",
-         "fach": "IMB",
-         "klasse": "7C",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "IMB 7C Sta",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "IMB",
-         "klasse": "7C",
-         "raum": "K10",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "IMB 7C Sta",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "Mu",
-         "klasse": "10C",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 10C fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "Mu",
-         "klasse": "10C",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Mu 10C fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -30944,51 +31033,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "AWT",
-         "klasse": "9D",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "As 9D Bob (für AWT)",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "AWT",
-         "klasse": "9D",
-         "raum": "K07",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "As 9D Bob (für AWT)",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "AWT",
-         "klasse": "10A",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 10A Fel",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "AWT",
-         "klasse": "10A",
-         "raum": "Co1",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 10A Fel",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "w1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "W 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "w1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "106",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "W 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -31091,6 +31180,22 @@
          "raum": "003",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Ge",
+         "klasse": "9B",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Ge",
+         "klasse": "9B",
+         "raum": "107",
+         "info": "für Mu Bir",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -31284,7 +31389,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "1",
+         "uhrzeit": "07:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Bir"
+        }
+       ]
       },
       "Pri": {
        "entries": [
@@ -31416,35 +31528,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "geo1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "geo1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "De",
-         "klasse": "7D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7D Stu",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "De",
-         "klasse": "7D",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 7D Stu",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -31452,7 +31564,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Hol"
         }
        ]
       },
@@ -31541,6 +31653,22 @@
          "raum": "205",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "IMB",
+         "klasse": "7C",
+         "raum": "K10",
+         "info": "für IMB Kar",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "IMB",
+         "klasse": "7C",
+         "raum": "K10",
+         "info": "für IMB Kar",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -31593,7 +31721,7 @@
          "fach": "De",
          "klasse": "7D",
          "raum": "005",
-         "info": "",
+         "info": "für De Stu",
          "geaendert": false
         },
         {
@@ -31601,7 +31729,7 @@
          "fach": "De",
          "klasse": "7D",
          "raum": "005",
-         "info": "",
+         "info": "für De Stu",
          "geaendert": false
         }
        ],
@@ -31802,22 +31930,6 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "De",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "für De Jur",
-         "geaendert": true
-        },
-        {
-         "stunde": "1",
-         "fach": "De",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "für De Jur",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
          "fach": "De",
          "klasse": "9C",
          "raum": "004",
