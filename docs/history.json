@@ -1048,5 +1048,33 @@
    "Std 6 (12:25): für AWT Kno, Bitte mit U. Ostendorf abstimmen."
   ],
   "zeitstempel": "24.11.2026, 19:11"
+ },
+ {
+  "timestamp": "2026-11-25T05:45:10.134252",
+  "lehrer": "Pel",
+  "datum": "Mittwoch, 25. November 2026",
+  "date_key": "20261125",
+  "changes": [
+   "Std 1 (07:40): statt Do (26.11.) St.1 (ILZ Hofm)",
+   "Std 2 (08:25): statt Do (26.11.) St.2 (ILZ Hofm)",
+   "Std 3 (09:40): Ch 9C statt Mo (23.11.) St.3",
+   "Std 4 (10:25): Ch 9C statt Mo (23.11.) St.4",
+   "Std 5 (11:40): für En Hofm",
+   "Std 6 (12:25): für En Hofm"
+  ],
+  "zeitstempel": "25.11.2026, 06:43"
+ },
+ {
+  "timestamp": "2026-11-25T05:45:10.134252",
+  "lehrer": "Schil",
+  "datum": "Mittwoch, 25. November 2026",
+  "date_key": "20261125",
+  "changes": [
+   "Std 1 (07:40): Geo 8E selbst. (v), Aula",
+   "Std 2 (08:25): Geo 8E selbst. (v), Aula",
+   "Std 5 (11:40): De 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 6 (12:25): De 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "25.11.2026, 06:43"
  }
 ]

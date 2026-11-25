@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "25.11.2026, 05:40 Uhr",
- "last_changed": "2026-11-24T19:11:00",
+ "generiert": "25.11.2026, 05:45 Uhr",
+ "last_changed": "2026-11-25T06:43:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -15080,7 +15080,7 @@
     },
     "20261125": {
      "datum": "Mittwoch, 25. November 2026",
-     "zeitstempel": "24.11.2026, 19:11",
+     "zeitstempel": "25.11.2026, 06:43",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -16647,7 +16647,7 @@
          "stunde": "1",
          "fach": "ILZ",
          "klasse": "8B",
-         "raum": "006",
+         "raum": "Aula",
          "info": "statt Do (26.11.) St.1 (ILZ Hofm)",
          "geaendert": true
         },
@@ -16655,7 +16655,7 @@
          "stunde": "2",
          "fach": "ILZ",
          "klasse": "8B",
-         "raum": "006",
+         "raum": "Aula",
          "info": "statt Do (26.11.) St.2 (ILZ Hofm)",
          "geaendert": true
         },
@@ -16776,35 +16776,35 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Geo",
-         "klasse": "8E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 8E selbst. (v), Aula",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Geo",
-         "klasse": "8E",
-         "raum": "105",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Geo 8E selbst. (v), Aula",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "DE2",
-         "klasse": "12A-12D",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "DE2",
-         "klasse": "12A-12D",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "De 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
