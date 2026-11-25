@@ -1065,5 +1065,63 @@
    "Std 6 (12:25): De 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt"
   ],
   "zeitstempel": "25.11.2026, 06:43"
+ },
+ {
+  "timestamp": "2026-11-25T10:30:12.528033",
+  "lehrer": "Bod",
+  "datum": "Donnerstag, 26. November 2026",
+  "date_key": "20261126",
+  "changes": [
+   "Std 5 (11:40): für En Hofm",
+   "Std 6 (12:25): für En Hofm"
+  ],
+  "zeitstempel": "25.11.2026, 11:29"
+ },
+ {
+  "timestamp": "2026-11-25T10:30:12.528033",
+  "lehrer": "Her",
+  "datum": "Donnerstag, 26. November 2026",
+  "date_key": "20261126",
+  "changes": [
+   "Std 3 (09:40): für BO Her, BP"
+  ],
+  "zeitstempel": "25.11.2026, 11:29"
+ },
+ {
+  "timestamp": "2026-11-25T10:30:12.528033",
+  "lehrer": "Hofm",
+  "datum": "Donnerstag, 26. November 2026",
+  "date_key": "20261126",
+  "changes": [
+   "Std 1 (07:40): ILZ 8B gehalten am Mi (25.11.) St.1 (Pel)",
+   "Std 2 (08:25): ILZ 8B gehalten am Mi (25.11.) St.2 (Pel)",
+   "Std 3 (09:40): En 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): En 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 5 (11:40): Sp 8A Bod (für En)",
+   "Std 6 (12:25): Sp 8A Bod (für En)"
+  ],
+  "zeitstempel": "25.11.2026, 11:29"
+ },
+ {
+  "timestamp": "2026-11-25T10:30:12.528033",
+  "lehrer": "Köh",
+  "datum": "Donnerstag, 26. November 2026",
+  "date_key": "20261126",
+  "changes": [
+   "Std 1 (07:40): für Lat Köh, Raumänderung",
+   "Std 2 (08:25): für Lat Köh, Raumänderung"
+  ],
+  "zeitstempel": "25.11.2026, 11:29"
+ },
+ {
+  "timestamp": "2026-11-25T10:30:12.528033",
+  "lehrer": "Schud",
+  "datum": "Donnerstag, 26. November 2026",
+  "date_key": "20261126",
+  "changes": [
+   "Std 1 (07:40): statt Mi (25.11.) St.1 (En Hofm)",
+   "Std 2 (08:25): statt Mi (25.11.) St.2 (En Hofm)"
+  ],
+  "zeitstempel": "25.11.2026, 11:29"
  }
 ]

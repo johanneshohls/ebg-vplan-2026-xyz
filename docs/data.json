@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "25.11.2026, 10:25 Uhr",
- "last_changed": "2026-11-25T06:43:00",
+ "generiert": "25.11.2026, 10:30 Uhr",
+ "last_changed": "2026-11-25T11:29:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -17310,7 +17310,7 @@
     },
     "20261126": {
      "datum": "Donnerstag, 26. November 2026",
-     "zeitstempel": "24.11.2026, 17:22",
+     "zeitstempel": "25.11.2026, 11:29",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -17527,6 +17527,22 @@
          "raum": "Tu1",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Sp",
+         "klasse": "8A",
+         "raum": "Tu2",
+         "info": "für En Hofm",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Sp",
+         "klasse": "8A",
+         "raum": "Tu2",
+         "info": "für En Hofm",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -17958,7 +17974,7 @@
          "fach": "BO",
          "klasse": "10B",
          "raum": "Aula",
-         "info": "",
+         "info": "für BO Her, BP",
          "geaendert": false
         },
         {
@@ -18019,14 +18035,6 @@
          "geaendert": true
         },
         {
-         "stunde": "1",
-         "fach": "En",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "En 8B statt Mi (25.11.) St.1; ILZ 8B gehalten am Mi (25.11.) St.1 (Pel)",
-         "geaendert": true
-        },
-        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
@@ -18035,44 +18043,36 @@
          "geaendert": true
         },
         {
-         "stunde": "2",
-         "fach": "En",
-         "klasse": "8B",
-         "raum": "008",
-         "info": "En 8B statt Mi (25.11.) St.2; ILZ 8B gehalten am Mi (25.11.) St.2 (Pel)",
+         "stunde": "3",
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
          "geaendert": true
         },
         {
-         "stunde": "3",
-         "fach": "en2",
-         "klasse": "12A-12D",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
-        },
-        {
          "stunde": "4",
-         "fach": "en2",
-         "klasse": "12A-12D",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8A Bod (für En)",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "8A",
-         "raum": "001",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Sp 8A Bod (für En)",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -18080,7 +18080,7 @@
          "vor_stunde": "5",
          "uhrzeit": "11:10",
          "ort": "Haus, WCs, Caféteria",
-         "info": ""
+         "info": "entfällt, V: Hun"
         }
        ]
       },
@@ -18292,7 +18292,14 @@
          "geaendert": false
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "5",
+         "uhrzeit": "11:10",
+         "ort": "Haus, WCs, Caféteria",
+         "info": "für Hofm"
+        }
+       ]
       },
       "Isb": {
        "entries": [
@@ -18463,17 +18470,17 @@
          "stunde": "1",
          "fach": "Lat",
          "klasse": "7D",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für Lat Köh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "2",
          "fach": "Lat",
          "klasse": "7D",
-         "raum": "207",
-         "info": "",
-         "geaendert": false
+         "raum": "008",
+         "info": "für Lat Köh, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "3",
@@ -19072,6 +19079,22 @@
       },
       "Schud": {
        "entries": [
+        {
+         "stunde": "1",
+         "fach": "Ku",
+         "klasse": "8B",
+         "raum": "207",
+         "info": "statt Mi (25.11.) St.1 (En Hofm)",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ku",
+         "klasse": "8B",
+         "raum": "207",
+         "info": "statt Mi (25.11.) St.2 (En Hofm)",
+         "geaendert": true
+        },
         {
          "stunde": "5",
          "fach": "ku3",
