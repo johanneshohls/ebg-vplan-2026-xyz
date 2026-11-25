@@ -1,37 +1,5 @@
 [
  {
-  "timestamp": "2026-11-18T13:20:21.439607",
-  "lehrer": "*",
-  "datum": "Freitag, 27. November 2026",
-  "date_key": "20261127",
-  "changes": [
-   "Hinweis: 4. Block: zentraler Nachschreibetermin, Aula"
-  ],
-  "zeitstempel": "18.11.2026, 14:17"
- },
- {
-  "timestamp": "2026-11-18T13:20:21.439607",
-  "lehrer": "Köh",
-  "datum": "Freitag, 27. November 2026",
-  "date_key": "20261127",
-  "changes": [
-   "Std 7 (13:40): zentraler Nachreibeterrmin",
-   "Std 8 (14:25): zentraler Nachreibeterrmin"
-  ],
-  "zeitstempel": "18.11.2026, 14:17"
- },
- {
-  "timestamp": "2026-11-18T13:20:21.439607",
-  "lehrer": "Pri",
-  "datum": "Freitag, 27. November 2026",
-  "date_key": "20261127",
-  "changes": [
-   "Std 7 (13:40): zentraler Nachreibeterrmin",
-   "Std 8 (14:25): zentraler Nachreibeterrmin"
-  ],
-  "zeitstempel": "18.11.2026, 14:17"
- },
- {
   "timestamp": "2026-11-19T04:00:14.709235",
   "lehrer": "Gor",
   "datum": "Donnerstag, 19. November 2026",
