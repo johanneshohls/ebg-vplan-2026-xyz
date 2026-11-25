@@ -1,16 +1,5 @@
 [
  {
-  "timestamp": "2026-11-18T06:30:11.005489",
-  "lehrer": "Jur",
-  "datum": "Freitag, 20. November 2026",
-  "date_key": "20261120",
-  "changes": [
-   "Std 3 (09:40): Nachschreibetermin",
-   "Std 4 (10:25): Nachschreibetermin"
-  ],
-  "zeitstempel": "18.11.2026, 07:27"
- },
- {
   "timestamp": "2026-11-18T13:20:21.439607",
   "lehrer": "*",
   "datum": "Freitag, 27. November 2026",
