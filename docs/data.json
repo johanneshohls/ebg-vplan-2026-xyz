@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "26.11.2026, 10:20 Uhr",
- "last_changed": "2026-11-26T07:16:00",
+ "generiert": "26.11.2026, 10:25 Uhr",
+ "last_changed": "2026-11-26T11:20:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -19459,7 +19459,7 @@
     },
     "20261127": {
      "datum": "Freitag, 27. November 2026",
-     "zeitstempel": "25.11.2026, 16:17",
+     "zeitstempel": "26.11.2026, 11:20",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, Aula"
      ],
@@ -20048,7 +20048,14 @@
          "geaendert": true
         }
        ],
-       "aufsichten": []
+       "aufsichten": [
+        {
+         "vor_stunde": "3",
+         "uhrzeit": "09:10",
+         "ort": "Hof, WCs, Grünes Klassenzimmer",
+         "info": "für Kno"
+        }
+       ]
       },
       "Hei": {
        "entries": [
@@ -20522,51 +20529,51 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "w2",
-         "klasse": "12A-12D",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "W 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "w2",
-         "klasse": "12A-12D",
-         "raum": "Co3",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "W 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "AWT",
-         "klasse": "7C",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 7C Lan, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "AWT",
-         "klasse": "7C",
-         "raum": "103",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "AWT 7C Lan, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "ch1",
-         "klasse": "12A-12D",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "ch1",
-         "klasse": "12A-12D",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ch 12A-12D selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -20574,7 +20581,7 @@
          "vor_stunde": "3",
          "uhrzeit": "09:10",
          "ort": "Hof, WCs, Grünes Klassenzimmer",
-         "info": ""
+         "info": "entfällt, V: Gor"
         }
        ]
       },
@@ -20655,6 +20662,22 @@
          "raum": "106",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "AWT",
+         "klasse": "7C",
+         "raum": "103",
+         "info": "für AWT Kno, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "AWT",
+         "klasse": "7C",
+         "raum": "103",
+         "info": "für AWT Kno, s. IServ: Aufgaben durch FL erteilt",
+         "geaendert": true
         }
        ],
        "aufsichten": []
