@@ -1,18 +1,5 @@
 [
  {
-  "timestamp": "2026-11-19T04:00:14.709235",
-  "lehrer": "Gor",
-  "datum": "Donnerstag, 19. November 2026",
-  "date_key": "20261119",
-  "changes": [
-   "Std 3 (09:40): für Ge Gor, Klausur",
-   "Std 4 (10:25): für Ge Gor, Klausur",
-   "Std 5 (11:40): für Ge Isb",
-   "Std 6 (12:25): für Ge Isb"
-  ],
-  "zeitstempel": "19.11.2026, 04:29"
- },
- {
   "timestamp": "2026-11-19T05:05:10.490992",
   "lehrer": "Bom",
   "datum": "Donnerstag, 19. November 2026",
