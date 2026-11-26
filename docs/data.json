@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "26.11.2026, 06:15 Uhr",
- "last_changed": "2026-11-25T16:19:00",
+ "generiert": "26.11.2026, 06:20 Uhr",
+ "last_changed": "2026-11-26T07:16:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21462,7 +21462,7 @@
    "tage": {
     "20261130": {
      "datum": "Montag, 30. November 2026",
-     "zeitstempel": "25.11.2026, 16:19",
+     "zeitstempel": "26.11.2026, 07:16",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -21695,7 +21695,7 @@
          "fach": "---",
          "klasse": "",
          "raum": "",
-         "info": "SpJu 7C,7D Käc",
+         "info": "SpJu 7C,7D Stu",
          "geaendert": true
         },
         {
@@ -21703,7 +21703,7 @@
          "fach": "Sp",
          "klasse": "",
          "raum": "",
-         "info": "Auswertung Hospitation; Vorraum der Sporthalle; SpJu 7C,7D Käc",
+         "info": "Auswertung Hospitation; Vorraum der Sporthalle; SpJu 7C,7D Stu",
          "geaendert": true
         }
        ],
@@ -22432,14 +22432,6 @@
          "klasse": "",
          "raum": "310",
          "info": "Auswertung: Hospitation mit Herrn Pohla; Ph 7C Sto, Aufgaben liegen vor.",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "SpJu",
-         "klasse": "7C,7D",
-         "raum": "Tu1",
-         "info": "für SpJu Bod",
          "geaendert": true
         }
        ],
@@ -23369,6 +23361,14 @@
          "raum": "005",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "8",
+         "fach": "SpJu",
+         "klasse": "7C,7D",
+         "raum": "Tu1",
+         "info": "für SpJu Bod",
+         "geaendert": true
         }
        ],
        "aufsichten": []

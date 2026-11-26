@@ -1443,5 +1443,40 @@
    "Std 2 (08:25): für De Jur"
   ],
   "zeitstempel": "25.11.2026, 16:19"
+ },
+ {
+  "timestamp": "2026-11-26T06:20:10.639574",
+  "lehrer": "Bod",
+  "datum": "Montag, 30. November 2026",
+  "date_key": "20261130",
+  "changes": [
+   "Std 7 (13:40): SpJu 7C,7D Zec, Hospitation: Herr Pohla",
+   "Std 7 (13:40): Hospitation: Sp 7c,d; SpJu 7C,7D Zec, Hospitation: Herr Pohla",
+   "Std 8 (14:25): SpJu 7C,7D Stu",
+   "Std 8 (14:25): Auswertung Hospitation; Vorraum der Sporthalle; SpJu 7C,7D Stu"
+  ],
+  "zeitstempel": "26.11.2026, 07:16"
+ },
+ {
+  "timestamp": "2026-11-26T06:20:10.639574",
+  "lehrer": "Käc",
+  "datum": "Montag, 30. November 2026",
+  "date_key": "20261130",
+  "changes": [
+   "Std 5 (11:40): für Ph Hun, Hospitation: Herr Pohla",
+   "Std 6 (12:25): Ph 7C Sto, Aufgaben liegen vor.",
+   "Std 6 (12:25): Auswertung: Hospitation mit Herrn Pohla; Ph 7C Sto, Aufgaben liegen vor."
+  ],
+  "zeitstempel": "26.11.2026, 07:16"
+ },
+ {
+  "timestamp": "2026-11-26T06:20:10.639574",
+  "lehrer": "Stu",
+  "datum": "Montag, 30. November 2026",
+  "date_key": "20261130",
+  "changes": [
+   "Std 8 (14:25): für SpJu Bod"
+  ],
+  "zeitstempel": "26.11.2026, 07:16"
  }
 ]
