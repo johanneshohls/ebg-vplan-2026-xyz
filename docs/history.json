@@ -1641,5 +1641,53 @@
    "Std 6 (12:25): Hausunterricht"
   ],
   "zeitstempel": "27.11.2026, 13:48"
+ },
+ {
+  "timestamp": "2026-11-27T13:00:10.106470",
+  "lehrer": "*",
+  "datum": "Mittwoch, 02. Dezember 2026",
+  "date_key": "20261202",
+  "changes": [
+   "Hinweis: Das Sekretariat ist heute nicht besetzt.",
+   "Hinweis: Verkauf der Weihnachtskarten erfolgt bei Frau Carrie (Cafeteria).",
+   "Hinweis: 4. Block: Chorprobe in der Aula für MUE 11+12, Club 8"
+  ],
+  "zeitstempel": "27.11.2026, 13:55"
+ },
+ {
+  "timestamp": "2026-11-27T13:00:10.106470",
+  "lehrer": "Bir",
+  "datum": "Mittwoch, 02. Dezember 2026",
+  "date_key": "20261202",
+  "changes": [
+   "Std 7 (13:40): GS03 7A-7D,8A-8E fällt aus",
+   "Std 7 (13:40): Chorprobe in der Aula (MUE 11, MUE 12, Club 8); GS03 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS03 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): Chorprobe in der Aula (MUE 11, MUE 12, Club 8); GS03 7A-7D,8A-8E fällt aus",
+   "Std 9 (15:40): für MUE Bir, Raumänderung",
+   "Std 10 (16:25): für MUE Bir, Raumänderung"
+  ],
+  "zeitstempel": "27.11.2026, 13:55"
+ },
+ {
+  "timestamp": "2026-11-27T13:00:10.106470",
+  "lehrer": "*",
+  "datum": "Donnerstag, 03. Dezember 2026",
+  "date_key": "20261203",
+  "changes": [
+   "Hinweis: 2. Block: Chorprobe in der Aula für MUE 11+12, Club 8",
+   "Hinweis: 3. Block: Chorprobe in der Palmberghalle für MUE 11+12, Club 8"
+  ],
+  "zeitstempel": "27.11.2026, 13:55"
+ },
+ {
+  "timestamp": "2026-11-27T13:00:10.106470",
+  "lehrer": "*",
+  "datum": "Freitag, 04. Dezember 2026",
+  "date_key": "20261204",
+  "changes": [
+   "Hinweis: 3. Block: Chorprobe in der Pamberghalle für MUE 11+12, Club 8"
+  ],
+  "zeitstempel": "27.11.2026, 13:55"
  }
 ]

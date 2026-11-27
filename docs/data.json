@@ -1,6 +1,6 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "27.11.2026, 12:55 Uhr",
+ "generiert": "27.11.2026, 13:00 Uhr",
  "last_changed": "2026-11-27T13:55:00",
  "lehrer": [
   "Bar",
@@ -23683,7 +23683,7 @@
     },
     "20261201": {
      "datum": "Dienstag, 01. Dezember 2026",
-     "zeitstempel": "27.11.2026, 13:48",
+     "zeitstempel": "27.11.2026, 13:55",
      "tagesinfo": [
       "Das Sekretariat ist heute nicht besetzt.",
       "Verkauf der Weihnachtskarten erfolgt bei Frau Carrie (Cafeteria)."
@@ -25740,10 +25740,11 @@
     },
     "20261202": {
      "datum": "Mittwoch, 02. Dezember 2026",
-     "zeitstempel": "27.11.2026, 13:48",
+     "zeitstempel": "27.11.2026, 13:55",
      "tagesinfo": [
       "Das Sekretariat ist heute nicht besetzt.",
-      "Verkauf der Weihnachtskarten erfolgt bei Frau Carrie (Cafeteria)."
+      "Verkauf der Weihnachtskarten erfolgt bei Frau Carrie (Cafeteria).",
+      "4. Block: Chorprobe in der Aula für MUE 11+12, Club 8"
      ],
      "lehrer": {
       "Bar": {
@@ -25847,19 +25848,35 @@
         },
         {
          "stunde": "7",
-         "fach": "GS03",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS03 7A-7D,8A-8E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "7",
+         "fach": "Mu",
+         "klasse": "",
+         "raum": "",
+         "info": "Chorprobe in der Aula (MUE 11, MUE 12, Club 8); GS03 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS03",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "107",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS03 7A-7D,8A-8E fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "8",
+         "fach": "Mu",
+         "klasse": "",
+         "raum": "",
+         "info": "Chorprobe in der Aula (MUE 11, MUE 12, Club 8); GS03 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "9",
@@ -27707,8 +27724,11 @@
     },
     "20261203": {
      "datum": "Donnerstag, 03. Dezember 2026",
-     "zeitstempel": "27.11.2026, 13:48",
-     "tagesinfo": [],
+     "zeitstempel": "27.11.2026, 13:55",
+     "tagesinfo": [
+      "2. Block: Chorprobe in der Aula für MUE 11+12, Club 8",
+      "3. Block: Chorprobe in der Palmberghalle für MUE 11+12, Club 8"
+     ],
      "lehrer": {
       "Bar": {
        "entries": [],
@@ -29759,8 +29779,10 @@
     },
     "20261204": {
      "datum": "Freitag, 04. Dezember 2026",
-     "zeitstempel": "27.11.2026, 13:48",
-     "tagesinfo": [],
+     "zeitstempel": "27.11.2026, 13:55",
+     "tagesinfo": [
+      "3. Block: Chorprobe in der Pamberghalle für MUE 11+12, Club 8"
+     ],
      "lehrer": {
       "Bar": {
        "entries": [
