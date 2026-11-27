@@ -1423,5 +1423,92 @@
    "Std 6 (12:25): für AWT Kno, s. IServ: Aufgaben durch FL erteilt"
   ],
   "zeitstempel": "26.11.2026, 11:20"
+ },
+ {
+  "timestamp": "2026-11-27T04:25:10.324971",
+  "lehrer": "Bar",
+  "datum": "Freitag, 27. November 2026",
+  "date_key": "20261127",
+  "changes": [
+   "Std 5 (11:40): für En Mar",
+   "Std 6 (12:25): für En Mar"
+  ],
+  "zeitstempel": "27.11.2026, 05:23"
+ },
+ {
+  "timestamp": "2026-11-27T04:25:10.324971",
+  "lehrer": "Her",
+  "datum": "Freitag, 27. November 2026",
+  "date_key": "20261127",
+  "changes": [
+   "Std 3 (09:40): für BO Her, Uni HRO"
+  ],
+  "zeitstempel": "27.11.2026, 05:23"
+ },
+ {
+  "timestamp": "2026-11-27T04:25:10.324971",
+  "lehrer": "Hol",
+  "datum": "Freitag, 27. November 2026",
+  "date_key": "20261127",
+  "changes": [
+   "Std 1 (07:40): für En Hol, Klausur; Aula",
+   "Std 2 (08:25): für En Hol, Klausur; Aula",
+   "Std 3 (09:40): für En Mar",
+   "Std 4 (10:25): für En Mar"
+  ],
+  "zeitstempel": "27.11.2026, 05:23"
+ },
+ {
+  "timestamp": "2026-11-27T04:25:10.324971",
+  "lehrer": "Kar",
+  "datum": "Freitag, 27. November 2026",
+  "date_key": "20261127",
+  "changes": [
+   "Std 1 (07:40): B VK fällt aus",
+   "Std 1 (07:40): für Ma Mar",
+   "Std 2 (08:25): B VK fällt aus",
+   "Std 2 (08:25): für Ma Mar",
+   "Std 5 (11:40): Mu 10C gehalten am Di (24.11.) St.3",
+   "Std 6 (12:25): Mu 10C gehalten am Di (24.11.) St.4"
+  ],
+  "zeitstempel": "27.11.2026, 05:23"
+ },
+ {
+  "timestamp": "2026-11-27T04:25:10.324971",
+  "lehrer": "Köh",
+  "datum": "Freitag, 27. November 2026",
+  "date_key": "20261127",
+  "changes": [
+   "Planänderung (Details nicht spezifiziert)"
+  ],
+  "zeitstempel": "27.11.2026, 05:23"
+ },
+ {
+  "timestamp": "2026-11-27T04:25:10.324971",
+  "lehrer": "Mar",
+  "datum": "Freitag, 27. November 2026",
+  "date_key": "20261127",
+  "changes": [
+   "Std 1 (07:40): Ma 7B Kar",
+   "Std 2 (08:25): Ma 7B Kar",
+   "Std 3 (09:40): En 8E Hol",
+   "Std 4 (10:25): En 8E Hol",
+   "Std 5 (11:40): En 8C Bar",
+   "Std 6 (12:25): En 8C Bar",
+   "Std 7 (13:40): GS04 7A-7D,8A-8E fällt aus",
+   "Std 8 (14:25): GS04 7A-7D,8A-8E fällt aus"
+  ],
+  "zeitstempel": "27.11.2026, 05:23"
+ },
+ {
+  "timestamp": "2026-11-27T04:25:10.324971",
+  "lehrer": "Ost",
+  "datum": "Freitag, 27. November 2026",
+  "date_key": "20261127",
+  "changes": [
+   "Std 3 (09:40): für De Ost, Raumänderung",
+   "Std 4 (10:25): für De Ost, Raumänderung"
+  ],
+  "zeitstempel": "27.11.2026, 05:23"
  }
 ]

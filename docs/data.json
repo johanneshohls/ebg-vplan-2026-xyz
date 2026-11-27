@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "27.11.2026, 04:20 Uhr",
- "last_changed": "2026-11-26T11:20:00",
+ "generiert": "27.11.2026, 04:25 Uhr",
+ "last_changed": "2026-11-27T05:23:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -19459,13 +19459,29 @@
     },
     "20261127": {
      "datum": "Freitag, 27. November 2026",
-     "zeitstempel": "26.11.2026, 11:20",
+     "zeitstempel": "27.11.2026, 05:23",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, Aula"
      ],
      "lehrer": {
       "Bar": {
        "entries": [
+        {
+         "stunde": "5",
+         "fach": "En",
+         "klasse": "8C",
+         "raum": "005",
+         "info": "für En Mar",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "En",
+         "klasse": "8C",
+         "raum": "005",
+         "info": "für En Mar",
+         "geaendert": true
+        },
         {
          "stunde": "7",
          "fach": "inf1",
@@ -20115,9 +20131,9 @@
         {
          "stunde": "3",
          "fach": "bo3",
-         "klasse": "11D,11A-11C,11E",
+         "klasse": "11A-11E",
          "raum": "104",
-         "info": "",
+         "info": "für BO Her, Uni HRO",
          "geaendert": false
         },
         {
@@ -20215,6 +20231,22 @@
          "klasse": "11A-11E",
          "raum": "",
          "info": "für En Hol, Klausur; Aula",
+         "geaendert": true
+        },
+        {
+         "stunde": "3",
+         "fach": "En",
+         "klasse": "8E",
+         "raum": "006",
+         "info": "für En Mar",
+         "geaendert": true
+        },
+        {
+         "stunde": "4",
+         "fach": "En",
+         "klasse": "8E",
+         "raum": "006",
+         "info": "für En Mar",
          "geaendert": true
         },
         {
@@ -20483,11 +20515,27 @@
          "geaendert": true
         },
         {
+         "stunde": "1",
+         "fach": "Ma",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Ma Mar",
+         "geaendert": true
+        },
+        {
          "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
          "info": "B VK fällt aus",
+         "geaendert": true
+        },
+        {
+         "stunde": "2",
+         "fach": "Ma",
+         "klasse": "7B",
+         "raum": "003",
+         "info": "für Ma Mar",
          "geaendert": true
         },
         {
@@ -20602,22 +20650,6 @@
          "raum": "008",
          "info": "",
          "geaendert": false
-        },
-        {
-         "stunde": "7",
-         "fach": "Lat",
-         "klasse": "",
-         "raum": "Aula",
-         "info": "zentraler Nachreibeterrmin",
-         "geaendert": true
-        },
-        {
-         "stunde": "8",
-         "fach": "Lat",
-         "klasse": "",
-         "raum": "Aula",
-         "info": "zentraler Nachreibeterrmin",
-         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -20751,67 +20783,67 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "Ma",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7B Kar",
+         "geaendert": true
         },
         {
          "stunde": "2",
-         "fach": "Ma",
-         "klasse": "7B",
-         "raum": "003",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "Ma 7B Kar",
+         "geaendert": true
         },
         {
          "stunde": "3",
-         "fach": "En",
-         "klasse": "8E",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8E Hol",
+         "geaendert": true
         },
         {
          "stunde": "4",
-         "fach": "En",
-         "klasse": "8E",
-         "raum": "006",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8E Hol",
+         "geaendert": true
         },
         {
          "stunde": "5",
-         "fach": "En",
-         "klasse": "8C",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8C Bar",
+         "geaendert": true
         },
         {
          "stunde": "6",
-         "fach": "En",
-         "klasse": "8C",
-         "raum": "005",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "En 8C Bar",
+         "geaendert": true
         },
         {
          "stunde": "7",
-         "fach": "GS04",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS04 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         },
         {
          "stunde": "8",
-         "fach": "GS04",
-         "klasse": "7A-7D,8A-8E",
-         "raum": "002",
-         "info": "",
-         "geaendert": false
+         "fach": "---",
+         "klasse": "",
+         "raum": "",
+         "info": "GS04 7A-7D,8A-8E fällt aus",
+         "geaendert": true
         }
        ],
        "aufsichten": []
@@ -20938,18 +20970,18 @@
         {
          "stunde": "3",
          "fach": "de1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "007",
+         "info": "für De Ost, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "de1",
-         "klasse": "11D,11A-11C,11E",
-         "raum": "101",
-         "info": "",
-         "geaendert": false
+         "klasse": "11A-11E",
+         "raum": "007",
+         "info": "für De Ost, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "5",
