@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "27.11.2026, 06:40 Uhr",
- "last_changed": "2026-11-27T05:23:00",
+ "generiert": "27.11.2026, 06:45 Uhr",
+ "last_changed": "2026-11-27T07:40:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -19459,7 +19459,7 @@
     },
     "20261127": {
      "datum": "Freitag, 27. November 2026",
-     "zeitstempel": "27.11.2026, 05:23",
+     "zeitstempel": "27.11.2026, 07:40",
      "tagesinfo": [
       "4. Block: zentraler Nachschreibetermin, Aula"
      ],
@@ -21203,17 +21203,17 @@
          "stunde": "1",
          "fach": "ku1",
          "klasse": "11A-11E",
-         "raum": "",
+         "raum": "207",
          "info": "für Ku Schud, Klausur",
-         "geaendert": true
+         "geaendert": false
         },
         {
          "stunde": "2",
          "fach": "ku1",
          "klasse": "11A-11E",
-         "raum": "",
+         "raum": "207",
          "info": "für Ku Schud, Klausur",
-         "geaendert": true
+         "geaendert": false
         },
         {
          "stunde": "5",

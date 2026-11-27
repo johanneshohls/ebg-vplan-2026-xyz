@@ -1510,5 +1510,16 @@
    "Std 4 (10:25): für De Ost, Raumänderung"
   ],
   "zeitstempel": "27.11.2026, 05:23"
+ },
+ {
+  "timestamp": "2026-11-27T06:45:12.659068",
+  "lehrer": "Schud",
+  "datum": "Freitag, 27. November 2026",
+  "date_key": "20261127",
+  "changes": [
+   "Std 1 (07:40): für Ku Schud, Klausur",
+   "Std 2 (08:25): für Ku Schud, Klausur"
+  ],
+  "zeitstempel": "27.11.2026, 07:40"
  }
 ]
