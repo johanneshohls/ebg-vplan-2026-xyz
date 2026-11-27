@@ -1,7 +1,7 @@
 {
  "schule": "Ernst-Barlach-Gymnasium",
- "generiert": "27.11.2026, 12:45 Uhr",
- "last_changed": "2026-11-27T08:53:00",
+ "generiert": "27.11.2026, 12:50 Uhr",
+ "last_changed": "2026-11-27T13:48:00",
  "lehrer": [
   "Bar",
   "Bes",
@@ -21517,7 +21517,7 @@
    "tage": {
     "20261130": {
      "datum": "Montag, 30. November 2026",
-     "zeitstempel": "26.11.2026, 07:16",
+     "zeitstempel": "27.11.2026, 13:48",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -23683,8 +23683,11 @@
     },
     "20261201": {
      "datum": "Dienstag, 01. Dezember 2026",
-     "zeitstempel": "25.11.2026, 16:19",
-     "tagesinfo": [],
+     "zeitstempel": "27.11.2026, 13:48",
+     "tagesinfo": [
+      "Das Sekretariat ist heute nicht besetzt.",
+      "Verkauf der Weihnachtskarten erfolgt bei Frau Carrie (Cafeteria)."
+     ],
      "lehrer": {
       "Bar": {
        "entries": [
@@ -24485,17 +24488,17 @@
          "stunde": "3",
          "fach": "DE1",
          "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "201",
+         "info": "für De Hön, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "DE1",
          "klasse": "12A-12D",
-         "raum": "Aula",
-         "info": "",
-         "geaendert": false
+         "raum": "201",
+         "info": "für De Hön, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -24605,22 +24608,6 @@
        "entries": [
         {
          "stunde": "1",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "De 9C Zec",
-         "geaendert": true
-        },
-        {
-         "stunde": "1",
-         "fach": "---",
-         "klasse": "",
-         "raum": "",
-         "info": "De 9C Zec",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
          "fach": "---",
          "klasse": "",
          "raum": "",
@@ -25161,17 +25148,17 @@
          "stunde": "3",
          "fach": "Bio",
          "klasse": "9A",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "raum": "K12",
+         "info": "für Bio Pel, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "4",
          "fach": "Bio",
          "klasse": "9A",
-         "raum": "201",
-         "info": "",
-         "geaendert": false
+         "raum": "K12",
+         "info": "für Bio Pel, Raumänderung",
+         "geaendert": true
         },
         {
          "stunde": "5",
@@ -25732,22 +25719,6 @@
          "geaendert": true
         },
         {
-         "stunde": "1",
-         "fach": "De",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "für De Jur",
-         "geaendert": true
-        },
-        {
-         "stunde": "2",
-         "fach": "De",
-         "klasse": "9C",
-         "raum": "004",
-         "info": "für De Jur",
-         "geaendert": true
-        },
-        {
          "stunde": "2",
          "fach": "De",
          "klasse": "9C",
@@ -25769,8 +25740,11 @@
     },
     "20261202": {
      "datum": "Mittwoch, 02. Dezember 2026",
-     "zeitstempel": "25.11.2026, 16:19",
-     "tagesinfo": [],
+     "zeitstempel": "27.11.2026, 13:48",
+     "tagesinfo": [
+      "Das Sekretariat ist heute nicht besetzt.",
+      "Verkauf der Weihnachtskarten erfolgt bei Frau Carrie (Cafeteria)."
+     ],
      "lehrer": {
       "Bar": {
        "entries": [
@@ -25984,9 +25958,9 @@
         {
          "stunde": "7",
          "fach": "sp1",
-         "klasse": "11D,11A-11C,11E",
+         "klasse": "11A-11E",
          "raum": "Tu1",
-         "info": "",
+         "info": "für Sp Bod, Einräumen der Sporthalle",
          "geaendert": false
         },
         {
@@ -27733,7 +27707,7 @@
     },
     "20261203": {
      "datum": "Donnerstag, 03. Dezember 2026",
-     "zeitstempel": "25.11.2026, 16:19",
+     "zeitstempel": "27.11.2026, 13:48",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {
@@ -29266,6 +29240,22 @@
          "raum": "004",
          "info": "",
          "geaendert": false
+        },
+        {
+         "stunde": "5",
+         "fach": "Span",
+         "klasse": "",
+         "raum": "",
+         "info": "Hausunterricht",
+         "geaendert": true
+        },
+        {
+         "stunde": "6",
+         "fach": "Span",
+         "klasse": "",
+         "raum": "",
+         "info": "Hausunterricht",
+         "geaendert": true
         }
        ],
        "aufsichten": [
@@ -29769,7 +29759,7 @@
     },
     "20261204": {
      "datum": "Freitag, 04. Dezember 2026",
-     "zeitstempel": "27.11.2026, 08:53",
+     "zeitstempel": "27.11.2026, 13:48",
      "tagesinfo": [],
      "lehrer": {
       "Bar": {

@@ -1552,5 +1552,94 @@
    "Std 8 (14:25): Bio 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt; kann zu Hause erledigt werden"
   ],
   "zeitstempel": "27.11.2026, 08:53"
+ },
+ {
+  "timestamp": "2026-11-27T12:50:11.642268",
+  "lehrer": "*",
+  "datum": "Dienstag, 01. Dezember 2026",
+  "date_key": "20261201",
+  "changes": [
+   "Hinweis: Das Sekretariat ist heute nicht besetzt.",
+   "Hinweis: Verkauf der Weihnachtskarten erfolgt bei Frau Carrie (Cafeteria)."
+  ],
+  "zeitstempel": "27.11.2026, 13:48"
+ },
+ {
+  "timestamp": "2026-11-27T12:50:11.642268",
+  "lehrer": "Hön",
+  "datum": "Dienstag, 01. Dezember 2026",
+  "date_key": "20261201",
+  "changes": [
+   "Std 3 (09:40): für De Hön, Raumänderung",
+   "Std 4 (10:25): für De Hön, Raumänderung"
+  ],
+  "zeitstempel": "27.11.2026, 13:48"
+ },
+ {
+  "timestamp": "2026-11-27T12:50:11.642268",
+  "lehrer": "Jur",
+  "datum": "Dienstag, 01. Dezember 2026",
+  "date_key": "20261201",
+  "changes": [
+   "Std 1 (07:40): De 9C Zec",
+   "Std 2 (08:25): De 9C Zec",
+   "Std 3 (09:40): De 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt",
+   "Std 4 (10:25): De 11D,11A-11C,11E selbst. (v), s. IServ: Aufgaben durch FL erteilt"
+  ],
+  "zeitstempel": "27.11.2026, 13:48"
+ },
+ {
+  "timestamp": "2026-11-27T12:50:11.642268",
+  "lehrer": "Pel",
+  "datum": "Dienstag, 01. Dezember 2026",
+  "date_key": "20261201",
+  "changes": [
+   "Std 3 (09:40): für Bio Pel, Raumänderung",
+   "Std 4 (10:25): für Bio Pel, Raumänderung"
+  ],
+  "zeitstempel": "27.11.2026, 13:48"
+ },
+ {
+  "timestamp": "2026-11-27T12:50:11.642268",
+  "lehrer": "Zec",
+  "datum": "Dienstag, 01. Dezember 2026",
+  "date_key": "20261201",
+  "changes": [
+   "Std 1 (07:40): für De Jur",
+   "Std 2 (08:25): für De Jur"
+  ],
+  "zeitstempel": "27.11.2026, 13:48"
+ },
+ {
+  "timestamp": "2026-11-27T12:50:11.642268",
+  "lehrer": "*",
+  "datum": "Mittwoch, 02. Dezember 2026",
+  "date_key": "20261202",
+  "changes": [
+   "Hinweis: Das Sekretariat ist heute nicht besetzt.",
+   "Hinweis: Verkauf der Weihnachtskarten erfolgt bei Frau Carrie (Cafeteria)."
+  ],
+  "zeitstempel": "27.11.2026, 13:48"
+ },
+ {
+  "timestamp": "2026-11-27T12:50:11.642268",
+  "lehrer": "Bod",
+  "datum": "Mittwoch, 02. Dezember 2026",
+  "date_key": "20261202",
+  "changes": [
+   "Std 7 (13:40): für Sp Bod, Einräumen der Sporthalle"
+  ],
+  "zeitstempel": "27.11.2026, 13:48"
+ },
+ {
+  "timestamp": "2026-11-27T12:50:11.642268",
+  "lehrer": "Puk",
+  "datum": "Donnerstag, 03. Dezember 2026",
+  "date_key": "20261203",
+  "changes": [
+   "Std 5 (11:40): Hausunterricht",
+   "Std 6 (12:25): Hausunterricht"
+  ],
+  "zeitstempel": "27.11.2026, 13:48"
  }
 ]
